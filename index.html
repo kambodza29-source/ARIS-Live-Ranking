@@ -5,7 +5,32 @@
 <title>A.R.I.S. Hall of Fame – Live Ranking</title>
 <style>
 :root{--bg:#080a0d;--panel:#101318;--line:#2a2f37;--red:#d5222a;--gold:#f0bd45;--text:#f2f2f2;--muted:#969da7}
-*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 50% -10%,#301014 0,#0c0e12 38%,#060708 100%);color:var(--text);font-family:Arial,sans-serif;min-height:100vh}.wrap{max-width:980px;margin:auto;padding:24px 14px 50px}.hero{text-align:center;padding:24px 10px 16px}.hero h1{font-size:clamp(32px,7vw,64px);letter-spacing:4px;margin:0;text-shadow:0 0 22px #b0181e}.hero h1 b{color:var(--red)}.sub{color:var(--muted);letter-spacing:3px;margin-top:7px}.meta{margin-top:12px;color:#c9cdd2;font-size:14px}.tabs{display:flex;gap:8px;overflow-x:auto;padding:8px 0 14px;position:sticky;top:0;background:#080a0de8;backdrop-filter:blur(8px);z-index:5}.tab{border:1px solid #353b45;background:#11151b;color:#d9dde2;padding:11px 14px;border-radius:7px;font-weight:800;white-space:nowrap;cursor:pointer}.tab.active{border-color:var(--red);background:#2a1013;color:#fff;box-shadow:0 0 14px #a7192044}.tools{display:flex;gap:10px;margin:4px 0 12px}.search{width:100%;background:#0d1015;border:1px solid #303640;border-radius:7px;color:#fff;padding:13px 15px;font-size:16px;outline:none}.search:focus{border-color:var(--red)}.card{background:linear-gradient(180deg,#13171d,#0d1014);border:1px solid #292f37;border-top:3px solid var(--red);border-radius:10px;overflow:hidden;box-shadow:0 15px 40px #0008}.head,.row{display:grid;grid-template-columns:70px minmax(130px,1fr) minmax(110px,220px);align-items:center;gap:8px}.head{padding:12px 14px;background:#171b21;color:var(--muted);font-size:12px;font-weight:bold;letter-spacing:1px}.row{padding:14px;border-top:1px solid #22272e;min-height:62px}.row:hover{background:#171b21}.pos{font-size:19px;font-weight:900}.name{font-size:18px;font-weight:800;overflow:hidden;text-overflow:ellipsis}.value{text-align:right;color:var(--gold);font-weight:900;font-size:17px}.detail{font-size:12px;color:var(--muted);margin-top:4px;font-weight:normal}.rank1 .pos,.rank1 .name{color:#ffd35c}.rank2 .pos{color:#d5d9df}.rank3 .pos{color:#c98b55}.empty{text-align:center;color:var(--muted);padding:40px}.foot{text-align:center;color:#656c75;font-size:12px;padding:20px}.live{color:#55d27b;font-weight:bold}.dot{display:inline-block;width:8px;height:8px;background:#55d27b;border-radius:50%;box-shadow:0 0 8px #55d27b;margin-right:6px}@media(max-width:560px){.wrap{padding:10px 8px 35px}.hero{padding-top:18px}.head,.row{grid-template-columns:52px minmax(100px,1fr) minmax(90px,135px)}.row{padding:12px 9px}.name{font-size:16px}.value{font-size:15px}.head{padding:10px 9px}.sub{font-size:11px}.tabs{top:0}}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  color:var(--text);
+  font-family:Arial,sans-serif;
+  min-height:100vh;
+  background:#060708;
+  position:relative;
+}
+body::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  z-index:-2;
+  background:url('background.jpg') center center / cover no-repeat;
+}
+body::after{
+  content:"";
+  position:fixed;
+  inset:0;
+  z-index:-1;
+  background:
+    radial-gradient(circle at 50% 0%,rgba(70,10,14,.22),rgba(4,5,7,.74) 55%,rgba(3,4,5,.88) 100%),
+    linear-gradient(180deg,rgba(0,0,0,.34),rgba(0,0,0,.62));
+}
+.wrap{max-width:980px;margin:auto;padding:24px 14px 50px}.hero{text-align:center;padding:24px 10px 16px}.hero h1{font-size:clamp(32px,7vw,64px);letter-spacing:4px;margin:0;text-shadow:0 0 22px #b0181e}.hero h1 b{color:var(--red)}.sub{color:var(--muted);letter-spacing:3px;margin-top:7px}.meta{margin-top:12px;color:#c9cdd2;font-size:14px}.tabs{display:flex;gap:8px;overflow-x:auto;padding:8px 0 14px;position:sticky;top:0;background:rgba(8,10,13,.84);backdrop-filter:blur(8px);z-index:5}.tab{border:1px solid #353b45;background:#11151b;color:#d9dde2;padding:11px 14px;border-radius:7px;font-weight:800;white-space:nowrap;cursor:pointer}.tab.active{border-color:var(--red);background:#2a1013;color:#fff;box-shadow:0 0 14px #a7192044}.tools{display:flex;gap:10px;margin:4px 0 12px}.search{width:100%;background:#0d1015;border:1px solid #303640;border-radius:7px;color:#fff;padding:13px 15px;font-size:16px;outline:none}.search:focus{border-color:var(--red)}.card{background:linear-gradient(180deg,rgba(19,23,29,.94),rgba(13,16,20,.92));border:1px solid #292f37;border-top:3px solid var(--red);border-radius:10px;overflow:hidden;box-shadow:0 15px 40px #0008}.head,.row{display:grid;grid-template-columns:70px minmax(130px,1fr) minmax(110px,220px);align-items:center;gap:8px}.head{padding:12px 14px;background:#171b21;color:var(--muted);font-size:12px;font-weight:bold;letter-spacing:1px}.row{padding:14px;border-top:1px solid #22272e;min-height:62px}.row:hover{background:#171b21}.pos{font-size:19px;font-weight:900}.name{font-size:18px;font-weight:800;overflow:hidden;text-overflow:ellipsis}.value{text-align:right;color:var(--gold);font-weight:900;font-size:17px}.detail{font-size:12px;color:var(--muted);margin-top:4px;font-weight:normal}.rank1 .pos,.rank1 .name{color:#ffd35c}.rank2 .pos{color:#d5d9df}.rank3 .pos{color:#c98b55}.empty{text-align:center;color:var(--muted);padding:40px}.foot{text-align:center;color:#656c75;font-size:12px;padding:20px}.live{color:#55d27b;font-weight:bold}.dot{display:inline-block;width:8px;height:8px;background:#55d27b;border-radius:50%;box-shadow:0 0 8px #55d27b;margin-right:6px}@media(max-width:560px){.wrap{padding:10px 8px 35px}.hero{padding-top:18px}.head,.row{grid-template-columns:52px minmax(100px,1fr) minmax(90px,135px)}.row{padding:12px 9px}.name{font-size:16px}.value{font-size:15px}.head{padding:10px 9px}.sub{font-size:11px}.tabs{top:0}}
 </style>
 </head>
 <body><main class="wrap"><section class="hero"><h1><b>A.R.I.S.</b> HALL OF FAME</h1><div class="sub">LIVE RANKING • DAYZ EMPIRE APO</div><div class="meta"><span class="dot"></span><span class="live">LIVE</span> &nbsp;•&nbsp; <span id="meta">načítám data…</span></div></section><nav class="tabs" id="tabs"></nav><div class="tools"><input class="search" id="search" placeholder="🔎 Najít hráče…" autocomplete="off"></div><section class="card"><div class="head"><div>POŘADÍ</div><div>HRÁČ</div><div style="text-align:right">VÝKON</div></div><div id="rows"></div></section><div class="foot">A.R.I.S. • SURVIVE / EXPLORE / BE A LEGEND</div></main>
