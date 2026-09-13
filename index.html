@@ -79,6 +79,28 @@ body::after{
   .tab{min-height:50px;font-size:13px}
 }
 
+
+.infoBox{
+  padding:26px 30px;
+  background:linear-gradient(180deg,rgba(18,22,28,.92),rgba(10,13,17,.90));
+  border:1px solid #303845;
+  border-top:3px solid #ef3340;
+  border-radius:12px;
+  line-height:1.6;
+}
+.infoBox h2{margin:0 0 12px;color:#fff;letter-spacing:2px}
+.infoBox p{margin:10px 0;color:#c9cdd3}
+
+/* final desktop positioning: A.R.I.S. STAFF and INFO stacked at the right */
+@media(min-width:1051px){
+  .tabs{
+    grid-template-columns:repeat(5,minmax(120px,1fr)) 1.15fr !important;
+    align-items:stretch;
+  }
+  .tab:nth-last-child(2){grid-column:6;grid-row:1}
+  .tab:nth-last-child(1){grid-column:6;grid-row:2}
+}
+
 </style>
 </head>
 <body><main class="wrap"><section class="hero"><h1><b>A.R.I.S.</b> HALL OF FAME</h1><div class="sub">LIVE RANKING • DAYZ EMPIRE APO</div><div class="meta"><span class="dot"></span><span class="live">LIVE</span> &nbsp;•&nbsp; <span id="meta">načítám data…</span></div></section><nav class="tabs" id="tabs"></nav><div class="tools"><input class="search" id="search" placeholder="🔎 Najít hráče…" autocomplete="off"></div><section class="card"><div class="head"><div>POŘADÍ</div><div>HRÁČ</div><div style="text-align:right">VÝKON</div></div><div id="rows"></div></section><div class="foot">A.R.I.S. • SURVIVE / EXPLORE / BE A LEGEND</div></main>
@@ -94,11 +116,6 @@ const cats={
       if(p.vehicle_trip_straightline_m) parts.push(`${Number(p.vehicle_trip_straightline_m).toLocaleString('cs-CZ',{maximumFractionDigits:1})} m jízdy`);
       return parts.join(' • ');
     }
-  },
-  ai_hunter:{
-    label:'AI HUNTER',
-    fmt:p=>`${p.ai_kills||0} killů`,
-    detail:p=>p.favorite_weapon?`Nejčastěji: ${p.favorite_weapon}`:''
   },
   longest_shot:{
     label:'LONG SHOT',
@@ -125,10 +142,15 @@ const cats={
     fmt:p=>`${p.weapon_master_kills||0} killů`,
     detail:p=>p.favorite_weapon?`Zbraň: ${p.favorite_weapon}`:''
   },
-  ai_kd:{
-    label:'AI K/D',
-    fmt:p=>Number(p.ai_kd_ratio||0).toLocaleString('cs-CZ',{maximumFractionDigits:2}),
-    detail:p=>`${p.ai_kills||0} AI killů • ${p.deaths||0} úmrtí`
+  zombie_kill:{
+    label:'ZOMBIE KILL',
+    fmt:p=>`${p.zombie_kills||0} killů`,
+    detail:p=>'Nejvíce zabitých zombie'
+  },
+  ai_hunter:{
+    label:'AI KILL',
+    fmt:p=>`${p.ai_kills||0} killů`,
+    detail:p=>p.favorite_weapon?`Nejčastěji: ${p.favorite_weapon}`:''
   },
   salesman:{
     label:'SALESMAN',
@@ -151,8 +173,12 @@ const cats={
       if(p.vehicle_trip_straightline_m) parts.push(`${Number(p.vehicle_trip_straightline_m).toLocaleString('cs-CZ',{maximumFractionDigits:1})} m jízdy`);
       return parts.join(' • ');
     }
+  },
+  info:{
+    label:'ℹ️ INFO',
+    info:true
   }
-};
+}
 
 let data=null,active='aris_score';
 const tabs=document.getElementById('tabs'),
@@ -173,6 +199,17 @@ function buildTabs(){
 
 function render(){
   if(!data)return;
+
+  if(active==='info'){
+    rows.innerHTML=`<div class="infoBox">
+      <h2>A.R.I.S. HALL OF FAME</h2>
+      <p>Živé sezónní statistiky serveru DayZEmpireApo. Data se automaticky načítají ze serverových logů a zpracovávají v cloudu.</p>
+      <p>Hráči se porovnávají v jednotlivých kategoriích. A.R.I.S. SCORE je celkové hodnocení podle umístění v hlavních statistikách. A.R.I.S. STAFF je veden odděleně a nepočítá se do hráčských žebříčků.</p>
+      <p>Statistiky se průběžně aktualizují během celé sezóny.</p>
+    </div>`;
+    return;
+  }
+
   let q=search.value.trim().toLocaleLowerCase('cs');
   let list=data[active]||[];
   let html='';
@@ -188,7 +225,15 @@ function render(){
     </div>`;
   });
 
-  rows.innerHTML=html||`<div class="empty">${cats[active].staff?'Žádný člen STAFF není nastaven.':'Žádný hráč v této kategorii.'}</div>`;
+  if(!html){
+    if(active==='zombie_kill'){
+      rows.innerHTML='<div class="empty">ZOMBIE KILL bude aktivní po doplnění sběru zombie killů do A.R.I.S.</div>';
+    }else{
+      rows.innerHTML=`<div class="empty">${cats[active].staff?'Žádný člen STAFF není nastaven.':'Žádný hráč v této kategorii.'}</div>`;
+    }
+  }else{
+    rows.innerHTML=html;
+  }
 }
 
 function esc(s){
