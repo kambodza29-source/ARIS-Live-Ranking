@@ -32,6 +32,53 @@ body::after{
 }
 .wrap{max-width:1180px;margin:auto;padding:24px 14px 50px}.hero{text-align:center;padding:24px 10px 16px}.hero h1{font-size:clamp(32px,7vw,64px);letter-spacing:4px;margin:0;text-shadow:0 0 22px #b0181e}.hero h1 b{color:var(--red)}.sub{color:var(--muted);letter-spacing:3px;margin-top:7px}.meta{margin-top:12px;color:#c9cdd2;font-size:14px}.tabs{display:flex;gap:8px;overflow-x:auto;padding:8px 0 14px;position:sticky;top:0;background:rgba(8,10,13,.72);backdrop-filter:blur(8px);z-index:5}.tab{border:1px solid #353b45;background:#11151b;color:#d9dde2;padding:11px 14px;border-radius:7px;font-weight:800;white-space:nowrap;cursor:pointer}.tab.active{border-color:var(--red);background:#2a1013;color:#fff;box-shadow:0 0 14px #a7192044}.tools{display:flex;gap:10px;margin:4px 0 12px}.search{width:100%;background:#0d1015;border:1px solid #303640;border-radius:7px;color:#fff;padding:13px 15px;font-size:16px;outline:none}.search:focus{border-color:var(--red)}.card{background:linear-gradient(180deg,rgba(19,23,29,.84),rgba(13,16,20,.80));border:1px solid #292f37;border-top:3px solid var(--red);border-radius:10px;overflow:hidden;box-shadow:0 15px 40px #0008}.head,.row{display:grid;grid-template-columns:70px minmax(130px,1fr) minmax(110px,220px);align-items:center;gap:8px}.head{padding:12px 14px;background:#171b21;color:var(--muted);font-size:12px;font-weight:bold;letter-spacing:1px}.row{padding:14px;border-top:1px solid #22272e;min-height:62px}.row:hover{background:#171b21}.pos{font-size:19px;font-weight:900}.name{font-size:18px;font-weight:800;overflow:hidden;text-overflow:ellipsis}.value{text-align:right;color:var(--gold);font-weight:900;font-size:17px}.detail{font-size:12px;color:var(--muted);margin-top:4px;font-weight:normal}.rank1 .pos,.rank1 .name{color:#ffd35c}.rank2 .pos{color:#d5d9df}.rank3 .pos{color:#c98b55}.empty{text-align:center;color:var(--muted);padding:40px}.foot{text-align:center;color:#656c75;font-size:12px;padding:20px}.live{color:#55d27b;font-weight:bold}.dot{display:inline-block;width:8px;height:8px;background:#55d27b;border-radius:50%;box-shadow:0 0 8px #55d27b;margin-right:6px}.stafftab{border-color:#596273}.stafftab.active{border-color:#8f9bad;background:#18202a;box-shadow:0 0 14px #8795a744}.staffrow .pos{color:#9ca9b8}.staffrow .value{color:#aeb8c5}
 @media(max-width:560px){.wrap{padding:10px 8px 35px}.hero{padding-top:18px}.head,.row{grid-template-columns:52px minmax(100px,1fr) minmax(90px,135px)}.row{padding:12px 9px}.name{font-size:16px}.value{font-size:15px}.head{padding:10px 9px}.sub{font-size:11px}.tabs{top:0}}
+
+/* --- A.R.I.S. radial category menu --- */
+.tabs{
+  display:grid !important;
+  grid-template-columns:repeat(6,minmax(120px,1fr));
+  gap:12px !important;
+  overflow:visible !important;
+  padding:12px 0 18px !important;
+  position:relative !important;
+  top:auto !important;
+  background:transparent !important;
+  scrollbar-width:none;
+}
+.tabs::-webkit-scrollbar{display:none}
+.tab{
+  min-height:54px;
+  border-radius:16px !important;
+  transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
+  position:relative;
+  overflow:hidden;
+}
+.tab:hover{
+  transform:translateY(-3px) scale(1.02);
+  border-color:#e33 !important;
+  box-shadow:0 0 18px rgba(255,50,50,.28), inset 0 0 18px rgba(255,50,50,.05);
+  background:linear-gradient(180deg,rgba(35,18,20,.95),rgba(16,18,22,.95)) !important;
+}
+.tab:focus-visible{
+  outline:2px solid #ff3b3b;
+  outline-offset:2px;
+}
+.tab.active{
+  transform:translateY(-2px);
+  box-shadow:0 0 20px rgba(255,45,45,.35);
+}
+.stafftab:hover{
+  border-color:#94a3b8 !important;
+  box-shadow:0 0 18px rgba(148,163,184,.24);
+}
+@media(max-width:1050px){
+  .tabs{grid-template-columns:repeat(4,minmax(135px,1fr));}
+}
+@media(max-width:760px){
+  .tabs{grid-template-columns:repeat(2,minmax(0,1fr));}
+  .tab{min-height:50px;font-size:13px}
+}
+
 </style>
 </head>
 <body><main class="wrap"><section class="hero"><h1><b>A.R.I.S.</b> HALL OF FAME</h1><div class="sub">LIVE RANKING • DAYZ EMPIRE APO</div><div class="meta"><span class="dot"></span><span class="live">LIVE</span> &nbsp;•&nbsp; <span id="meta">načítám data…</span></div></section><nav class="tabs" id="tabs"></nav><div class="tools"><input class="search" id="search" placeholder="🔎 Najít hráče…" autocomplete="off"></div><section class="card"><div class="head"><div>POŘADÍ</div><div>HRÁČ</div><div style="text-align:right">VÝKON</div></div><div id="rows"></div></section><div class="foot">A.R.I.S. • SURVIVE / EXPLORE / BE A LEGEND</div></main>
@@ -118,6 +165,7 @@ function buildTabs(){
     let b=document.createElement('button');
     b.className='tab'+(id===active?' active':'')+(c.staff?' stafftab':'');
     b.textContent=c.label;
+    b.title='Zobrazit kategorii: '+c.label;
     b.onclick=()=>{active=id;buildTabs();render()};
     tabs.appendChild(b);
   });
