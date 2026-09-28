@@ -2,18 +2,18 @@
   "season_start": "2026-09-07",
   "player_count": 3,
   "staff_count": 1,
-  "updated_at_local": "28.09.2026 09:34",
+  "updated_at_local": "28.09.2026 10:50",
   "staff": [
     {
       "ai_kills": 2,
-      "deaths": 1,
+      "deaths": 3,
       "favorite_weapon": "B&T APR338",
       "favorite_weapon_kills": 2,
       "first_seen": "2026-09-09T10:33:10.113",
       "ids": [
         "u03WcR-GUhCpG0x5izTTv-mPaMqqQ3SE8EoXj2ADcL0="
       ],
-      "last_seen": "2026-09-25T18:20:21.108",
+      "last_seen": "2026-09-28T10:11:47.938",
       "longest_ai_kill_m": 224,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 2000,
@@ -26,7 +26,7 @@
       "weapons": {
         "B&T APR338": 2
       },
-      "ai_kd_ratio": 2.0,
+      "ai_kd_ratio": 0.67,
       "weapon_master_kills": 2,
       "is_admin": true,
       "aris_score": 0,
@@ -73,19 +73,19 @@
       }
     },
     {
-      "ai_kills": 49,
-      "deaths": 0,
+      "ai_kills": 54,
+      "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 36,
+      "favorite_weapon_kills": 41,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-16T21:49:15.197",
+      "last_seen": "2026-09-28T10:42:33.920",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 2,
+      "market_sales": 2,
       "name": "RadusCZ",
       "vehicle_driver_entries": 13,
       "vehicle_passenger_entries": 0,
@@ -94,19 +94,21 @@
       "weapons": {
         "CheyTac Intervention M200 TAN": 8,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 36,
+        "SIG SAUER M7 FDE": 41,
         "SK 59/66": 1
       },
-      "ai_kd_ratio": 49.0,
-      "weapon_master_kills": 36,
+      "ai_kd_ratio": 54.0,
+      "weapon_master_kills": 41,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 770,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 100,
+        "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 100,
         "ai_kd": 90,
+        "salesman": 100,
         "trip_master": 100
       }
     },
@@ -150,19 +152,19 @@
   ],
   "longest_shot": [
     {
-      "ai_kills": 49,
-      "deaths": 0,
+      "ai_kills": 54,
+      "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 36,
+      "favorite_weapon_kills": 41,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-16T21:49:15.197",
+      "last_seen": "2026-09-28T10:42:33.920",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 2,
+      "market_sales": 2,
       "name": "RadusCZ",
       "vehicle_driver_entries": 13,
       "vehicle_passenger_entries": 0,
@@ -171,19 +173,21 @@
       "weapons": {
         "CheyTac Intervention M200 TAN": 8,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 36,
+        "SIG SAUER M7 FDE": 41,
         "SK 59/66": 1
       },
-      "ai_kd_ratio": 49.0,
-      "weapon_master_kills": 36,
+      "ai_kd_ratio": 54.0,
+      "weapon_master_kills": 41,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 770,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 100,
+        "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 100,
         "ai_kd": 90,
+        "salesman": 100,
         "trip_master": 100
       }
     },
@@ -263,8 +267,90 @@
       }
     }
   ],
-  "most_deaths": [],
-  "trader_king": [],
+  "most_deaths": [
+    {
+      "ai_kills": 54,
+      "deaths": 1,
+      "favorite_weapon": "SIG SAUER M7 FDE",
+      "favorite_weapon_kills": 41,
+      "first_seen": "2026-09-11T21:10:21.585",
+      "ids": [
+        "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
+      ],
+      "last_seen": "2026-09-28T10:42:33.920",
+      "longest_ai_kill_m": 445,
+      "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
+      "market_income": 2,
+      "market_sales": 2,
+      "name": "RadusCZ",
+      "vehicle_driver_entries": 13,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 4953.2,
+      "vehicle_trips": 13,
+      "weapons": {
+        "CheyTac Intervention M200 TAN": 8,
+        "M4-A1": 4,
+        "SIG SAUER M7 FDE": 41,
+        "SK 59/66": 1
+      },
+      "ai_kd_ratio": 54.0,
+      "weapon_master_kills": 41,
+      "is_admin": false,
+      "aris_score": 770,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "trader_king": 100,
+        "road_warrior": 90,
+        "weapon_master": 100,
+        "ai_kd": 90,
+        "salesman": 100,
+        "trip_master": 100
+      }
+    }
+  ],
+  "trader_king": [
+    {
+      "ai_kills": 54,
+      "deaths": 1,
+      "favorite_weapon": "SIG SAUER M7 FDE",
+      "favorite_weapon_kills": 41,
+      "first_seen": "2026-09-11T21:10:21.585",
+      "ids": [
+        "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
+      ],
+      "last_seen": "2026-09-28T10:42:33.920",
+      "longest_ai_kill_m": 445,
+      "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
+      "market_income": 2,
+      "market_sales": 2,
+      "name": "RadusCZ",
+      "vehicle_driver_entries": 13,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 4953.2,
+      "vehicle_trips": 13,
+      "weapons": {
+        "CheyTac Intervention M200 TAN": 8,
+        "M4-A1": 4,
+        "SIG SAUER M7 FDE": 41,
+        "SK 59/66": 1
+      },
+      "ai_kd_ratio": 54.0,
+      "weapon_master_kills": 41,
+      "is_admin": false,
+      "aris_score": 770,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "trader_king": 100,
+        "road_warrior": 90,
+        "weapon_master": 100,
+        "ai_kd": 90,
+        "salesman": 100,
+        "trip_master": 100
+      }
+    }
+  ],
   "road_warrior": [
     {
       "ai_kills": 63,
@@ -305,19 +391,19 @@
       }
     },
     {
-      "ai_kills": 49,
-      "deaths": 0,
+      "ai_kills": 54,
+      "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 36,
+      "favorite_weapon_kills": 41,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-16T21:49:15.197",
+      "last_seen": "2026-09-28T10:42:33.920",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 2,
+      "market_sales": 2,
       "name": "RadusCZ",
       "vehicle_driver_entries": 13,
       "vehicle_passenger_entries": 0,
@@ -326,19 +412,21 @@
       "weapons": {
         "CheyTac Intervention M200 TAN": 8,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 36,
+        "SIG SAUER M7 FDE": 41,
         "SK 59/66": 1
       },
-      "ai_kd_ratio": 49.0,
-      "weapon_master_kills": 36,
+      "ai_kd_ratio": 54.0,
+      "weapon_master_kills": 41,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 770,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 100,
+        "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 100,
         "ai_kd": 90,
+        "salesman": 100,
         "trip_master": 100
       }
     },
@@ -382,19 +470,19 @@
   ],
   "weapon_master": [
     {
-      "ai_kills": 49,
-      "deaths": 0,
+      "ai_kills": 54,
+      "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 36,
+      "favorite_weapon_kills": 41,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-16T21:49:15.197",
+      "last_seen": "2026-09-28T10:42:33.920",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 2,
+      "market_sales": 2,
       "name": "RadusCZ",
       "vehicle_driver_entries": 13,
       "vehicle_passenger_entries": 0,
@@ -403,19 +491,21 @@
       "weapons": {
         "CheyTac Intervention M200 TAN": 8,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 36,
+        "SIG SAUER M7 FDE": 41,
         "SK 59/66": 1
       },
-      "ai_kd_ratio": 49.0,
-      "weapon_master_kills": 36,
+      "ai_kd_ratio": 54.0,
+      "weapon_master_kills": 41,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 770,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 100,
+        "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 100,
         "ai_kd": 90,
+        "salesman": 100,
         "trip_master": 100
       }
     },
@@ -535,19 +625,19 @@
       }
     },
     {
-      "ai_kills": 49,
-      "deaths": 0,
+      "ai_kills": 54,
+      "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 36,
+      "favorite_weapon_kills": 41,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-16T21:49:15.197",
+      "last_seen": "2026-09-28T10:42:33.920",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 2,
+      "market_sales": 2,
       "name": "RadusCZ",
       "vehicle_driver_entries": 13,
       "vehicle_passenger_entries": 0,
@@ -556,19 +646,21 @@
       "weapons": {
         "CheyTac Intervention M200 TAN": 8,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 36,
+        "SIG SAUER M7 FDE": 41,
         "SK 59/66": 1
       },
-      "ai_kd_ratio": 49.0,
-      "weapon_master_kills": 36,
+      "ai_kd_ratio": 54.0,
+      "weapon_master_kills": 41,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 770,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 100,
+        "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 100,
         "ai_kd": 90,
+        "salesman": 100,
         "trip_master": 100
       }
     },
@@ -610,22 +702,21 @@
       }
     }
   ],
-  "salesman": [],
-  "trip_master": [
+  "salesman": [
     {
-      "ai_kills": 49,
-      "deaths": 0,
+      "ai_kills": 54,
+      "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 36,
+      "favorite_weapon_kills": 41,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-16T21:49:15.197",
+      "last_seen": "2026-09-28T10:42:33.920",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 2,
+      "market_sales": 2,
       "name": "RadusCZ",
       "vehicle_driver_entries": 13,
       "vehicle_passenger_entries": 0,
@@ -634,19 +725,63 @@
       "weapons": {
         "CheyTac Intervention M200 TAN": 8,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 36,
+        "SIG SAUER M7 FDE": 41,
         "SK 59/66": 1
       },
-      "ai_kd_ratio": 49.0,
-      "weapon_master_kills": 36,
+      "ai_kd_ratio": 54.0,
+      "weapon_master_kills": 41,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 770,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 100,
+        "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 100,
         "ai_kd": 90,
+        "salesman": 100,
+        "trip_master": 100
+      }
+    }
+  ],
+  "trip_master": [
+    {
+      "ai_kills": 54,
+      "deaths": 1,
+      "favorite_weapon": "SIG SAUER M7 FDE",
+      "favorite_weapon_kills": 41,
+      "first_seen": "2026-09-11T21:10:21.585",
+      "ids": [
+        "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
+      ],
+      "last_seen": "2026-09-28T10:42:33.920",
+      "longest_ai_kill_m": 445,
+      "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
+      "market_income": 2,
+      "market_sales": 2,
+      "name": "RadusCZ",
+      "vehicle_driver_entries": 13,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 4953.2,
+      "vehicle_trips": 13,
+      "weapons": {
+        "CheyTac Intervention M200 TAN": 8,
+        "M4-A1": 4,
+        "SIG SAUER M7 FDE": 41,
+        "SK 59/66": 1
+      },
+      "ai_kd_ratio": 54.0,
+      "weapon_master_kills": 41,
+      "is_admin": false,
+      "aris_score": 770,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "trader_king": 100,
+        "road_warrior": 90,
+        "weapon_master": 100,
+        "ai_kd": 90,
+        "salesman": 100,
         "trip_master": 100
       }
     },
@@ -728,19 +863,19 @@
   ],
   "aris_score": [
     {
-      "ai_kills": 49,
-      "deaths": 0,
+      "ai_kills": 54,
+      "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 36,
+      "favorite_weapon_kills": 41,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-16T21:49:15.197",
+      "last_seen": "2026-09-28T10:42:33.920",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 2,
+      "market_sales": 2,
       "name": "RadusCZ",
       "vehicle_driver_entries": 13,
       "vehicle_passenger_entries": 0,
@@ -749,19 +884,21 @@
       "weapons": {
         "CheyTac Intervention M200 TAN": 8,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 36,
+        "SIG SAUER M7 FDE": 41,
         "SK 59/66": 1
       },
-      "ai_kd_ratio": 49.0,
-      "weapon_master_kills": 36,
+      "ai_kd_ratio": 54.0,
+      "weapon_master_kills": 41,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 770,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 100,
+        "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 100,
         "ai_kd": 90,
+        "salesman": 100,
         "trip_master": 100
       }
     },
