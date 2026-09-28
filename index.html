@@ -101,83 +101,22 @@ body::after{
   .tab:nth-last-child(1){grid-column:6;grid-row:2}
 }
 
+@media(min-width:1051px){.tabs{grid-template-columns:repeat(5,minmax(150px,1fr)) !important}.tab:nth-last-child(2),.tab:nth-last-child(1){grid-column:auto;grid-row:auto}}
 </style>
 </head>
 <body><main class="wrap"><section class="hero"><h1><b>A.R.I.S.</b> HALL OF FAME</h1><div class="sub">LIVE RANKING • DAYZ EMPIRE APO</div><div class="meta"><span class="dot"></span><span class="live">LIVE</span> &nbsp;•&nbsp; <span id="meta">načítám data…</span></div></section><nav class="tabs" id="tabs"></nav><div class="tools"><input class="search" id="search" placeholder="🔎 Najít hráče…" autocomplete="off"></div><section class="card"><div class="head"><div>POŘADÍ</div><div>HRÁČ</div><div style="text-align:right">VÝKON</div></div><div id="rows"></div></section><div class="foot">A.R.I.S. • SURVIVE / EXPLORE / BE A LEGEND</div></main>
 <script>
 const cats={
-  aris_score:{
-    label:'🏆 A.R.I.S. SCORE',
-    fmt:p=>`${Number(p.aris_score||0).toLocaleString('cs-CZ')} bodů`,
-    detail:p=>{
-      const parts=[];
-      if(p.ai_kills) parts.push(`${p.ai_kills} AI`);
-      if(p.longest_ai_kill_m) parts.push(`${p.longest_ai_kill_m} m`);
-      if(p.vehicle_trip_straightline_m) parts.push(`${Number(p.vehicle_trip_straightline_m).toLocaleString('cs-CZ',{maximumFractionDigits:1})} m jízdy`);
-      return parts.join(' • ');
-    }
-  },
-  longest_shot:{
-    label:'LONG SHOT',
-    fmt:p=>`${p.longest_ai_kill_m||0} m`,
-    detail:p=>p.longest_ai_kill_weapon||''
-  },
-  most_deaths:{
-    label:'MOST DEATHS',
-    fmt:p=>`${p.deaths||0}×`,
-    detail:p=>''
-  },
-  trader_king:{
-    label:'TRADER KING',
-    fmt:p=>`${Number(p.market_income||0).toLocaleString('cs-CZ')} ₴`,
-    detail:p=>`${p.market_sales||0} prodejů`
-  },
-  road_warrior:{
-    label:'ROAD WARRIOR',
-    fmt:p=>`${Number(p.vehicle_trip_straightline_m||0).toLocaleString('cs-CZ',{maximumFractionDigits:1})} m`,
-    detail:p=>`${p.vehicle_trips||0} jízd`
-  },
-  weapon_master:{
-    label:'WEAPON MASTER',
-    fmt:p=>`${p.weapon_master_kills||0} killů`,
-    detail:p=>p.favorite_weapon?`Zbraň: ${p.favorite_weapon}`:''
-  },
-  zombie_kill:{
-    label:'ZOMBIE KILL',
-    fmt:p=>`${p.zombie_kills||0} killů`,
-    detail:p=>'Nejvíce zabitých zombie'
-  },
-  ai_hunter:{
-    label:'AI KILL',
-    fmt:p=>`${p.ai_kills||0} killů`,
-    detail:p=>p.favorite_weapon?`Nejčastěji: ${p.favorite_weapon}`:''
-  },
-  salesman:{
-    label:'SALESMAN',
-    fmt:p=>`${p.market_sales||0} prodejů`,
-    detail:p=>`${Number(p.market_income||0).toLocaleString('cs-CZ')} ₴ celkem`
-  },
-  trip_master:{
-    label:'TRIP MASTER',
-    fmt:p=>`${p.vehicle_trips||0} jízd`,
-    detail:p=>`${Number(p.vehicle_trip_straightline_m||0).toLocaleString('cs-CZ',{maximumFractionDigits:1})} m celkem`
-  },
-  staff:{
-    label:'🛡️ A.R.I.S. STAFF',
-    staff:true,
-    fmt:p=>'STAFF',
-    detail:p=>{
-      const parts=[];
-      parts.push(`${p.ai_kills||0} AI`);
-      if(p.longest_ai_kill_m) parts.push(`${p.longest_ai_kill_m} m`);
-      if(p.vehicle_trip_straightline_m) parts.push(`${Number(p.vehicle_trip_straightline_m).toLocaleString('cs-CZ',{maximumFractionDigits:1})} m jízdy`);
-      return parts.join(' • ');
-    }
-  },
-  info:{
-    label:'ℹ️ INFO',
-    info:true
-  }
+  aris_score:{label:'🏆 A.R.I.S. SCORE',fmt:p=>`${Number(p.aris_score||0).toLocaleString('cs-CZ')} bodů`,detail:p=>{const a=[];if(p.ai_kills)a.push(`${p.ai_kills} killů`);if(p.longest_ai_kill_m)a.push(`${p.longest_ai_kill_m} m`);if(p.vehicle_trip_straightline_m)a.push(`${Number(p.vehicle_trip_straightline_m).toLocaleString('cs-CZ',{maximumFractionDigits:1})} m jízdy`);return a.join(' • ')}},
+  longest_shot:{label:'LONG SHOT',fmt:p=>`${p.longest_ai_kill_m||0} m`,detail:p=>p.longest_ai_kill_weapon||''},
+  most_deaths:{label:'MOST DEATHS',fmt:p=>`${p.deaths||0}×`,detail:p=>''},
+  trader_king:{label:'TRADER KING',fmt:p=>`${Number(p.market_income||0).toLocaleString('cs-CZ')} ₴`,detail:p=>`${p.market_sales||0} prodejů`},
+  road_warrior:{label:'ROAD WARRIOR',fmt:p=>`${Number(p.vehicle_trip_straightline_m||0).toLocaleString('cs-CZ',{maximumFractionDigits:1})} m`,detail:p=>`${p.vehicle_trips||0} jízd`},
+  weapon_master:{label:'WEAPON MASTER',fmt:p=>`${p.weapon_master_kills||0} killů`,detail:p=>p.favorite_weapon?`Zbraň: ${p.favorite_weapon}`:''},
+  ai_hunter:{label:'💀 KILLER MASTER',fmt:p=>`${p.ai_kills||0} killů`,detail:p=>p.favorite_weapon?`Nejčastěji: ${p.favorite_weapon}`:''},
+  salesman:{label:'SALESMAN',fmt:p=>`${p.market_sales||0} prodejů`,detail:p=>`${Number(p.market_income||0).toLocaleString('cs-CZ')} ₴ celkem`},
+  staff:{label:'🛡️ A.R.I.S. STAFF',staff:true,fmt:p=>'STAFF',detail:p=>{const a=[];a.push(`${p.ai_kills||0} killů`);if(p.longest_ai_kill_m)a.push(`${p.longest_ai_kill_m} m`);if(p.vehicle_trip_straightline_m)a.push(`${Number(p.vehicle_trip_straightline_m).toLocaleString('cs-CZ',{maximumFractionDigits:1})} m jízdy`);return a.join(' • ')}},
+  info:{label:'ℹ️ INFO',info:true}
 }
 
 let data=null,active='aris_score';
@@ -205,7 +144,7 @@ function render(){
       <h2>A.R.I.S. HALL OF FAME</h2>
       <p>Živé sezónní statistiky serveru DayZEmpireApo. Data se automaticky načítají ze serverových logů a zpracovávají v cloudu.</p>
       <p>Hráči se porovnávají v jednotlivých kategoriích. A.R.I.S. SCORE je celkové hodnocení podle umístění v hlavních statistikách. A.R.I.S. STAFF je veden odděleně a nepočítá se do hráčských žebříčků.</p>
-      <p>Statistiky se průběžně aktualizují během celé sezóny.</p>
+      <p>Statistiky se průběžně aktualizují během celé sezóny.</p><p><strong>SERVER:</strong> 93.99.173.70:2702</p>
     </div>`;
     return;
   }
@@ -226,11 +165,7 @@ function render(){
   });
 
   if(!html){
-    if(active==='zombie_kill'){
-      rows.innerHTML='<div class="empty">ZOMBIE KILL bude aktivní po doplnění sběru zombie killů do A.R.I.S.</div>';
-    }else{
-      rows.innerHTML=`<div class="empty">${cats[active].staff?'Žádný člen STAFF není nastaven.':'Žádný hráč v této kategorii.'}</div>`;
-    }
+    rows.innerHTML=`<div class="empty">${cats[active].staff?'Žádný člen STAFF není nastaven.':'Žádný hráč v této kategorii.'}</div>`;
   }else{
     rows.innerHTML=html;
   }
@@ -251,7 +186,7 @@ fetch('leaderboard.json?'+Date.now())
     data=j;
     const staff=Number(j.staff_count||0);
     document.getElementById('meta').textContent=
-      `hráčů: ${j.player_count} • STAFF: ${staff} • sezóna od ${j.season_start} • aktualizace ${j.updated_at_local||''}`;
+      `93.99.173.70:2702 • hráčů: ${j.player_count} • STAFF: ${staff} • sezóna od ${j.season_start} • aktualizace ${j.updated_at_local||''}`;
     render();
   })
   .catch(e=>{
