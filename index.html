@@ -91,16 +91,6 @@ body::after{
 .infoBox h2{margin:0 0 12px;color:#fff;letter-spacing:2px}
 .infoBox p{margin:10px 0;color:#c9cdd3}
 
-/* final desktop positioning: A.R.I.S. STAFF and INFO stacked at the right */
-@media(min-width:1051px){
-  .tabs{
-    grid-template-columns:repeat(5,minmax(120px,1fr)) 1.15fr !important;
-    align-items:stretch;
-  }
-  .tab:nth-last-child(2){grid-column:6;grid-row:1}
-  .tab:nth-last-child(1){grid-column:6;grid-row:2}
-}
-
 @media(min-width:1051px){.tabs{grid-template-columns:repeat(5,minmax(150px,1fr)) !important}.tab:nth-last-child(2),.tab:nth-last-child(1){grid-column:auto;grid-row:auto}}
 </style>
 </head>
@@ -180,17 +170,24 @@ function esc(s){
 search.addEventListener('input',render);
 buildTabs();
 
-fetch('leaderboard.json?'+Date.now())
-  .then(r=>{if(!r.ok)throw Error(r.status);return r.json()})
-  .then(j=>{
-    data=j;
-    const staff=Number(j.staff_count||0);
-    document.getElementById('meta').textContent=
-      `93.99.173.70:2702 • hráčů: ${j.player_count} • STAFF: ${staff} • sezóna od ${j.season_start} • aktualizace ${j.updated_at_local||''}`;
-    render();
-  })
-  .catch(e=>{
-    document.getElementById('meta').textContent='data se nepodařilo načíst';
-    rows.innerHTML='<div class="empty">LIVE RANKING zatím nemá dostupná data.</div>';
-  });
+function loadLeaderboard(){
+  fetch('leaderboard.json?'+Date.now(),{cache:'no-store'})
+    .then(r=>{if(!r.ok)throw Error(r.status);return r.json()})
+    .then(j=>{
+      data=j;
+      const staff=Number(j.staff_count||0);
+      document.getElementById('meta').textContent=
+        `93.99.173.70:2702 • hráčů: ${j.player_count} • STAFF: ${staff} • sezóna od ${j.season_start} • aktualizace ${j.updated_at_local||''}`;
+      render();
+    })
+    .catch(e=>{
+      document.getElementById('meta').textContent='data se nepodařilo načíst';
+      rows.innerHTML='<div class="empty">LIVE RANKING zatím nemá dostupná data.</div>';
+    });
+}
+
+loadLeaderboard();
+
+// Automatická aktualizace LIVE dat každých 30 minut.
+setInterval(loadLeaderboard, 30 * 60 * 1000);
 </script></body></html>
