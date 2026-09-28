@@ -92,9 +92,92 @@ body::after{
 .infoBox p{margin:10px 0;color:#c9cdd3}
 
 @media(min-width:1051px){.tabs{grid-template-columns:repeat(5,minmax(150px,1fr)) !important}.tab:nth-last-child(2),.tab:nth-last-child(1){grid-column:auto;grid-row:auto}}
+
+.staffGrid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:16px;
+  padding:18px;
+}
+.staffCard{
+  background:linear-gradient(180deg,rgba(20,26,34,.94),rgba(10,14,19,.94));
+  border:1px solid #596273;
+  border-top:3px solid #8fa3bd;
+  border-radius:14px;
+  padding:20px;
+  box-shadow:0 12px 34px rgba(0,0,0,.34);
+}
+.staffTop{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  margin-bottom:15px;
+}
+.staffName{
+  font-size:24px;
+  font-weight:900;
+  color:#fff;
+}
+.staffBadge{
+  font-size:12px;
+  font-weight:900;
+  letter-spacing:1px;
+  color:#d7e0ec;
+  border:1px solid #667487;
+  background:#1a2330;
+  padding:7px 10px;
+  border-radius:999px;
+}
+.staffStats{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:10px;
+}
+.staffStat{
+  background:rgba(6,9,13,.72);
+  border:1px solid #303946;
+  border-radius:10px;
+  padding:12px;
+  min-height:74px;
+}
+.staffStatLabel{
+  color:#8995a5;
+  font-size:11px;
+  font-weight:800;
+  letter-spacing:.7px;
+  margin-bottom:6px;
+}
+.staffStatValue{
+  color:#f0bd45;
+  font-size:18px;
+  font-weight:900;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.staffExtra{
+  margin-top:12px;
+  padding-top:12px;
+  border-top:1px solid #2d3540;
+  color:#aeb8c5;
+  font-size:13px;
+  line-height:1.55;
+}
+.staffNote{
+  grid-column:1/-1;
+  color:#8e99a8;
+  font-size:12px;
+  text-align:center;
+  padding:2px 0 4px;
+}
+@media(max-width:800px){
+  .staffGrid{grid-template-columns:1fr;padding:12px}
+  .staffStats{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+
 </style>
 </head>
-<body><main class="wrap"><section class="hero"><h1><b>A.R.I.S.</b> HALL OF FAME</h1><div class="sub">LIVE RANKING • DAYZ EMPIRE APO</div><div class="meta"><span class="dot"></span><span class="live">LIVE</span> &nbsp;•&nbsp; <span id="meta">načítám data…</span></div></section><nav class="tabs" id="tabs"></nav><div class="tools"><input class="search" id="search" placeholder="🔎 Najít hráče…" autocomplete="off"></div><section class="card"><div class="head"><div>POŘADÍ</div><div>HRÁČ</div><div style="text-align:right">VÝKON</div></div><div id="rows"></div></section><div class="foot">A.R.I.S. • SURVIVE / EXPLORE / BE A LEGEND</div></main>
+<body><main class="wrap"><section class="hero"><h1><b>A.R.I.S.</b> HALL OF FAME</h1><div class="sub">LIVE RANKING • DAYZ EMPIRE APO</div><div class="meta"><span class="dot"></span><span class="live">LIVE</span> &nbsp;•&nbsp; <span id="meta">načítám data…</span></div></section><nav class="tabs" id="tabs"></nav><div class="tools"><input class="search" id="search" placeholder="🔎 Najít hráče…" autocomplete="off"></div><section class="card"><div class="head" id="tableHead"><div>POŘADÍ</div><div>HRÁČ</div><div style="text-align:right">VÝKON</div></div><div id="rows"></div></section><div class="foot">A.R.I.S. • SURVIVE / EXPLORE / BE A LEGEND</div></main>
 <script>
 const cats={
   aris_score:{label:'🏆 A.R.I.S. SCORE',fmt:p=>`${Number(p.aris_score||0).toLocaleString('cs-CZ')} bodů`,detail:p=>{const a=[];if(p.ai_kills)a.push(`${p.ai_kills} killů`);if(p.longest_ai_kill_m)a.push(`${p.longest_ai_kill_m} m`);if(p.vehicle_trip_straightline_m)a.push(`${Number(p.vehicle_trip_straightline_m).toLocaleString('cs-CZ',{maximumFractionDigits:1})} m jízdy`);return a.join(' • ')}},
@@ -112,7 +195,8 @@ const cats={
 let data=null,active='aris_score';
 const tabs=document.getElementById('tabs'),
       rows=document.getElementById('rows'),
-      search=document.getElementById('search');
+      search=document.getElementById('search'),
+      tableHead=document.getElementById('tableHead');
 
 function buildTabs(){
   tabs.innerHTML='';
@@ -130,35 +214,93 @@ function render(){
   if(!data)return;
 
   if(active==='info'){
+    tableHead.style.display='none';
     rows.innerHTML=`<div class="infoBox">
       <h2>A.R.I.S. HALL OF FAME</h2>
       <p>Živé sezónní statistiky serveru DayZEmpireApo. Data se automaticky načítají ze serverových logů a zpracovávají v cloudu.</p>
       <p>Hráči se porovnávají v jednotlivých kategoriích. A.R.I.S. SCORE je celkové hodnocení podle umístění v hlavních statistikách. A.R.I.S. STAFF je veden odděleně a nepočítá se do hráčských žebříčků.</p>
-      <p>Statistiky se průběžně aktualizují během celé sezóny.</p><p><strong>SERVER:</strong> 93.99.173.70:2702</p>
+      <p>Statistiky se průběžně aktualizují během celé sezóny.</p>
+      <p><strong>SERVER:</strong> 93.99.173.70:2702</p>
     </div>`;
     return;
   }
 
   let q=search.value.trim().toLocaleLowerCase('cs');
+
+  if(active==='staff'){
+    tableHead.style.display='none';
+    let list=(data.staff||[]).filter(p=>!q||String(p.name).toLocaleLowerCase('cs').includes(q));
+
+    if(!list.length){
+      rows.innerHTML='<div class="empty">Žádný člen STAFF není nastaven.</div>';
+      return;
+    }
+
+    rows.innerHTML=`<div class="staffGrid">
+      ${list.map(p=>{
+        const weaponKills=Number(p.weapon_master_kills ?? p.favorite_weapon_kills ?? 0);
+        const road=Number(p.vehicle_trip_straightline_m||0).toLocaleString('cs-CZ',{maximumFractionDigits:1});
+        const income=Number(p.market_income||0).toLocaleString('cs-CZ');
+        return `<div class="staffCard">
+          <div class="staffTop">
+            <div class="staffName">🛡️ ${esc(p.name)}</div>
+            <div class="staffBadge">A.R.I.S. STAFF</div>
+          </div>
+
+          <div class="staffStats">
+            <div class="staffStat">
+              <div class="staffStatLabel">KILLER MASTER / AI</div>
+              <div class="staffStatValue">${Number(p.ai_kills||0)} killů</div>
+            </div>
+            <div class="staffStat">
+              <div class="staffStatLabel">LONG SHOT</div>
+              <div class="staffStatValue">${Number(p.longest_ai_kill_m||0)} m</div>
+            </div>
+            <div class="staffStat">
+              <div class="staffStatLabel">MOST DEATHS</div>
+              <div class="staffStatValue">${Number(p.deaths||0)}×</div>
+            </div>
+            <div class="staffStat">
+              <div class="staffStatLabel">ROAD WARRIOR</div>
+              <div class="staffStatValue">${road} m</div>
+            </div>
+            <div class="staffStat">
+              <div class="staffStatLabel">WEAPON MASTER</div>
+              <div class="staffStatValue">${weaponKills} killů</div>
+            </div>
+            <div class="staffStat">
+              <div class="staffStatLabel">SALESMAN</div>
+              <div class="staffStatValue">${Number(p.market_sales||0)} prodejů</div>
+            </div>
+          </div>
+
+          <div class="staffExtra">
+            <strong>Oblíbená zbraň:</strong> ${esc(p.favorite_weapon||'—')}<br>
+            <strong>Nejdelší zásah zbraní:</strong> ${esc(p.longest_ai_kill_weapon||'—')}<br>
+            <strong>Trader příjem:</strong> ${income} ₴ • <strong>Jízdy:</strong> ${Number(p.vehicle_trips||0)}
+          </div>
+        </div>`;
+      }).join('')}
+      <div class="staffNote">STAFF statistiky jsou informační a nejsou započítané do hráčských žebříčků ani A.R.I.S. SCORE.</div>
+    </div>`;
+    return;
+  }
+
+  tableHead.style.display='grid';
   let list=data[active]||[];
   let html='';
 
   list.forEach((p,i)=>{
     if(q&&!String(p.name).toLocaleLowerCase('cs').includes(q))return;
     let c=cats[active],det=c.detail(p);
-    let pos=c.staff?'🛡️':`${i+1}.`;
-    html+=`<div class="row ${c.staff?'staffrow':'rank'+(i+1)}">
-      <div class="pos">${pos}</div>
+    html+=`<div class="row rank${i+1}">
+      <div class="pos">${i+1}.</div>
       <div class="name">${esc(p.name)}${det?`<div class="detail">${esc(det)}</div>`:''}</div>
       <div class="value">${esc(c.fmt(p))}</div>
     </div>`;
   });
 
-  if(!html){
-    rows.innerHTML=`<div class="empty">${cats[active].staff?'Žádný člen STAFF není nastaven.':'Žádný hráč v této kategorii.'}</div>`;
-  }else{
-    rows.innerHTML=html;
-  }
+  rows.innerHTML=html||'<div class="empty">Žádný hráč v této kategorii.</div>';
 }
 
 function esc(s){
