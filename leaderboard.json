@@ -1,8 +1,8 @@
 {
   "season_start": "2026-09-07",
-  "player_count": 3,
+  "player_count": 8,
   "staff_count": 5,
-  "updated_at_local": "29.09.2026 17:41",
+  "updated_at_local": "29.09.2026 22:39",
   "staff": [
     {
       "ai_kills": 0,
@@ -60,14 +60,14 @@
     },
     {
       "ai_kills": 63,
-      "deaths": 0,
+      "deaths": 1,
       "favorite_weapon": "AAC Honey Badger",
       "favorite_weapon_kills": 28,
       "first_seen": "2026-09-10T19:13:07.803",
       "ids": [
         "aGoSD8KsI4S0u7l8cK7k-HaDqjJPP_75G19k2_6FO9g="
       ],
-      "last_seen": "2026-09-15T23:57:08.966",
+      "last_seen": "2026-09-29T19:03:59.492",
       "longest_ai_kill_m": 442,
       "longest_ai_kill_weapon": "Accuracy International AS50",
       "market_income": 0,
@@ -89,16 +89,16 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 14,
+      "ai_kills": 26,
       "deaths": 1,
-      "favorite_weapon": "M4A1 CARBINE CQR TAN",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon": "SIG SAUER M7 FDE",
+      "favorite_weapon_kills": 16,
       "first_seen": "2026-09-10T18:56:54.756",
       "ids": [
         "XqzLhBRUsxQZUckFQqEhpDLZYgDCbEi55-xSek7nN0w="
       ],
-      "last_seen": "2026-09-28T22:25:09.076",
-      "longest_ai_kill_m": 39,
+      "last_seen": "2026-09-29T21:58:42.041",
+      "longest_ai_kill_m": 57,
       "longest_ai_kill_weapon": "SIG SAUER M7 FDE",
       "market_income": 0,
       "market_sales": 0,
@@ -110,23 +110,24 @@
       "weapons": {
         "M16A4E": 4,
         "M4A1 CARBINE CQR TAN": 5,
-        "SIG SAUER M7 FDE": 5
+        "SIG SAUER M7 FDE": 16,
+        "Barrett M82A1 ARIS": 1
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 16,
       "is_admin": true,
       "aris_score": 0,
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 68,
+      "ai_kills": 74,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 55,
+      "favorite_weapon_kills": 61,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-29T15:21:01.727",
+      "last_seen": "2026-09-29T21:58:10.889",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
       "market_income": 2,
@@ -139,10 +140,10 @@
       "weapons": {
         "CheyTac Intervention M200 TAN": 8,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 55,
+        "SIG SAUER M7 FDE": 61,
         "SK 59/66": 1
       },
-      "weapon_master_kills": 55,
+      "weapon_master_kills": 61,
       "is_admin": true,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -150,90 +151,224 @@
   ],
   "ai_hunter": [
     {
-      "name": "Parazone",
+      "ai_kills": 13,
+      "deaths": 1,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "first_seen": "2026-09-29T13:28:45.405",
-      "last_seen": "2026-09-29T16:49:09.699",
-      "ai_kills": 4,
-      "deaths": 1,
+      "last_seen": "2026-09-29T22:33:10.106",
       "longest_ai_kill_m": 79,
       "longest_ai_kill_weapon": "SSG 82",
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 4,
       "market_income": 0,
       "market_sales": 0,
-      "vehicle_driver_entries": 0,
+      "name": "Parazone",
+      "vehicle_driver_entries": 21,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
-      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trip_straightline_m": 13068.8,
+      "vehicle_trips": 20,
       "weapons": {
-        "SSG 82": 4
+        "SSG 82": 8,
+        "Crossbow": 1,
+        "Engraved Kolt 1911": 1,
+        "Repeater Carbine": 2,
+        "FX-45": 1
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 390,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
+        "road_warrior": 100,
         "weapon_master": 100
+      }
+    },
+    {
+      "name": "ProMyNenT",
+      "ids": [
+        "S-Ufcu6cVsfzp8WFVlWyqkhSdkS22bhEu9Skv6Ekwu4="
+      ],
+      "first_seen": "2026-09-29T18:18:25.441",
+      "last_seen": "2026-09-29T22:37:50.091",
+      "ai_kills": 9,
+      "deaths": 2,
+      "longest_ai_kill_m": 133,
+      "longest_ai_kill_weapon": "Marlin Model 1894",
+      "favorite_weapon": "Marlin Model 1894",
+      "favorite_weapon_kills": 5,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 7,
+      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 2679.3,
+      "weapons": {
+        "Marlin Model 1894": 5,
+        "CZ SCORPION EVO3 A1": 4
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 370,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "road_warrior": 90,
+        "weapon_master": 90
       }
     }
   ],
   "longest_shot": [
     {
-      "name": "Parazone",
+      "name": "ProMyNenT",
+      "ids": [
+        "S-Ufcu6cVsfzp8WFVlWyqkhSdkS22bhEu9Skv6Ekwu4="
+      ],
+      "first_seen": "2026-09-29T18:18:25.441",
+      "last_seen": "2026-09-29T22:37:50.091",
+      "ai_kills": 9,
+      "deaths": 2,
+      "longest_ai_kill_m": 133,
+      "longest_ai_kill_weapon": "Marlin Model 1894",
+      "favorite_weapon": "Marlin Model 1894",
+      "favorite_weapon_kills": 5,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 7,
+      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 2679.3,
+      "weapons": {
+        "Marlin Model 1894": 5,
+        "CZ SCORPION EVO3 A1": 4
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 370,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "road_warrior": 90,
+        "weapon_master": 90
+      }
+    },
+    {
+      "ai_kills": 13,
+      "deaths": 1,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "first_seen": "2026-09-29T13:28:45.405",
-      "last_seen": "2026-09-29T16:49:09.699",
-      "ai_kills": 4,
-      "deaths": 1,
+      "last_seen": "2026-09-29T22:33:10.106",
       "longest_ai_kill_m": 79,
       "longest_ai_kill_weapon": "SSG 82",
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 4,
       "market_income": 0,
       "market_sales": 0,
-      "vehicle_driver_entries": 0,
+      "name": "Parazone",
+      "vehicle_driver_entries": 21,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
-      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trip_straightline_m": 13068.8,
+      "vehicle_trips": 20,
       "weapons": {
-        "SSG 82": 4
+        "SSG 82": 8,
+        "Crossbow": 1,
+        "Engraved Kolt 1911": 1,
+        "Repeater Carbine": 2,
+        "FX-45": 1
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 390,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
+        "road_warrior": 100,
         "weapon_master": 100
       }
     }
   ],
   "most_deaths": [
     {
-      "name": "RaptorSVK",
+      "name": "Festr",
+      "ids": [
+        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
+      ],
+      "first_seen": "2026-09-29T18:53:15.871",
+      "last_seen": "2026-09-29T20:24:30.194",
+      "ai_kills": 0,
+      "deaths": 3,
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "name": "ProMyNenT",
+      "ids": [
+        "S-Ufcu6cVsfzp8WFVlWyqkhSdkS22bhEu9Skv6Ekwu4="
+      ],
+      "first_seen": "2026-09-29T18:18:25.441",
+      "last_seen": "2026-09-29T22:37:50.091",
+      "ai_kills": 9,
+      "deaths": 2,
+      "longest_ai_kill_m": 133,
+      "longest_ai_kill_weapon": "Marlin Model 1894",
+      "favorite_weapon": "Marlin Model 1894",
+      "favorite_weapon_kills": 5,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 7,
+      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 2679.3,
+      "weapons": {
+        "Marlin Model 1894": 5,
+        "CZ SCORPION EVO3 A1": 4
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 370,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "road_warrior": 90,
+        "weapon_master": 90
+      }
+    },
+    {
+      "ai_kills": 0,
+      "deaths": 2,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "first_seen": "2026-09-29T13:08:54.014",
       "last_seen": "2026-09-29T13:51:06.469",
-      "ai_kills": 0,
-      "deaths": 2,
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
       "market_income": 0,
       "market_sales": 0,
+      "name": "RaptorSVK",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
       "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
@@ -241,14 +376,39 @@
       "aris_score_breakdown": {}
     },
     {
-      "name": "Siedma",
+      "ai_kills": 0,
+      "deaths": 2,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-09-29T12:58:12.350",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "first_seen": "2026-09-29T12:58:12.350",
       "last_seen": "2026-09-29T13:57:58.333",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Siedma",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "name": "JENDA",
+      "ids": [
+        "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
+      ],
+      "first_seen": "2026-09-29T18:53:00.920",
+      "last_seen": "2026-09-29T18:53:12.915",
       "ai_kills": 0,
-      "deaths": 2,
+      "deaths": 1,
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
       "favorite_weapon": "",
@@ -266,103 +426,304 @@
       "aris_score_breakdown": {}
     },
     {
-      "name": "Parazone",
+      "name": "Lovec",
       "ids": [
-        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+        "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "first_seen": "2026-09-29T13:28:45.405",
-      "last_seen": "2026-09-29T16:49:09.699",
-      "ai_kills": 4,
+      "first_seen": "2026-09-29T20:49:54.109",
+      "last_seen": "2026-09-29T20:50:06.103",
+      "ai_kills": 0,
       "deaths": 1,
-      "longest_ai_kill_m": 79,
-      "longest_ai_kill_weapon": "SSG 82",
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 4,
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
       "market_income": 0,
       "market_sales": 0,
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
       "vehicle_trips": 0,
       "vehicle_trip_straightline_m": 0.0,
-      "weapons": {
-        "SSG 82": 4
-      },
-      "weapon_master_kills": 4,
+      "weapons": {},
+      "weapon_master_kills": 0,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 13,
+      "deaths": 1,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-09-29T13:28:45.405",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "last_seen": "2026-09-29T22:33:10.106",
+      "longest_ai_kill_m": 79,
+      "longest_ai_kill_weapon": "SSG 82",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Parazone",
+      "vehicle_driver_entries": 21,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 13068.8,
+      "vehicle_trips": 20,
+      "weapons": {
+        "SSG 82": 8,
+        "Crossbow": 1,
+        "Engraved Kolt 1911": 1,
+        "Repeater Carbine": 2,
+        "FX-45": 1
+      },
+      "weapon_master_kills": 8,
+      "is_admin": false,
+      "aris_score": 390,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
+        "road_warrior": 100,
         "weapon_master": 100
       }
+    },
+    {
+      "name": "pwolf777",
+      "ids": [
+        "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
+      ],
+      "first_seen": "2026-09-29T18:24:11.151",
+      "last_seen": "2026-09-29T18:24:23.139",
+      "ai_kills": 0,
+      "deaths": 1,
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
     }
   ],
   "trader_king": [],
-  "road_warrior": [],
-  "weapon_master": [
+  "road_warrior": [
     {
-      "name": "Parazone",
+      "ai_kills": 13,
+      "deaths": 1,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "first_seen": "2026-09-29T13:28:45.405",
-      "last_seen": "2026-09-29T16:49:09.699",
-      "ai_kills": 4,
-      "deaths": 1,
+      "last_seen": "2026-09-29T22:33:10.106",
       "longest_ai_kill_m": 79,
       "longest_ai_kill_weapon": "SSG 82",
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 4,
       "market_income": 0,
       "market_sales": 0,
-      "vehicle_driver_entries": 0,
+      "name": "Parazone",
+      "vehicle_driver_entries": 21,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
-      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trip_straightline_m": 13068.8,
+      "vehicle_trips": 20,
       "weapons": {
-        "SSG 82": 4
+        "SSG 82": 8,
+        "Crossbow": 1,
+        "Engraved Kolt 1911": 1,
+        "Repeater Carbine": 2,
+        "FX-45": 1
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 390,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
+        "road_warrior": 100,
         "weapon_master": 100
+      }
+    },
+    {
+      "name": "ProMyNenT",
+      "ids": [
+        "S-Ufcu6cVsfzp8WFVlWyqkhSdkS22bhEu9Skv6Ekwu4="
+      ],
+      "first_seen": "2026-09-29T18:18:25.441",
+      "last_seen": "2026-09-29T22:37:50.091",
+      "ai_kills": 9,
+      "deaths": 2,
+      "longest_ai_kill_m": 133,
+      "longest_ai_kill_weapon": "Marlin Model 1894",
+      "favorite_weapon": "Marlin Model 1894",
+      "favorite_weapon_kills": 5,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 7,
+      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 2679.3,
+      "weapons": {
+        "Marlin Model 1894": 5,
+        "CZ SCORPION EVO3 A1": 4
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 370,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "road_warrior": 90,
+        "weapon_master": 90
+      }
+    }
+  ],
+  "weapon_master": [
+    {
+      "ai_kills": 13,
+      "deaths": 1,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-09-29T13:28:45.405",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "last_seen": "2026-09-29T22:33:10.106",
+      "longest_ai_kill_m": 79,
+      "longest_ai_kill_weapon": "SSG 82",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Parazone",
+      "vehicle_driver_entries": 21,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 13068.8,
+      "vehicle_trips": 20,
+      "weapons": {
+        "SSG 82": 8,
+        "Crossbow": 1,
+        "Engraved Kolt 1911": 1,
+        "Repeater Carbine": 2,
+        "FX-45": 1
+      },
+      "weapon_master_kills": 8,
+      "is_admin": false,
+      "aris_score": 390,
+      "aris_score_breakdown": {
+        "ai_hunter": 100,
+        "longest_shot": 90,
+        "road_warrior": 100,
+        "weapon_master": 100
+      }
+    },
+    {
+      "name": "ProMyNenT",
+      "ids": [
+        "S-Ufcu6cVsfzp8WFVlWyqkhSdkS22bhEu9Skv6Ekwu4="
+      ],
+      "first_seen": "2026-09-29T18:18:25.441",
+      "last_seen": "2026-09-29T22:37:50.091",
+      "ai_kills": 9,
+      "deaths": 2,
+      "longest_ai_kill_m": 133,
+      "longest_ai_kill_weapon": "Marlin Model 1894",
+      "favorite_weapon": "Marlin Model 1894",
+      "favorite_weapon_kills": 5,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 7,
+      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 2679.3,
+      "weapons": {
+        "Marlin Model 1894": 5,
+        "CZ SCORPION EVO3 A1": 4
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 370,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "road_warrior": 90,
+        "weapon_master": 90
       }
     }
   ],
   "salesman": [],
   "aris_score": [
     {
-      "name": "Parazone",
+      "ai_kills": 13,
+      "deaths": 1,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "first_seen": "2026-09-29T13:28:45.405",
-      "last_seen": "2026-09-29T16:49:09.699",
-      "ai_kills": 4,
-      "deaths": 1,
+      "last_seen": "2026-09-29T22:33:10.106",
       "longest_ai_kill_m": 79,
       "longest_ai_kill_weapon": "SSG 82",
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 4,
       "market_income": 0,
       "market_sales": 0,
-      "vehicle_driver_entries": 0,
+      "name": "Parazone",
+      "vehicle_driver_entries": 21,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
-      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trip_straightline_m": 13068.8,
+      "vehicle_trips": 20,
       "weapons": {
-        "SSG 82": 4
+        "SSG 82": 8,
+        "Crossbow": 1,
+        "Engraved Kolt 1911": 1,
+        "Repeater Carbine": 2,
+        "FX-45": 1
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 390,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
+        "road_warrior": 100,
         "weapon_master": 100
+      }
+    },
+    {
+      "name": "ProMyNenT",
+      "ids": [
+        "S-Ufcu6cVsfzp8WFVlWyqkhSdkS22bhEu9Skv6Ekwu4="
+      ],
+      "first_seen": "2026-09-29T18:18:25.441",
+      "last_seen": "2026-09-29T22:37:50.091",
+      "ai_kills": 9,
+      "deaths": 2,
+      "longest_ai_kill_m": 133,
+      "longest_ai_kill_weapon": "Marlin Model 1894",
+      "favorite_weapon": "Marlin Model 1894",
+      "favorite_weapon_kills": 5,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 7,
+      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 2679.3,
+      "weapons": {
+        "Marlin Model 1894": 5,
+        "CZ SCORPION EVO3 A1": 4
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 370,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "road_warrior": 90,
+        "weapon_master": 90
       }
     }
   ]
