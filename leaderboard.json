@@ -1,28 +1,28 @@
 {
   "season_start": "2026-09-07",
-  "player_count": 0,
+  "player_count": 3,
   "staff_count": 5,
-  "updated_at_local": "29.09.2026 10:57",
+  "updated_at_local": "29.09.2026 17:41",
   "staff": [
     {
-      "name": "EngiiCZ",
+      "ai_kills": 0,
+      "deaths": 1,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-09-29T10:09:41.423",
       "ids": [
         "pCVLGJH5XiEK9FeZM4Jc4sN5N-db9Gv9i-h88J_XhCw="
       ],
-      "first_seen": "2026-09-29T10:09:41.423",
       "last_seen": "2026-09-29T10:09:53.419",
-      "ai_kills": 0,
-      "deaths": 1,
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
       "market_income": 0,
       "market_sales": 0,
+      "name": "EngiiCZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
       "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": true,
@@ -118,15 +118,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 59,
+      "ai_kills": 68,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 46,
+      "favorite_weapon_kills": 55,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-28T11:18:57.291",
+      "last_seen": "2026-09-29T15:21:01.727",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
       "market_income": 2,
@@ -139,21 +139,231 @@
       "weapons": {
         "CheyTac Intervention M200 TAN": 8,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 46,
+        "SIG SAUER M7 FDE": 55,
         "SK 59/66": 1
       },
-      "weapon_master_kills": 46,
+      "weapon_master_kills": 55,
       "is_admin": true,
       "aris_score": 0,
       "aris_score_breakdown": {}
     }
   ],
-  "ai_hunter": [],
-  "longest_shot": [],
-  "most_deaths": [],
+  "ai_hunter": [
+    {
+      "name": "Parazone",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "first_seen": "2026-09-29T13:28:45.405",
+      "last_seen": "2026-09-29T16:49:09.699",
+      "ai_kills": 4,
+      "deaths": 1,
+      "longest_ai_kill_m": 79,
+      "longest_ai_kill_weapon": "SSG 82",
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 4,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "SSG 82": 4
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 300,
+      "aris_score_breakdown": {
+        "ai_hunter": 100,
+        "longest_shot": 100,
+        "weapon_master": 100
+      }
+    }
+  ],
+  "longest_shot": [
+    {
+      "name": "Parazone",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "first_seen": "2026-09-29T13:28:45.405",
+      "last_seen": "2026-09-29T16:49:09.699",
+      "ai_kills": 4,
+      "deaths": 1,
+      "longest_ai_kill_m": 79,
+      "longest_ai_kill_weapon": "SSG 82",
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 4,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "SSG 82": 4
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 300,
+      "aris_score_breakdown": {
+        "ai_hunter": 100,
+        "longest_shot": 100,
+        "weapon_master": 100
+      }
+    }
+  ],
+  "most_deaths": [
+    {
+      "name": "RaptorSVK",
+      "ids": [
+        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
+      ],
+      "first_seen": "2026-09-29T13:08:54.014",
+      "last_seen": "2026-09-29T13:51:06.469",
+      "ai_kills": 0,
+      "deaths": 2,
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "name": "Siedma",
+      "ids": [
+        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
+      ],
+      "first_seen": "2026-09-29T12:58:12.350",
+      "last_seen": "2026-09-29T13:57:58.333",
+      "ai_kills": 0,
+      "deaths": 2,
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "name": "Parazone",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "first_seen": "2026-09-29T13:28:45.405",
+      "last_seen": "2026-09-29T16:49:09.699",
+      "ai_kills": 4,
+      "deaths": 1,
+      "longest_ai_kill_m": 79,
+      "longest_ai_kill_weapon": "SSG 82",
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 4,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "SSG 82": 4
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 300,
+      "aris_score_breakdown": {
+        "ai_hunter": 100,
+        "longest_shot": 100,
+        "weapon_master": 100
+      }
+    }
+  ],
   "trader_king": [],
   "road_warrior": [],
-  "weapon_master": [],
+  "weapon_master": [
+    {
+      "name": "Parazone",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "first_seen": "2026-09-29T13:28:45.405",
+      "last_seen": "2026-09-29T16:49:09.699",
+      "ai_kills": 4,
+      "deaths": 1,
+      "longest_ai_kill_m": 79,
+      "longest_ai_kill_weapon": "SSG 82",
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 4,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "SSG 82": 4
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 300,
+      "aris_score_breakdown": {
+        "ai_hunter": 100,
+        "longest_shot": 100,
+        "weapon_master": 100
+      }
+    }
+  ],
   "salesman": [],
-  "aris_score": []
+  "aris_score": [
+    {
+      "name": "Parazone",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "first_seen": "2026-09-29T13:28:45.405",
+      "last_seen": "2026-09-29T16:49:09.699",
+      "ai_kills": 4,
+      "deaths": 1,
+      "longest_ai_kill_m": 79,
+      "longest_ai_kill_weapon": "SSG 82",
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 4,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "SSG 82": 4
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 300,
+      "aris_score_breakdown": {
+        "ai_hunter": 100,
+        "longest_shot": 100,
+        "weapon_master": 100
+      }
+    }
+  ]
 }
