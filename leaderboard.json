@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 10,
   "staff_count": 5,
-  "updated_at_local": "30.09.2026 20:05",
+  "updated_at_local": "01.10.2026 00:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -31,14 +31,14 @@
     },
     {
       "ai_kills": 5,
-      "deaths": 3,
+      "deaths": 5,
       "favorite_weapon": "B&T APR338",
       "favorite_weapon_kills": 2,
       "first_seen": "2026-09-09T10:33:10.113",
       "ids": [
         "u03WcR-GUhCpG0x5izTTv-mPaMqqQ3SE8EoXj2ADcL0="
       ],
-      "last_seen": "2026-09-28T21:56:40.505",
+      "last_seen": "2026-10-01T00:19:39.135",
       "longest_ai_kill_m": 224,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 2000,
@@ -59,7 +59,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 64,
+      "ai_kills": 72,
       "deaths": 1,
       "favorite_weapon": "AAC Honey Badger",
       "favorite_weapon_kills": 28,
@@ -67,11 +67,11 @@
       "ids": [
         "aGoSD8KsI4S0u7l8cK7k-HaDqjJPP_75G19k2_6FO9g="
       ],
-      "last_seen": "2026-09-29T23:19:09.461",
+      "last_seen": "2026-09-30T23:38:57.697",
       "longest_ai_kill_m": 442,
       "longest_ai_kill_weapon": "Accuracy International AS50",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 2391,
+      "market_sales": 4,
       "name": "Mauzy",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 0,
@@ -81,8 +81,10 @@
         "AAC Honey Badger": 28,
         "AUR A1": 1,
         "Accuracy International AS50": 22,
-        "IJ-70": 1,
-        "Singularity Cannon": 12
+        "IJ-70": 6,
+        "Singularity Cannon": 12,
+        "Crossbow": 1,
+        "Repeater Carbine": 2
       },
       "weapon_master_kills": 28,
       "is_admin": true,
@@ -120,7 +122,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 74,
+      "ai_kills": 76,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
       "favorite_weapon_kills": 61,
@@ -128,7 +130,7 @@
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-30T09:06:42.404",
+      "last_seen": "2026-09-30T22:21:48.713",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
       "market_income": 10002,
@@ -139,7 +141,7 @@
       "vehicle_trip_straightline_m": 4953.2,
       "vehicle_trips": 13,
       "weapons": {
-        "CheyTac Intervention M200 TAN": 8,
+        "CheyTac Intervention M200 TAN": 10,
         "M4-A1": 4,
         "SIG SAUER M7 FDE": 61,
         "SK 59/66": 1
@@ -152,7 +154,7 @@
   ],
   "ai_hunter": [
     {
-      "ai_kills": 19,
+      "ai_kills": 22,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -160,26 +162,26 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-09-30T19:31:55.309",
+      "last_seen": "2026-09-30T23:21:23.083",
       "longest_ai_kill_m": 257,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 51,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 70585.5,
-      "vehicle_trips": 51,
+      "vehicle_trip_straightline_m": 80921.8,
+      "vehicle_trips": 58,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
         "Crossbow": 1,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 2,
+        "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 2
+        "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -219,61 +221,26 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 360,
+      "aris_score": 350,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 90,
+        "longest_shot": 80,
         "road_warrior": 90,
         "weapon_master": 90
       }
     },
     {
-      "ai_kills": 3,
-      "deaths": 3,
-      "favorite_weapon": "Engraved Kolt 1911",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-09-29T18:53:15.871",
-      "ids": [
-        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
-      ],
-      "last_seen": "2026-09-30T03:26:12.813",
-      "longest_ai_kill_m": 33,
-      "longest_ai_kill_weapon": "Sporter 22",
-      "market_income": 33527,
-      "market_sales": 23,
-      "name": "Festr",
-      "vehicle_driver_entries": 4,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 7035.3,
-      "vehicle_trips": 4,
-      "weapons": {
-        "Engraved Kolt 1911": 2,
-        "Sporter 22": 1
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 510,
-      "aris_score_breakdown": {
-        "ai_hunter": 80,
-        "longest_shot": 80,
-        "trader_king": 100,
-        "road_warrior": 80,
-        "weapon_master": 70,
-        "salesman": 100
-      }
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 3,
+      "ai_kills": 7,
+      "deaths": 4,
       "favorite_weapon": "Revolver",
       "favorite_weapon_kills": 3,
       "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-09-30T01:30:52.401",
-      "longest_ai_kill_m": 19,
-      "longest_ai_kill_weapon": "Revolver",
+      "last_seen": "2026-09-30T23:59:16.228",
+      "longest_ai_kill_m": 65,
+      "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
@@ -282,21 +249,60 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 3
+        "Revolver": 3,
+        "Repeater Carbine": 2,
+        "THALES EF88 AUSTEYR": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
-        "ai_hunter": 70,
+        "ai_hunter": 80,
         "longest_shot": 70,
         "weapon_master": 80
+      }
+    },
+    {
+      "ai_kills": 5,
+      "deaths": 3,
+      "favorite_weapon": "Engraved Kolt 1911",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-09-29T18:53:15.871",
+      "ids": [
+        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
+      ],
+      "last_seen": "2026-09-30T23:52:29.094",
+      "longest_ai_kill_m": 221,
+      "longest_ai_kill_weapon": "McMillan CS5",
+      "market_income": 33527,
+      "market_sales": 23,
+      "name": "Festr",
+      "vehicle_driver_entries": 8,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 8538.1,
+      "vehicle_trips": 8,
+      "weapons": {
+        "Engraved Kolt 1911": 2,
+        "Sporter 22": 1,
+        "AAC Honey Badger": 1,
+        "McMillan CS5": 1
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 510,
+      "aris_score_breakdown": {
+        "ai_hunter": 70,
+        "longest_shot": 90,
+        "trader_king": 100,
+        "road_warrior": 80,
+        "weapon_master": 70,
+        "salesman": 100
       }
     }
   ],
   "longest_shot": [
     {
-      "ai_kills": 19,
+      "ai_kills": 22,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -304,26 +310,26 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-09-30T19:31:55.309",
+      "last_seen": "2026-09-30T23:21:23.083",
       "longest_ai_kill_m": 257,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 51,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 70585.5,
-      "vehicle_trips": 51,
+      "vehicle_trip_straightline_m": 80921.8,
+      "vehicle_trips": 58,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
         "Crossbow": 1,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 2,
+        "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 2
+        "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -335,6 +341,43 @@
         "road_warrior": 100,
         "weapon_master": 100,
         "salesman": 90
+      }
+    },
+    {
+      "ai_kills": 5,
+      "deaths": 3,
+      "favorite_weapon": "Engraved Kolt 1911",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-09-29T18:53:15.871",
+      "ids": [
+        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
+      ],
+      "last_seen": "2026-09-30T23:52:29.094",
+      "longest_ai_kill_m": 221,
+      "longest_ai_kill_weapon": "McMillan CS5",
+      "market_income": 33527,
+      "market_sales": 23,
+      "name": "Festr",
+      "vehicle_driver_entries": 8,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 8538.1,
+      "vehicle_trips": 8,
+      "weapons": {
+        "Engraved Kolt 1911": 2,
+        "Sporter 22": 1,
+        "AAC Honey Badger": 1,
+        "McMillan CS5": 1
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 510,
+      "aris_score_breakdown": {
+        "ai_hunter": 70,
+        "longest_shot": 90,
+        "trader_king": 100,
+        "road_warrior": 80,
+        "weapon_master": 70,
+        "salesman": 100
       }
     },
     {
@@ -363,61 +406,26 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 360,
+      "aris_score": 350,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 90,
+        "longest_shot": 80,
         "road_warrior": 90,
         "weapon_master": 90
       }
     },
     {
-      "ai_kills": 3,
-      "deaths": 3,
-      "favorite_weapon": "Engraved Kolt 1911",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-09-29T18:53:15.871",
-      "ids": [
-        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
-      ],
-      "last_seen": "2026-09-30T03:26:12.813",
-      "longest_ai_kill_m": 33,
-      "longest_ai_kill_weapon": "Sporter 22",
-      "market_income": 33527,
-      "market_sales": 23,
-      "name": "Festr",
-      "vehicle_driver_entries": 4,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 7035.3,
-      "vehicle_trips": 4,
-      "weapons": {
-        "Engraved Kolt 1911": 2,
-        "Sporter 22": 1
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 510,
-      "aris_score_breakdown": {
-        "ai_hunter": 80,
-        "longest_shot": 80,
-        "trader_king": 100,
-        "road_warrior": 80,
-        "weapon_master": 70,
-        "salesman": 100
-      }
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 3,
+      "ai_kills": 7,
+      "deaths": 4,
       "favorite_weapon": "Revolver",
       "favorite_weapon_kills": 3,
       "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-09-30T01:30:52.401",
-      "longest_ai_kill_m": 19,
-      "longest_ai_kill_weapon": "Revolver",
+      "last_seen": "2026-09-30T23:59:16.228",
+      "longest_ai_kill_m": 65,
+      "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
@@ -426,13 +434,15 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 3
+        "Revolver": 3,
+        "Repeater Carbine": 2,
+        "THALES EF88 AUSTEYR": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
-        "ai_hunter": 70,
+        "ai_hunter": 80,
         "longest_shot": 70,
         "weapon_master": 80
       }
@@ -440,7 +450,65 @@
   ],
   "most_deaths": [
     {
-      "ai_kills": 3,
+      "ai_kills": 7,
+      "deaths": 4,
+      "favorite_weapon": "Revolver",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-09-29T13:08:54.014",
+      "ids": [
+        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
+      ],
+      "last_seen": "2026-09-30T23:59:16.228",
+      "longest_ai_kill_m": 65,
+      "longest_ai_kill_weapon": "Repeater Carbine",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "RaptorSVK",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Revolver": 3,
+        "Repeater Carbine": 2,
+        "THALES EF88 AUSTEYR": 2
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 230,
+      "aris_score_breakdown": {
+        "ai_hunter": 80,
+        "longest_shot": 70,
+        "weapon_master": 80
+      }
+    },
+    {
+      "ai_kills": 0,
+      "deaths": 4,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-09-29T12:58:12.350",
+      "ids": [
+        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
+      ],
+      "last_seen": "2026-09-30T21:43:37.302",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Siedma",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 5,
       "deaths": 3,
       "favorite_weapon": "Engraved Kolt 1911",
       "favorite_weapon_kills": 2,
@@ -448,31 +516,58 @@
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-09-30T03:26:12.813",
-      "longest_ai_kill_m": 33,
-      "longest_ai_kill_weapon": "Sporter 22",
+      "last_seen": "2026-09-30T23:52:29.094",
+      "longest_ai_kill_m": 221,
+      "longest_ai_kill_weapon": "McMillan CS5",
       "market_income": 33527,
       "market_sales": 23,
       "name": "Festr",
-      "vehicle_driver_entries": 4,
+      "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 7035.3,
-      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 8538.1,
+      "vehicle_trips": 8,
       "weapons": {
         "Engraved Kolt 1911": 2,
-        "Sporter 22": 1
+        "Sporter 22": 1,
+        "AAC Honey Badger": 1,
+        "McMillan CS5": 1
       },
       "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 510,
       "aris_score_breakdown": {
-        "ai_hunter": 80,
-        "longest_shot": 80,
+        "ai_hunter": 70,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 80,
         "weapon_master": 70,
         "salesman": 100
       }
+    },
+    {
+      "ai_kills": 0,
+      "deaths": 3,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-09-30T19:03:38.469",
+      "ids": [
+        "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
+      ],
+      "last_seen": "2026-09-30T21:31:22.329",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "JANZA125",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 0,
@@ -493,87 +588,6 @@
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 3,
-      "favorite_weapon": "Revolver",
-      "favorite_weapon_kills": 3,
-      "first_seen": "2026-09-29T13:08:54.014",
-      "ids": [
-        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
-      ],
-      "last_seen": "2026-09-30T01:30:52.401",
-      "longest_ai_kill_m": 19,
-      "longest_ai_kill_weapon": "Revolver",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "RaptorSVK",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Revolver": 3
-      },
-      "weapon_master_kills": 3,
-      "is_admin": false,
-      "aris_score": 220,
-      "aris_score_breakdown": {
-        "ai_hunter": 70,
-        "longest_shot": 70,
-        "weapon_master": 80
-      }
-    },
-    {
-      "ai_kills": 0,
-      "deaths": 3,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
-      "first_seen": "2026-09-29T12:58:12.350",
-      "ids": [
-        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
-      ],
-      "last_seen": "2026-09-30T19:44:38.356",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Siedma",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "name": "JANZA125",
-      "ids": [
-        "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
-      ],
-      "first_seen": "2026-09-30T19:03:38.469",
-      "last_seen": "2026-09-30T19:47:57.538",
-      "ai_kills": 0,
-      "deaths": 2,
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
-      "market_income": 0,
-      "market_sales": 0,
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
-      "vehicle_trip_straightline_m": 0.0,
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
@@ -631,16 +645,41 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 360,
+      "aris_score": 350,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 90,
+        "longest_shot": 80,
         "road_warrior": 90,
         "weapon_master": 90
       }
     },
     {
-      "ai_kills": 19,
+      "ai_kills": 0,
+      "deaths": 2,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-09-30T19:19:50.594",
+      "ids": [
+        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
+      ],
+      "last_seen": "2026-09-30T20:14:46.172",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Skelly",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 22,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -648,26 +687,26 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-09-30T19:31:55.309",
+      "last_seen": "2026-09-30T23:21:23.083",
       "longest_ai_kill_m": 257,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 51,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 70585.5,
-      "vehicle_trips": 51,
+      "vehicle_trip_straightline_m": 80921.8,
+      "vehicle_trips": 58,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
         "Crossbow": 1,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 2,
+        "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 2
+        "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -705,36 +744,11 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "name": "Skelly",
-      "ids": [
-        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
-      ],
-      "first_seen": "2026-09-30T19:19:50.594",
-      "last_seen": "2026-09-30T19:20:02.588",
-      "ai_kills": 0,
-      "deaths": 1,
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
-      "market_income": 0,
-      "market_sales": 0,
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "weapons": {},
-      "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
     }
   ],
   "trader_king": [
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 3,
       "favorite_weapon": "Engraved Kolt 1911",
       "favorite_weapon_kills": 2,
@@ -742,26 +756,28 @@
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-09-30T03:26:12.813",
-      "longest_ai_kill_m": 33,
-      "longest_ai_kill_weapon": "Sporter 22",
+      "last_seen": "2026-09-30T23:52:29.094",
+      "longest_ai_kill_m": 221,
+      "longest_ai_kill_weapon": "McMillan CS5",
       "market_income": 33527,
       "market_sales": 23,
       "name": "Festr",
-      "vehicle_driver_entries": 4,
+      "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 7035.3,
-      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 8538.1,
+      "vehicle_trips": 8,
       "weapons": {
         "Engraved Kolt 1911": 2,
-        "Sporter 22": 1
+        "Sporter 22": 1,
+        "AAC Honey Badger": 1,
+        "McMillan CS5": 1
       },
       "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 510,
       "aris_score_breakdown": {
-        "ai_hunter": 80,
-        "longest_shot": 80,
+        "ai_hunter": 70,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 80,
         "weapon_master": 70,
@@ -769,7 +785,7 @@
       }
     },
     {
-      "ai_kills": 19,
+      "ai_kills": 22,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -777,26 +793,26 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-09-30T19:31:55.309",
+      "last_seen": "2026-09-30T23:21:23.083",
       "longest_ai_kill_m": 257,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 51,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 70585.5,
-      "vehicle_trips": 51,
+      "vehicle_trip_straightline_m": 80921.8,
+      "vehicle_trips": 58,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
         "Crossbow": 1,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 2,
+        "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 2
+        "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -813,7 +829,7 @@
   ],
   "road_warrior": [
     {
-      "ai_kills": 19,
+      "ai_kills": 22,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -821,26 +837,26 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-09-30T19:31:55.309",
+      "last_seen": "2026-09-30T23:21:23.083",
       "longest_ai_kill_m": 257,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 51,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 70585.5,
-      "vehicle_trips": 51,
+      "vehicle_trip_straightline_m": 80921.8,
+      "vehicle_trips": 58,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
         "Crossbow": 1,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 2,
+        "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 2
+        "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -880,16 +896,16 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 360,
+      "aris_score": 350,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 90,
+        "longest_shot": 80,
         "road_warrior": 90,
         "weapon_master": 90
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 3,
       "favorite_weapon": "Engraved Kolt 1911",
       "favorite_weapon_kills": 2,
@@ -897,26 +913,28 @@
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-09-30T03:26:12.813",
-      "longest_ai_kill_m": 33,
-      "longest_ai_kill_weapon": "Sporter 22",
+      "last_seen": "2026-09-30T23:52:29.094",
+      "longest_ai_kill_m": 221,
+      "longest_ai_kill_weapon": "McMillan CS5",
       "market_income": 33527,
       "market_sales": 23,
       "name": "Festr",
-      "vehicle_driver_entries": 4,
+      "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 7035.3,
-      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 8538.1,
+      "vehicle_trips": 8,
       "weapons": {
         "Engraved Kolt 1911": 2,
-        "Sporter 22": 1
+        "Sporter 22": 1,
+        "AAC Honey Badger": 1,
+        "McMillan CS5": 1
       },
       "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 510,
       "aris_score_breakdown": {
-        "ai_hunter": 80,
-        "longest_shot": 80,
+        "ai_hunter": 70,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 80,
         "weapon_master": 70,
@@ -926,7 +944,7 @@
   ],
   "weapon_master": [
     {
-      "ai_kills": 19,
+      "ai_kills": 22,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -934,26 +952,26 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-09-30T19:31:55.309",
+      "last_seen": "2026-09-30T23:21:23.083",
       "longest_ai_kill_m": 257,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 51,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 70585.5,
-      "vehicle_trips": 51,
+      "vehicle_trip_straightline_m": 80921.8,
+      "vehicle_trips": 58,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
         "Crossbow": 1,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 2,
+        "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 2
+        "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -993,26 +1011,26 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 360,
+      "aris_score": 350,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 90,
+        "longest_shot": 80,
         "road_warrior": 90,
         "weapon_master": 90
       }
     },
     {
-      "ai_kills": 3,
-      "deaths": 3,
+      "ai_kills": 7,
+      "deaths": 4,
       "favorite_weapon": "Revolver",
       "favorite_weapon_kills": 3,
       "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-09-30T01:30:52.401",
-      "longest_ai_kill_m": 19,
-      "longest_ai_kill_weapon": "Revolver",
+      "last_seen": "2026-09-30T23:59:16.228",
+      "longest_ai_kill_m": 65,
+      "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
@@ -1021,19 +1039,21 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 3
+        "Revolver": 3,
+        "Repeater Carbine": 2,
+        "THALES EF88 AUSTEYR": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
-        "ai_hunter": 70,
+        "ai_hunter": 80,
         "longest_shot": 70,
         "weapon_master": 80
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 3,
       "favorite_weapon": "Engraved Kolt 1911",
       "favorite_weapon_kills": 2,
@@ -1041,26 +1061,28 @@
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-09-30T03:26:12.813",
-      "longest_ai_kill_m": 33,
-      "longest_ai_kill_weapon": "Sporter 22",
+      "last_seen": "2026-09-30T23:52:29.094",
+      "longest_ai_kill_m": 221,
+      "longest_ai_kill_weapon": "McMillan CS5",
       "market_income": 33527,
       "market_sales": 23,
       "name": "Festr",
-      "vehicle_driver_entries": 4,
+      "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 7035.3,
-      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 8538.1,
+      "vehicle_trips": 8,
       "weapons": {
         "Engraved Kolt 1911": 2,
-        "Sporter 22": 1
+        "Sporter 22": 1,
+        "AAC Honey Badger": 1,
+        "McMillan CS5": 1
       },
       "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 510,
       "aris_score_breakdown": {
-        "ai_hunter": 80,
-        "longest_shot": 80,
+        "ai_hunter": 70,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 80,
         "weapon_master": 70,
@@ -1070,7 +1092,7 @@
   ],
   "salesman": [
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 3,
       "favorite_weapon": "Engraved Kolt 1911",
       "favorite_weapon_kills": 2,
@@ -1078,26 +1100,28 @@
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-09-30T03:26:12.813",
-      "longest_ai_kill_m": 33,
-      "longest_ai_kill_weapon": "Sporter 22",
+      "last_seen": "2026-09-30T23:52:29.094",
+      "longest_ai_kill_m": 221,
+      "longest_ai_kill_weapon": "McMillan CS5",
       "market_income": 33527,
       "market_sales": 23,
       "name": "Festr",
-      "vehicle_driver_entries": 4,
+      "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 7035.3,
-      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 8538.1,
+      "vehicle_trips": 8,
       "weapons": {
         "Engraved Kolt 1911": 2,
-        "Sporter 22": 1
+        "Sporter 22": 1,
+        "AAC Honey Badger": 1,
+        "McMillan CS5": 1
       },
       "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 510,
       "aris_score_breakdown": {
-        "ai_hunter": 80,
-        "longest_shot": 80,
+        "ai_hunter": 70,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 80,
         "weapon_master": 70,
@@ -1105,7 +1129,7 @@
       }
     },
     {
-      "ai_kills": 19,
+      "ai_kills": 22,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -1113,26 +1137,26 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-09-30T19:31:55.309",
+      "last_seen": "2026-09-30T23:21:23.083",
       "longest_ai_kill_m": 257,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 51,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 70585.5,
-      "vehicle_trips": 51,
+      "vehicle_trip_straightline_m": 80921.8,
+      "vehicle_trips": 58,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
         "Crossbow": 1,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 2,
+        "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 2
+        "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -1149,7 +1173,7 @@
   ],
   "aris_score": [
     {
-      "ai_kills": 19,
+      "ai_kills": 22,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -1157,26 +1181,26 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-09-30T19:31:55.309",
+      "last_seen": "2026-09-30T23:21:23.083",
       "longest_ai_kill_m": 257,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 51,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 70585.5,
-      "vehicle_trips": 51,
+      "vehicle_trip_straightline_m": 80921.8,
+      "vehicle_trips": 58,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
         "Crossbow": 1,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 2,
+        "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 2
+        "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -1191,7 +1215,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 3,
       "favorite_weapon": "Engraved Kolt 1911",
       "favorite_weapon_kills": 2,
@@ -1199,26 +1223,28 @@
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-09-30T03:26:12.813",
-      "longest_ai_kill_m": 33,
-      "longest_ai_kill_weapon": "Sporter 22",
+      "last_seen": "2026-09-30T23:52:29.094",
+      "longest_ai_kill_m": 221,
+      "longest_ai_kill_weapon": "McMillan CS5",
       "market_income": 33527,
       "market_sales": 23,
       "name": "Festr",
-      "vehicle_driver_entries": 4,
+      "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 7035.3,
-      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 8538.1,
+      "vehicle_trips": 8,
       "weapons": {
         "Engraved Kolt 1911": 2,
-        "Sporter 22": 1
+        "Sporter 22": 1,
+        "AAC Honey Badger": 1,
+        "McMillan CS5": 1
       },
       "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 510,
       "aris_score_breakdown": {
-        "ai_hunter": 80,
-        "longest_shot": 80,
+        "ai_hunter": 70,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 80,
         "weapon_master": 70,
@@ -1251,26 +1277,26 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 360,
+      "aris_score": 350,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 90,
+        "longest_shot": 80,
         "road_warrior": 90,
         "weapon_master": 90
       }
     },
     {
-      "ai_kills": 3,
-      "deaths": 3,
+      "ai_kills": 7,
+      "deaths": 4,
       "favorite_weapon": "Revolver",
       "favorite_weapon_kills": 3,
       "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-09-30T01:30:52.401",
-      "longest_ai_kill_m": 19,
-      "longest_ai_kill_weapon": "Revolver",
+      "last_seen": "2026-09-30T23:59:16.228",
+      "longest_ai_kill_m": 65,
+      "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
@@ -1279,13 +1305,15 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 3
+        "Revolver": 3,
+        "Repeater Carbine": 2,
+        "THALES EF88 AUSTEYR": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
-        "ai_hunter": 70,
+        "ai_hunter": 80,
         "longest_shot": 70,
         "weapon_master": 80
       }
