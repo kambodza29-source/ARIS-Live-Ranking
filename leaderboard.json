@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 10,
   "staff_count": 5,
-  "updated_at_local": "01.10.2026 00:31",
+  "updated_at_local": "01.10.2026 03:57",
   "staff": [
     {
       "ai_kills": 0,
@@ -81,10 +81,10 @@
         "AAC Honey Badger": 28,
         "AUR A1": 1,
         "Accuracy International AS50": 22,
-        "IJ-70": 6,
-        "Singularity Cannon": 12,
         "Crossbow": 1,
-        "Repeater Carbine": 2
+        "IJ-70": 6,
+        "Repeater Carbine": 2,
+        "Singularity Cannon": 12
       },
       "weapon_master_kills": 28,
       "is_admin": true,
@@ -185,14 +185,51 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 580,
+      "aris_score": 570,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
         "salesman": 90
+      }
+    },
+    {
+      "ai_kills": 12,
+      "deaths": 3,
+      "favorite_weapon": "AAC Honey Badger",
+      "favorite_weapon_kills": 7,
+      "first_seen": "2026-09-29T18:53:15.871",
+      "ids": [
+        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
+      ],
+      "last_seen": "2026-10-01T03:52:23.011",
+      "longest_ai_kill_m": 378,
+      "longest_ai_kill_weapon": "McMillan CS5",
+      "market_income": 33527,
+      "market_sales": 23,
+      "name": "Festr",
+      "vehicle_driver_entries": 28,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 32889.6,
+      "vehicle_trips": 28,
+      "weapons": {
+        "AAC Honey Badger": 7,
+        "Engraved Kolt 1911": 2,
+        "McMillan CS5": 2,
+        "Sporter 22": 1
+      },
+      "weapon_master_kills": 7,
+      "is_admin": false,
+      "aris_score": 570,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "trader_king": 100,
+        "road_warrior": 90,
+        "weapon_master": 90,
+        "salesman": 100
       }
     },
     {
@@ -221,12 +258,12 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 90,
+        "ai_hunter": 80,
         "longest_shot": 80,
-        "road_warrior": 90,
-        "weapon_master": 90
+        "road_warrior": 80,
+        "weapon_master": 80
       }
     },
     {
@@ -249,58 +286,58 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 3,
         "Repeater Carbine": 2,
+        "Revolver": 3,
         "THALES EF88 AUSTEYR": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 230,
-      "aris_score_breakdown": {
-        "ai_hunter": 80,
-        "longest_shot": 70,
-        "weapon_master": 80
-      }
-    },
-    {
-      "ai_kills": 5,
-      "deaths": 3,
-      "favorite_weapon": "Engraved Kolt 1911",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-09-29T18:53:15.871",
-      "ids": [
-        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
-      ],
-      "last_seen": "2026-09-30T23:52:29.094",
-      "longest_ai_kill_m": 221,
-      "longest_ai_kill_weapon": "McMillan CS5",
-      "market_income": 33527,
-      "market_sales": 23,
-      "name": "Festr",
-      "vehicle_driver_entries": 8,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 8538.1,
-      "vehicle_trips": 8,
-      "weapons": {
-        "Engraved Kolt 1911": 2,
-        "Sporter 22": 1,
-        "AAC Honey Badger": 1,
-        "McMillan CS5": 1
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 510,
+      "aris_score": 210,
       "aris_score_breakdown": {
         "ai_hunter": 70,
-        "longest_shot": 90,
-        "trader_king": 100,
-        "road_warrior": 80,
-        "weapon_master": 70,
-        "salesman": 100
+        "longest_shot": 70,
+        "weapon_master": 70
       }
     }
   ],
   "longest_shot": [
+    {
+      "ai_kills": 12,
+      "deaths": 3,
+      "favorite_weapon": "AAC Honey Badger",
+      "favorite_weapon_kills": 7,
+      "first_seen": "2026-09-29T18:53:15.871",
+      "ids": [
+        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
+      ],
+      "last_seen": "2026-10-01T03:52:23.011",
+      "longest_ai_kill_m": 378,
+      "longest_ai_kill_weapon": "McMillan CS5",
+      "market_income": 33527,
+      "market_sales": 23,
+      "name": "Festr",
+      "vehicle_driver_entries": 28,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 32889.6,
+      "vehicle_trips": 28,
+      "weapons": {
+        "AAC Honey Badger": 7,
+        "Engraved Kolt 1911": 2,
+        "McMillan CS5": 2,
+        "Sporter 22": 1
+      },
+      "weapon_master_kills": 7,
+      "is_admin": false,
+      "aris_score": 570,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "trader_king": 100,
+        "road_warrior": 90,
+        "weapon_master": 90,
+        "salesman": 100
+      }
+    },
     {
       "ai_kills": 22,
       "deaths": 1,
@@ -333,51 +370,14 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 580,
+      "aris_score": 570,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
         "salesman": 90
-      }
-    },
-    {
-      "ai_kills": 5,
-      "deaths": 3,
-      "favorite_weapon": "Engraved Kolt 1911",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-09-29T18:53:15.871",
-      "ids": [
-        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
-      ],
-      "last_seen": "2026-09-30T23:52:29.094",
-      "longest_ai_kill_m": 221,
-      "longest_ai_kill_weapon": "McMillan CS5",
-      "market_income": 33527,
-      "market_sales": 23,
-      "name": "Festr",
-      "vehicle_driver_entries": 8,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 8538.1,
-      "vehicle_trips": 8,
-      "weapons": {
-        "Engraved Kolt 1911": 2,
-        "Sporter 22": 1,
-        "AAC Honey Badger": 1,
-        "McMillan CS5": 1
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 510,
-      "aris_score_breakdown": {
-        "ai_hunter": 70,
-        "longest_shot": 90,
-        "trader_king": 100,
-        "road_warrior": 80,
-        "weapon_master": 70,
-        "salesman": 100
       }
     },
     {
@@ -406,12 +406,12 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 90,
+        "ai_hunter": 80,
         "longest_shot": 80,
-        "road_warrior": 90,
-        "weapon_master": 90
+        "road_warrior": 80,
+        "weapon_master": 80
       }
     },
     {
@@ -434,17 +434,17 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 3,
         "Repeater Carbine": 2,
+        "Revolver": 3,
         "THALES EF88 AUSTEYR": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 230,
+      "aris_score": 210,
       "aris_score_breakdown": {
-        "ai_hunter": 80,
+        "ai_hunter": 70,
         "longest_shot": 70,
-        "weapon_master": 80
+        "weapon_master": 70
       }
     }
   ],
@@ -469,17 +469,17 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 3,
         "Repeater Carbine": 2,
+        "Revolver": 3,
         "THALES EF88 AUSTEYR": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 230,
+      "aris_score": 210,
       "aris_score_breakdown": {
-        "ai_hunter": 80,
+        "ai_hunter": 70,
         "longest_shot": 70,
-        "weapon_master": 80
+        "weapon_master": 70
       }
     },
     {
@@ -508,39 +508,39 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 12,
       "deaths": 3,
-      "favorite_weapon": "Engraved Kolt 1911",
-      "favorite_weapon_kills": 2,
+      "favorite_weapon": "AAC Honey Badger",
+      "favorite_weapon_kills": 7,
       "first_seen": "2026-09-29T18:53:15.871",
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-09-30T23:52:29.094",
-      "longest_ai_kill_m": 221,
+      "last_seen": "2026-10-01T03:52:23.011",
+      "longest_ai_kill_m": 378,
       "longest_ai_kill_weapon": "McMillan CS5",
       "market_income": 33527,
       "market_sales": 23,
       "name": "Festr",
-      "vehicle_driver_entries": 8,
+      "vehicle_driver_entries": 28,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 8538.1,
-      "vehicle_trips": 8,
+      "vehicle_trip_straightline_m": 32889.6,
+      "vehicle_trips": 28,
       "weapons": {
+        "AAC Honey Badger": 7,
         "Engraved Kolt 1911": 2,
-        "Sporter 22": 1,
-        "AAC Honey Badger": 1,
-        "McMillan CS5": 1
+        "McMillan CS5": 2,
+        "Sporter 22": 1
       },
-      "weapon_master_kills": 2,
+      "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 510,
+      "aris_score": 570,
       "aris_score_breakdown": {
-        "ai_hunter": 70,
-        "longest_shot": 90,
+        "ai_hunter": 90,
+        "longest_shot": 100,
         "trader_king": 100,
-        "road_warrior": 80,
-        "weapon_master": 70,
+        "road_warrior": 90,
+        "weapon_master": 90,
         "salesman": 100
       }
     },
@@ -645,12 +645,12 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 90,
+        "ai_hunter": 80,
         "longest_shot": 80,
-        "road_warrior": 90,
-        "weapon_master": 90
+        "road_warrior": 80,
+        "weapon_master": 80
       }
     },
     {
@@ -710,10 +710,10 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 580,
+      "aris_score": 570,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
@@ -729,58 +729,60 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-09-29T18:24:23.139",
+      "last_seen": "2026-10-01T02:15:12.386",
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
       "market_income": 0,
       "market_sales": 0,
       "name": "pwolf777",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
+      "vehicle_driver_entries": 2,
+      "vehicle_passenger_entries": 1,
+      "vehicle_trip_straightline_m": 9.9,
+      "vehicle_trips": 2,
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
+      "aris_score": 70,
+      "aris_score_breakdown": {
+        "road_warrior": 70
+      }
     }
   ],
   "trader_king": [
     {
-      "ai_kills": 5,
+      "ai_kills": 12,
       "deaths": 3,
-      "favorite_weapon": "Engraved Kolt 1911",
-      "favorite_weapon_kills": 2,
+      "favorite_weapon": "AAC Honey Badger",
+      "favorite_weapon_kills": 7,
       "first_seen": "2026-09-29T18:53:15.871",
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-09-30T23:52:29.094",
-      "longest_ai_kill_m": 221,
+      "last_seen": "2026-10-01T03:52:23.011",
+      "longest_ai_kill_m": 378,
       "longest_ai_kill_weapon": "McMillan CS5",
       "market_income": 33527,
       "market_sales": 23,
       "name": "Festr",
-      "vehicle_driver_entries": 8,
+      "vehicle_driver_entries": 28,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 8538.1,
-      "vehicle_trips": 8,
+      "vehicle_trip_straightline_m": 32889.6,
+      "vehicle_trips": 28,
       "weapons": {
+        "AAC Honey Badger": 7,
         "Engraved Kolt 1911": 2,
-        "Sporter 22": 1,
-        "AAC Honey Badger": 1,
-        "McMillan CS5": 1
+        "McMillan CS5": 2,
+        "Sporter 22": 1
       },
-      "weapon_master_kills": 2,
+      "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 510,
+      "aris_score": 570,
       "aris_score_breakdown": {
-        "ai_hunter": 70,
-        "longest_shot": 90,
+        "ai_hunter": 90,
+        "longest_shot": 100,
         "trader_king": 100,
-        "road_warrior": 80,
-        "weapon_master": 70,
+        "road_warrior": 90,
+        "weapon_master": 90,
         "salesman": 100
       }
     },
@@ -816,10 +818,10 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 580,
+      "aris_score": 570,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
@@ -860,14 +862,51 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 580,
+      "aris_score": 570,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
         "salesman": 90
+      }
+    },
+    {
+      "ai_kills": 12,
+      "deaths": 3,
+      "favorite_weapon": "AAC Honey Badger",
+      "favorite_weapon_kills": 7,
+      "first_seen": "2026-09-29T18:53:15.871",
+      "ids": [
+        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
+      ],
+      "last_seen": "2026-10-01T03:52:23.011",
+      "longest_ai_kill_m": 378,
+      "longest_ai_kill_weapon": "McMillan CS5",
+      "market_income": 33527,
+      "market_sales": 23,
+      "name": "Festr",
+      "vehicle_driver_entries": 28,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 32889.6,
+      "vehicle_trips": 28,
+      "weapons": {
+        "AAC Honey Badger": 7,
+        "Engraved Kolt 1911": 2,
+        "McMillan CS5": 2,
+        "Sporter 22": 1
+      },
+      "weapon_master_kills": 7,
+      "is_admin": false,
+      "aris_score": 570,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "trader_king": 100,
+        "road_warrior": 90,
+        "weapon_master": 90,
+        "salesman": 100
       }
     },
     {
@@ -896,49 +935,39 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 90,
+        "ai_hunter": 80,
         "longest_shot": 80,
-        "road_warrior": 90,
-        "weapon_master": 90
+        "road_warrior": 80,
+        "weapon_master": 80
       }
     },
     {
-      "ai_kills": 5,
-      "deaths": 3,
-      "favorite_weapon": "Engraved Kolt 1911",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-09-29T18:53:15.871",
+      "ai_kills": 0,
+      "deaths": 1,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-09-29T18:24:11.151",
       "ids": [
-        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
+        "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-09-30T23:52:29.094",
-      "longest_ai_kill_m": 221,
-      "longest_ai_kill_weapon": "McMillan CS5",
-      "market_income": 33527,
-      "market_sales": 23,
-      "name": "Festr",
-      "vehicle_driver_entries": 8,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 8538.1,
-      "vehicle_trips": 8,
-      "weapons": {
-        "Engraved Kolt 1911": 2,
-        "Sporter 22": 1,
-        "AAC Honey Badger": 1,
-        "McMillan CS5": 1
-      },
-      "weapon_master_kills": 2,
+      "last_seen": "2026-10-01T02:15:12.386",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "pwolf777",
+      "vehicle_driver_entries": 2,
+      "vehicle_passenger_entries": 1,
+      "vehicle_trip_straightline_m": 9.9,
+      "vehicle_trips": 2,
+      "weapons": {},
+      "weapon_master_kills": 0,
       "is_admin": false,
-      "aris_score": 510,
+      "aris_score": 70,
       "aris_score_breakdown": {
-        "ai_hunter": 70,
-        "longest_shot": 90,
-        "trader_king": 100,
-        "road_warrior": 80,
-        "weapon_master": 70,
-        "salesman": 100
+        "road_warrior": 70
       }
     }
   ],
@@ -975,14 +1004,51 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 580,
+      "aris_score": 570,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
         "salesman": 90
+      }
+    },
+    {
+      "ai_kills": 12,
+      "deaths": 3,
+      "favorite_weapon": "AAC Honey Badger",
+      "favorite_weapon_kills": 7,
+      "first_seen": "2026-09-29T18:53:15.871",
+      "ids": [
+        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
+      ],
+      "last_seen": "2026-10-01T03:52:23.011",
+      "longest_ai_kill_m": 378,
+      "longest_ai_kill_weapon": "McMillan CS5",
+      "market_income": 33527,
+      "market_sales": 23,
+      "name": "Festr",
+      "vehicle_driver_entries": 28,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 32889.6,
+      "vehicle_trips": 28,
+      "weapons": {
+        "AAC Honey Badger": 7,
+        "Engraved Kolt 1911": 2,
+        "McMillan CS5": 2,
+        "Sporter 22": 1
+      },
+      "weapon_master_kills": 7,
+      "is_admin": false,
+      "aris_score": 570,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "trader_king": 100,
+        "road_warrior": 90,
+        "weapon_master": 90,
+        "salesman": 100
       }
     },
     {
@@ -1011,12 +1077,12 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 90,
+        "ai_hunter": 80,
         "longest_shot": 80,
-        "road_warrior": 90,
-        "weapon_master": 90
+        "road_warrior": 80,
+        "weapon_master": 80
       }
     },
     {
@@ -1039,92 +1105,55 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 3,
         "Repeater Carbine": 2,
+        "Revolver": 3,
         "THALES EF88 AUSTEYR": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 230,
-      "aris_score_breakdown": {
-        "ai_hunter": 80,
-        "longest_shot": 70,
-        "weapon_master": 80
-      }
-    },
-    {
-      "ai_kills": 5,
-      "deaths": 3,
-      "favorite_weapon": "Engraved Kolt 1911",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-09-29T18:53:15.871",
-      "ids": [
-        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
-      ],
-      "last_seen": "2026-09-30T23:52:29.094",
-      "longest_ai_kill_m": 221,
-      "longest_ai_kill_weapon": "McMillan CS5",
-      "market_income": 33527,
-      "market_sales": 23,
-      "name": "Festr",
-      "vehicle_driver_entries": 8,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 8538.1,
-      "vehicle_trips": 8,
-      "weapons": {
-        "Engraved Kolt 1911": 2,
-        "Sporter 22": 1,
-        "AAC Honey Badger": 1,
-        "McMillan CS5": 1
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 510,
+      "aris_score": 210,
       "aris_score_breakdown": {
         "ai_hunter": 70,
-        "longest_shot": 90,
-        "trader_king": 100,
-        "road_warrior": 80,
-        "weapon_master": 70,
-        "salesman": 100
+        "longest_shot": 70,
+        "weapon_master": 70
       }
     }
   ],
   "salesman": [
     {
-      "ai_kills": 5,
+      "ai_kills": 12,
       "deaths": 3,
-      "favorite_weapon": "Engraved Kolt 1911",
-      "favorite_weapon_kills": 2,
+      "favorite_weapon": "AAC Honey Badger",
+      "favorite_weapon_kills": 7,
       "first_seen": "2026-09-29T18:53:15.871",
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-09-30T23:52:29.094",
-      "longest_ai_kill_m": 221,
+      "last_seen": "2026-10-01T03:52:23.011",
+      "longest_ai_kill_m": 378,
       "longest_ai_kill_weapon": "McMillan CS5",
       "market_income": 33527,
       "market_sales": 23,
       "name": "Festr",
-      "vehicle_driver_entries": 8,
+      "vehicle_driver_entries": 28,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 8538.1,
-      "vehicle_trips": 8,
+      "vehicle_trip_straightline_m": 32889.6,
+      "vehicle_trips": 28,
       "weapons": {
+        "AAC Honey Badger": 7,
         "Engraved Kolt 1911": 2,
-        "Sporter 22": 1,
-        "AAC Honey Badger": 1,
-        "McMillan CS5": 1
+        "McMillan CS5": 2,
+        "Sporter 22": 1
       },
-      "weapon_master_kills": 2,
+      "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 510,
+      "aris_score": 570,
       "aris_score_breakdown": {
-        "ai_hunter": 70,
-        "longest_shot": 90,
+        "ai_hunter": 90,
+        "longest_shot": 100,
         "trader_king": 100,
-        "road_warrior": 80,
-        "weapon_master": 70,
+        "road_warrior": 90,
+        "weapon_master": 90,
         "salesman": 100
       }
     },
@@ -1160,10 +1189,10 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 580,
+      "aris_score": 570,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
@@ -1173,6 +1202,43 @@
   ],
   "aris_score": [
     {
+      "ai_kills": 12,
+      "deaths": 3,
+      "favorite_weapon": "AAC Honey Badger",
+      "favorite_weapon_kills": 7,
+      "first_seen": "2026-09-29T18:53:15.871",
+      "ids": [
+        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
+      ],
+      "last_seen": "2026-10-01T03:52:23.011",
+      "longest_ai_kill_m": 378,
+      "longest_ai_kill_weapon": "McMillan CS5",
+      "market_income": 33527,
+      "market_sales": 23,
+      "name": "Festr",
+      "vehicle_driver_entries": 28,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 32889.6,
+      "vehicle_trips": 28,
+      "weapons": {
+        "AAC Honey Badger": 7,
+        "Engraved Kolt 1911": 2,
+        "McMillan CS5": 2,
+        "Sporter 22": 1
+      },
+      "weapon_master_kills": 7,
+      "is_admin": false,
+      "aris_score": 570,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 100,
+        "trader_king": 100,
+        "road_warrior": 90,
+        "weapon_master": 90,
+        "salesman": 100
+      }
+    },
+    {
       "ai_kills": 22,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
@@ -1204,51 +1270,14 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 580,
+      "aris_score": 570,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
         "salesman": 90
-      }
-    },
-    {
-      "ai_kills": 5,
-      "deaths": 3,
-      "favorite_weapon": "Engraved Kolt 1911",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-09-29T18:53:15.871",
-      "ids": [
-        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
-      ],
-      "last_seen": "2026-09-30T23:52:29.094",
-      "longest_ai_kill_m": 221,
-      "longest_ai_kill_weapon": "McMillan CS5",
-      "market_income": 33527,
-      "market_sales": 23,
-      "name": "Festr",
-      "vehicle_driver_entries": 8,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 8538.1,
-      "vehicle_trips": 8,
-      "weapons": {
-        "Engraved Kolt 1911": 2,
-        "Sporter 22": 1,
-        "AAC Honey Badger": 1,
-        "McMillan CS5": 1
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 510,
-      "aris_score_breakdown": {
-        "ai_hunter": 70,
-        "longest_shot": 90,
-        "trader_king": 100,
-        "road_warrior": 80,
-        "weapon_master": 70,
-        "salesman": 100
       }
     },
     {
@@ -1277,12 +1306,12 @@
       },
       "weapon_master_kills": 5,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 90,
+        "ai_hunter": 80,
         "longest_shot": 80,
-        "road_warrior": 90,
-        "weapon_master": 90
+        "road_warrior": 80,
+        "weapon_master": 80
       }
     },
     {
@@ -1305,17 +1334,44 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 3,
         "Repeater Carbine": 2,
+        "Revolver": 3,
         "THALES EF88 AUSTEYR": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 230,
+      "aris_score": 210,
       "aris_score_breakdown": {
-        "ai_hunter": 80,
+        "ai_hunter": 70,
         "longest_shot": 70,
-        "weapon_master": 80
+        "weapon_master": 70
+      }
+    },
+    {
+      "ai_kills": 0,
+      "deaths": 1,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-09-29T18:24:11.151",
+      "ids": [
+        "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
+      ],
+      "last_seen": "2026-10-01T02:15:12.386",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "pwolf777",
+      "vehicle_driver_entries": 2,
+      "vehicle_passenger_entries": 1,
+      "vehicle_trip_straightline_m": 9.9,
+      "vehicle_trips": 2,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 70,
+      "aris_score_breakdown": {
+        "road_warrior": 70
       }
     }
   ]
