@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 11,
   "staff_count": 5,
-  "updated_at_local": "01.10.2026 21:01",
+  "updated_at_local": "01.10.2026 21:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -122,15 +122,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 76,
+      "ai_kills": 79,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 61,
+      "favorite_weapon_kills": 64,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-09-30T22:21:48.713",
+      "last_seen": "2026-10-01T21:23:26.844",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
       "market_income": 10002,
@@ -143,10 +143,10 @@
       "weapons": {
         "CheyTac Intervention M200 TAN": 10,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 61,
+        "SIG SAUER M7 FDE": 64,
         "SK 59/66": 1
       },
-      "weapon_master_kills": 61,
+      "weapon_master_kills": 64,
       "is_admin": true,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -154,7 +154,7 @@
   ],
   "ai_hunter": [
     {
-      "ai_kills": 22,
+      "ai_kills": 26,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -162,16 +162,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-01T21:00:51.204",
-      "longest_ai_kill_m": 257,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
+      "last_seen": "2026-10-01T21:23:53.931",
+      "longest_ai_kill_m": 422,
+      "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 60,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 83834.1,
-      "vehicle_trips": 60,
+      "vehicle_trip_straightline_m": 86096.3,
+      "vehicle_trips": 61,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -181,14 +181,16 @@
         "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 3
+        "THALES EF88 AUSTEYR": 3,
+        "M70 Tundra": 2,
+        "STEYR AUG A3": 2
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 580,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 90,
+        "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
@@ -222,10 +224,10 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 560,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 90,
@@ -275,16 +277,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T21:01:09.911",
+      "last_seen": "2026-10-01T21:15:07.947",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 18,
+      "vehicle_driver_entries": 20,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 21720.8,
-      "vehicle_trips": 18,
+      "vehicle_trip_straightline_m": 23586.3,
+      "vehicle_trips": 20,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -303,6 +305,50 @@
   ],
   "longest_shot": [
     {
+      "ai_kills": 26,
+      "deaths": 1,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-09-29T13:28:45.405",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "last_seen": "2026-10-01T21:23:53.931",
+      "longest_ai_kill_m": 422,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 2273,
+      "market_sales": 7,
+      "name": "Parazone",
+      "vehicle_driver_entries": 61,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 86096.3,
+      "vehicle_trips": 61,
+      "weapons": {
+        "Accuracy International AWM": 1,
+        "CR-527": 1,
+        "Crossbow": 1,
+        "Engraved Kolt 1911": 1,
+        "FX-45": 1,
+        "Kimber 8400 Advanced Tactical SOC II": 4,
+        "Repeater Carbine": 2,
+        "SSG 82": 8,
+        "THALES EF88 AUSTEYR": 3,
+        "M70 Tundra": 2,
+        "STEYR AUG A3": 2
+      },
+      "weapon_master_kills": 8,
+      "is_admin": false,
+      "aris_score": 580,
+      "aris_score_breakdown": {
+        "ai_hunter": 100,
+        "longest_shot": 100,
+        "trader_king": 90,
+        "road_warrior": 100,
+        "weapon_master": 100,
+        "salesman": 90
+      }
+    },
+    {
       "ai_kills": 12,
       "deaths": 3,
       "favorite_weapon": "AAC Honey Badger",
@@ -329,56 +375,14 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 560,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 90,
         "salesman": 100
-      }
-    },
-    {
-      "ai_kills": 22,
-      "deaths": 1,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 8,
-      "first_seen": "2026-09-29T13:28:45.405",
-      "ids": [
-        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
-      ],
-      "last_seen": "2026-10-01T21:00:51.204",
-      "longest_ai_kill_m": 257,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
-      "market_income": 2273,
-      "market_sales": 7,
-      "name": "Parazone",
-      "vehicle_driver_entries": 60,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 83834.1,
-      "vehicle_trips": 60,
-      "weapons": {
-        "Accuracy International AWM": 1,
-        "CR-527": 1,
-        "Crossbow": 1,
-        "Engraved Kolt 1911": 1,
-        "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 4,
-        "Repeater Carbine": 2,
-        "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 3
-      },
-      "weapon_master_kills": 8,
-      "is_admin": false,
-      "aris_score": 570,
-      "aris_score_breakdown": {
-        "ai_hunter": 100,
-        "longest_shot": 90,
-        "trader_king": 90,
-        "road_warrior": 100,
-        "weapon_master": 100,
-        "salesman": 90
       }
     },
     {
@@ -424,16 +428,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T21:01:09.911",
+      "last_seen": "2026-10-01T21:15:07.947",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 18,
+      "vehicle_driver_entries": 20,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 21720.8,
-      "vehicle_trips": 18,
+      "vehicle_trip_straightline_m": 23586.3,
+      "vehicle_trips": 20,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -510,16 +514,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T21:01:09.911",
+      "last_seen": "2026-10-01T21:15:07.947",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 18,
+      "vehicle_driver_entries": 20,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 21720.8,
-      "vehicle_trips": 18,
+      "vehicle_trip_straightline_m": 23586.3,
+      "vehicle_trips": 20,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -562,10 +566,10 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 560,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 90,
@@ -682,7 +686,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 22,
+      "ai_kills": 26,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -690,16 +694,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-01T21:00:51.204",
-      "longest_ai_kill_m": 257,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
+      "last_seen": "2026-10-01T21:23:53.931",
+      "longest_ai_kill_m": 422,
+      "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 60,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 83834.1,
-      "vehicle_trips": 60,
+      "vehicle_trip_straightline_m": 86096.3,
+      "vehicle_trips": 61,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -709,14 +713,16 @@
         "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 3
+        "THALES EF88 AUSTEYR": 3,
+        "M70 Tundra": 2,
+        "STEYR AUG A3": 2
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 580,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 90,
+        "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
@@ -804,10 +810,10 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 560,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 90,
@@ -815,7 +821,7 @@
       }
     },
     {
-      "ai_kills": 22,
+      "ai_kills": 26,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -823,16 +829,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-01T21:00:51.204",
-      "longest_ai_kill_m": 257,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
+      "last_seen": "2026-10-01T21:23:53.931",
+      "longest_ai_kill_m": 422,
+      "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 60,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 83834.1,
-      "vehicle_trips": 60,
+      "vehicle_trip_straightline_m": 86096.3,
+      "vehicle_trips": 61,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -842,14 +848,16 @@
         "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 3
+        "THALES EF88 AUSTEYR": 3,
+        "M70 Tundra": 2,
+        "STEYR AUG A3": 2
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 580,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 90,
+        "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
@@ -888,7 +896,7 @@
   ],
   "road_warrior": [
     {
-      "ai_kills": 22,
+      "ai_kills": 26,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -896,16 +904,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-01T21:00:51.204",
-      "longest_ai_kill_m": 257,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
+      "last_seen": "2026-10-01T21:23:53.931",
+      "longest_ai_kill_m": 422,
+      "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 60,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 83834.1,
-      "vehicle_trips": 60,
+      "vehicle_trip_straightline_m": 86096.3,
+      "vehicle_trips": 61,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -915,14 +923,16 @@
         "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 3
+        "THALES EF88 AUSTEYR": 3,
+        "M70 Tundra": 2,
+        "STEYR AUG A3": 2
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 580,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 90,
+        "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
@@ -956,10 +966,10 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 560,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 90,
@@ -975,16 +985,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T21:01:09.911",
+      "last_seen": "2026-10-01T21:15:07.947",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 18,
+      "vehicle_driver_entries": 20,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 21720.8,
-      "vehicle_trips": 18,
+      "vehicle_trip_straightline_m": 23586.3,
+      "vehicle_trips": 20,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -1066,7 +1076,7 @@
   ],
   "weapon_master": [
     {
-      "ai_kills": 22,
+      "ai_kills": 26,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -1074,16 +1084,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-01T21:00:51.204",
-      "longest_ai_kill_m": 257,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
+      "last_seen": "2026-10-01T21:23:53.931",
+      "longest_ai_kill_m": 422,
+      "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 60,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 83834.1,
-      "vehicle_trips": 60,
+      "vehicle_trip_straightline_m": 86096.3,
+      "vehicle_trips": 61,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -1093,14 +1103,16 @@
         "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 3
+        "THALES EF88 AUSTEYR": 3,
+        "M70 Tundra": 2,
+        "STEYR AUG A3": 2
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 580,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 90,
+        "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
@@ -1134,10 +1146,10 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 560,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 90,
@@ -1187,16 +1199,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T21:01:09.911",
+      "last_seen": "2026-10-01T21:15:07.947",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 18,
+      "vehicle_driver_entries": 20,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 21720.8,
-      "vehicle_trips": 18,
+      "vehicle_trip_straightline_m": 23586.3,
+      "vehicle_trips": 20,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -1241,10 +1253,10 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 560,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 90,
@@ -1252,7 +1264,7 @@
       }
     },
     {
-      "ai_kills": 22,
+      "ai_kills": 26,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -1260,16 +1272,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-01T21:00:51.204",
-      "longest_ai_kill_m": 257,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
+      "last_seen": "2026-10-01T21:23:53.931",
+      "longest_ai_kill_m": 422,
+      "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 60,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 83834.1,
-      "vehicle_trips": 60,
+      "vehicle_trip_straightline_m": 86096.3,
+      "vehicle_trips": 61,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -1279,14 +1291,16 @@
         "Kimber 8400 Advanced Tactical SOC II": 4,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 3
+        "THALES EF88 AUSTEYR": 3,
+        "M70 Tundra": 2,
+        "STEYR AUG A3": 2
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 580,
       "aris_score_breakdown": {
         "ai_hunter": 100,
-        "longest_shot": 90,
+        "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 100,
         "weapon_master": 100,
@@ -1325,6 +1339,50 @@
   ],
   "aris_score": [
     {
+      "ai_kills": 26,
+      "deaths": 1,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-09-29T13:28:45.405",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "last_seen": "2026-10-01T21:23:53.931",
+      "longest_ai_kill_m": 422,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 2273,
+      "market_sales": 7,
+      "name": "Parazone",
+      "vehicle_driver_entries": 61,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 86096.3,
+      "vehicle_trips": 61,
+      "weapons": {
+        "Accuracy International AWM": 1,
+        "CR-527": 1,
+        "Crossbow": 1,
+        "Engraved Kolt 1911": 1,
+        "FX-45": 1,
+        "Kimber 8400 Advanced Tactical SOC II": 4,
+        "Repeater Carbine": 2,
+        "SSG 82": 8,
+        "THALES EF88 AUSTEYR": 3,
+        "M70 Tundra": 2,
+        "STEYR AUG A3": 2
+      },
+      "weapon_master_kills": 8,
+      "is_admin": false,
+      "aris_score": 580,
+      "aris_score_breakdown": {
+        "ai_hunter": 100,
+        "longest_shot": 100,
+        "trader_king": 90,
+        "road_warrior": 100,
+        "weapon_master": 100,
+        "salesman": 90
+      }
+    },
+    {
       "ai_kills": 12,
       "deaths": 3,
       "favorite_weapon": "AAC Honey Badger",
@@ -1351,56 +1409,14 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 570,
+      "aris_score": 560,
       "aris_score_breakdown": {
         "ai_hunter": 90,
-        "longest_shot": 100,
+        "longest_shot": 90,
         "trader_king": 100,
         "road_warrior": 90,
         "weapon_master": 90,
         "salesman": 100
-      }
-    },
-    {
-      "ai_kills": 22,
-      "deaths": 1,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 8,
-      "first_seen": "2026-09-29T13:28:45.405",
-      "ids": [
-        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
-      ],
-      "last_seen": "2026-10-01T21:00:51.204",
-      "longest_ai_kill_m": 257,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
-      "market_income": 2273,
-      "market_sales": 7,
-      "name": "Parazone",
-      "vehicle_driver_entries": 60,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 83834.1,
-      "vehicle_trips": 60,
-      "weapons": {
-        "Accuracy International AWM": 1,
-        "CR-527": 1,
-        "Crossbow": 1,
-        "Engraved Kolt 1911": 1,
-        "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 4,
-        "Repeater Carbine": 2,
-        "SSG 82": 8,
-        "THALES EF88 AUSTEYR": 3
-      },
-      "weapon_master_kills": 8,
-      "is_admin": false,
-      "aris_score": 570,
-      "aris_score_breakdown": {
-        "ai_hunter": 100,
-        "longest_shot": 90,
-        "trader_king": 90,
-        "road_warrior": 100,
-        "weapon_master": 100,
-        "salesman": 90
       }
     },
     {
@@ -1446,16 +1462,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T21:01:09.911",
+      "last_seen": "2026-10-01T21:15:07.947",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 18,
+      "vehicle_driver_entries": 20,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 21720.8,
-      "vehicle_trips": 18,
+      "vehicle_trip_straightline_m": 23586.3,
+      "vehicle_trips": 20,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
