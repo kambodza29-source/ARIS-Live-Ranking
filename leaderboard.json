@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 11,
   "staff_count": 5,
-  "updated_at_local": "01.10.2026 19:01",
+  "updated_at_local": "01.10.2026 19:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -275,16 +275,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T18:48:52.170",
+      "last_seen": "2026-10-01T19:29:08.623",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 5,
+      "vehicle_driver_entries": 12,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 6458.0,
-      "vehicle_trips": 5,
+      "vehicle_trip_straightline_m": 12146.2,
+      "vehicle_trips": 11,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -424,16 +424,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T18:48:52.170",
+      "last_seen": "2026-10-01T19:29:08.623",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 5,
+      "vehicle_driver_entries": 12,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 6458.0,
-      "vehicle_trips": 5,
+      "vehicle_trip_straightline_m": 12146.2,
+      "vehicle_trips": 11,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -452,49 +452,15 @@
   ],
   "most_deaths": [
     {
-      "ai_kills": 9,
-      "deaths": 4,
-      "favorite_weapon": "THALES EF88 AUSTEYR",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-09-29T13:08:54.014",
-      "ids": [
-        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
-      ],
-      "last_seen": "2026-10-01T18:48:52.170",
-      "longest_ai_kill_m": 65,
-      "longest_ai_kill_weapon": "Repeater Carbine",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "RaptorSVK",
-      "vehicle_driver_entries": 5,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 6458.0,
-      "vehicle_trips": 5,
-      "weapons": {
-        "Repeater Carbine": 2,
-        "Revolver": 3,
-        "THALES EF88 AUSTEYR": 4
-      },
-      "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 280,
-      "aris_score_breakdown": {
-        "ai_hunter": 70,
-        "longest_shot": 70,
-        "road_warrior": 70,
-        "weapon_master": 70
-      }
-    },
-    {
       "ai_kills": 0,
-      "deaths": 4,
+      "deaths": 5,
       "favorite_weapon": "",
       "favorite_weapon_kills": 0,
       "first_seen": "2026-09-29T12:58:12.350",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-09-30T21:43:37.302",
+      "last_seen": "2026-10-01T19:29:13.873",
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
       "market_income": 0,
@@ -509,6 +475,65 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 0,
+      "deaths": 4,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-09-30T19:03:38.469",
+      "ids": [
+        "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
+      ],
+      "last_seen": "2026-10-01T19:15:48.158",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "JANZA125",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 9,
+      "deaths": 4,
+      "favorite_weapon": "THALES EF88 AUSTEYR",
+      "favorite_weapon_kills": 4,
+      "first_seen": "2026-09-29T13:08:54.014",
+      "ids": [
+        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
+      ],
+      "last_seen": "2026-10-01T19:29:08.623",
+      "longest_ai_kill_m": 65,
+      "longest_ai_kill_weapon": "Repeater Carbine",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "RaptorSVK",
+      "vehicle_driver_entries": 12,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 12146.2,
+      "vehicle_trips": 11,
+      "weapons": {
+        "Repeater Carbine": 2,
+        "Revolver": 3,
+        "THALES EF88 AUSTEYR": 4
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 280,
+      "aris_score_breakdown": {
+        "ai_hunter": 70,
+        "longest_shot": 70,
+        "road_warrior": 70,
+        "weapon_master": 70
+      }
     },
     {
       "ai_kills": 12,
@@ -546,31 +571,6 @@
         "weapon_master": 90,
         "salesman": 100
       }
-    },
-    {
-      "ai_kills": 0,
-      "deaths": 3,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
-      "first_seen": "2026-09-30T19:03:38.469",
-      "ids": [
-        "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
-      ],
-      "last_seen": "2026-10-01T16:55:44.462",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "JANZA125",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 0,
@@ -732,16 +732,16 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-01T02:15:12.386",
+      "last_seen": "2026-10-01T19:28:13.178",
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
       "market_income": 0,
       "market_sales": 0,
       "name": "pwolf777",
-      "vehicle_driver_entries": 2,
+      "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 9.9,
-      "vehicle_trips": 2,
+      "vehicle_trip_straightline_m": 22.8,
+      "vehicle_trips": 4,
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
@@ -978,16 +978,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T18:48:52.170",
+      "last_seen": "2026-10-01T19:29:08.623",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 5,
+      "vehicle_driver_entries": 12,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 6458.0,
-      "vehicle_trips": 5,
+      "vehicle_trip_straightline_m": 12146.2,
+      "vehicle_trips": 11,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -1012,16 +1012,16 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-01T02:15:12.386",
+      "last_seen": "2026-10-01T19:28:13.178",
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
       "market_income": 0,
       "market_sales": 0,
       "name": "pwolf777",
-      "vehicle_driver_entries": 2,
+      "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 9.9,
-      "vehicle_trips": 2,
+      "vehicle_trip_straightline_m": 22.8,
+      "vehicle_trips": 4,
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
@@ -1154,16 +1154,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T18:48:52.170",
+      "last_seen": "2026-10-01T19:29:08.623",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 5,
+      "vehicle_driver_entries": 12,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 6458.0,
-      "vehicle_trips": 5,
+      "vehicle_trip_straightline_m": 12146.2,
+      "vehicle_trips": 11,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -1384,16 +1384,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T18:48:52.170",
+      "last_seen": "2026-10-01T19:29:08.623",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 5,
+      "vehicle_driver_entries": 12,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 6458.0,
-      "vehicle_trips": 5,
+      "vehicle_trip_straightline_m": 12146.2,
+      "vehicle_trips": 11,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -1418,16 +1418,16 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-01T02:15:12.386",
+      "last_seen": "2026-10-01T19:28:13.178",
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
       "market_income": 0,
       "market_sales": 0,
       "name": "pwolf777",
-      "vehicle_driver_entries": 2,
+      "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 9.9,
-      "vehicle_trips": 2,
+      "vehicle_trip_straightline_m": 22.8,
+      "vehicle_trips": 4,
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
