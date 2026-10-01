@@ -2,19 +2,19 @@
   "season_start": "2026-09-07",
   "player_count": 11,
   "staff_count": 5,
-  "updated_at_local": "01.10.2026 23:01",
+  "updated_at_local": "01.10.2026 23:14",
   "staff": [
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 3,
+      "favorite_weapon_kills": 5,
       "first_seen": "2026-09-29T10:09:41.423",
       "ids": [
         "pCVLGJH5XiEK9FeZM4Jc4sN5N-db9Gv9i-h88J_XhCw="
       ],
-      "last_seen": "2026-10-01T22:24:15.845",
-      "longest_ai_kill_m": 17,
+      "last_seen": "2026-10-01T23:08:26.279",
+      "longest_ai_kill_m": 114,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
       "market_sales": 0,
@@ -24,9 +24,9 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "CR-527": 3
+        "CR-527": 5
       },
-      "weapon_master_kills": 3,
+      "weapon_master_kills": 5,
       "is_admin": true,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -61,7 +61,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 72,
+      "ai_kills": 76,
       "deaths": 1,
       "favorite_weapon": "AAC Honey Badger",
       "favorite_weapon_kills": 28,
@@ -69,7 +69,7 @@
       "ids": [
         "aGoSD8KsI4S0u7l8cK7k-HaDqjJPP_75G19k2_6FO9g="
       ],
-      "last_seen": "2026-09-30T23:38:57.697",
+      "last_seen": "2026-10-01T23:11:48.051",
       "longest_ai_kill_m": 442,
       "longest_ai_kill_weapon": "Accuracy International AS50",
       "market_income": 2391,
@@ -85,8 +85,9 @@
         "Accuracy International AS50": 22,
         "Crossbow": 1,
         "IJ-70": 6,
-        "Repeater Carbine": 2,
-        "Singularity Cannon": 12
+        "Repeater Carbine": 5,
+        "Singularity Cannon": 12,
+        "M70 Tundra": 1
       },
       "weapon_master_kills": 28,
       "is_admin": true,
@@ -279,16 +280,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T22:55:46.719",
+      "last_seen": "2026-10-01T23:12:50.487",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 33,
+      "vehicle_driver_entries": 35,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 37346.8,
-      "vehicle_trips": 33,
+      "vehicle_trip_straightline_m": 41736.3,
+      "vehicle_trips": 35,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -304,6 +305,37 @@
         "road_warrior": 90,
         "weapon_master": 70,
         "salesman": 70
+      }
+    },
+    {
+      "ai_kills": 2,
+      "deaths": 7,
+      "favorite_weapon": "BK-133",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-09-29T12:58:12.350",
+      "ids": [
+        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
+      ],
+      "last_seen": "2026-10-01T23:07:50.405",
+      "longest_ai_kill_m": 20,
+      "longest_ai_kill_weapon": "BK-133",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Siedma",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 180,
+      "aris_score_breakdown": {
+        "ai_hunter": 60,
+        "longest_shot": 60,
+        "weapon_master": 60
       }
     }
   ],
@@ -432,16 +464,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T22:55:46.719",
+      "last_seen": "2026-10-01T23:12:50.487",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 33,
+      "vehicle_driver_entries": 35,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 37346.8,
-      "vehicle_trips": 33,
+      "vehicle_trip_straightline_m": 41736.3,
+      "vehicle_trips": 35,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -458,21 +490,19 @@
         "weapon_master": 70,
         "salesman": 70
       }
-    }
-  ],
-  "most_deaths": [
+    },
     {
-      "ai_kills": 0,
+      "ai_kills": 2,
       "deaths": 7,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
+      "favorite_weapon": "BK-133",
+      "favorite_weapon_kills": 2,
       "first_seen": "2026-09-29T12:58:12.350",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-01T19:58:02.866",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
+      "last_seen": "2026-10-01T23:07:50.405",
+      "longest_ai_kill_m": 20,
+      "longest_ai_kill_weapon": "BK-133",
       "market_income": 0,
       "market_sales": 0,
       "name": "Siedma",
@@ -480,11 +510,50 @@
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
+      "weapons": {
+        "BK-133": 2
+      },
+      "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
+      "aris_score": 180,
+      "aris_score_breakdown": {
+        "ai_hunter": 60,
+        "longest_shot": 60,
+        "weapon_master": 60
+      }
+    }
+  ],
+  "most_deaths": [
+    {
+      "ai_kills": 2,
+      "deaths": 7,
+      "favorite_weapon": "BK-133",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-09-29T12:58:12.350",
+      "ids": [
+        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
+      ],
+      "last_seen": "2026-10-01T23:07:50.405",
+      "longest_ai_kill_m": 20,
+      "longest_ai_kill_weapon": "BK-133",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Siedma",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 180,
+      "aris_score_breakdown": {
+        "ai_hunter": 60,
+        "longest_shot": 60,
+        "weapon_master": 60
+      }
     },
     {
       "ai_kills": 0,
@@ -520,16 +589,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T22:55:46.719",
+      "last_seen": "2026-10-01T23:12:50.487",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 33,
+      "vehicle_driver_entries": 35,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 37346.8,
-      "vehicle_trips": 33,
+      "vehicle_trip_straightline_m": 41736.3,
+      "vehicle_trips": 35,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -837,16 +906,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T22:55:46.719",
+      "last_seen": "2026-10-01T23:12:50.487",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 33,
+      "vehicle_driver_entries": 35,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 37346.8,
-      "vehicle_trips": 33,
+      "vehicle_trip_straightline_m": 41736.3,
+      "vehicle_trips": 35,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -992,16 +1061,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T22:55:46.719",
+      "last_seen": "2026-10-01T23:12:50.487",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 33,
+      "vehicle_driver_entries": 35,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 37346.8,
-      "vehicle_trips": 33,
+      "vehicle_trip_straightline_m": 41736.3,
+      "vehicle_trips": 35,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -1245,16 +1314,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T22:55:46.719",
+      "last_seen": "2026-10-01T23:12:50.487",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 33,
+      "vehicle_driver_entries": 35,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 37346.8,
-      "vehicle_trips": 33,
+      "vehicle_trip_straightline_m": 41736.3,
+      "vehicle_trips": 35,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -1270,6 +1339,37 @@
         "road_warrior": 90,
         "weapon_master": 70,
         "salesman": 70
+      }
+    },
+    {
+      "ai_kills": 2,
+      "deaths": 7,
+      "favorite_weapon": "BK-133",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-09-29T12:58:12.350",
+      "ids": [
+        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
+      ],
+      "last_seen": "2026-10-01T23:07:50.405",
+      "longest_ai_kill_m": 20,
+      "longest_ai_kill_weapon": "BK-133",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Siedma",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 180,
+      "aris_score_breakdown": {
+        "ai_hunter": 60,
+        "longest_shot": 60,
+        "weapon_master": 60
       }
     }
   ],
@@ -1393,16 +1493,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T22:55:46.719",
+      "last_seen": "2026-10-01T23:12:50.487",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 33,
+      "vehicle_driver_entries": 35,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 37346.8,
-      "vehicle_trips": 33,
+      "vehicle_trip_straightline_m": 41736.3,
+      "vehicle_trips": 35,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -1512,16 +1612,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-01T22:55:46.719",
+      "last_seen": "2026-10-01T23:12:50.487",
       "longest_ai_kill_m": 65,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 33,
+      "vehicle_driver_entries": 35,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 37346.8,
-      "vehicle_trips": 33,
+      "vehicle_trip_straightline_m": 41736.3,
+      "vehicle_trips": 35,
       "weapons": {
         "Repeater Carbine": 2,
         "Revolver": 3,
@@ -1600,6 +1700,37 @@
         "trader_king": 70,
         "road_warrior": 60,
         "salesman": 80
+      }
+    },
+    {
+      "ai_kills": 2,
+      "deaths": 7,
+      "favorite_weapon": "BK-133",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-09-29T12:58:12.350",
+      "ids": [
+        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
+      ],
+      "last_seen": "2026-10-01T23:07:50.405",
+      "longest_ai_kill_m": 20,
+      "longest_ai_kill_weapon": "BK-133",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Siedma",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 180,
+      "aris_score_breakdown": {
+        "ai_hunter": 60,
+        "longest_shot": 60,
+        "weapon_master": 60
       }
     }
   ]
