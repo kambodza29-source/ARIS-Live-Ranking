@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 11,
   "staff_count": 5,
-  "updated_at_local": "03.10.2026 12:01",
+  "updated_at_local": "03.10.2026 12:30",
   "staff": [
     {
       "ai_kills": 9,
@@ -159,7 +159,7 @@
   ],
   "ai_hunter": [
     {
-      "ai_kills": 30,
+      "ai_kills": 31,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -167,16 +167,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-03T11:02:41.506",
+      "last_seen": "2026-10-03T12:30:22.876",
       "longest_ai_kill_m": 422,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 68,
+      "vehicle_driver_entries": 74,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 99219.1,
-      "vehicle_trips": 68,
+      "vehicle_trip_straightline_m": 105217.6,
+      "vehicle_trips": 74,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -187,7 +187,7 @@
         "M70 Tundra": 2,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "STEYR AUG A3": 3,
+        "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
@@ -229,11 +229,11 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 60,
-        "road_warrior": 70,
+        "road_warrior": 60,
         "weapon_master": 80
       }
     },
@@ -283,16 +283,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-02T15:38:21.061",
+      "last_seen": "2026-10-03T12:23:12.953",
       "longest_ai_kill_m": 86,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 56,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 59906.8,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 64247.1,
+      "vehicle_trips": 56,
       "weapons": {
         "CR-527": 2,
         "Repeater Carbine": 2,
@@ -312,7 +312,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 11,
       "deaths": 7,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 4,
@@ -320,20 +320,21 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-03T11:56:32.898",
+      "last_seen": "2026-10-03T12:16:59.757",
       "longest_ai_kill_m": 252,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 3079,
       "market_sales": 3,
       "name": "Siedma",
       "vehicle_driver_entries": 43,
-      "vehicle_passenger_entries": 18,
+      "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 43697.0,
       "vehicle_trips": 42,
       "weapons": {
         "BK-133": 3,
         "CR-527": 4,
-        "M70 Tundra": 3
+        "M70 Tundra": 3,
+        "Kimber 8400 Advanced Tactical SOC II": 1
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -381,6 +382,42 @@
       }
     },
     {
+      "ai_kills": 4,
+      "deaths": 2,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-09-30T19:19:50.594",
+      "ids": [
+        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
+      ],
+      "last_seen": "2026-10-03T12:21:28.679",
+      "longest_ai_kill_m": 142,
+      "longest_ai_kill_weapon": "SSG 82",
+      "market_income": 9631,
+      "market_sales": 23,
+      "name": "Skelly",
+      "vehicle_driver_entries": 14,
+      "vehicle_passenger_entries": 5,
+      "vehicle_trip_straightline_m": 22853.3,
+      "vehicle_trips": 14,
+      "weapons": {
+        "SSG 82": 1,
+        "K14": 1,
+        "L15 Defense": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 320,
+      "aris_score_breakdown": {
+        "ai_hunter": 40,
+        "longest_shot": 50,
+        "trader_king": 80,
+        "road_warrior": 40,
+        "weapon_master": 20,
+        "salesman": 90
+      }
+    },
+    {
       "ai_kills": 3,
       "deaths": 2,
       "favorite_weapon": "CR-527",
@@ -404,9 +441,9 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 290,
+      "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 100,
         "road_warrior": 20,
@@ -423,16 +460,16 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-03T11:39:33.874",
+      "last_seen": "2026-10-03T12:30:47.744",
       "longest_ai_kill_m": 245,
       "longest_ai_kill_weapon": "L85A2",
       "market_income": 1099,
       "market_sales": 2,
       "name": "pwolf777",
-      "vehicle_driver_entries": 42,
+      "vehicle_driver_entries": 45,
       "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 35485.0,
-      "vehicle_trips": 41,
+      "vehicle_trip_straightline_m": 42737.9,
+      "vehicle_trips": 44,
       "weapons": {
         "L85A2": 3
       },
@@ -440,52 +477,18 @@
       "is_admin": false,
       "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 20,
         "longest_shot": 70,
         "trader_king": 40,
-        "road_warrior": 60,
+        "road_warrior": 70,
         "weapon_master": 30,
         "salesman": 50
-      }
-    },
-    {
-      "ai_kills": 1,
-      "deaths": 2,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-09-30T19:19:50.594",
-      "ids": [
-        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
-      ],
-      "last_seen": "2026-10-03T11:47:33.413",
-      "longest_ai_kill_m": 142,
-      "longest_ai_kill_weapon": "SSG 82",
-      "market_income": 9631,
-      "market_sales": 23,
-      "name": "Skelly",
-      "vehicle_driver_entries": 14,
-      "vehicle_passenger_entries": 5,
-      "vehicle_trip_straightline_m": 22853.3,
-      "vehicle_trips": 14,
-      "weapons": {
-        "SSG 82": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 300,
-      "aris_score_breakdown": {
-        "ai_hunter": 20,
-        "longest_shot": 50,
-        "trader_king": 80,
-        "road_warrior": 40,
-        "weapon_master": 20,
-        "salesman": 90
       }
     }
   ],
   "longest_shot": [
     {
-      "ai_kills": 30,
+      "ai_kills": 31,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -493,16 +496,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-03T11:02:41.506",
+      "last_seen": "2026-10-03T12:30:22.876",
       "longest_ai_kill_m": 422,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 68,
+      "vehicle_driver_entries": 74,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 99219.1,
-      "vehicle_trips": 68,
+      "vehicle_trip_straightline_m": 105217.6,
+      "vehicle_trips": 74,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -513,7 +516,7 @@
         "M70 Tundra": 2,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "STEYR AUG A3": 3,
+        "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
@@ -566,7 +569,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 11,
       "deaths": 7,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 4,
@@ -574,20 +577,21 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-03T11:56:32.898",
+      "last_seen": "2026-10-03T12:16:59.757",
       "longest_ai_kill_m": 252,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 3079,
       "market_sales": 3,
       "name": "Siedma",
       "vehicle_driver_entries": 43,
-      "vehicle_passenger_entries": 18,
+      "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 43697.0,
       "vehicle_trips": 42,
       "weapons": {
         "BK-133": 3,
         "CR-527": 4,
-        "M70 Tundra": 3
+        "M70 Tundra": 3,
+        "Kimber 8400 Advanced Tactical SOC II": 1
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -610,16 +614,16 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-03T11:39:33.874",
+      "last_seen": "2026-10-03T12:30:47.744",
       "longest_ai_kill_m": 245,
       "longest_ai_kill_weapon": "L85A2",
       "market_income": 1099,
       "market_sales": 2,
       "name": "pwolf777",
-      "vehicle_driver_entries": 42,
+      "vehicle_driver_entries": 45,
       "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 35485.0,
-      "vehicle_trips": 41,
+      "vehicle_trip_straightline_m": 42737.9,
+      "vehicle_trips": 44,
       "weapons": {
         "L85A2": 3
       },
@@ -627,10 +631,10 @@
       "is_admin": false,
       "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 20,
         "longest_shot": 70,
         "trader_king": 40,
-        "road_warrior": 60,
+        "road_warrior": 70,
         "weapon_master": 30,
         "salesman": 50
       }
@@ -662,24 +666,24 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 60,
-        "road_warrior": 70,
+        "road_warrior": 60,
         "weapon_master": 80
       }
     },
     {
-      "ai_kills": 1,
+      "ai_kills": 4,
       "deaths": 2,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 1,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 2,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T11:47:33.413",
+      "last_seen": "2026-10-03T12:21:28.679",
       "longest_ai_kill_m": 142,
       "longest_ai_kill_weapon": "SSG 82",
       "market_income": 9631,
@@ -690,13 +694,15 @@
       "vehicle_trip_straightline_m": 22853.3,
       "vehicle_trips": 14,
       "weapons": {
-        "SSG 82": 1
+        "SSG 82": 1,
+        "K14": 1,
+        "L15 Defense": 2
       },
-      "weapon_master_kills": 1,
+      "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 40,
         "longest_shot": 50,
         "trader_king": 80,
         "road_warrior": 40,
@@ -713,16 +719,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-02T15:38:21.061",
+      "last_seen": "2026-10-03T12:23:12.953",
       "longest_ai_kill_m": 86,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 56,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 59906.8,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 64247.1,
+      "vehicle_trips": 56,
       "weapons": {
         "CR-527": 2,
         "Repeater Carbine": 2,
@@ -798,9 +804,9 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 290,
+      "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 100,
         "road_warrior": 20,
@@ -811,7 +817,7 @@
   ],
   "most_deaths": [
     {
-      "ai_kills": 10,
+      "ai_kills": 11,
       "deaths": 7,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 4,
@@ -819,20 +825,21 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-03T11:56:32.898",
+      "last_seen": "2026-10-03T12:16:59.757",
       "longest_ai_kill_m": 252,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 3079,
       "market_sales": 3,
       "name": "Siedma",
       "vehicle_driver_entries": 43,
-      "vehicle_passenger_entries": 18,
+      "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 43697.0,
       "vehicle_trips": 42,
       "weapons": {
         "BK-133": 3,
         "CR-527": 4,
-        "M70 Tundra": 3
+        "M70 Tundra": 3,
+        "Kimber 8400 Advanced Tactical SOC II": 1
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -880,16 +887,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-02T15:38:21.061",
+      "last_seen": "2026-10-03T12:23:12.953",
       "longest_ai_kill_m": 86,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 56,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 59906.8,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 64247.1,
+      "vehicle_trips": 56,
       "weapons": {
         "CR-527": 2,
         "Repeater Carbine": 2,
@@ -1002,9 +1009,9 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 290,
+      "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 100,
         "road_warrior": 20,
@@ -1039,24 +1046,24 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 60,
-        "road_warrior": 70,
+        "road_warrior": 60,
         "weapon_master": 80
       }
     },
     {
-      "ai_kills": 1,
+      "ai_kills": 4,
       "deaths": 2,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 1,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 2,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T11:47:33.413",
+      "last_seen": "2026-10-03T12:21:28.679",
       "longest_ai_kill_m": 142,
       "longest_ai_kill_weapon": "SSG 82",
       "market_income": 9631,
@@ -1067,13 +1074,15 @@
       "vehicle_trip_straightline_m": 22853.3,
       "vehicle_trips": 14,
       "weapons": {
-        "SSG 82": 1
+        "SSG 82": 1,
+        "K14": 1,
+        "L15 Defense": 2
       },
-      "weapon_master_kills": 1,
+      "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 40,
         "longest_shot": 50,
         "trader_king": 80,
         "road_warrior": 40,
@@ -1082,7 +1091,7 @@
       }
     },
     {
-      "ai_kills": 30,
+      "ai_kills": 31,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -1090,16 +1099,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-03T11:02:41.506",
+      "last_seen": "2026-10-03T12:30:22.876",
       "longest_ai_kill_m": 422,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 68,
+      "vehicle_driver_entries": 74,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 99219.1,
-      "vehicle_trips": 68,
+      "vehicle_trip_straightline_m": 105217.6,
+      "vehicle_trips": 74,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -1110,7 +1119,7 @@
         "M70 Tundra": 2,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "STEYR AUG A3": 3,
+        "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
@@ -1134,16 +1143,16 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-03T11:39:33.874",
+      "last_seen": "2026-10-03T12:30:47.744",
       "longest_ai_kill_m": 245,
       "longest_ai_kill_weapon": "L85A2",
       "market_income": 1099,
       "market_sales": 2,
       "name": "pwolf777",
-      "vehicle_driver_entries": 42,
+      "vehicle_driver_entries": 45,
       "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 35485.0,
-      "vehicle_trips": 41,
+      "vehicle_trip_straightline_m": 42737.9,
+      "vehicle_trips": 44,
       "weapons": {
         "L85A2": 3
       },
@@ -1151,10 +1160,10 @@
       "is_admin": false,
       "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 20,
         "longest_shot": 70,
         "trader_king": 40,
-        "road_warrior": 60,
+        "road_warrior": 70,
         "weapon_master": 30,
         "salesman": 50
       }
@@ -1208,9 +1217,9 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 290,
+      "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 100,
         "road_warrior": 20,
@@ -1256,15 +1265,15 @@
       }
     },
     {
-      "ai_kills": 1,
+      "ai_kills": 4,
       "deaths": 2,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 1,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 2,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T11:47:33.413",
+      "last_seen": "2026-10-03T12:21:28.679",
       "longest_ai_kill_m": 142,
       "longest_ai_kill_weapon": "SSG 82",
       "market_income": 9631,
@@ -1275,13 +1284,15 @@
       "vehicle_trip_straightline_m": 22853.3,
       "vehicle_trips": 14,
       "weapons": {
-        "SSG 82": 1
+        "SSG 82": 1,
+        "K14": 1,
+        "L15 Defense": 2
       },
-      "weapon_master_kills": 1,
+      "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 40,
         "longest_shot": 50,
         "trader_king": 80,
         "road_warrior": 40,
@@ -1290,7 +1301,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 11,
       "deaths": 7,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 4,
@@ -1298,20 +1309,21 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-03T11:56:32.898",
+      "last_seen": "2026-10-03T12:16:59.757",
       "longest_ai_kill_m": 252,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 3079,
       "market_sales": 3,
       "name": "Siedma",
       "vehicle_driver_entries": 43,
-      "vehicle_passenger_entries": 18,
+      "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 43697.0,
       "vehicle_trips": 42,
       "weapons": {
         "BK-133": 3,
         "CR-527": 4,
-        "M70 Tundra": 3
+        "M70 Tundra": 3,
+        "Kimber 8400 Advanced Tactical SOC II": 1
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -1334,16 +1346,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-02T15:38:21.061",
+      "last_seen": "2026-10-03T12:23:12.953",
       "longest_ai_kill_m": 86,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 56,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 59906.8,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 64247.1,
+      "vehicle_trips": 56,
       "weapons": {
         "CR-527": 2,
         "Repeater Carbine": 2,
@@ -1363,7 +1375,7 @@
       }
     },
     {
-      "ai_kills": 30,
+      "ai_kills": 31,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -1371,16 +1383,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-03T11:02:41.506",
+      "last_seen": "2026-10-03T12:30:22.876",
       "longest_ai_kill_m": 422,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 68,
+      "vehicle_driver_entries": 74,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 99219.1,
-      "vehicle_trips": 68,
+      "vehicle_trip_straightline_m": 105217.6,
+      "vehicle_trips": 74,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -1391,7 +1403,7 @@
         "M70 Tundra": 2,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "STEYR AUG A3": 3,
+        "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
@@ -1415,16 +1427,16 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-03T11:39:33.874",
+      "last_seen": "2026-10-03T12:30:47.744",
       "longest_ai_kill_m": 245,
       "longest_ai_kill_weapon": "L85A2",
       "market_income": 1099,
       "market_sales": 2,
       "name": "pwolf777",
-      "vehicle_driver_entries": 42,
+      "vehicle_driver_entries": 45,
       "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 35485.0,
-      "vehicle_trips": 41,
+      "vehicle_trip_straightline_m": 42737.9,
+      "vehicle_trips": 44,
       "weapons": {
         "L85A2": 3
       },
@@ -1432,10 +1444,10 @@
       "is_admin": false,
       "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 20,
         "longest_shot": 70,
         "trader_king": 40,
-        "road_warrior": 60,
+        "road_warrior": 70,
         "weapon_master": 30,
         "salesman": 50
       }
@@ -1443,7 +1455,7 @@
   ],
   "road_warrior": [
     {
-      "ai_kills": 30,
+      "ai_kills": 31,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -1451,16 +1463,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-03T11:02:41.506",
+      "last_seen": "2026-10-03T12:30:22.876",
       "longest_ai_kill_m": 422,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 68,
+      "vehicle_driver_entries": 74,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 99219.1,
-      "vehicle_trips": 68,
+      "vehicle_trip_straightline_m": 105217.6,
+      "vehicle_trips": 74,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -1471,7 +1483,7 @@
         "M70 Tundra": 2,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "STEYR AUG A3": 3,
+        "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
@@ -1495,16 +1507,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-02T15:38:21.061",
+      "last_seen": "2026-10-03T12:23:12.953",
       "longest_ai_kill_m": 86,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 56,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 59906.8,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 64247.1,
+      "vehicle_trips": 56,
       "weapons": {
         "CR-527": 2,
         "Repeater Carbine": 2,
@@ -1524,7 +1536,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 11,
       "deaths": 7,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 4,
@@ -1532,20 +1544,21 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-03T11:56:32.898",
+      "last_seen": "2026-10-03T12:16:59.757",
       "longest_ai_kill_m": 252,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 3079,
       "market_sales": 3,
       "name": "Siedma",
       "vehicle_driver_entries": 43,
-      "vehicle_passenger_entries": 18,
+      "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 43697.0,
       "vehicle_trips": 42,
       "weapons": {
         "BK-133": 3,
         "CR-527": 4,
-        "M70 Tundra": 3
+        "M70 Tundra": 3,
+        "Kimber 8400 Advanced Tactical SOC II": 1
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -1557,6 +1570,40 @@
         "road_warrior": 80,
         "weapon_master": 50,
         "salesman": 60
+      }
+    },
+    {
+      "ai_kills": 3,
+      "deaths": 1,
+      "favorite_weapon": "L85A2",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-09-29T18:24:11.151",
+      "ids": [
+        "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
+      ],
+      "last_seen": "2026-10-03T12:30:47.744",
+      "longest_ai_kill_m": 245,
+      "longest_ai_kill_weapon": "L85A2",
+      "market_income": 1099,
+      "market_sales": 2,
+      "name": "pwolf777",
+      "vehicle_driver_entries": 45,
+      "vehicle_passenger_entries": 1,
+      "vehicle_trip_straightline_m": 42737.9,
+      "vehicle_trips": 44,
+      "weapons": {
+        "L85A2": 3
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 280,
+      "aris_score_breakdown": {
+        "ai_hunter": 20,
+        "longest_shot": 70,
+        "trader_king": 40,
+        "road_warrior": 70,
+        "weapon_master": 30,
+        "salesman": 50
       }
     },
     {
@@ -1586,46 +1633,12 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 60,
-        "road_warrior": 70,
-        "weapon_master": 80
-      }
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 1,
-      "favorite_weapon": "L85A2",
-      "favorite_weapon_kills": 3,
-      "first_seen": "2026-09-29T18:24:11.151",
-      "ids": [
-        "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
-      ],
-      "last_seen": "2026-10-03T11:39:33.874",
-      "longest_ai_kill_m": 245,
-      "longest_ai_kill_weapon": "L85A2",
-      "market_income": 1099,
-      "market_sales": 2,
-      "name": "pwolf777",
-      "vehicle_driver_entries": 42,
-      "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 35485.0,
-      "vehicle_trips": 41,
-      "weapons": {
-        "L85A2": 3
-      },
-      "weapon_master_kills": 3,
-      "is_admin": false,
-      "aris_score": 280,
-      "aris_score_breakdown": {
-        "ai_hunter": 30,
-        "longest_shot": 70,
-        "trader_king": 40,
         "road_warrior": 60,
-        "weapon_master": 30,
-        "salesman": 50
+        "weapon_master": 80
       }
     },
     {
@@ -1666,15 +1679,15 @@
       }
     },
     {
-      "ai_kills": 1,
+      "ai_kills": 4,
       "deaths": 2,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 1,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 2,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T11:47:33.413",
+      "last_seen": "2026-10-03T12:21:28.679",
       "longest_ai_kill_m": 142,
       "longest_ai_kill_weapon": "SSG 82",
       "market_income": 9631,
@@ -1685,13 +1698,15 @@
       "vehicle_trip_straightline_m": 22853.3,
       "vehicle_trips": 14,
       "weapons": {
-        "SSG 82": 1
+        "SSG 82": 1,
+        "K14": 1,
+        "L15 Defense": 2
       },
-      "weapon_master_kills": 1,
+      "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 40,
         "longest_shot": 50,
         "trader_king": 80,
         "road_warrior": 40,
@@ -1756,9 +1771,9 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 290,
+      "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 100,
         "road_warrior": 20,
@@ -1769,7 +1784,7 @@
   ],
   "weapon_master": [
     {
-      "ai_kills": 30,
+      "ai_kills": 31,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -1777,16 +1792,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-03T11:02:41.506",
+      "last_seen": "2026-10-03T12:30:22.876",
       "longest_ai_kill_m": 422,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 68,
+      "vehicle_driver_entries": 74,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 99219.1,
-      "vehicle_trips": 68,
+      "vehicle_trip_straightline_m": 105217.6,
+      "vehicle_trips": 74,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -1797,7 +1812,7 @@
         "M70 Tundra": 2,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "STEYR AUG A3": 3,
+        "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
@@ -1876,11 +1891,11 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 60,
-        "road_warrior": 70,
+        "road_warrior": 60,
         "weapon_master": 80
       }
     },
@@ -1926,16 +1941,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-02T15:38:21.061",
+      "last_seen": "2026-10-03T12:23:12.953",
       "longest_ai_kill_m": 86,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 56,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 59906.8,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 64247.1,
+      "vehicle_trips": 56,
       "weapons": {
         "CR-527": 2,
         "Repeater Carbine": 2,
@@ -1955,7 +1970,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 11,
       "deaths": 7,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 4,
@@ -1963,20 +1978,21 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-03T11:56:32.898",
+      "last_seen": "2026-10-03T12:16:59.757",
       "longest_ai_kill_m": 252,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 3079,
       "market_sales": 3,
       "name": "Siedma",
       "vehicle_driver_entries": 43,
-      "vehicle_passenger_entries": 18,
+      "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 43697.0,
       "vehicle_trips": 42,
       "weapons": {
         "BK-133": 3,
         "CR-527": 4,
-        "M70 Tundra": 3
+        "M70 Tundra": 3,
+        "Kimber 8400 Advanced Tactical SOC II": 1
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -2014,9 +2030,9 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 290,
+      "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 100,
         "road_warrior": 20,
@@ -2033,16 +2049,16 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-03T11:39:33.874",
+      "last_seen": "2026-10-03T12:30:47.744",
       "longest_ai_kill_m": 245,
       "longest_ai_kill_weapon": "L85A2",
       "market_income": 1099,
       "market_sales": 2,
       "name": "pwolf777",
-      "vehicle_driver_entries": 42,
+      "vehicle_driver_entries": 45,
       "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 35485.0,
-      "vehicle_trips": 41,
+      "vehicle_trip_straightline_m": 42737.9,
+      "vehicle_trips": 44,
       "weapons": {
         "L85A2": 3
       },
@@ -2050,24 +2066,24 @@
       "is_admin": false,
       "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 20,
         "longest_shot": 70,
         "trader_king": 40,
-        "road_warrior": 60,
+        "road_warrior": 70,
         "weapon_master": 30,
         "salesman": 50
       }
     },
     {
-      "ai_kills": 1,
+      "ai_kills": 4,
       "deaths": 2,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 1,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 2,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T11:47:33.413",
+      "last_seen": "2026-10-03T12:21:28.679",
       "longest_ai_kill_m": 142,
       "longest_ai_kill_weapon": "SSG 82",
       "market_income": 9631,
@@ -2078,13 +2094,15 @@
       "vehicle_trip_straightline_m": 22853.3,
       "vehicle_trips": 14,
       "weapons": {
-        "SSG 82": 1
+        "SSG 82": 1,
+        "K14": 1,
+        "L15 Defense": 2
       },
-      "weapon_master_kills": 1,
+      "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 40,
         "longest_shot": 50,
         "trader_king": 80,
         "road_warrior": 40,
@@ -2132,15 +2150,15 @@
       }
     },
     {
-      "ai_kills": 1,
+      "ai_kills": 4,
       "deaths": 2,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 1,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 2,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T11:47:33.413",
+      "last_seen": "2026-10-03T12:21:28.679",
       "longest_ai_kill_m": 142,
       "longest_ai_kill_weapon": "SSG 82",
       "market_income": 9631,
@@ -2151,13 +2169,15 @@
       "vehicle_trip_straightline_m": 22853.3,
       "vehicle_trips": 14,
       "weapons": {
-        "SSG 82": 1
+        "SSG 82": 1,
+        "K14": 1,
+        "L15 Defense": 2
       },
-      "weapon_master_kills": 1,
+      "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 320,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 40,
         "longest_shot": 50,
         "trader_king": 80,
         "road_warrior": 40,
@@ -2166,7 +2186,7 @@
       }
     },
     {
-      "ai_kills": 30,
+      "ai_kills": 31,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -2174,16 +2194,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-03T11:02:41.506",
+      "last_seen": "2026-10-03T12:30:22.876",
       "longest_ai_kill_m": 422,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 68,
+      "vehicle_driver_entries": 74,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 99219.1,
-      "vehicle_trips": 68,
+      "vehicle_trip_straightline_m": 105217.6,
+      "vehicle_trips": 74,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -2194,7 +2214,7 @@
         "M70 Tundra": 2,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "STEYR AUG A3": 3,
+        "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
@@ -2233,9 +2253,9 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 290,
+      "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 100,
         "road_warrior": 20,
@@ -2244,7 +2264,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 11,
       "deaths": 7,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 4,
@@ -2252,20 +2272,21 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-03T11:56:32.898",
+      "last_seen": "2026-10-03T12:16:59.757",
       "longest_ai_kill_m": 252,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 3079,
       "market_sales": 3,
       "name": "Siedma",
       "vehicle_driver_entries": 43,
-      "vehicle_passenger_entries": 18,
+      "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 43697.0,
       "vehicle_trips": 42,
       "weapons": {
         "BK-133": 3,
         "CR-527": 4,
-        "M70 Tundra": 3
+        "M70 Tundra": 3,
+        "Kimber 8400 Advanced Tactical SOC II": 1
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -2288,16 +2309,16 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-03T11:39:33.874",
+      "last_seen": "2026-10-03T12:30:47.744",
       "longest_ai_kill_m": 245,
       "longest_ai_kill_weapon": "L85A2",
       "market_income": 1099,
       "market_sales": 2,
       "name": "pwolf777",
-      "vehicle_driver_entries": 42,
+      "vehicle_driver_entries": 45,
       "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 35485.0,
-      "vehicle_trips": 41,
+      "vehicle_trip_straightline_m": 42737.9,
+      "vehicle_trips": 44,
       "weapons": {
         "L85A2": 3
       },
@@ -2305,10 +2326,10 @@
       "is_admin": false,
       "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 20,
         "longest_shot": 70,
         "trader_king": 40,
-        "road_warrior": 60,
+        "road_warrior": 70,
         "weapon_master": 30,
         "salesman": 50
       }
@@ -2322,16 +2343,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-02T15:38:21.061",
+      "last_seen": "2026-10-03T12:23:12.953",
       "longest_ai_kill_m": 86,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 56,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 59906.8,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 64247.1,
+      "vehicle_trips": 56,
       "weapons": {
         "CR-527": 2,
         "Repeater Carbine": 2,
@@ -2353,7 +2374,7 @@
   ],
   "aris_score": [
     {
-      "ai_kills": 30,
+      "ai_kills": 31,
       "deaths": 1,
       "favorite_weapon": "SSG 82",
       "favorite_weapon_kills": 8,
@@ -2361,16 +2382,16 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-03T11:02:41.506",
+      "last_seen": "2026-10-03T12:30:22.876",
       "longest_ai_kill_m": 422,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 68,
+      "vehicle_driver_entries": 74,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 99219.1,
-      "vehicle_trips": 68,
+      "vehicle_trip_straightline_m": 105217.6,
+      "vehicle_trips": 74,
       "weapons": {
         "Accuracy International AWM": 1,
         "CR-527": 1,
@@ -2381,7 +2402,7 @@
         "M70 Tundra": 2,
         "Repeater Carbine": 2,
         "SSG 82": 8,
-        "STEYR AUG A3": 3,
+        "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
       "weapon_master_kills": 8,
@@ -2434,7 +2455,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 11,
       "deaths": 7,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 4,
@@ -2442,20 +2463,21 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-03T11:56:32.898",
+      "last_seen": "2026-10-03T12:16:59.757",
       "longest_ai_kill_m": 252,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 3079,
       "market_sales": 3,
       "name": "Siedma",
       "vehicle_driver_entries": 43,
-      "vehicle_passenger_entries": 18,
+      "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 43697.0,
       "vehicle_trips": 42,
       "weapons": {
         "BK-133": 3,
         "CR-527": 4,
-        "M70 Tundra": 3
+        "M70 Tundra": 3,
+        "Kimber 8400 Advanced Tactical SOC II": 1
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -2478,16 +2500,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-02T15:38:21.061",
+      "last_seen": "2026-10-03T12:23:12.953",
       "longest_ai_kill_m": 86,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 2994,
       "market_sales": 1,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 56,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 59906.8,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 64247.1,
+      "vehicle_trips": 56,
       "weapons": {
         "CR-527": 2,
         "Repeater Carbine": 2,
@@ -2504,6 +2526,42 @@
         "road_warrior": 90,
         "weapon_master": 60,
         "salesman": 40
+      }
+    },
+    {
+      "ai_kills": 4,
+      "deaths": 2,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-09-30T19:19:50.594",
+      "ids": [
+        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
+      ],
+      "last_seen": "2026-10-03T12:21:28.679",
+      "longest_ai_kill_m": 142,
+      "longest_ai_kill_weapon": "SSG 82",
+      "market_income": 9631,
+      "market_sales": 23,
+      "name": "Skelly",
+      "vehicle_driver_entries": 14,
+      "vehicle_passenger_entries": 5,
+      "vehicle_trip_straightline_m": 22853.3,
+      "vehicle_trips": 14,
+      "weapons": {
+        "SSG 82": 1,
+        "K14": 1,
+        "L15 Defense": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 320,
+      "aris_score_breakdown": {
+        "ai_hunter": 40,
+        "longest_shot": 50,
+        "trader_king": 80,
+        "road_warrior": 40,
+        "weapon_master": 20,
+        "salesman": 90
       }
     },
     {
@@ -2533,46 +2591,12 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 300,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 60,
-        "road_warrior": 70,
+        "road_warrior": 60,
         "weapon_master": 80
-      }
-    },
-    {
-      "ai_kills": 1,
-      "deaths": 2,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-09-30T19:19:50.594",
-      "ids": [
-        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
-      ],
-      "last_seen": "2026-10-03T11:47:33.413",
-      "longest_ai_kill_m": 142,
-      "longest_ai_kill_weapon": "SSG 82",
-      "market_income": 9631,
-      "market_sales": 23,
-      "name": "Skelly",
-      "vehicle_driver_entries": 14,
-      "vehicle_passenger_entries": 5,
-      "vehicle_trip_straightline_m": 22853.3,
-      "vehicle_trips": 14,
-      "weapons": {
-        "SSG 82": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 300,
-      "aris_score_breakdown": {
-        "ai_hunter": 20,
-        "longest_shot": 50,
-        "trader_king": 80,
-        "road_warrior": 40,
-        "weapon_master": 20,
-        "salesman": 90
       }
     },
     {
@@ -2599,9 +2623,9 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 290,
+      "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 100,
         "road_warrior": 20,
@@ -2618,16 +2642,16 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-03T11:39:33.874",
+      "last_seen": "2026-10-03T12:30:47.744",
       "longest_ai_kill_m": 245,
       "longest_ai_kill_weapon": "L85A2",
       "market_income": 1099,
       "market_sales": 2,
       "name": "pwolf777",
-      "vehicle_driver_entries": 42,
+      "vehicle_driver_entries": 45,
       "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 35485.0,
-      "vehicle_trips": 41,
+      "vehicle_trip_straightline_m": 42737.9,
+      "vehicle_trips": 44,
       "weapons": {
         "L85A2": 3
       },
@@ -2635,10 +2659,10 @@
       "is_admin": false,
       "aris_score": 280,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 20,
         "longest_shot": 70,
         "trader_king": 40,
-        "road_warrior": 60,
+        "road_warrior": 70,
         "weapon_master": 30,
         "salesman": 50
       }
