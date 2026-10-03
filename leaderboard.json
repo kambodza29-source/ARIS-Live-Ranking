@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 11,
   "staff_count": 5,
-  "updated_at_local": "03.10.2026 17:31",
+  "updated_at_local": "03.10.2026 18:01",
   "staff": [
     {
       "ai_kills": 9,
@@ -349,6 +349,42 @@
       }
     },
     {
+      "ai_kills": 9,
+      "deaths": 2,
+      "favorite_weapon": "K14",
+      "favorite_weapon_kills": 6,
+      "first_seen": "2026-09-30T19:19:50.594",
+      "ids": [
+        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
+      ],
+      "last_seen": "2026-10-03T17:38:54.808",
+      "longest_ai_kill_m": 442,
+      "longest_ai_kill_weapon": "K14",
+      "market_income": 39384,
+      "market_sales": 27,
+      "name": "Skelly",
+      "vehicle_driver_entries": 24,
+      "vehicle_passenger_entries": 14,
+      "vehicle_trip_straightline_m": 54931.5,
+      "vehicle_trips": 24,
+      "weapons": {
+        "K14": 6,
+        "L15 Defense": 2,
+        "SSG 82": 1
+      },
+      "weapon_master_kills": 6,
+      "is_admin": false,
+      "aris_score": 480,
+      "aris_score_breakdown": {
+        "ai_hunter": 50,
+        "longest_shot": 100,
+        "trader_king": 90,
+        "road_warrior": 80,
+        "weapon_master": 70,
+        "salesman": 90
+      }
+    },
+    {
       "ai_kills": 8,
       "deaths": 3,
       "favorite_weapon": "CR-527",
@@ -373,48 +409,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 40,
         "longest_shot": 30,
         "road_warrior": 30,
         "weapon_master": 60
-      }
-    },
-    {
-      "ai_kills": 8,
-      "deaths": 2,
-      "favorite_weapon": "K14",
-      "favorite_weapon_kills": 5,
-      "first_seen": "2026-09-30T19:19:50.594",
-      "ids": [
-        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
-      ],
-      "last_seen": "2026-10-03T17:12:34.669",
-      "longest_ai_kill_m": 442,
-      "longest_ai_kill_weapon": "K14",
-      "market_income": 39384,
-      "market_sales": 27,
-      "name": "Skelly",
-      "vehicle_driver_entries": 23,
-      "vehicle_passenger_entries": 14,
-      "vehicle_trip_straightline_m": 48926.1,
-      "vehicle_trips": 23,
-      "weapons": {
-        "K14": 5,
-        "L15 Defense": 2,
-        "SSG 82": 1
-      },
-      "weapon_master_kills": 5,
-      "is_admin": false,
-      "aris_score": 470,
-      "aris_score_breakdown": {
-        "ai_hunter": 40,
-        "longest_shot": 100,
-        "trader_king": 90,
-        "road_warrior": 80,
-        "weapon_master": 70,
-        "salesman": 90
       }
     },
     {
@@ -441,10 +441,10 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 20,
+        "longest_shot": 10,
         "trader_king": 100,
         "road_warrior": 20,
         "weapon_master": 30,
@@ -484,38 +484,69 @@
         "weapon_master": 20,
         "salesman": 50
       }
+    },
+    {
+      "ai_kills": 1,
+      "deaths": 7,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-09-30T19:03:38.469",
+      "ids": [
+        "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
+      ],
+      "last_seen": "2026-10-03T17:39:04.389",
+      "longest_ai_kill_m": 59,
+      "longest_ai_kill_weapon": "L15 Defense",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "JANZA125",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 4,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "L15 Defense": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 40,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "longest_shot": 20,
+        "weapon_master": 10
+      }
     }
   ],
   "longest_shot": [
     {
-      "ai_kills": 8,
+      "ai_kills": 9,
       "deaths": 2,
       "favorite_weapon": "K14",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon_kills": 6,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T17:12:34.669",
+      "last_seen": "2026-10-03T17:38:54.808",
       "longest_ai_kill_m": 442,
       "longest_ai_kill_weapon": "K14",
       "market_income": 39384,
       "market_sales": 27,
       "name": "Skelly",
-      "vehicle_driver_entries": 23,
+      "vehicle_driver_entries": 24,
       "vehicle_passenger_entries": 14,
-      "vehicle_trip_straightline_m": 48926.1,
-      "vehicle_trips": 23,
+      "vehicle_trip_straightline_m": 54931.5,
+      "vehicle_trips": 24,
       "weapons": {
-        "K14": 5,
+        "K14": 6,
         "L15 Defense": 2,
         "SSG 82": 1
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 470,
+      "aris_score": 480,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 50,
         "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 80,
@@ -772,12 +803,43 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 40,
         "longest_shot": 30,
         "road_warrior": 30,
         "weapon_master": 60
+      }
+    },
+    {
+      "ai_kills": 1,
+      "deaths": 7,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-09-30T19:03:38.469",
+      "ids": [
+        "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
+      ],
+      "last_seen": "2026-10-03T17:39:04.389",
+      "longest_ai_kill_m": 59,
+      "longest_ai_kill_weapon": "L15 Defense",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "JANZA125",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 4,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "L15 Defense": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 40,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "longest_shot": 20,
+        "weapon_master": 10
       }
     },
     {
@@ -804,10 +866,10 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 20,
+        "longest_shot": 10,
         "trader_king": 100,
         "road_warrior": 20,
         "weapon_master": 30,
@@ -817,29 +879,35 @@
   ],
   "most_deaths": [
     {
-      "ai_kills": 0,
+      "ai_kills": 1,
       "deaths": 7,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 1,
       "first_seen": "2026-09-30T19:03:38.469",
       "ids": [
         "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
       ],
-      "last_seen": "2026-10-03T17:13:31.704",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
+      "last_seen": "2026-10-03T17:39:04.389",
+      "longest_ai_kill_m": 59,
+      "longest_ai_kill_weapon": "L15 Defense",
       "market_income": 0,
       "market_sales": 0,
       "name": "JANZA125",
       "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 3,
+      "vehicle_passenger_entries": 4,
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
+      "weapons": {
+        "L15 Defense": 1
+      },
+      "weapon_master_kills": 1,
       "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
+      "aris_score": 40,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "longest_shot": 20,
+        "weapon_master": 10
+      }
     },
     {
       "ai_kills": 13,
@@ -977,9 +1045,9 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 40,
         "longest_shot": 30,
         "road_warrior": 30,
         "weapon_master": 60
@@ -1009,10 +1077,10 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 20,
+        "longest_shot": 10,
         "trader_king": 100,
         "road_warrior": 20,
         "weapon_master": 30,
@@ -1055,34 +1123,34 @@
       }
     },
     {
-      "ai_kills": 8,
+      "ai_kills": 9,
       "deaths": 2,
       "favorite_weapon": "K14",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon_kills": 6,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T17:12:34.669",
+      "last_seen": "2026-10-03T17:38:54.808",
       "longest_ai_kill_m": 442,
       "longest_ai_kill_weapon": "K14",
       "market_income": 39384,
       "market_sales": 27,
       "name": "Skelly",
-      "vehicle_driver_entries": 23,
+      "vehicle_driver_entries": 24,
       "vehicle_passenger_entries": 14,
-      "vehicle_trip_straightline_m": 48926.1,
-      "vehicle_trips": 23,
+      "vehicle_trip_straightline_m": 54931.5,
+      "vehicle_trips": 24,
       "weapons": {
-        "K14": 5,
+        "K14": 6,
         "L15 Defense": 2,
         "SSG 82": 1
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 470,
+      "aris_score": 480,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 50,
         "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 80,
@@ -1217,10 +1285,10 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 20,
+        "longest_shot": 10,
         "trader_king": 100,
         "road_warrior": 20,
         "weapon_master": 30,
@@ -1228,34 +1296,34 @@
       }
     },
     {
-      "ai_kills": 8,
+      "ai_kills": 9,
       "deaths": 2,
       "favorite_weapon": "K14",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon_kills": 6,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T17:12:34.669",
+      "last_seen": "2026-10-03T17:38:54.808",
       "longest_ai_kill_m": 442,
       "longest_ai_kill_weapon": "K14",
       "market_income": 39384,
       "market_sales": 27,
       "name": "Skelly",
-      "vehicle_driver_entries": 23,
+      "vehicle_driver_entries": 24,
       "vehicle_passenger_entries": 14,
-      "vehicle_trip_straightline_m": 48926.1,
-      "vehicle_trips": 23,
+      "vehicle_trip_straightline_m": 54931.5,
+      "vehicle_trips": 24,
       "weapons": {
-        "K14": 5,
+        "K14": 6,
         "L15 Defense": 2,
         "SSG 82": 1
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 470,
+      "aris_score": 480,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 50,
         "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 80,
@@ -1536,34 +1604,34 @@
       }
     },
     {
-      "ai_kills": 8,
+      "ai_kills": 9,
       "deaths": 2,
       "favorite_weapon": "K14",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon_kills": 6,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T17:12:34.669",
+      "last_seen": "2026-10-03T17:38:54.808",
       "longest_ai_kill_m": 442,
       "longest_ai_kill_weapon": "K14",
       "market_income": 39384,
       "market_sales": 27,
       "name": "Skelly",
-      "vehicle_driver_entries": 23,
+      "vehicle_driver_entries": 24,
       "vehicle_passenger_entries": 14,
-      "vehicle_trip_straightline_m": 48926.1,
-      "vehicle_trips": 23,
+      "vehicle_trip_straightline_m": 54931.5,
+      "vehicle_trips": 24,
       "weapons": {
-        "K14": 5,
+        "K14": 6,
         "L15 Defense": 2,
         "SSG 82": 1
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 470,
+      "aris_score": 480,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 50,
         "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 80,
@@ -1739,9 +1807,9 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 40,
         "longest_shot": 30,
         "road_warrior": 30,
         "weapon_master": 60
@@ -1771,10 +1839,10 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 20,
+        "longest_shot": 10,
         "trader_king": 100,
         "road_warrior": 20,
         "weapon_master": 30,
@@ -1900,34 +1968,34 @@
       }
     },
     {
-      "ai_kills": 8,
+      "ai_kills": 9,
       "deaths": 2,
       "favorite_weapon": "K14",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon_kills": 6,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T17:12:34.669",
+      "last_seen": "2026-10-03T17:38:54.808",
       "longest_ai_kill_m": 442,
       "longest_ai_kill_weapon": "K14",
       "market_income": 39384,
       "market_sales": 27,
       "name": "Skelly",
-      "vehicle_driver_entries": 23,
+      "vehicle_driver_entries": 24,
       "vehicle_passenger_entries": 14,
-      "vehicle_trip_straightline_m": 48926.1,
-      "vehicle_trips": 23,
+      "vehicle_trip_straightline_m": 54931.5,
+      "vehicle_trips": 24,
       "weapons": {
-        "K14": 5,
+        "K14": 6,
         "L15 Defense": 2,
         "SSG 82": 1
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 470,
+      "aris_score": 480,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 50,
         "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 80,
@@ -1960,9 +2028,9 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 40,
         "longest_shot": 30,
         "road_warrior": 30,
         "weapon_master": 60
@@ -2066,10 +2134,10 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 20,
+        "longest_shot": 10,
         "trader_king": 100,
         "road_warrior": 20,
         "weapon_master": 30,
@@ -2108,6 +2176,37 @@
         "road_warrior": 60,
         "weapon_master": 20,
         "salesman": 50
+      }
+    },
+    {
+      "ai_kills": 1,
+      "deaths": 7,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-09-30T19:03:38.469",
+      "ids": [
+        "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
+      ],
+      "last_seen": "2026-10-03T17:39:04.389",
+      "longest_ai_kill_m": 59,
+      "longest_ai_kill_weapon": "L15 Defense",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "JANZA125",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 4,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "L15 Defense": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 40,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "longest_shot": 20,
+        "weapon_master": 10
       }
     }
   ],
@@ -2150,34 +2249,34 @@
       }
     },
     {
-      "ai_kills": 8,
+      "ai_kills": 9,
       "deaths": 2,
       "favorite_weapon": "K14",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon_kills": 6,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T17:12:34.669",
+      "last_seen": "2026-10-03T17:38:54.808",
       "longest_ai_kill_m": 442,
       "longest_ai_kill_weapon": "K14",
       "market_income": 39384,
       "market_sales": 27,
       "name": "Skelly",
-      "vehicle_driver_entries": 23,
+      "vehicle_driver_entries": 24,
       "vehicle_passenger_entries": 14,
-      "vehicle_trip_straightline_m": 48926.1,
-      "vehicle_trips": 23,
+      "vehicle_trip_straightline_m": 54931.5,
+      "vehicle_trips": 24,
       "weapons": {
-        "K14": 5,
+        "K14": 6,
         "L15 Defense": 2,
         "SSG 82": 1
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 470,
+      "aris_score": 480,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 50,
         "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 80,
@@ -2290,10 +2389,10 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 20,
+        "longest_shot": 10,
         "trader_king": 100,
         "road_warrior": 20,
         "weapon_master": 30,
@@ -2418,34 +2517,34 @@
       }
     },
     {
-      "ai_kills": 8,
+      "ai_kills": 9,
       "deaths": 2,
       "favorite_weapon": "K14",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon_kills": 6,
       "first_seen": "2026-09-30T19:19:50.594",
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-10-03T17:12:34.669",
+      "last_seen": "2026-10-03T17:38:54.808",
       "longest_ai_kill_m": 442,
       "longest_ai_kill_weapon": "K14",
       "market_income": 39384,
       "market_sales": 27,
       "name": "Skelly",
-      "vehicle_driver_entries": 23,
+      "vehicle_driver_entries": 24,
       "vehicle_passenger_entries": 14,
-      "vehicle_trip_straightline_m": 48926.1,
-      "vehicle_trips": 23,
+      "vehicle_trip_straightline_m": 54931.5,
+      "vehicle_trips": 24,
       "weapons": {
-        "K14": 5,
+        "K14": 6,
         "L15 Defense": 2,
         "SSG 82": 1
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 470,
+      "aris_score": 480,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 50,
         "longest_shot": 100,
         "trader_king": 90,
         "road_warrior": 80,
@@ -2657,10 +2756,10 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 20,
+        "longest_shot": 10,
         "trader_king": 100,
         "road_warrior": 20,
         "weapon_master": 30,
@@ -2692,12 +2791,43 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 40,
         "longest_shot": 30,
         "road_warrior": 30,
         "weapon_master": 60
+      }
+    },
+    {
+      "ai_kills": 1,
+      "deaths": 7,
+      "favorite_weapon": "L15 Defense",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-09-30T19:03:38.469",
+      "ids": [
+        "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
+      ],
+      "last_seen": "2026-10-03T17:39:04.389",
+      "longest_ai_kill_m": 59,
+      "longest_ai_kill_weapon": "L15 Defense",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "JANZA125",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 4,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "L15 Defense": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 40,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "longest_shot": 20,
+        "weapon_master": 10
       }
     }
   ]
