@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 12,
   "staff_count": 5,
-  "updated_at_local": "05.10.2026 18:01",
+  "updated_at_local": "05.10.2026 18:31",
   "staff": [
     {
       "ai_kills": 9,
@@ -129,34 +129,35 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 98,
+      "ai_kills": 117,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER M7 FDE",
-      "favorite_weapon_kills": 68,
+      "favorite_weapon_kills": 81,
       "first_seen": "2026-09-11T21:10:21.585",
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-10-05T18:00:01.866",
+      "last_seen": "2026-10-05T18:30:03.415",
       "longest_ai_kill_m": 445,
       "longest_ai_kill_weapon": "CheyTac Intervention M200 TAN",
       "market_income": 17836732,
       "market_sales": 28,
       "name": "RadusCZ",
-      "vehicle_driver_entries": 42,
+      "vehicle_driver_entries": 44,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 39876.6,
-      "vehicle_trips": 42,
+      "vehicle_trip_straightline_m": 52182.8,
+      "vehicle_trips": 44,
       "weapons": {
-        "CheyTac Intervention M200 TAN": 17,
-        "Deagle": 3,
+        "CheyTac Intervention M200 TAN": 18,
+        "Deagle": 7,
         "M4-A1": 4,
-        "SIG SAUER M7 FDE": 68,
+        "M70 Tundra": 4,
+        "SIG SAUER M7 FDE": 81,
         "SK 59/66": 1,
         "Sci-Fi Rifle": 1,
-        "M70 Tundra": 4
+        "R12": 1
       },
-      "weapon_master_kills": 68,
+      "weapon_master_kills": 81,
       "is_admin": true,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -164,26 +165,26 @@
   ],
   "ai_hunter": [
     {
-      "ai_kills": 53,
+      "ai_kills": 57,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
-      "favorite_weapon_kills": 16,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-05T17:58:56.728",
+      "last_seen": "2026-10-05T18:30:48.472",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 122,
+      "vehicle_driver_entries": 127,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 216174.9,
-      "vehicle_trips": 121,
+      "vehicle_trip_straightline_m": 226983.2,
+      "vehicle_trips": 127,
       "weapons": {
-        "Accuracy International AWM": 16,
+        "Accuracy International AWM": 20,
         "CR-527": 1,
         "Crossbow": 1,
         "Denel NTW-20": 1,
@@ -196,7 +197,7 @@
         "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
-      "weapon_master_kills": 16,
+      "weapon_master_kills": 20,
       "is_admin": false,
       "aris_score": 480,
       "aris_score_breakdown": {
@@ -209,22 +210,22 @@
       }
     },
     {
-      "ai_kills": 34,
+      "ai_kills": 35,
       "deaths": 7,
       "favorite_weapon": "Sci-Fi Rifle",
-      "favorite_weapon_kills": 9,
+      "favorite_weapon_kills": 10,
       "first_seen": "2026-09-29T12:58:12.350",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-05T18:00:38.624",
+      "last_seen": "2026-10-05T18:29:22.617",
       "longest_ai_kill_m": 558,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 40504,
       "market_sales": 35,
       "name": "Siedma",
       "vehicle_driver_entries": 105,
-      "vehicle_passenger_entries": 46,
+      "vehicle_passenger_entries": 51,
       "vehicle_trip_straightline_m": 193615.6,
       "vehicle_trips": 104,
       "weapons": {
@@ -237,17 +238,17 @@
         "M70 Tundra": 7,
         "SIG SAUER M7 FDE": 1,
         "Sa vz. 58 SF": 1,
-        "Sci-Fi Rifle": 9
+        "Sci-Fi Rifle": 10
       },
-      "weapon_master_kills": 9,
+      "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 500,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 90,
         "trader_king": 60,
         "road_warrior": 90,
-        "weapon_master": 80,
+        "weapon_master": 90,
         "salesman": 80
       }
     },
@@ -280,13 +281,13 @@
       },
       "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 480,
       "aris_score_breakdown": {
         "ai_hunter": 80,
         "longest_shot": 60,
         "trader_king": 100,
         "road_warrior": 70,
-        "weapon_master": 90,
+        "weapon_master": 80,
         "salesman": 90
       }
     },
@@ -513,7 +514,7 @@
       "ids": [
         "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
       ],
-      "last_seen": "2026-10-05T18:01:34.449",
+      "last_seen": "2026-10-05T18:04:42.659",
       "longest_ai_kill_m": 59,
       "longest_ai_kill_weapon": "L15 Defense",
       "market_income": 3286,
@@ -521,8 +522,8 @@
       "name": "JANZA125",
       "vehicle_driver_entries": 14,
       "vehicle_passenger_entries": 18,
-      "vehicle_trip_straightline_m": 1593.5,
-      "vehicle_trips": 13,
+      "vehicle_trip_straightline_m": 3032.4,
+      "vehicle_trips": 14,
       "weapons": {
         "L15 Defense": 1
       },
@@ -541,26 +542,26 @@
   ],
   "longest_shot": [
     {
-      "ai_kills": 53,
+      "ai_kills": 57,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
-      "favorite_weapon_kills": 16,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-05T17:58:56.728",
+      "last_seen": "2026-10-05T18:30:48.472",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 122,
+      "vehicle_driver_entries": 127,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 216174.9,
-      "vehicle_trips": 121,
+      "vehicle_trip_straightline_m": 226983.2,
+      "vehicle_trips": 127,
       "weapons": {
-        "Accuracy International AWM": 16,
+        "Accuracy International AWM": 20,
         "CR-527": 1,
         "Crossbow": 1,
         "Denel NTW-20": 1,
@@ -573,7 +574,7 @@
         "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
-      "weapon_master_kills": 16,
+      "weapon_master_kills": 20,
       "is_admin": false,
       "aris_score": 480,
       "aris_score_breakdown": {
@@ -586,22 +587,22 @@
       }
     },
     {
-      "ai_kills": 34,
+      "ai_kills": 35,
       "deaths": 7,
       "favorite_weapon": "Sci-Fi Rifle",
-      "favorite_weapon_kills": 9,
+      "favorite_weapon_kills": 10,
       "first_seen": "2026-09-29T12:58:12.350",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-05T18:00:38.624",
+      "last_seen": "2026-10-05T18:29:22.617",
       "longest_ai_kill_m": 558,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 40504,
       "market_sales": 35,
       "name": "Siedma",
       "vehicle_driver_entries": 105,
-      "vehicle_passenger_entries": 46,
+      "vehicle_passenger_entries": 51,
       "vehicle_trip_straightline_m": 193615.6,
       "vehicle_trips": 104,
       "weapons": {
@@ -614,17 +615,17 @@
         "M70 Tundra": 7,
         "SIG SAUER M7 FDE": 1,
         "Sa vz. 58 SF": 1,
-        "Sci-Fi Rifle": 9
+        "Sci-Fi Rifle": 10
       },
-      "weapon_master_kills": 9,
+      "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 500,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 90,
         "trader_king": 60,
         "road_warrior": 90,
-        "weapon_master": 80,
+        "weapon_master": 90,
         "salesman": 80
       }
     },
@@ -728,13 +729,13 @@
       },
       "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 480,
       "aris_score_breakdown": {
         "ai_hunter": 80,
         "longest_shot": 60,
         "trader_king": 100,
         "road_warrior": 70,
-        "weapon_master": 90,
+        "weapon_master": 80,
         "salesman": 90
       }
     },
@@ -890,7 +891,7 @@
       "ids": [
         "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
       ],
-      "last_seen": "2026-10-05T18:01:34.449",
+      "last_seen": "2026-10-05T18:04:42.659",
       "longest_ai_kill_m": 59,
       "longest_ai_kill_weapon": "L15 Defense",
       "market_income": 3286,
@@ -898,8 +899,8 @@
       "name": "JANZA125",
       "vehicle_driver_entries": 14,
       "vehicle_passenger_entries": 18,
-      "vehicle_trip_straightline_m": 1593.5,
-      "vehicle_trips": 13,
+      "vehicle_trip_straightline_m": 3032.4,
+      "vehicle_trips": 14,
       "weapons": {
         "L15 Defense": 1
       },
@@ -926,7 +927,7 @@
       "ids": [
         "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
       ],
-      "last_seen": "2026-10-05T18:01:34.449",
+      "last_seen": "2026-10-05T18:04:42.659",
       "longest_ai_kill_m": 59,
       "longest_ai_kill_weapon": "L15 Defense",
       "market_income": 3286,
@@ -934,8 +935,8 @@
       "name": "JANZA125",
       "vehicle_driver_entries": 14,
       "vehicle_passenger_entries": 18,
-      "vehicle_trip_straightline_m": 1593.5,
-      "vehicle_trips": 13,
+      "vehicle_trip_straightline_m": 3032.4,
+      "vehicle_trips": 14,
       "weapons": {
         "L15 Defense": 1
       },
@@ -952,22 +953,22 @@
       }
     },
     {
-      "ai_kills": 34,
+      "ai_kills": 35,
       "deaths": 7,
       "favorite_weapon": "Sci-Fi Rifle",
-      "favorite_weapon_kills": 9,
+      "favorite_weapon_kills": 10,
       "first_seen": "2026-09-29T12:58:12.350",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-05T18:00:38.624",
+      "last_seen": "2026-10-05T18:29:22.617",
       "longest_ai_kill_m": 558,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 40504,
       "market_sales": 35,
       "name": "Siedma",
       "vehicle_driver_entries": 105,
-      "vehicle_passenger_entries": 46,
+      "vehicle_passenger_entries": 51,
       "vehicle_trip_straightline_m": 193615.6,
       "vehicle_trips": 104,
       "weapons": {
@@ -980,17 +981,17 @@
         "M70 Tundra": 7,
         "SIG SAUER M7 FDE": 1,
         "Sa vz. 58 SF": 1,
-        "Sci-Fi Rifle": 9
+        "Sci-Fi Rifle": 10
       },
-      "weapon_master_kills": 9,
+      "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 500,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 90,
         "trader_king": 60,
         "road_warrior": 90,
-        "weapon_master": 80,
+        "weapon_master": 90,
         "salesman": 80
       }
     },
@@ -1203,13 +1204,13 @@
       },
       "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 480,
       "aris_score_breakdown": {
         "ai_hunter": 80,
         "longest_shot": 60,
         "trader_king": 100,
         "road_warrior": 70,
-        "weapon_master": 90,
+        "weapon_master": 80,
         "salesman": 90
       }
     },
@@ -1239,26 +1240,26 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 53,
+      "ai_kills": 57,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
-      "favorite_weapon_kills": 16,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-05T17:58:56.728",
+      "last_seen": "2026-10-05T18:30:48.472",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 122,
+      "vehicle_driver_entries": 127,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 216174.9,
-      "vehicle_trips": 121,
+      "vehicle_trip_straightline_m": 226983.2,
+      "vehicle_trips": 127,
       "weapons": {
-        "Accuracy International AWM": 16,
+        "Accuracy International AWM": 20,
         "CR-527": 1,
         "Crossbow": 1,
         "Denel NTW-20": 1,
@@ -1271,7 +1272,7 @@
         "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
-      "weapon_master_kills": 16,
+      "weapon_master_kills": 20,
       "is_admin": false,
       "aris_score": 480,
       "aris_score_breakdown": {
@@ -1371,13 +1372,13 @@
       },
       "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 480,
       "aris_score_breakdown": {
         "ai_hunter": 80,
         "longest_shot": 60,
         "trader_king": 100,
         "road_warrior": 70,
-        "weapon_master": 90,
+        "weapon_master": 80,
         "salesman": 90
       }
     },
@@ -1489,22 +1490,22 @@
       }
     },
     {
-      "ai_kills": 34,
+      "ai_kills": 35,
       "deaths": 7,
       "favorite_weapon": "Sci-Fi Rifle",
-      "favorite_weapon_kills": 9,
+      "favorite_weapon_kills": 10,
       "first_seen": "2026-09-29T12:58:12.350",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-05T18:00:38.624",
+      "last_seen": "2026-10-05T18:29:22.617",
       "longest_ai_kill_m": 558,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 40504,
       "market_sales": 35,
       "name": "Siedma",
       "vehicle_driver_entries": 105,
-      "vehicle_passenger_entries": 46,
+      "vehicle_passenger_entries": 51,
       "vehicle_trip_straightline_m": 193615.6,
       "vehicle_trips": 104,
       "weapons": {
@@ -1517,17 +1518,17 @@
         "M70 Tundra": 7,
         "SIG SAUER M7 FDE": 1,
         "Sa vz. 58 SF": 1,
-        "Sci-Fi Rifle": 9
+        "Sci-Fi Rifle": 10
       },
-      "weapon_master_kills": 9,
+      "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 500,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 90,
         "trader_king": 60,
         "road_warrior": 90,
-        "weapon_master": 80,
+        "weapon_master": 90,
         "salesman": 80
       }
     },
@@ -1577,7 +1578,7 @@
       "ids": [
         "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
       ],
-      "last_seen": "2026-10-05T18:01:34.449",
+      "last_seen": "2026-10-05T18:04:42.659",
       "longest_ai_kill_m": 59,
       "longest_ai_kill_weapon": "L15 Defense",
       "market_income": 3286,
@@ -1585,8 +1586,8 @@
       "name": "JANZA125",
       "vehicle_driver_entries": 14,
       "vehicle_passenger_entries": 18,
-      "vehicle_trip_straightline_m": 1593.5,
-      "vehicle_trips": 13,
+      "vehicle_trip_straightline_m": 3032.4,
+      "vehicle_trips": 14,
       "weapons": {
         "L15 Defense": 1
       },
@@ -1603,26 +1604,26 @@
       }
     },
     {
-      "ai_kills": 53,
+      "ai_kills": 57,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
-      "favorite_weapon_kills": 16,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-05T17:58:56.728",
+      "last_seen": "2026-10-05T18:30:48.472",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 122,
+      "vehicle_driver_entries": 127,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 216174.9,
-      "vehicle_trips": 121,
+      "vehicle_trip_straightline_m": 226983.2,
+      "vehicle_trips": 127,
       "weapons": {
-        "Accuracy International AWM": 16,
+        "Accuracy International AWM": 20,
         "CR-527": 1,
         "Crossbow": 1,
         "Denel NTW-20": 1,
@@ -1635,7 +1636,7 @@
         "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
-      "weapon_master_kills": 16,
+      "weapon_master_kills": 20,
       "is_admin": false,
       "aris_score": 480,
       "aris_score_breakdown": {
@@ -1650,26 +1651,26 @@
   ],
   "road_warrior": [
     {
-      "ai_kills": 53,
+      "ai_kills": 57,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
-      "favorite_weapon_kills": 16,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-05T17:58:56.728",
+      "last_seen": "2026-10-05T18:30:48.472",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 122,
+      "vehicle_driver_entries": 127,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 216174.9,
-      "vehicle_trips": 121,
+      "vehicle_trip_straightline_m": 226983.2,
+      "vehicle_trips": 127,
       "weapons": {
-        "Accuracy International AWM": 16,
+        "Accuracy International AWM": 20,
         "CR-527": 1,
         "Crossbow": 1,
         "Denel NTW-20": 1,
@@ -1682,7 +1683,7 @@
         "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
-      "weapon_master_kills": 16,
+      "weapon_master_kills": 20,
       "is_admin": false,
       "aris_score": 480,
       "aris_score_breakdown": {
@@ -1695,22 +1696,22 @@
       }
     },
     {
-      "ai_kills": 34,
+      "ai_kills": 35,
       "deaths": 7,
       "favorite_weapon": "Sci-Fi Rifle",
-      "favorite_weapon_kills": 9,
+      "favorite_weapon_kills": 10,
       "first_seen": "2026-09-29T12:58:12.350",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-05T18:00:38.624",
+      "last_seen": "2026-10-05T18:29:22.617",
       "longest_ai_kill_m": 558,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 40504,
       "market_sales": 35,
       "name": "Siedma",
       "vehicle_driver_entries": 105,
-      "vehicle_passenger_entries": 46,
+      "vehicle_passenger_entries": 51,
       "vehicle_trip_straightline_m": 193615.6,
       "vehicle_trips": 104,
       "weapons": {
@@ -1723,17 +1724,17 @@
         "M70 Tundra": 7,
         "SIG SAUER M7 FDE": 1,
         "Sa vz. 58 SF": 1,
-        "Sci-Fi Rifle": 9
+        "Sci-Fi Rifle": 10
       },
-      "weapon_master_kills": 9,
+      "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 500,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 90,
         "trader_king": 60,
         "road_warrior": 90,
-        "weapon_master": 80,
+        "weapon_master": 90,
         "salesman": 80
       }
     },
@@ -1800,13 +1801,13 @@
       },
       "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 480,
       "aris_score_breakdown": {
         "ai_hunter": 80,
         "longest_shot": 60,
         "trader_king": 100,
         "road_warrior": 70,
-        "weapon_master": 90,
+        "weapon_master": 80,
         "salesman": 90
       }
     },
@@ -1999,7 +2000,7 @@
       "ids": [
         "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
       ],
-      "last_seen": "2026-10-05T18:01:34.449",
+      "last_seen": "2026-10-05T18:04:42.659",
       "longest_ai_kill_m": 59,
       "longest_ai_kill_weapon": "L15 Defense",
       "market_income": 3286,
@@ -2007,8 +2008,8 @@
       "name": "JANZA125",
       "vehicle_driver_entries": 14,
       "vehicle_passenger_entries": 18,
-      "vehicle_trip_straightline_m": 1593.5,
-      "vehicle_trips": 13,
+      "vehicle_trip_straightline_m": 3032.4,
+      "vehicle_trips": 14,
       "weapons": {
         "L15 Defense": 1
       },
@@ -2027,26 +2028,26 @@
   ],
   "weapon_master": [
     {
-      "ai_kills": 53,
+      "ai_kills": 57,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
-      "favorite_weapon_kills": 16,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-05T17:58:56.728",
+      "last_seen": "2026-10-05T18:30:48.472",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 122,
+      "vehicle_driver_entries": 127,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 216174.9,
-      "vehicle_trips": 121,
+      "vehicle_trip_straightline_m": 226983.2,
+      "vehicle_trips": 127,
       "weapons": {
-        "Accuracy International AWM": 16,
+        "Accuracy International AWM": 20,
         "CR-527": 1,
         "Crossbow": 1,
         "Denel NTW-20": 1,
@@ -2059,7 +2060,7 @@
         "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
-      "weapon_master_kills": 16,
+      "weapon_master_kills": 20,
       "is_admin": false,
       "aris_score": 480,
       "aris_score_breakdown": {
@@ -2069,6 +2070,49 @@
         "road_warrior": 100,
         "weapon_master": 100,
         "salesman": 50
+      }
+    },
+    {
+      "ai_kills": 35,
+      "deaths": 7,
+      "favorite_weapon": "Sci-Fi Rifle",
+      "favorite_weapon_kills": 10,
+      "first_seen": "2026-09-29T12:58:12.350",
+      "ids": [
+        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
+      ],
+      "last_seen": "2026-10-05T18:29:22.617",
+      "longest_ai_kill_m": 558,
+      "longest_ai_kill_weapon": "Sci-Fi Rifle",
+      "market_income": 40504,
+      "market_sales": 35,
+      "name": "Siedma",
+      "vehicle_driver_entries": 105,
+      "vehicle_passenger_entries": 51,
+      "vehicle_trip_straightline_m": 193615.6,
+      "vehicle_trips": 104,
+      "weapons": {
+        "Accuracy International AWM": 1,
+        "BK-133": 3,
+        "Barrett M82A2": 4,
+        "CR-527": 4,
+        "CheyTac Intervention M200 TAN": 1,
+        "Kimber 8400 Advanced Tactical SOC II": 3,
+        "M70 Tundra": 7,
+        "SIG SAUER M7 FDE": 1,
+        "Sa vz. 58 SF": 1,
+        "Sci-Fi Rifle": 10
+      },
+      "weapon_master_kills": 10,
+      "is_admin": false,
+      "aris_score": 500,
+      "aris_score_breakdown": {
+        "ai_hunter": 90,
+        "longest_shot": 90,
+        "trader_king": 60,
+        "road_warrior": 90,
+        "weapon_master": 90,
+        "salesman": 80
       }
     },
     {
@@ -2100,57 +2144,14 @@
       },
       "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 480,
       "aris_score_breakdown": {
         "ai_hunter": 80,
         "longest_shot": 60,
         "trader_king": 100,
         "road_warrior": 70,
-        "weapon_master": 90,
-        "salesman": 90
-      }
-    },
-    {
-      "ai_kills": 34,
-      "deaths": 7,
-      "favorite_weapon": "Sci-Fi Rifle",
-      "favorite_weapon_kills": 9,
-      "first_seen": "2026-09-29T12:58:12.350",
-      "ids": [
-        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
-      ],
-      "last_seen": "2026-10-05T18:00:38.624",
-      "longest_ai_kill_m": 558,
-      "longest_ai_kill_weapon": "Sci-Fi Rifle",
-      "market_income": 40504,
-      "market_sales": 35,
-      "name": "Siedma",
-      "vehicle_driver_entries": 105,
-      "vehicle_passenger_entries": 46,
-      "vehicle_trip_straightline_m": 193615.6,
-      "vehicle_trips": 104,
-      "weapons": {
-        "Accuracy International AWM": 1,
-        "BK-133": 3,
-        "Barrett M82A2": 4,
-        "CR-527": 4,
-        "CheyTac Intervention M200 TAN": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 3,
-        "M70 Tundra": 7,
-        "SIG SAUER M7 FDE": 1,
-        "Sa vz. 58 SF": 1,
-        "Sci-Fi Rifle": 9
-      },
-      "weapon_master_kills": 9,
-      "is_admin": false,
-      "aris_score": 490,
-      "aris_score_breakdown": {
-        "ai_hunter": 90,
-        "longest_shot": 90,
-        "trader_king": 60,
-        "road_warrior": 90,
         "weapon_master": 80,
-        "salesman": 80
+        "salesman": 90
       }
     },
     {
@@ -2376,7 +2377,7 @@
       "ids": [
         "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
       ],
-      "last_seen": "2026-10-05T18:01:34.449",
+      "last_seen": "2026-10-05T18:04:42.659",
       "longest_ai_kill_m": 59,
       "longest_ai_kill_weapon": "L15 Defense",
       "market_income": 3286,
@@ -2384,8 +2385,8 @@
       "name": "JANZA125",
       "vehicle_driver_entries": 14,
       "vehicle_passenger_entries": 18,
-      "vehicle_trip_straightline_m": 1593.5,
-      "vehicle_trips": 13,
+      "vehicle_trip_straightline_m": 3032.4,
+      "vehicle_trips": 14,
       "weapons": {
         "L15 Defense": 1
       },
@@ -2469,33 +2470,33 @@
       },
       "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 480,
       "aris_score_breakdown": {
         "ai_hunter": 80,
         "longest_shot": 60,
         "trader_king": 100,
         "road_warrior": 70,
-        "weapon_master": 90,
+        "weapon_master": 80,
         "salesman": 90
       }
     },
     {
-      "ai_kills": 34,
+      "ai_kills": 35,
       "deaths": 7,
       "favorite_weapon": "Sci-Fi Rifle",
-      "favorite_weapon_kills": 9,
+      "favorite_weapon_kills": 10,
       "first_seen": "2026-09-29T12:58:12.350",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-05T18:00:38.624",
+      "last_seen": "2026-10-05T18:29:22.617",
       "longest_ai_kill_m": 558,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 40504,
       "market_sales": 35,
       "name": "Siedma",
       "vehicle_driver_entries": 105,
-      "vehicle_passenger_entries": 46,
+      "vehicle_passenger_entries": 51,
       "vehicle_trip_straightline_m": 193615.6,
       "vehicle_trips": 104,
       "weapons": {
@@ -2508,17 +2509,17 @@
         "M70 Tundra": 7,
         "SIG SAUER M7 FDE": 1,
         "Sa vz. 58 SF": 1,
-        "Sci-Fi Rifle": 9
+        "Sci-Fi Rifle": 10
       },
-      "weapon_master_kills": 9,
+      "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 500,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 90,
         "trader_king": 60,
         "road_warrior": 90,
-        "weapon_master": 80,
+        "weapon_master": 90,
         "salesman": 80
       }
     },
@@ -2596,26 +2597,26 @@
       }
     },
     {
-      "ai_kills": 53,
+      "ai_kills": 57,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
-      "favorite_weapon_kills": 16,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-09-29T13:28:45.405",
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-05T17:58:56.728",
+      "last_seen": "2026-10-05T18:30:48.472",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
-      "vehicle_driver_entries": 122,
+      "vehicle_driver_entries": 127,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 216174.9,
-      "vehicle_trips": 121,
+      "vehicle_trip_straightline_m": 226983.2,
+      "vehicle_trips": 127,
       "weapons": {
-        "Accuracy International AWM": 16,
+        "Accuracy International AWM": 20,
         "CR-527": 1,
         "Crossbow": 1,
         "Denel NTW-20": 1,
@@ -2628,7 +2629,7 @@
         "STEYR AUG A3": 4,
         "THALES EF88 AUSTEYR": 3
       },
-      "weapon_master_kills": 16,
+      "weapon_master_kills": 20,
       "is_admin": false,
       "aris_score": 480,
       "aris_score_breakdown": {
@@ -2683,7 +2684,7 @@
       "ids": [
         "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
       ],
-      "last_seen": "2026-10-05T18:01:34.449",
+      "last_seen": "2026-10-05T18:04:42.659",
       "longest_ai_kill_m": 59,
       "longest_ai_kill_weapon": "L15 Defense",
       "market_income": 3286,
@@ -2691,8 +2692,8 @@
       "name": "JANZA125",
       "vehicle_driver_entries": 14,
       "vehicle_passenger_entries": 18,
-      "vehicle_trip_straightline_m": 1593.5,
-      "vehicle_trips": 13,
+      "vehicle_trip_straightline_m": 3032.4,
+      "vehicle_trips": 14,
       "weapons": {
         "L15 Defense": 1
       },
@@ -2711,22 +2712,22 @@
   ],
   "aris_score": [
     {
-      "ai_kills": 34,
+      "ai_kills": 35,
       "deaths": 7,
       "favorite_weapon": "Sci-Fi Rifle",
-      "favorite_weapon_kills": 9,
+      "favorite_weapon_kills": 10,
       "first_seen": "2026-09-29T12:58:12.350",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-05T18:00:38.624",
+      "last_seen": "2026-10-05T18:29:22.617",
       "longest_ai_kill_m": 558,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 40504,
       "market_sales": 35,
       "name": "Siedma",
       "vehicle_driver_entries": 105,
-      "vehicle_passenger_entries": 46,
+      "vehicle_passenger_entries": 51,
       "vehicle_trip_straightline_m": 193615.6,
       "vehicle_trips": 104,
       "weapons": {
@@ -2739,18 +2740,63 @@
         "M70 Tundra": 7,
         "SIG SAUER M7 FDE": 1,
         "Sa vz. 58 SF": 1,
-        "Sci-Fi Rifle": 9
+        "Sci-Fi Rifle": 10
       },
-      "weapon_master_kills": 9,
+      "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 500,
       "aris_score_breakdown": {
         "ai_hunter": 90,
         "longest_shot": 90,
         "trader_king": 60,
         "road_warrior": 90,
-        "weapon_master": 80,
+        "weapon_master": 90,
         "salesman": 80
+      }
+    },
+    {
+      "ai_kills": 57,
+      "deaths": 1,
+      "favorite_weapon": "Accuracy International AWM",
+      "favorite_weapon_kills": 20,
+      "first_seen": "2026-09-29T13:28:45.405",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "last_seen": "2026-10-05T18:30:48.472",
+      "longest_ai_kill_m": 848,
+      "longest_ai_kill_weapon": "Accuracy International AWM",
+      "market_income": 2273,
+      "market_sales": 7,
+      "name": "Parazone",
+      "vehicle_driver_entries": 127,
+      "vehicle_passenger_entries": 4,
+      "vehicle_trip_straightline_m": 226983.2,
+      "vehicle_trips": 127,
+      "weapons": {
+        "Accuracy International AWM": 20,
+        "CR-527": 1,
+        "Crossbow": 1,
+        "Denel NTW-20": 1,
+        "Engraved Kolt 1911": 1,
+        "FX-45": 1,
+        "Kimber 8400 Advanced Tactical SOC II": 10,
+        "M70 Tundra": 5,
+        "Repeater Carbine": 2,
+        "SSG 82": 8,
+        "STEYR AUG A3": 4,
+        "THALES EF88 AUSTEYR": 3
+      },
+      "weapon_master_kills": 20,
+      "is_admin": false,
+      "aris_score": 480,
+      "aris_score_breakdown": {
+        "ai_hunter": 100,
+        "longest_shot": 100,
+        "trader_king": 30,
+        "road_warrior": 100,
+        "weapon_master": 100,
+        "salesman": 50
       }
     },
     {
@@ -2782,59 +2828,14 @@
       },
       "weapon_master_kills": 10,
       "is_admin": false,
-      "aris_score": 490,
+      "aris_score": 480,
       "aris_score_breakdown": {
         "ai_hunter": 80,
         "longest_shot": 60,
         "trader_king": 100,
         "road_warrior": 70,
-        "weapon_master": 90,
+        "weapon_master": 80,
         "salesman": 90
-      }
-    },
-    {
-      "ai_kills": 53,
-      "deaths": 1,
-      "favorite_weapon": "Accuracy International AWM",
-      "favorite_weapon_kills": 16,
-      "first_seen": "2026-09-29T13:28:45.405",
-      "ids": [
-        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
-      ],
-      "last_seen": "2026-10-05T17:58:56.728",
-      "longest_ai_kill_m": 848,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
-      "market_income": 2273,
-      "market_sales": 7,
-      "name": "Parazone",
-      "vehicle_driver_entries": 122,
-      "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 216174.9,
-      "vehicle_trips": 121,
-      "weapons": {
-        "Accuracy International AWM": 16,
-        "CR-527": 1,
-        "Crossbow": 1,
-        "Denel NTW-20": 1,
-        "Engraved Kolt 1911": 1,
-        "FX-45": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 10,
-        "M70 Tundra": 5,
-        "Repeater Carbine": 2,
-        "SSG 82": 8,
-        "STEYR AUG A3": 4,
-        "THALES EF88 AUSTEYR": 3
-      },
-      "weapon_master_kills": 16,
-      "is_admin": false,
-      "aris_score": 480,
-      "aris_score_breakdown": {
-        "ai_hunter": 100,
-        "longest_shot": 100,
-        "trader_king": 30,
-        "road_warrior": 100,
-        "weapon_master": 100,
-        "salesman": 50
       }
     },
     {
@@ -3060,7 +3061,7 @@
       "ids": [
         "i8BjOAx02odZoLoLY6y9Af7QJCmT4Xe_0xg2TWqkF1Y="
       ],
-      "last_seen": "2026-10-05T18:01:34.449",
+      "last_seen": "2026-10-05T18:04:42.659",
       "longest_ai_kill_m": 59,
       "longest_ai_kill_weapon": "L15 Defense",
       "market_income": 3286,
@@ -3068,8 +3069,8 @@
       "name": "JANZA125",
       "vehicle_driver_entries": 14,
       "vehicle_passenger_entries": 18,
-      "vehicle_trip_straightline_m": 1593.5,
-      "vehicle_trips": 13,
+      "vehicle_trip_straightline_m": 3032.4,
+      "vehicle_trips": 14,
       "weapons": {
         "L15 Defense": 1
       },
