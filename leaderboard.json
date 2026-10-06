@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 13,
   "staff_count": 6,
-  "updated_at_local": "06.10.2026 23:01",
+  "updated_at_local": "06.10.2026 23:31",
   "staff": [
     {
       "ai_kills": 9,
@@ -198,14 +198,14 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-06T23:00:56.114",
+      "last_seen": "2026-10-06T23:14:25.528",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 192,
-      "vehicle_passenger_entries": 22,
+      "vehicle_passenger_entries": 24,
       "vehicle_trip_straightline_m": 399840.6,
       "vehicle_trips": 192,
       "weapons": {
@@ -244,7 +244,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-06T23:00:34.540",
+      "last_seen": "2026-10-06T23:14:40.987",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 198602,
@@ -252,8 +252,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 146,
       "vehicle_passenger_entries": 108,
-      "vehicle_trip_straightline_m": 302434.6,
-      "vehicle_trips": 144,
+      "vehicle_trip_straightline_m": 315368.5,
+      "vehicle_trips": 145,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -344,12 +344,50 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 20,
         "road_warrior": 20,
-        "weapon_master": 60
+        "weapon_master": 50
+      }
+    },
+    {
+      "ai_kills": 19,
+      "deaths": 4,
+      "favorite_weapon": "Barrett M82A2",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-09-29T13:08:54.014",
+      "ids": [
+        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
+      ],
+      "last_seen": "2026-10-06T23:13:13.288",
+      "longest_ai_kill_m": 619,
+      "longest_ai_kill_weapon": "Barrett M82A2",
+      "market_income": 26246,
+      "market_sales": 48,
+      "name": "RaptorSVK",
+      "vehicle_driver_entries": 78,
+      "vehicle_passenger_entries": 16,
+      "vehicle_trip_straightline_m": 103759.0,
+      "vehicle_trips": 78,
+      "weapons": {
+        "Barrett M82A2": 8,
+        "CR-527": 2,
+        "Repeater Carbine": 2,
+        "Revolver": 3,
+        "THALES EF88 AUSTEYR": 4
+      },
+      "weapon_master_kills": 8,
+      "is_admin": false,
+      "aris_score": 410,
+      "aris_score_breakdown": {
+        "ai_hunter": 60,
+        "longest_shot": 70,
+        "trader_king": 50,
+        "road_warrior": 70,
+        "weapon_master": 70,
+        "salesman": 90
       }
     },
     {
@@ -381,50 +419,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 210,
-      "aris_score_breakdown": {
-        "ai_hunter": 60,
-        "longest_shot": 60,
-        "road_warrior": 40,
-        "weapon_master": 50
-      }
-    },
-    {
-      "ai_kills": 14,
-      "deaths": 4,
-      "favorite_weapon": "THALES EF88 AUSTEYR",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-09-29T13:08:54.014",
-      "ids": [
-        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
-      ],
-      "last_seen": "2026-10-06T23:00:13.474",
-      "longest_ai_kill_m": 619,
-      "longest_ai_kill_weapon": "Barrett M82A2",
-      "market_income": 26246,
-      "market_sales": 48,
-      "name": "RaptorSVK",
-      "vehicle_driver_entries": 78,
-      "vehicle_passenger_entries": 15,
-      "vehicle_trip_straightline_m": 103759.0,
-      "vehicle_trips": 78,
-      "weapons": {
-        "Barrett M82A2": 3,
-        "CR-527": 2,
-        "Repeater Carbine": 2,
-        "Revolver": 3,
-        "THALES EF88 AUSTEYR": 4
-      },
-      "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 370,
+      "aris_score": 190,
       "aris_score_breakdown": {
         "ai_hunter": 50,
-        "longest_shot": 70,
-        "trader_king": 50,
-        "road_warrior": 70,
-        "weapon_master": 40,
-        "salesman": 90
+        "longest_shot": 60,
+        "road_warrior": 40,
+        "weapon_master": 40
       }
     },
     {
@@ -454,13 +454,13 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 340,
       "aris_score_breakdown": {
         "ai_hunter": 40,
         "longest_shot": 40,
         "trader_king": 70,
         "road_warrior": 60,
-        "weapon_master": 70,
+        "weapon_master": 60,
         "salesman": 70
       }
     },
@@ -502,7 +502,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "L85A2",
       "favorite_weapon_kills": 3,
@@ -510,18 +510,19 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-06T22:57:32.724",
-      "longest_ai_kill_m": 245,
-      "longest_ai_kill_weapon": "L85A2",
+      "last_seen": "2026-10-06T23:23:27.407",
+      "longest_ai_kill_m": 311,
+      "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 7636286,
       "market_sales": 8,
       "name": "pwolf777",
-      "vehicle_driver_entries": 137,
+      "vehicle_driver_entries": 140,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 149130.1,
-      "vehicle_trips": 136,
+      "vehicle_trip_straightline_m": 150863.7,
+      "vehicle_trips": 139,
       "weapons": {
-        "L85A2": 3
+        "L85A2": 3,
+        "Sci-Fi Rifle": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -580,14 +581,14 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-06T23:00:56.114",
+      "last_seen": "2026-10-06T23:14:25.528",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 192,
-      "vehicle_passenger_entries": 22,
+      "vehicle_passenger_entries": 24,
       "vehicle_trip_straightline_m": 399840.6,
       "vehicle_trips": 192,
       "weapons": {
@@ -626,7 +627,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-06T23:00:34.540",
+      "last_seen": "2026-10-06T23:14:40.987",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 198602,
@@ -634,8 +635,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 146,
       "vehicle_passenger_entries": 108,
-      "vehicle_trip_straightline_m": 302434.6,
-      "vehicle_trips": 144,
+      "vehicle_trip_straightline_m": 315368.5,
+      "vehicle_trips": 145,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -698,40 +699,40 @@
       }
     },
     {
-      "ai_kills": 14,
+      "ai_kills": 19,
       "deaths": 4,
-      "favorite_weapon": "THALES EF88 AUSTEYR",
-      "favorite_weapon_kills": 4,
+      "favorite_weapon": "Barrett M82A2",
+      "favorite_weapon_kills": 8,
       "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-06T23:00:13.474",
+      "last_seen": "2026-10-06T23:13:13.288",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
       "vehicle_driver_entries": 78,
-      "vehicle_passenger_entries": 15,
+      "vehicle_passenger_entries": 16,
       "vehicle_trip_straightline_m": 103759.0,
       "vehicle_trips": 78,
       "weapons": {
-        "Barrett M82A2": 3,
+        "Barrett M82A2": 8,
         "CR-527": 2,
         "Repeater Carbine": 2,
         "Revolver": 3,
         "THALES EF88 AUSTEYR": 4
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 370,
+      "aris_score": 410,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 70,
         "trader_king": 50,
         "road_warrior": 70,
-        "weapon_master": 40,
+        "weapon_master": 70,
         "salesman": 90
       }
     },
@@ -764,12 +765,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 210,
+      "aris_score": 190,
       "aris_score_breakdown": {
-        "ai_hunter": 60,
+        "ai_hunter": 50,
         "longest_shot": 60,
         "road_warrior": 40,
-        "weapon_master": 50
+        "weapon_master": 40
       }
     },
     {
@@ -838,18 +839,18 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 340,
       "aris_score_breakdown": {
         "ai_hunter": 40,
         "longest_shot": 40,
         "trader_king": 70,
         "road_warrior": 60,
-        "weapon_master": 70,
+        "weapon_master": 60,
         "salesman": 70
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "L85A2",
       "favorite_weapon_kills": 3,
@@ -857,18 +858,19 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-06T22:57:32.724",
-      "longest_ai_kill_m": 245,
-      "longest_ai_kill_weapon": "L85A2",
+      "last_seen": "2026-10-06T23:23:27.407",
+      "longest_ai_kill_m": 311,
+      "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 7636286,
       "market_sales": 8,
       "name": "pwolf777",
-      "vehicle_driver_entries": 137,
+      "vehicle_driver_entries": 140,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 149130.1,
-      "vehicle_trips": 136,
+      "vehicle_trip_straightline_m": 150863.7,
+      "vehicle_trips": 139,
       "weapons": {
-        "L85A2": 3
+        "L85A2": 3,
+        "Sci-Fi Rifle": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -909,12 +911,12 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 20,
         "road_warrior": 20,
-        "weapon_master": 60
+        "weapon_master": 50
       }
     },
     {
@@ -996,7 +998,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-06T23:00:34.540",
+      "last_seen": "2026-10-06T23:14:40.987",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 198602,
@@ -1004,8 +1006,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 146,
       "vehicle_passenger_entries": 108,
-      "vehicle_trip_straightline_m": 302434.6,
-      "vehicle_trips": 144,
+      "vehicle_trip_straightline_m": 315368.5,
+      "vehicle_trips": 145,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -1059,12 +1061,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 210,
+      "aris_score": 190,
       "aris_score_breakdown": {
-        "ai_hunter": 60,
+        "ai_hunter": 50,
         "longest_shot": 60,
         "road_warrior": 40,
-        "weapon_master": 50
+        "weapon_master": 40
       }
     },
     {
@@ -1094,51 +1096,51 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 340,
       "aris_score_breakdown": {
         "ai_hunter": 40,
         "longest_shot": 40,
         "trader_king": 70,
         "road_warrior": 60,
-        "weapon_master": 70,
+        "weapon_master": 60,
         "salesman": 70
       }
     },
     {
-      "ai_kills": 14,
+      "ai_kills": 19,
       "deaths": 4,
-      "favorite_weapon": "THALES EF88 AUSTEYR",
-      "favorite_weapon_kills": 4,
+      "favorite_weapon": "Barrett M82A2",
+      "favorite_weapon_kills": 8,
       "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-06T23:00:13.474",
+      "last_seen": "2026-10-06T23:13:13.288",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
       "vehicle_driver_entries": 78,
-      "vehicle_passenger_entries": 15,
+      "vehicle_passenger_entries": 16,
       "vehicle_trip_straightline_m": 103759.0,
       "vehicle_trips": 78,
       "weapons": {
-        "Barrett M82A2": 3,
+        "Barrett M82A2": 8,
         "CR-527": 2,
         "Repeater Carbine": 2,
         "Revolver": 3,
         "THALES EF88 AUSTEYR": 4
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 370,
+      "aris_score": 410,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 70,
         "trader_king": 50,
         "road_warrior": 70,
-        "weapon_master": 40,
+        "weapon_master": 70,
         "salesman": 90
       }
     },
@@ -1206,12 +1208,12 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 20,
         "road_warrior": 20,
-        "weapon_master": 60
+        "weapon_master": 50
       }
     },
     {
@@ -1287,14 +1289,14 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-06T23:00:56.114",
+      "last_seen": "2026-10-06T23:14:25.528",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 192,
-      "vehicle_passenger_entries": 22,
+      "vehicle_passenger_entries": 24,
       "vehicle_trip_straightline_m": 399840.6,
       "vehicle_trips": 192,
       "weapons": {
@@ -1325,7 +1327,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "L85A2",
       "favorite_weapon_kills": 3,
@@ -1333,18 +1335,19 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-06T22:57:32.724",
-      "longest_ai_kill_m": 245,
-      "longest_ai_kill_weapon": "L85A2",
+      "last_seen": "2026-10-06T23:23:27.407",
+      "longest_ai_kill_m": 311,
+      "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 7636286,
       "market_sales": 8,
       "name": "pwolf777",
-      "vehicle_driver_entries": 137,
+      "vehicle_driver_entries": 140,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 149130.1,
-      "vehicle_trips": 136,
+      "vehicle_trip_straightline_m": 150863.7,
+      "vehicle_trips": 139,
       "weapons": {
-        "L85A2": 3
+        "L85A2": 3,
+        "Sci-Fi Rifle": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -1446,7 +1449,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "L85A2",
       "favorite_weapon_kills": 3,
@@ -1454,18 +1457,19 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-06T22:57:32.724",
-      "longest_ai_kill_m": 245,
-      "longest_ai_kill_weapon": "L85A2",
+      "last_seen": "2026-10-06T23:23:27.407",
+      "longest_ai_kill_m": 311,
+      "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 7636286,
       "market_sales": 8,
       "name": "pwolf777",
-      "vehicle_driver_entries": 137,
+      "vehicle_driver_entries": 140,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 149130.1,
-      "vehicle_trips": 136,
+      "vehicle_trip_straightline_m": 150863.7,
+      "vehicle_trips": 139,
       "weapons": {
-        "L85A2": 3
+        "L85A2": 3,
+        "Sci-Fi Rifle": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -1543,13 +1547,13 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 340,
       "aris_score_breakdown": {
         "ai_hunter": 40,
         "longest_shot": 40,
         "trader_king": 70,
         "road_warrior": 60,
-        "weapon_master": 70,
+        "weapon_master": 60,
         "salesman": 70
       }
     },
@@ -1562,7 +1566,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-06T23:00:34.540",
+      "last_seen": "2026-10-06T23:14:40.987",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 198602,
@@ -1570,8 +1574,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 146,
       "vehicle_passenger_entries": 108,
-      "vehicle_trip_straightline_m": 302434.6,
-      "vehicle_trips": 144,
+      "vehicle_trip_straightline_m": 315368.5,
+      "vehicle_trips": 145,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -1597,40 +1601,40 @@
       }
     },
     {
-      "ai_kills": 14,
+      "ai_kills": 19,
       "deaths": 4,
-      "favorite_weapon": "THALES EF88 AUSTEYR",
-      "favorite_weapon_kills": 4,
+      "favorite_weapon": "Barrett M82A2",
+      "favorite_weapon_kills": 8,
       "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-06T23:00:13.474",
+      "last_seen": "2026-10-06T23:13:13.288",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
       "vehicle_driver_entries": 78,
-      "vehicle_passenger_entries": 15,
+      "vehicle_passenger_entries": 16,
       "vehicle_trip_straightline_m": 103759.0,
       "vehicle_trips": 78,
       "weapons": {
-        "Barrett M82A2": 3,
+        "Barrett M82A2": 8,
         "CR-527": 2,
         "Repeater Carbine": 2,
         "Revolver": 3,
         "THALES EF88 AUSTEYR": 4
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 370,
+      "aris_score": 410,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 70,
         "trader_king": 50,
         "road_warrior": 70,
-        "weapon_master": 40,
+        "weapon_master": 70,
         "salesman": 90
       }
     },
@@ -1677,14 +1681,14 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-06T23:00:56.114",
+      "last_seen": "2026-10-06T23:14:25.528",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 192,
-      "vehicle_passenger_entries": 22,
+      "vehicle_passenger_entries": 24,
       "vehicle_trip_straightline_m": 399840.6,
       "vehicle_trips": 192,
       "weapons": {
@@ -1725,14 +1729,14 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-06T23:00:56.114",
+      "last_seen": "2026-10-06T23:14:25.528",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 192,
-      "vehicle_passenger_entries": 22,
+      "vehicle_passenger_entries": 24,
       "vehicle_trip_straightline_m": 399840.6,
       "vehicle_trips": 192,
       "weapons": {
@@ -1771,7 +1775,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-06T23:00:34.540",
+      "last_seen": "2026-10-06T23:14:40.987",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 198602,
@@ -1779,8 +1783,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 146,
       "vehicle_passenger_entries": 108,
-      "vehicle_trip_straightline_m": 302434.6,
-      "vehicle_trips": 144,
+      "vehicle_trip_straightline_m": 315368.5,
+      "vehicle_trips": 145,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -1806,7 +1810,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "L85A2",
       "favorite_weapon_kills": 3,
@@ -1814,18 +1818,19 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-06T22:57:32.724",
-      "longest_ai_kill_m": 245,
-      "longest_ai_kill_weapon": "L85A2",
+      "last_seen": "2026-10-06T23:23:27.407",
+      "longest_ai_kill_m": 311,
+      "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 7636286,
       "market_sales": 8,
       "name": "pwolf777",
-      "vehicle_driver_entries": 137,
+      "vehicle_driver_entries": 140,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 149130.1,
-      "vehicle_trips": 136,
+      "vehicle_trip_straightline_m": 150863.7,
+      "vehicle_trips": 139,
       "weapons": {
-        "L85A2": 3
+        "L85A2": 3,
+        "Sci-Fi Rifle": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -1840,40 +1845,40 @@
       }
     },
     {
-      "ai_kills": 14,
+      "ai_kills": 19,
       "deaths": 4,
-      "favorite_weapon": "THALES EF88 AUSTEYR",
-      "favorite_weapon_kills": 4,
+      "favorite_weapon": "Barrett M82A2",
+      "favorite_weapon_kills": 8,
       "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-06T23:00:13.474",
+      "last_seen": "2026-10-06T23:13:13.288",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
       "vehicle_driver_entries": 78,
-      "vehicle_passenger_entries": 15,
+      "vehicle_passenger_entries": 16,
       "vehicle_trip_straightline_m": 103759.0,
       "vehicle_trips": 78,
       "weapons": {
-        "Barrett M82A2": 3,
+        "Barrett M82A2": 8,
         "CR-527": 2,
         "Repeater Carbine": 2,
         "Revolver": 3,
         "THALES EF88 AUSTEYR": 4
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 370,
+      "aris_score": 410,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 70,
         "trader_king": 50,
         "road_warrior": 70,
-        "weapon_master": 40,
+        "weapon_master": 70,
         "salesman": 90
       }
     },
@@ -1904,13 +1909,13 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 340,
       "aris_score_breakdown": {
         "ai_hunter": 40,
         "longest_shot": 40,
         "trader_king": 70,
         "road_warrior": 60,
-        "weapon_master": 70,
+        "weapon_master": 60,
         "salesman": 70
       }
     },
@@ -1982,12 +1987,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 210,
+      "aris_score": 190,
       "aris_score_breakdown": {
-        "ai_hunter": 60,
+        "ai_hunter": 50,
         "longest_shot": 60,
         "road_warrior": 40,
-        "weapon_master": 50
+        "weapon_master": 40
       }
     },
     {
@@ -2054,12 +2059,12 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 20,
         "road_warrior": 20,
-        "weapon_master": 60
+        "weapon_master": 50
       }
     },
     {
@@ -2107,14 +2112,14 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-06T23:00:56.114",
+      "last_seen": "2026-10-06T23:14:25.528",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 192,
-      "vehicle_passenger_entries": 22,
+      "vehicle_passenger_entries": 24,
       "vehicle_trip_straightline_m": 399840.6,
       "vehicle_trips": 192,
       "weapons": {
@@ -2153,7 +2158,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-06T23:00:34.540",
+      "last_seen": "2026-10-06T23:14:40.987",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 198602,
@@ -2161,8 +2166,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 146,
       "vehicle_passenger_entries": 108,
-      "vehicle_trip_straightline_m": 302434.6,
-      "vehicle_trips": 144,
+      "vehicle_trip_straightline_m": 315368.5,
+      "vehicle_trips": 145,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -2227,6 +2232,44 @@
       }
     },
     {
+      "ai_kills": 19,
+      "deaths": 4,
+      "favorite_weapon": "Barrett M82A2",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-09-29T13:08:54.014",
+      "ids": [
+        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
+      ],
+      "last_seen": "2026-10-06T23:13:13.288",
+      "longest_ai_kill_m": 619,
+      "longest_ai_kill_weapon": "Barrett M82A2",
+      "market_income": 26246,
+      "market_sales": 48,
+      "name": "RaptorSVK",
+      "vehicle_driver_entries": 78,
+      "vehicle_passenger_entries": 16,
+      "vehicle_trip_straightline_m": 103759.0,
+      "vehicle_trips": 78,
+      "weapons": {
+        "Barrett M82A2": 8,
+        "CR-527": 2,
+        "Repeater Carbine": 2,
+        "Revolver": 3,
+        "THALES EF88 AUSTEYR": 4
+      },
+      "weapon_master_kills": 8,
+      "is_admin": false,
+      "aris_score": 410,
+      "aris_score_breakdown": {
+        "ai_hunter": 60,
+        "longest_shot": 70,
+        "trader_king": 50,
+        "road_warrior": 70,
+        "weapon_master": 70,
+        "salesman": 90
+      }
+    },
+    {
       "ai_kills": 12,
       "deaths": 4,
       "favorite_weapon": "AAC Honey Badger",
@@ -2253,13 +2296,13 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 340,
       "aris_score_breakdown": {
         "ai_hunter": 40,
         "longest_shot": 40,
         "trader_king": 70,
         "road_warrior": 60,
-        "weapon_master": 70,
+        "weapon_master": 60,
         "salesman": 70
       }
     },
@@ -2290,12 +2333,12 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 20,
         "road_warrior": 20,
-        "weapon_master": 60
+        "weapon_master": 50
       }
     },
     {
@@ -2327,50 +2370,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 210,
-      "aris_score_breakdown": {
-        "ai_hunter": 60,
-        "longest_shot": 60,
-        "road_warrior": 40,
-        "weapon_master": 50
-      }
-    },
-    {
-      "ai_kills": 14,
-      "deaths": 4,
-      "favorite_weapon": "THALES EF88 AUSTEYR",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-09-29T13:08:54.014",
-      "ids": [
-        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
-      ],
-      "last_seen": "2026-10-06T23:00:13.474",
-      "longest_ai_kill_m": 619,
-      "longest_ai_kill_weapon": "Barrett M82A2",
-      "market_income": 26246,
-      "market_sales": 48,
-      "name": "RaptorSVK",
-      "vehicle_driver_entries": 78,
-      "vehicle_passenger_entries": 15,
-      "vehicle_trip_straightline_m": 103759.0,
-      "vehicle_trips": 78,
-      "weapons": {
-        "Barrett M82A2": 3,
-        "CR-527": 2,
-        "Repeater Carbine": 2,
-        "Revolver": 3,
-        "THALES EF88 AUSTEYR": 4
-      },
-      "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 370,
+      "aris_score": 190,
       "aris_score_breakdown": {
         "ai_hunter": 50,
-        "longest_shot": 70,
-        "trader_king": 50,
-        "road_warrior": 70,
-        "weapon_master": 40,
-        "salesman": 90
+        "longest_shot": 60,
+        "road_warrior": 40,
+        "weapon_master": 40
       }
     },
     {
@@ -2411,7 +2416,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "L85A2",
       "favorite_weapon_kills": 3,
@@ -2419,18 +2424,19 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-06T22:57:32.724",
-      "longest_ai_kill_m": 245,
-      "longest_ai_kill_weapon": "L85A2",
+      "last_seen": "2026-10-06T23:23:27.407",
+      "longest_ai_kill_m": 311,
+      "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 7636286,
       "market_sales": 8,
       "name": "pwolf777",
-      "vehicle_driver_entries": 137,
+      "vehicle_driver_entries": 140,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 149130.1,
-      "vehicle_trips": 136,
+      "vehicle_trip_straightline_m": 150863.7,
+      "vehicle_trips": 139,
       "weapons": {
-        "L85A2": 3
+        "L85A2": 3,
+        "Sci-Fi Rifle": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -2489,7 +2495,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-06T23:00:34.540",
+      "last_seen": "2026-10-06T23:14:40.987",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 198602,
@@ -2497,8 +2503,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 146,
       "vehicle_passenger_entries": 108,
-      "vehicle_trip_straightline_m": 302434.6,
-      "vehicle_trips": 144,
+      "vehicle_trip_straightline_m": 315368.5,
+      "vehicle_trips": 145,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -2524,40 +2530,40 @@
       }
     },
     {
-      "ai_kills": 14,
+      "ai_kills": 19,
       "deaths": 4,
-      "favorite_weapon": "THALES EF88 AUSTEYR",
-      "favorite_weapon_kills": 4,
+      "favorite_weapon": "Barrett M82A2",
+      "favorite_weapon_kills": 8,
       "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-06T23:00:13.474",
+      "last_seen": "2026-10-06T23:13:13.288",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
       "vehicle_driver_entries": 78,
-      "vehicle_passenger_entries": 15,
+      "vehicle_passenger_entries": 16,
       "vehicle_trip_straightline_m": 103759.0,
       "vehicle_trips": 78,
       "weapons": {
-        "Barrett M82A2": 3,
+        "Barrett M82A2": 8,
         "CR-527": 2,
         "Repeater Carbine": 2,
         "Revolver": 3,
         "THALES EF88 AUSTEYR": 4
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 370,
+      "aris_score": 410,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 70,
         "trader_king": 50,
         "road_warrior": 70,
-        "weapon_master": 40,
+        "weapon_master": 70,
         "salesman": 90
       }
     },
@@ -2627,13 +2633,13 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 340,
       "aris_score_breakdown": {
         "ai_hunter": 40,
         "longest_shot": 40,
         "trader_king": 70,
         "road_warrior": 60,
-        "weapon_master": 70,
+        "weapon_master": 60,
         "salesman": 70
       }
     },
@@ -2675,7 +2681,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "L85A2",
       "favorite_weapon_kills": 3,
@@ -2683,18 +2689,19 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-06T22:57:32.724",
-      "longest_ai_kill_m": 245,
-      "longest_ai_kill_weapon": "L85A2",
+      "last_seen": "2026-10-06T23:23:27.407",
+      "longest_ai_kill_m": 311,
+      "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 7636286,
       "market_sales": 8,
       "name": "pwolf777",
-      "vehicle_driver_entries": 137,
+      "vehicle_driver_entries": 140,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 149130.1,
-      "vehicle_trips": 136,
+      "vehicle_trip_straightline_m": 150863.7,
+      "vehicle_trips": 139,
       "weapons": {
-        "L85A2": 3
+        "L85A2": 3,
+        "Sci-Fi Rifle": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -2751,14 +2758,14 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-06T23:00:56.114",
+      "last_seen": "2026-10-06T23:14:25.528",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 192,
-      "vehicle_passenger_entries": 22,
+      "vehicle_passenger_entries": 24,
       "vehicle_trip_straightline_m": 399840.6,
       "vehicle_trips": 192,
       "weapons": {
@@ -2799,7 +2806,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-06T23:00:34.540",
+      "last_seen": "2026-10-06T23:14:40.987",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 198602,
@@ -2807,8 +2814,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 146,
       "vehicle_passenger_entries": 108,
-      "vehicle_trip_straightline_m": 302434.6,
-      "vehicle_trips": 144,
+      "vehicle_trip_straightline_m": 315368.5,
+      "vehicle_trips": 145,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -2842,14 +2849,14 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-06T23:00:56.114",
+      "last_seen": "2026-10-06T23:14:25.528",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 192,
-      "vehicle_passenger_entries": 22,
+      "vehicle_passenger_entries": 24,
       "vehicle_trip_straightline_m": 399840.6,
       "vehicle_trips": 192,
       "weapons": {
@@ -2919,40 +2926,40 @@
       }
     },
     {
-      "ai_kills": 14,
+      "ai_kills": 19,
       "deaths": 4,
-      "favorite_weapon": "THALES EF88 AUSTEYR",
-      "favorite_weapon_kills": 4,
+      "favorite_weapon": "Barrett M82A2",
+      "favorite_weapon_kills": 8,
       "first_seen": "2026-09-29T13:08:54.014",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-06T23:00:13.474",
+      "last_seen": "2026-10-06T23:13:13.288",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
       "vehicle_driver_entries": 78,
-      "vehicle_passenger_entries": 15,
+      "vehicle_passenger_entries": 16,
       "vehicle_trip_straightline_m": 103759.0,
       "vehicle_trips": 78,
       "weapons": {
-        "Barrett M82A2": 3,
+        "Barrett M82A2": 8,
         "CR-527": 2,
         "Repeater Carbine": 2,
         "Revolver": 3,
         "THALES EF88 AUSTEYR": 4
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 370,
+      "aris_score": 410,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 70,
         "trader_king": 50,
         "road_warrior": 70,
-        "weapon_master": 40,
+        "weapon_master": 70,
         "salesman": 90
       }
     },
@@ -2983,13 +2990,13 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 350,
+      "aris_score": 340,
       "aris_score_breakdown": {
         "ai_hunter": 40,
         "longest_shot": 40,
         "trader_king": 70,
         "road_warrior": 60,
-        "weapon_master": 70,
+        "weapon_master": 60,
         "salesman": 70
       }
     },
@@ -3031,7 +3038,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "L85A2",
       "favorite_weapon_kills": 3,
@@ -3039,18 +3046,19 @@
       "ids": [
         "oN1b1Mx9DIxf6zLN6PLKr1S2-_H_EL-x4p0FsdDj8Xk="
       ],
-      "last_seen": "2026-10-06T22:57:32.724",
-      "longest_ai_kill_m": 245,
-      "longest_ai_kill_weapon": "L85A2",
+      "last_seen": "2026-10-06T23:23:27.407",
+      "longest_ai_kill_m": 311,
+      "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 7636286,
       "market_sales": 8,
       "name": "pwolf777",
-      "vehicle_driver_entries": 137,
+      "vehicle_driver_entries": 140,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 149130.1,
-      "vehicle_trips": 136,
+      "vehicle_trip_straightline_m": 150863.7,
+      "vehicle_trips": 139,
       "weapons": {
-        "L85A2": 3
+        "L85A2": 3,
+        "Sci-Fi Rifle": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -3093,12 +3101,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 210,
+      "aris_score": 190,
       "aris_score_breakdown": {
-        "ai_hunter": 60,
+        "ai_hunter": 50,
         "longest_shot": 60,
         "road_warrior": 40,
-        "weapon_master": 50
+        "weapon_master": 40
       }
     },
     {
@@ -3128,12 +3136,12 @@
       },
       "weapon_master_kills": 6,
       "is_admin": false,
-      "aris_score": 170,
+      "aris_score": 160,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 20,
         "road_warrior": 20,
-        "weapon_master": 60
+        "weapon_master": 50
       }
     },
     {
