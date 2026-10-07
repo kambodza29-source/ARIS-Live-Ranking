@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 14,
   "staff_count": 6,
-  "updated_at_local": "07.10.2026 21:31",
+  "updated_at_local": "07.10.2026 22:01",
   "staff": [
     {
       "ai_kills": 9,
@@ -190,7 +190,7 @@
   ],
   "ai_hunter": [
     {
-      "ai_kills": 74,
+      "ai_kills": 78,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
       "favorite_weapon_kills": 36,
@@ -198,21 +198,21 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-07T21:28:15.804",
+      "last_seen": "2026-10-07T21:46:17.407",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 199,
-      "vehicle_passenger_entries": 30,
+      "vehicle_passenger_entries": 31,
       "vehicle_trip_straightline_m": 423280.0,
       "vehicle_trips": 199,
       "weapons": {
         "Accuracy International AWM": 36,
         "CR-527": 1,
         "Crossbow": 1,
-        "Denel NTW-20": 1,
+        "Denel NTW-20": 5,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
         "Kimber 8400 Advanced Tactical SOC II": 10,
@@ -244,7 +244,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-07T21:21:53.301",
+      "last_seen": "2026-10-07T21:47:08.054",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 498747,
@@ -252,8 +252,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 153,
       "vehicle_passenger_entries": 129,
-      "vehicle_trip_straightline_m": 345670.2,
-      "vehicle_trips": 151,
+      "vehicle_trip_straightline_m": 357423.1,
+      "vehicle_trips": 152,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -287,16 +287,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-07T15:22:52.287",
+      "last_seen": "2026-10-07T21:45:37.113",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 86,
+      "vehicle_driver_entries": 87,
       "vehicle_passenger_entries": 25,
-      "vehicle_trip_straightline_m": 115127.7,
-      "vehicle_trips": 85,
+      "vehicle_trip_straightline_m": 125952.3,
+      "vehicle_trips": 86,
       "weapons": {
         "Barrett M82A2": 21,
         "CR-527": 2,
@@ -420,12 +420,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 170,
       "aris_score_breakdown": {
         "ai_hunter": 50,
         "longest_shot": 50,
         "road_warrior": 40,
-        "weapon_master": 40
+        "weapon_master": 30
       }
     },
     {
@@ -492,13 +492,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 310,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 80,
+        "longest_shot": 70,
         "trader_king": 80,
         "road_warrior": 30,
-        "weapon_master": 30,
+        "weapon_master": 20,
         "salesman": 60
       }
     },
@@ -527,14 +527,45 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
         "ai_hunter": 20,
         "longest_shot": 20,
         "trader_king": 90,
         "road_warrior": 80,
-        "weapon_master": 20,
+        "weapon_master": 10,
         "salesman": 50
+      }
+    },
+    {
+      "ai_kills": 5,
+      "deaths": 0,
+      "favorite_weapon": "AK-50",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-10-07T21:12:30.870",
+      "ids": [
+        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
+      ],
+      "last_seen": "2026-10-07T21:47:00.452",
+      "longest_ai_kill_m": 759,
+      "longest_ai_kill_weapon": "AK-50",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Skelly (2)",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 2,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "AK-50": 5
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 130,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "longest_shot": 80,
+        "weapon_master": 40
       }
     },
     {
@@ -561,48 +592,17 @@
       },
       "weapon_master_kills": 1,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 90,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "trader_king": 40,
         "road_warrior": 10,
-        "weapon_master": 10,
         "salesman": 40
-      }
-    },
-    {
-      "ai_kills": 1,
-      "deaths": 0,
-      "favorite_weapon": "AK-50",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-10-07T21:12:30.870",
-      "ids": [
-        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
-      ],
-      "last_seen": "2026-10-07T21:30:46.111",
-      "longest_ai_kill_m": 636,
-      "longest_ai_kill_weapon": "AK-50",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Skelly (2)",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "AK-50": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 70,
-      "aris_score_breakdown": {
-        "longest_shot": 70
       }
     }
   ],
   "longest_shot": [
     {
-      "ai_kills": 74,
+      "ai_kills": 78,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
       "favorite_weapon_kills": 36,
@@ -610,21 +610,21 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-07T21:28:15.804",
+      "last_seen": "2026-10-07T21:46:17.407",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 199,
-      "vehicle_passenger_entries": 30,
+      "vehicle_passenger_entries": 31,
       "vehicle_trip_straightline_m": 423280.0,
       "vehicle_trips": 199,
       "weapons": {
         "Accuracy International AWM": 36,
         "CR-527": 1,
         "Crossbow": 1,
-        "Denel NTW-20": 1,
+        "Denel NTW-20": 5,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
         "Kimber 8400 Advanced Tactical SOC II": 10,
@@ -656,7 +656,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-07T21:21:53.301",
+      "last_seen": "2026-10-07T21:47:08.054",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 498747,
@@ -664,8 +664,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 153,
       "vehicle_passenger_entries": 129,
-      "vehicle_trip_straightline_m": 345670.2,
-      "vehicle_trips": 151,
+      "vehicle_trip_straightline_m": 357423.1,
+      "vehicle_trips": 152,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -688,6 +688,37 @@
         "road_warrior": 90,
         "weapon_master": 100,
         "salesman": 100
+      }
+    },
+    {
+      "ai_kills": 5,
+      "deaths": 0,
+      "favorite_weapon": "AK-50",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-10-07T21:12:30.870",
+      "ids": [
+        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
+      ],
+      "last_seen": "2026-10-07T21:47:00.452",
+      "longest_ai_kill_m": 759,
+      "longest_ai_kill_weapon": "AK-50",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Skelly (2)",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 2,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "AK-50": 5
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 130,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "longest_shot": 80,
+        "weapon_master": 40
       }
     },
     {
@@ -717,43 +748,14 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 310,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 80,
+        "longest_shot": 70,
         "trader_king": 80,
         "road_warrior": 30,
-        "weapon_master": 30,
+        "weapon_master": 20,
         "salesman": 60
-      }
-    },
-    {
-      "ai_kills": 1,
-      "deaths": 0,
-      "favorite_weapon": "AK-50",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-10-07T21:12:30.870",
-      "ids": [
-        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
-      ],
-      "last_seen": "2026-10-07T21:30:46.111",
-      "longest_ai_kill_m": 636,
-      "longest_ai_kill_weapon": "AK-50",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Skelly (2)",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "AK-50": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 70,
-      "aris_score_breakdown": {
-        "longest_shot": 70
       }
     },
     {
@@ -765,16 +767,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-07T15:22:52.287",
+      "last_seen": "2026-10-07T21:45:37.113",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 86,
+      "vehicle_driver_entries": 87,
       "vehicle_passenger_entries": 25,
-      "vehicle_trip_straightline_m": 115127.7,
-      "vehicle_trips": 85,
+      "vehicle_trip_straightline_m": 125952.3,
+      "vehicle_trips": 86,
       "weapons": {
         "Barrett M82A2": 21,
         "CR-527": 2,
@@ -824,12 +826,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 170,
       "aris_score_breakdown": {
         "ai_hunter": 50,
         "longest_shot": 50,
         "road_warrior": 40,
-        "weapon_master": 40
+        "weapon_master": 30
       }
     },
     {
@@ -933,13 +935,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
         "ai_hunter": 20,
         "longest_shot": 20,
         "trader_king": 90,
         "road_warrior": 80,
-        "weapon_master": 20,
+        "weapon_master": 10,
         "salesman": 50
       }
     },
@@ -1002,12 +1004,10 @@
       },
       "weapon_master_kills": 1,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 90,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "trader_king": 40,
         "road_warrior": 10,
-        "weapon_master": 10,
         "salesman": 40
       }
     }
@@ -1037,12 +1037,10 @@
       },
       "weapon_master_kills": 1,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 90,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "trader_king": 40,
         "road_warrior": 10,
-        "weapon_master": 10,
         "salesman": 40
       }
     },
@@ -1055,7 +1053,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-07T21:21:53.301",
+      "last_seen": "2026-10-07T21:47:08.054",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 498747,
@@ -1063,8 +1061,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 153,
       "vehicle_passenger_entries": 129,
-      "vehicle_trip_straightline_m": 345670.2,
-      "vehicle_trips": 151,
+      "vehicle_trip_straightline_m": 357423.1,
+      "vehicle_trips": 152,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -1118,12 +1116,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 170,
       "aris_score_breakdown": {
         "ai_hunter": 50,
         "longest_shot": 50,
         "road_warrior": 40,
-        "weapon_master": 40
+        "weapon_master": 30
       }
     },
     {
@@ -1172,16 +1170,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-07T15:22:52.287",
+      "last_seen": "2026-10-07T21:45:37.113",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 86,
+      "vehicle_driver_entries": 87,
       "vehicle_passenger_entries": 25,
-      "vehicle_trip_straightline_m": 115127.7,
-      "vehicle_trips": 85,
+      "vehicle_trip_straightline_m": 125952.3,
+      "vehicle_trips": 86,
       "weapons": {
         "Barrett M82A2": 21,
         "CR-527": 2,
@@ -1229,13 +1227,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 310,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 80,
+        "longest_shot": 70,
         "trader_king": 80,
         "road_warrior": 30,
-        "weapon_master": 30,
+        "weapon_master": 20,
         "salesman": 60
       }
     },
@@ -1339,7 +1337,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 74,
+      "ai_kills": 78,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
       "favorite_weapon_kills": 36,
@@ -1347,21 +1345,21 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-07T21:28:15.804",
+      "last_seen": "2026-10-07T21:46:17.407",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 199,
-      "vehicle_passenger_entries": 30,
+      "vehicle_passenger_entries": 31,
       "vehicle_trip_straightline_m": 423280.0,
       "vehicle_trips": 199,
       "weapons": {
         "Accuracy International AWM": 36,
         "CR-527": 1,
         "Crossbow": 1,
-        "Denel NTW-20": 1,
+        "Denel NTW-20": 5,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
         "Kimber 8400 Advanced Tactical SOC II": 10,
@@ -1409,13 +1407,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
         "ai_hunter": 20,
         "longest_shot": 20,
         "trader_king": 90,
         "road_warrior": 80,
-        "weapon_master": 20,
+        "weapon_master": 10,
         "salesman": 50
       }
     },
@@ -1531,13 +1529,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
         "ai_hunter": 20,
         "longest_shot": 20,
         "trader_king": 90,
         "road_warrior": 80,
-        "weapon_master": 20,
+        "weapon_master": 10,
         "salesman": 50
       }
     },
@@ -1568,13 +1566,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 310,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 80,
+        "longest_shot": 70,
         "trader_king": 80,
         "road_warrior": 30,
-        "weapon_master": 30,
+        "weapon_master": 20,
         "salesman": 60
       }
     },
@@ -1624,7 +1622,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-07T21:21:53.301",
+      "last_seen": "2026-10-07T21:47:08.054",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 498747,
@@ -1632,8 +1630,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 153,
       "vehicle_passenger_entries": 129,
-      "vehicle_trip_straightline_m": 345670.2,
-      "vehicle_trips": 151,
+      "vehicle_trip_straightline_m": 357423.1,
+      "vehicle_trips": 152,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -1667,16 +1665,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-07T15:22:52.287",
+      "last_seen": "2026-10-07T21:45:37.113",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 86,
+      "vehicle_driver_entries": 87,
       "vehicle_passenger_entries": 25,
-      "vehicle_trip_straightline_m": 115127.7,
-      "vehicle_trips": 85,
+      "vehicle_trip_straightline_m": 125952.3,
+      "vehicle_trips": 86,
       "weapons": {
         "Barrett M82A2": 21,
         "CR-527": 2,
@@ -1721,17 +1719,15 @@
       },
       "weapon_master_kills": 1,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 90,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "trader_king": 40,
         "road_warrior": 10,
-        "weapon_master": 10,
         "salesman": 40
       }
     },
     {
-      "ai_kills": 74,
+      "ai_kills": 78,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
       "favorite_weapon_kills": 36,
@@ -1739,21 +1735,21 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-07T21:28:15.804",
+      "last_seen": "2026-10-07T21:46:17.407",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 199,
-      "vehicle_passenger_entries": 30,
+      "vehicle_passenger_entries": 31,
       "vehicle_trip_straightline_m": 423280.0,
       "vehicle_trips": 199,
       "weapons": {
         "Accuracy International AWM": 36,
         "CR-527": 1,
         "Crossbow": 1,
-        "Denel NTW-20": 1,
+        "Denel NTW-20": 5,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
         "Kimber 8400 Advanced Tactical SOC II": 10,
@@ -1779,7 +1775,7 @@
   ],
   "road_warrior": [
     {
-      "ai_kills": 74,
+      "ai_kills": 78,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
       "favorite_weapon_kills": 36,
@@ -1787,21 +1783,21 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-07T21:28:15.804",
+      "last_seen": "2026-10-07T21:46:17.407",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 199,
-      "vehicle_passenger_entries": 30,
+      "vehicle_passenger_entries": 31,
       "vehicle_trip_straightline_m": 423280.0,
       "vehicle_trips": 199,
       "weapons": {
         "Accuracy International AWM": 36,
         "CR-527": 1,
         "Crossbow": 1,
-        "Denel NTW-20": 1,
+        "Denel NTW-20": 5,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
         "Kimber 8400 Advanced Tactical SOC II": 10,
@@ -1833,7 +1829,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-07T21:21:53.301",
+      "last_seen": "2026-10-07T21:47:08.054",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 498747,
@@ -1841,8 +1837,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 153,
       "vehicle_passenger_entries": 129,
-      "vehicle_trip_straightline_m": 345670.2,
-      "vehicle_trips": 151,
+      "vehicle_trip_straightline_m": 357423.1,
+      "vehicle_trips": 152,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -1892,13 +1888,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
         "ai_hunter": 20,
         "longest_shot": 20,
         "trader_king": 90,
         "road_warrior": 80,
-        "weapon_master": 20,
+        "weapon_master": 10,
         "salesman": 50
       }
     },
@@ -1911,16 +1907,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-07T15:22:52.287",
+      "last_seen": "2026-10-07T21:45:37.113",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 86,
+      "vehicle_driver_entries": 87,
       "vehicle_passenger_entries": 25,
-      "vehicle_trip_straightline_m": 115127.7,
-      "vehicle_trips": 85,
+      "vehicle_trip_straightline_m": 125952.3,
+      "vehicle_trips": 86,
       "weapons": {
         "Barrett M82A2": 21,
         "CR-527": 2,
@@ -2046,12 +2042,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 170,
       "aris_score_breakdown": {
         "ai_hunter": 50,
         "longest_shot": 50,
         "road_warrior": 40,
-        "weapon_master": 40
+        "weapon_master": 30
       }
     },
     {
@@ -2081,13 +2077,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 310,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 80,
+        "longest_shot": 70,
         "trader_king": 80,
         "road_warrior": 30,
-        "weapon_master": 30,
+        "weapon_master": 20,
         "salesman": 60
       }
     },
@@ -2150,12 +2146,10 @@
       },
       "weapon_master_kills": 1,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 90,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "trader_king": 40,
         "road_warrior": 10,
-        "weapon_master": 10,
         "salesman": 40
       }
     }
@@ -2170,7 +2164,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-07T21:21:53.301",
+      "last_seen": "2026-10-07T21:47:08.054",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 498747,
@@ -2178,8 +2172,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 153,
       "vehicle_passenger_entries": 129,
-      "vehicle_trip_straightline_m": 345670.2,
-      "vehicle_trips": 151,
+      "vehicle_trip_straightline_m": 357423.1,
+      "vehicle_trips": 152,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -2205,7 +2199,7 @@
       }
     },
     {
-      "ai_kills": 74,
+      "ai_kills": 78,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
       "favorite_weapon_kills": 36,
@@ -2213,21 +2207,21 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-07T21:28:15.804",
+      "last_seen": "2026-10-07T21:46:17.407",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 199,
-      "vehicle_passenger_entries": 30,
+      "vehicle_passenger_entries": 31,
       "vehicle_trip_straightline_m": 423280.0,
       "vehicle_trips": 199,
       "weapons": {
         "Accuracy International AWM": 36,
         "CR-527": 1,
         "Crossbow": 1,
-        "Denel NTW-20": 1,
+        "Denel NTW-20": 5,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
         "Kimber 8400 Advanced Tactical SOC II": 10,
@@ -2259,16 +2253,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-07T15:22:52.287",
+      "last_seen": "2026-10-07T21:45:37.113",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 86,
+      "vehicle_driver_entries": 87,
       "vehicle_passenger_entries": 25,
-      "vehicle_trip_straightline_m": 115127.7,
-      "vehicle_trips": 85,
+      "vehicle_trip_straightline_m": 125952.3,
+      "vehicle_trips": 86,
       "weapons": {
         "Barrett M82A2": 21,
         "CR-527": 2,
@@ -2401,6 +2395,37 @@
       }
     },
     {
+      "ai_kills": 5,
+      "deaths": 0,
+      "favorite_weapon": "AK-50",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-10-07T21:12:30.870",
+      "ids": [
+        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
+      ],
+      "last_seen": "2026-10-07T21:47:00.452",
+      "longest_ai_kill_m": 759,
+      "longest_ai_kill_weapon": "AK-50",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Skelly (2)",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 2,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "AK-50": 5
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 130,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "longest_shot": 80,
+        "weapon_master": 40
+      }
+    },
+    {
       "ai_kills": 18,
       "deaths": 6,
       "favorite_weapon": "CR-527",
@@ -2429,12 +2454,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 170,
       "aris_score_breakdown": {
         "ai_hunter": 50,
         "longest_shot": 50,
         "road_warrior": 40,
-        "weapon_master": 40
+        "weapon_master": 30
       }
     },
     {
@@ -2464,13 +2489,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 310,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 80,
+        "longest_shot": 70,
         "trader_king": 80,
         "road_warrior": 30,
-        "weapon_master": 30,
+        "weapon_master": 20,
         "salesman": 60
       }
     },
@@ -2499,13 +2524,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
         "ai_hunter": 20,
         "longest_shot": 20,
         "trader_king": 90,
         "road_warrior": 80,
-        "weapon_master": 20,
+        "weapon_master": 10,
         "salesman": 50
       }
     },
@@ -2533,42 +2558,11 @@
       },
       "weapon_master_kills": 1,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 90,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "trader_king": 40,
         "road_warrior": 10,
-        "weapon_master": 10,
         "salesman": 40
-      }
-    },
-    {
-      "ai_kills": 1,
-      "deaths": 0,
-      "favorite_weapon": "AK-50",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-10-07T21:12:30.870",
-      "ids": [
-        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
-      ],
-      "last_seen": "2026-10-07T21:30:46.111",
-      "longest_ai_kill_m": 636,
-      "longest_ai_kill_weapon": "AK-50",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Skelly (2)",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "AK-50": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 70,
-      "aris_score_breakdown": {
-        "longest_shot": 70
       }
     }
   ],
@@ -2582,7 +2576,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-07T21:21:53.301",
+      "last_seen": "2026-10-07T21:47:08.054",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 498747,
@@ -2590,8 +2584,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 153,
       "vehicle_passenger_entries": 129,
-      "vehicle_trip_straightline_m": 345670.2,
-      "vehicle_trips": 151,
+      "vehicle_trip_straightline_m": 357423.1,
+      "vehicle_trips": 152,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -2625,16 +2619,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-07T15:22:52.287",
+      "last_seen": "2026-10-07T21:45:37.113",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 86,
+      "vehicle_driver_entries": 87,
       "vehicle_passenger_entries": 25,
-      "vehicle_trip_straightline_m": 115127.7,
-      "vehicle_trips": 85,
+      "vehicle_trip_straightline_m": 125952.3,
+      "vehicle_trips": 86,
       "weapons": {
         "Barrett M82A2": 21,
         "CR-527": 2,
@@ -2758,13 +2752,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 310,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 80,
+        "longest_shot": 70,
         "trader_king": 80,
         "road_warrior": 30,
-        "weapon_master": 30,
+        "weapon_master": 20,
         "salesman": 60
       }
     },
@@ -2793,13 +2787,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
         "ai_hunter": 20,
         "longest_shot": 20,
         "trader_king": 90,
         "road_warrior": 80,
-        "weapon_master": 20,
+        "weapon_master": 10,
         "salesman": 50
       }
     },
@@ -2827,17 +2821,15 @@
       },
       "weapon_master_kills": 1,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 90,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "trader_king": 40,
         "road_warrior": 10,
-        "weapon_master": 10,
         "salesman": 40
       }
     },
     {
-      "ai_kills": 74,
+      "ai_kills": 78,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
       "favorite_weapon_kills": 36,
@@ -2845,21 +2837,21 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-07T21:28:15.804",
+      "last_seen": "2026-10-07T21:46:17.407",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 199,
-      "vehicle_passenger_entries": 30,
+      "vehicle_passenger_entries": 31,
       "vehicle_trip_straightline_m": 423280.0,
       "vehicle_trips": 199,
       "weapons": {
         "Accuracy International AWM": 36,
         "CR-527": 1,
         "Crossbow": 1,
-        "Denel NTW-20": 1,
+        "Denel NTW-20": 5,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
         "Kimber 8400 Advanced Tactical SOC II": 10,
@@ -2893,7 +2885,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-10-07T21:21:53.301",
+      "last_seen": "2026-10-07T21:47:08.054",
       "longest_ai_kill_m": 795,
       "longest_ai_kill_weapon": "Sci-Fi Rifle",
       "market_income": 498747,
@@ -2901,8 +2893,8 @@
       "name": "Siedma",
       "vehicle_driver_entries": 153,
       "vehicle_passenger_entries": 129,
-      "vehicle_trip_straightline_m": 345670.2,
-      "vehicle_trips": 151,
+      "vehicle_trip_straightline_m": 357423.1,
+      "vehicle_trips": 152,
       "weapons": {
         "Accuracy International AWM": 1,
         "BK-133": 3,
@@ -2928,7 +2920,7 @@
       }
     },
     {
-      "ai_kills": 74,
+      "ai_kills": 78,
       "deaths": 1,
       "favorite_weapon": "Accuracy International AWM",
       "favorite_weapon_kills": 36,
@@ -2936,21 +2928,21 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-10-07T21:28:15.804",
+      "last_seen": "2026-10-07T21:46:17.407",
       "longest_ai_kill_m": 848,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 2273,
       "market_sales": 7,
       "name": "Parazone",
       "vehicle_driver_entries": 199,
-      "vehicle_passenger_entries": 30,
+      "vehicle_passenger_entries": 31,
       "vehicle_trip_straightline_m": 423280.0,
       "vehicle_trips": 199,
       "weapons": {
         "Accuracy International AWM": 36,
         "CR-527": 1,
         "Crossbow": 1,
-        "Denel NTW-20": 1,
+        "Denel NTW-20": 5,
         "Engraved Kolt 1911": 1,
         "FX-45": 1,
         "Kimber 8400 Advanced Tactical SOC II": 10,
@@ -2982,16 +2974,16 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-10-07T15:22:52.287",
+      "last_seen": "2026-10-07T21:45:37.113",
       "longest_ai_kill_m": 619,
       "longest_ai_kill_weapon": "Barrett M82A2",
       "market_income": 26246,
       "market_sales": 48,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 86,
+      "vehicle_driver_entries": 87,
       "vehicle_passenger_entries": 25,
-      "vehicle_trip_straightline_m": 115127.7,
-      "vehicle_trips": 85,
+      "vehicle_trip_straightline_m": 125952.3,
+      "vehicle_trips": 86,
       "weapons": {
         "Barrett M82A2": 21,
         "CR-527": 2,
@@ -3115,13 +3107,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 310,
+      "aris_score": 290,
       "aris_score_breakdown": {
         "ai_hunter": 30,
-        "longest_shot": 80,
+        "longest_shot": 70,
         "trader_king": 80,
         "road_warrior": 30,
-        "weapon_master": 30,
+        "weapon_master": 20,
         "salesman": 60
       }
     },
@@ -3150,13 +3142,13 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
         "ai_hunter": 20,
         "longest_shot": 20,
         "trader_king": 90,
         "road_warrior": 80,
-        "weapon_master": 20,
+        "weapon_master": 10,
         "salesman": 50
       }
     },
@@ -3189,12 +3181,12 @@
       },
       "weapon_master_kills": 4,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 170,
       "aris_score_breakdown": {
         "ai_hunter": 50,
         "longest_shot": 50,
         "road_warrior": 40,
-        "weapon_master": 40
+        "weapon_master": 30
       }
     },
     {
@@ -3233,6 +3225,37 @@
       }
     },
     {
+      "ai_kills": 5,
+      "deaths": 0,
+      "favorite_weapon": "AK-50",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-10-07T21:12:30.870",
+      "ids": [
+        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
+      ],
+      "last_seen": "2026-10-07T21:47:00.452",
+      "longest_ai_kill_m": 759,
+      "longest_ai_kill_weapon": "AK-50",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Skelly (2)",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 2,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "AK-50": 5
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 130,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "longest_shot": 80,
+        "weapon_master": 40
+      }
+    },
+    {
       "ai_kills": 1,
       "deaths": 8,
       "favorite_weapon": "L15 Defense",
@@ -3256,42 +3279,11 @@
       },
       "weapon_master_kills": 1,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 90,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "trader_king": 40,
         "road_warrior": 10,
-        "weapon_master": 10,
         "salesman": 40
-      }
-    },
-    {
-      "ai_kills": 1,
-      "deaths": 0,
-      "favorite_weapon": "AK-50",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-10-07T21:12:30.870",
-      "ids": [
-        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
-      ],
-      "last_seen": "2026-10-07T21:30:46.111",
-      "longest_ai_kill_m": 636,
-      "longest_ai_kill_weapon": "AK-50",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Skelly (2)",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "AK-50": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 70,
-      "aris_score_breakdown": {
-        "longest_shot": 70
       }
     }
   ]
