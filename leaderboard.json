@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 14,
   "staff_count": 7,
-  "updated_at_local": "11.10.2026 09:31",
+  "updated_at_local": "11.10.2026 10:01",
   "staff": [
     {
       "ai_kills": 0,
@@ -58,7 +58,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 6,
       "deaths": 5,
       "favorite_weapon": "B&T APR338",
       "favorite_weapon_kills": 2,
@@ -66,7 +66,7 @@
       "ids": [
         "u03WcR-GUhCpG0x5izTTv-mPaMqqQ3SE8EoXj2ADcL0="
       ],
-      "last_seen": "2026-10-01T00:19:39.135",
+      "last_seen": "2026-10-11T09:34:42.990",
       "longest_ai_kill_m": 224,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 2000,
@@ -79,7 +79,8 @@
       "weapons": {
         "B&T APR338": 2,
         "SIG SAUER MCX RAPTOR": 1,
-        "VSD": 2
+        "VSD": 2,
+        "M4-A1": 1
       },
       "weapon_master_kills": 2,
       "is_admin": true,
@@ -359,7 +360,7 @@
       }
     },
     {
-      "ai_kills": 45,
+      "ai_kills": 47,
       "deaths": 6,
       "favorite_weapon": "Barrett M82A1",
       "favorite_weapon_kills": 22,
@@ -367,14 +368,14 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-10-11T09:31:01.910",
+      "last_seen": "2026-10-11T09:57:19.306",
       "longest_ai_kill_m": 974,
       "longest_ai_kill_weapon": "Barrett M82A1",
       "market_income": 0,
       "market_sales": 0,
       "name": "Lovec",
       "vehicle_driver_entries": 85,
-      "vehicle_passenger_entries": 19,
+      "vehicle_passenger_entries": 20,
       "vehicle_trip_straightline_m": 275577.6,
       "vehicle_trips": 81,
       "weapons": {
@@ -385,7 +386,8 @@
         "HK416": 1,
         "IJ-70": 4,
         "M70 Tundra": 4,
-        "McMillan CS5": 6
+        "McMillan CS5": 6,
+        "DVL-10 M2 Urbana": 2
       },
       "weapon_master_kills": 22,
       "is_admin": false,
@@ -472,6 +474,45 @@
       }
     },
     {
+      "ai_kills": 13,
+      "deaths": 2,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-09-29T18:53:00.920",
+      "ids": [
+        "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
+      ],
+      "last_seen": "2026-10-11T09:57:28.630",
+      "longest_ai_kill_m": 707,
+      "longest_ai_kill_weapon": "M110 SASS",
+      "market_income": 7055461,
+      "market_sales": 10,
+      "name": "JENDA",
+      "vehicle_driver_entries": 61,
+      "vehicle_passenger_entries": 27,
+      "vehicle_trip_straightline_m": 116209.5,
+      "vehicle_trips": 61,
+      "weapons": {
+        "CR-527": 3,
+        "DVL-10 M2 Urbana": 2,
+        "M110 SASS": 3,
+        "STEYR SSG 98k": 2,
+        "Remington MSR": 2,
+        "Bushmaster ACR": 1
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 270,
+      "aris_score_breakdown": {
+        "ai_hunter": 40,
+        "longest_shot": 60,
+        "trader_king": 80,
+        "road_warrior": 50,
+        "weapon_master": 10,
+        "salesman": 30
+      }
+    },
+    {
       "ai_kills": 12,
       "deaths": 4,
       "favorite_weapon": "AAC Honey Badger",
@@ -498,51 +539,14 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 70,
         "road_warrior": 40,
         "weapon_master": 50,
         "salesman": 60
-      }
-    },
-    {
-      "ai_kills": 10,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 3,
-      "first_seen": "2026-09-29T18:53:00.920",
-      "ids": [
-        "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
-      ],
-      "last_seen": "2026-10-11T09:22:29.622",
-      "longest_ai_kill_m": 707,
-      "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 7055461,
-      "market_sales": 10,
-      "name": "JENDA",
-      "vehicle_driver_entries": 59,
-      "vehicle_passenger_entries": 27,
-      "vehicle_trip_straightline_m": 112368.8,
-      "vehicle_trips": 59,
-      "weapons": {
-        "CR-527": 3,
-        "DVL-10 M2 Urbana": 2,
-        "M110 SASS": 3,
-        "STEYR SSG 98k": 2
-      },
-      "weapon_master_kills": 3,
-      "is_admin": false,
-      "aris_score": 260,
-      "aris_score_breakdown": {
-        "ai_hunter": 30,
-        "longest_shot": 60,
-        "trader_king": 80,
-        "road_warrior": 50,
-        "weapon_master": 10,
-        "salesman": 30
       }
     },
     {
@@ -647,7 +651,7 @@
   ],
   "longest_shot": [
     {
-      "ai_kills": 45,
+      "ai_kills": 47,
       "deaths": 6,
       "favorite_weapon": "Barrett M82A1",
       "favorite_weapon_kills": 22,
@@ -655,14 +659,14 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-10-11T09:31:01.910",
+      "last_seen": "2026-10-11T09:57:19.306",
       "longest_ai_kill_m": 974,
       "longest_ai_kill_weapon": "Barrett M82A1",
       "market_income": 0,
       "market_sales": 0,
       "name": "Lovec",
       "vehicle_driver_entries": 85,
-      "vehicle_passenger_entries": 19,
+      "vehicle_passenger_entries": 20,
       "vehicle_trip_straightline_m": 275577.6,
       "vehicle_trips": 81,
       "weapons": {
@@ -673,7 +677,8 @@
         "HK416": 1,
         "IJ-70": 4,
         "M70 Tundra": 4,
-        "McMillan CS5": 6
+        "McMillan CS5": 6,
+        "DVL-10 M2 Urbana": 2
       },
       "weapon_master_kills": 22,
       "is_admin": false,
@@ -812,7 +817,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 13,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 3,
@@ -820,27 +825,29 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-10-11T09:22:29.622",
+      "last_seen": "2026-10-11T09:57:28.630",
       "longest_ai_kill_m": 707,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 7055461,
       "market_sales": 10,
       "name": "JENDA",
-      "vehicle_driver_entries": 59,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 27,
-      "vehicle_trip_straightline_m": 112368.8,
-      "vehicle_trips": 59,
+      "vehicle_trip_straightline_m": 116209.5,
+      "vehicle_trips": 61,
       "weapons": {
         "CR-527": 3,
         "DVL-10 M2 Urbana": 2,
         "M110 SASS": 3,
-        "STEYR SSG 98k": 2
+        "STEYR SSG 98k": 2,
+        "Remington MSR": 2,
+        "Bushmaster ACR": 1
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 40,
         "longest_shot": 60,
         "trader_king": 80,
         "road_warrior": 50,
@@ -991,9 +998,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 70,
         "road_warrior": 40,
@@ -1145,7 +1152,7 @@
       }
     },
     {
-      "ai_kills": 45,
+      "ai_kills": 47,
       "deaths": 6,
       "favorite_weapon": "Barrett M82A1",
       "favorite_weapon_kills": 22,
@@ -1153,14 +1160,14 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-10-11T09:31:01.910",
+      "last_seen": "2026-10-11T09:57:19.306",
       "longest_ai_kill_m": 974,
       "longest_ai_kill_weapon": "Barrett M82A1",
       "market_income": 0,
       "market_sales": 0,
       "name": "Lovec",
       "vehicle_driver_entries": 85,
-      "vehicle_passenger_entries": 19,
+      "vehicle_passenger_entries": 20,
       "vehicle_trip_straightline_m": 275577.6,
       "vehicle_trips": 81,
       "weapons": {
@@ -1171,7 +1178,8 @@
         "HK416": 1,
         "IJ-70": 4,
         "M70 Tundra": 4,
-        "McMillan CS5": 6
+        "McMillan CS5": 6,
+        "DVL-10 M2 Urbana": 2
       },
       "weapon_master_kills": 22,
       "is_admin": false,
@@ -1210,9 +1218,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 70,
         "road_warrior": 40,
@@ -1263,7 +1271,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 13,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 3,
@@ -1271,27 +1279,29 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-10-11T09:22:29.622",
+      "last_seen": "2026-10-11T09:57:28.630",
       "longest_ai_kill_m": 707,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 7055461,
       "market_sales": 10,
       "name": "JENDA",
-      "vehicle_driver_entries": 59,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 27,
-      "vehicle_trip_straightline_m": 112368.8,
-      "vehicle_trips": 59,
+      "vehicle_trip_straightline_m": 116209.5,
+      "vehicle_trips": 61,
       "weapons": {
         "CR-527": 3,
         "DVL-10 M2 Urbana": 2,
         "M110 SASS": 3,
-        "STEYR SSG 98k": 2
+        "STEYR SSG 98k": 2,
+        "Remington MSR": 2,
+        "Bushmaster ACR": 1
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 40,
         "longest_shot": 60,
         "trader_king": 80,
         "road_warrior": 50,
@@ -1605,7 +1615,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 13,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 3,
@@ -1613,27 +1623,29 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-10-11T09:22:29.622",
+      "last_seen": "2026-10-11T09:57:28.630",
       "longest_ai_kill_m": 707,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 7055461,
       "market_sales": 10,
       "name": "JENDA",
-      "vehicle_driver_entries": 59,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 27,
-      "vehicle_trip_straightline_m": 112368.8,
-      "vehicle_trips": 59,
+      "vehicle_trip_straightline_m": 116209.5,
+      "vehicle_trips": 61,
       "weapons": {
         "CR-527": 3,
         "DVL-10 M2 Urbana": 2,
         "M110 SASS": 3,
-        "STEYR SSG 98k": 2
+        "STEYR SSG 98k": 2,
+        "Remington MSR": 2,
+        "Bushmaster ACR": 1
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 40,
         "longest_shot": 60,
         "trader_king": 80,
         "road_warrior": 50,
@@ -1668,9 +1680,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 70,
         "road_warrior": 40,
@@ -1973,7 +1985,7 @@
       }
     },
     {
-      "ai_kills": 45,
+      "ai_kills": 47,
       "deaths": 6,
       "favorite_weapon": "Barrett M82A1",
       "favorite_weapon_kills": 22,
@@ -1981,14 +1993,14 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-10-11T09:31:01.910",
+      "last_seen": "2026-10-11T09:57:19.306",
       "longest_ai_kill_m": 974,
       "longest_ai_kill_weapon": "Barrett M82A1",
       "market_income": 0,
       "market_sales": 0,
       "name": "Lovec",
       "vehicle_driver_entries": 85,
-      "vehicle_passenger_entries": 19,
+      "vehicle_passenger_entries": 20,
       "vehicle_trip_straightline_m": 275577.6,
       "vehicle_trips": 81,
       "weapons": {
@@ -1999,7 +2011,8 @@
         "HK416": 1,
         "IJ-70": 4,
         "M70 Tundra": 4,
-        "McMillan CS5": 6
+        "McMillan CS5": 6,
+        "DVL-10 M2 Urbana": 2
       },
       "weapon_master_kills": 22,
       "is_admin": false,
@@ -2089,7 +2102,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 13,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 3,
@@ -2097,27 +2110,29 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-10-11T09:22:29.622",
+      "last_seen": "2026-10-11T09:57:28.630",
       "longest_ai_kill_m": 707,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 7055461,
       "market_sales": 10,
       "name": "JENDA",
-      "vehicle_driver_entries": 59,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 27,
-      "vehicle_trip_straightline_m": 112368.8,
-      "vehicle_trips": 59,
+      "vehicle_trip_straightline_m": 116209.5,
+      "vehicle_trips": 61,
       "weapons": {
         "CR-527": 3,
         "DVL-10 M2 Urbana": 2,
         "M110 SASS": 3,
-        "STEYR SSG 98k": 2
+        "STEYR SSG 98k": 2,
+        "Remington MSR": 2,
+        "Bushmaster ACR": 1
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 40,
         "longest_shot": 60,
         "trader_king": 80,
         "road_warrior": 50,
@@ -2152,9 +2167,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 70,
         "road_warrior": 40,
@@ -2363,7 +2378,7 @@
       }
     },
     {
-      "ai_kills": 45,
+      "ai_kills": 47,
       "deaths": 6,
       "favorite_weapon": "Barrett M82A1",
       "favorite_weapon_kills": 22,
@@ -2371,14 +2386,14 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-10-11T09:31:01.910",
+      "last_seen": "2026-10-11T09:57:19.306",
       "longest_ai_kill_m": 974,
       "longest_ai_kill_weapon": "Barrett M82A1",
       "market_income": 0,
       "market_sales": 0,
       "name": "Lovec",
       "vehicle_driver_entries": 85,
-      "vehicle_passenger_entries": 19,
+      "vehicle_passenger_entries": 20,
       "vehicle_trip_straightline_m": 275577.6,
       "vehicle_trips": 81,
       "weapons": {
@@ -2389,7 +2404,8 @@
         "HK416": 1,
         "IJ-70": 4,
         "M70 Tundra": 4,
-        "McMillan CS5": 6
+        "McMillan CS5": 6,
+        "DVL-10 M2 Urbana": 2
       },
       "weapon_master_kills": 22,
       "is_admin": false,
@@ -2509,9 +2525,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 70,
         "road_warrior": 40,
@@ -2623,7 +2639,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 13,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 3,
@@ -2631,27 +2647,29 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-10-11T09:22:29.622",
+      "last_seen": "2026-10-11T09:57:28.630",
       "longest_ai_kill_m": 707,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 7055461,
       "market_sales": 10,
       "name": "JENDA",
-      "vehicle_driver_entries": 59,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 27,
-      "vehicle_trip_straightline_m": 112368.8,
-      "vehicle_trips": 59,
+      "vehicle_trip_straightline_m": 116209.5,
+      "vehicle_trips": 61,
       "weapons": {
         "CR-527": 3,
         "DVL-10 M2 Urbana": 2,
         "M110 SASS": 3,
-        "STEYR SSG 98k": 2
+        "STEYR SSG 98k": 2,
+        "Remington MSR": 2,
+        "Bushmaster ACR": 1
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 40,
         "longest_shot": 60,
         "trader_king": 80,
         "road_warrior": 50,
@@ -2893,9 +2911,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 70,
         "road_warrior": 40,
@@ -2970,7 +2988,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 13,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 3,
@@ -2978,27 +2996,29 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-10-11T09:22:29.622",
+      "last_seen": "2026-10-11T09:57:28.630",
       "longest_ai_kill_m": 707,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 7055461,
       "market_sales": 10,
       "name": "JENDA",
-      "vehicle_driver_entries": 59,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 27,
-      "vehicle_trip_straightline_m": 112368.8,
-      "vehicle_trips": 59,
+      "vehicle_trip_straightline_m": 116209.5,
+      "vehicle_trips": 61,
       "weapons": {
         "CR-527": 3,
         "DVL-10 M2 Urbana": 2,
         "M110 SASS": 3,
-        "STEYR SSG 98k": 2
+        "STEYR SSG 98k": 2,
+        "Remington MSR": 2,
+        "Bushmaster ACR": 1
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 40,
         "longest_shot": 60,
         "trader_king": 80,
         "road_warrior": 50,
@@ -3216,7 +3236,7 @@
       }
     },
     {
-      "ai_kills": 45,
+      "ai_kills": 47,
       "deaths": 6,
       "favorite_weapon": "Barrett M82A1",
       "favorite_weapon_kills": 22,
@@ -3224,14 +3244,14 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-10-11T09:31:01.910",
+      "last_seen": "2026-10-11T09:57:19.306",
       "longest_ai_kill_m": 974,
       "longest_ai_kill_weapon": "Barrett M82A1",
       "market_income": 0,
       "market_sales": 0,
       "name": "Lovec",
       "vehicle_driver_entries": 85,
-      "vehicle_passenger_entries": 19,
+      "vehicle_passenger_entries": 20,
       "vehicle_trip_straightline_m": 275577.6,
       "vehicle_trips": 81,
       "weapons": {
@@ -3242,7 +3262,8 @@
         "HK416": 1,
         "IJ-70": 4,
         "M70 Tundra": 4,
-        "McMillan CS5": 6
+        "McMillan CS5": 6,
+        "DVL-10 M2 Urbana": 2
       },
       "weapon_master_kills": 22,
       "is_admin": false,
@@ -3316,9 +3337,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 280,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 40,
+        "ai_hunter": 30,
         "longest_shot": 20,
         "trader_king": 70,
         "road_warrior": 40,
@@ -3327,7 +3348,7 @@
       }
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 13,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 3,
@@ -3335,27 +3356,29 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-10-11T09:22:29.622",
+      "last_seen": "2026-10-11T09:57:28.630",
       "longest_ai_kill_m": 707,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 7055461,
       "market_sales": 10,
       "name": "JENDA",
-      "vehicle_driver_entries": 59,
+      "vehicle_driver_entries": 61,
       "vehicle_passenger_entries": 27,
-      "vehicle_trip_straightline_m": 112368.8,
-      "vehicle_trips": 59,
+      "vehicle_trip_straightline_m": 116209.5,
+      "vehicle_trips": 61,
       "weapons": {
         "CR-527": 3,
         "DVL-10 M2 Urbana": 2,
         "M110 SASS": 3,
-        "STEYR SSG 98k": 2
+        "STEYR SSG 98k": 2,
+        "Remington MSR": 2,
+        "Bushmaster ACR": 1
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 270,
       "aris_score_breakdown": {
-        "ai_hunter": 30,
+        "ai_hunter": 40,
         "longest_shot": 60,
         "trader_king": 80,
         "road_warrior": 50,
