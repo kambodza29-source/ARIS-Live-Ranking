@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 160,
   "staff_count": 8,
-  "updated_at_local": "03.11.2026 00:01",
+  "updated_at_local": "03.11.2026 00:31",
   "staff": [
     {
       "ai_kills": 15,
@@ -616,13 +616,13 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-02T23:33:19.933",
+      "last_seen": "2026-11-03T00:26:26.679",
       "longest_ai_kill_m": 936,
       "longest_ai_kill_weapon": "CheyTac Intervention M200",
       "market_income": 7106758,
       "market_sales": 13,
       "name": "JENDA",
-      "vehicle_driver_entries": 87,
+      "vehicle_driver_entries": 88,
       "vehicle_passenger_entries": 30,
       "vehicle_trip_straightline_m": 200870.8,
       "vehicle_trips": 87,
@@ -814,6 +814,36 @@
     },
     {
       "ai_kills": 12,
+      "deaths": 0,
+      "favorite_weapon": "SK 59/66",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-01T16:53:33.861",
+      "ids": [
+        "lyLKfzZhFRjOsxVw1XqP2oXsguxlf9HX-cBds1_Gxww="
+      ],
+      "last_seen": "2026-11-03T00:20:20.869",
+      "longest_ai_kill_m": 199,
+      "longest_ai_kill_weapon": "SK 59/66",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "EnZo",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Crossbow": 1,
+        "SK 59/66": 9,
+        "Sporter 22": 1,
+        "CR-527": 1
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 12,
       "deaths": 2,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 6,
@@ -927,35 +957,6 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 8,
-      "deaths": 0,
-      "favorite_weapon": "SK 59/66",
-      "favorite_weapon_kills": 6,
-      "first_seen": "2026-11-01T16:53:33.861",
-      "ids": [
-        "lyLKfzZhFRjOsxVw1XqP2oXsguxlf9HX-cBds1_Gxww="
-      ],
-      "last_seen": "2026-11-02T18:19:00.203",
-      "longest_ai_kill_m": 199,
-      "longest_ai_kill_weapon": "SK 59/66",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "EnZo",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Crossbow": 1,
-        "SK 59/66": 6,
-        "Sporter 22": 1
-      },
-      "weapon_master_kills": 6,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
       "ai_kills": 7,
       "deaths": 2,
       "favorite_weapon": "Repeater Carbine",
@@ -964,16 +965,16 @@
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-02T19:29:03.658",
+      "last_seen": "2026-11-03T00:28:03.154",
       "longest_ai_kill_m": 140,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 4,
+      "vehicle_driver_entries": 6,
       "vehicle_passenger_entries": 17,
-      "vehicle_trip_straightline_m": 763.0,
-      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 2132.7,
+      "vehicle_trips": 5,
       "weapons": {
         "FX-45": 3,
         "Repeater Carbine": 4
@@ -1717,22 +1718,22 @@
       "aris_score_breakdown": {}
     },
     {
-      "name": "OnNEeS (2)",
-      "ids": [],
-      "first_seen": "2026-11-02T23:37:18.264",
-      "last_seen": "2026-11-02T23:37:19.146",
       "ai_kills": 2,
       "deaths": 0,
-      "longest_ai_kill_m": 9,
-      "longest_ai_kill_weapon": "CR-61 Skorpion",
       "favorite_weapon": "CR-61 Skorpion",
       "favorite_weapon_kills": 2,
+      "first_seen": "2026-11-02T23:37:18.264",
+      "ids": [],
+      "last_seen": "2026-11-02T23:37:19.146",
+      "longest_ai_kill_m": 9,
+      "longest_ai_kill_weapon": "CR-61 Skorpion",
       "market_income": 0,
       "market_sales": 0,
+      "name": "OnNEeS (2)",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
       "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
       "weapons": {
         "CR-61 Skorpion": 2
       },
@@ -1763,6 +1764,34 @@
       "weapons": {
         "CR-527": 1,
         "Revolver": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 2,
+      "deaths": 2,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-10-31T21:42:48.554",
+      "ids": [
+        "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
+      ],
+      "last_seen": "2026-11-03T00:17:13.543",
+      "longest_ai_kill_m": 31,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "StefanSVK",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "IJ-70": 1,
+        "CR-527": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -2124,33 +2153,6 @@
     },
     {
       "ai_kills": 1,
-      "deaths": 2,
-      "favorite_weapon": "IJ-70",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-10-31T21:42:48.554",
-      "ids": [
-        "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
-      ],
-      "last_seen": "2026-11-02T15:04:39.794",
-      "longest_ai_kill_m": 16,
-      "longest_ai_kill_weapon": "IJ-70",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "StefanSVK",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "IJ-70": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 1,
       "deaths": 3,
       "favorite_weapon": "P1",
       "favorite_weapon_kills": 1,
@@ -2230,13 +2232,13 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-02T23:33:19.933",
+      "last_seen": "2026-11-03T00:26:26.679",
       "longest_ai_kill_m": 936,
       "longest_ai_kill_weapon": "CheyTac Intervention M200",
       "market_income": 7106758,
       "market_sales": 13,
       "name": "JENDA",
-      "vehicle_driver_entries": 87,
+      "vehicle_driver_entries": 88,
       "vehicle_passenger_entries": 30,
       "vehicle_trip_straightline_m": 200870.8,
       "vehicle_trips": 87,
@@ -2710,15 +2712,15 @@
       }
     },
     {
-      "ai_kills": 8,
+      "ai_kills": 12,
       "deaths": 0,
       "favorite_weapon": "SK 59/66",
-      "favorite_weapon_kills": 6,
+      "favorite_weapon_kills": 9,
       "first_seen": "2026-11-01T16:53:33.861",
       "ids": [
         "lyLKfzZhFRjOsxVw1XqP2oXsguxlf9HX-cBds1_Gxww="
       ],
-      "last_seen": "2026-11-02T18:19:00.203",
+      "last_seen": "2026-11-03T00:20:20.869",
       "longest_ai_kill_m": 199,
       "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
@@ -2730,10 +2732,11 @@
       "vehicle_trips": 0,
       "weapons": {
         "Crossbow": 1,
-        "SK 59/66": 6,
-        "Sporter 22": 1
+        "SK 59/66": 9,
+        "Sporter 22": 1,
+        "CR-527": 1
       },
-      "weapon_master_kills": 6,
+      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -2747,16 +2750,16 @@
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-02T19:29:03.658",
+      "last_seen": "2026-11-03T00:28:03.154",
       "longest_ai_kill_m": 140,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 4,
+      "vehicle_driver_entries": 6,
       "vehicle_passenger_entries": 17,
-      "vehicle_trip_straightline_m": 763.0,
-      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 2132.7,
+      "vehicle_trips": 5,
       "weapons": {
         "FX-45": 3,
         "Repeater Carbine": 4
@@ -3623,6 +3626,34 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 2,
+      "deaths": 2,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-10-31T21:42:48.554",
+      "ids": [
+        "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
+      ],
+      "last_seen": "2026-11-03T00:17:13.543",
+      "longest_ai_kill_m": 31,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "StefanSVK",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "IJ-70": 1,
+        "CR-527": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 3,
       "deaths": 8,
       "favorite_weapon": "IJ-70",
@@ -3788,33 +3819,6 @@
     },
     {
       "ai_kills": 1,
-      "deaths": 2,
-      "favorite_weapon": "IJ-70",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-10-31T21:42:48.554",
-      "ids": [
-        "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
-      ],
-      "last_seen": "2026-11-02T15:04:39.794",
-      "longest_ai_kill_m": 16,
-      "longest_ai_kill_weapon": "IJ-70",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "StefanSVK",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "IJ-70": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 1,
       "deaths": 0,
       "favorite_weapon": "FX-45",
       "favorite_weapon_kills": 1,
@@ -3893,22 +3897,22 @@
       "aris_score_breakdown": {}
     },
     {
-      "name": "OnNEeS (2)",
-      "ids": [],
-      "first_seen": "2026-11-02T23:37:18.264",
-      "last_seen": "2026-11-02T23:37:19.146",
       "ai_kills": 2,
       "deaths": 0,
-      "longest_ai_kill_m": 9,
-      "longest_ai_kill_weapon": "CR-61 Skorpion",
       "favorite_weapon": "CR-61 Skorpion",
       "favorite_weapon_kills": 2,
+      "first_seen": "2026-11-02T23:37:18.264",
+      "ids": [],
+      "last_seen": "2026-11-02T23:37:19.146",
+      "longest_ai_kill_m": 9,
+      "longest_ai_kill_weapon": "CR-61 Skorpion",
       "market_income": 0,
       "market_sales": 0,
+      "name": "OnNEeS (2)",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
       "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
       "weapons": {
         "CR-61 Skorpion": 2
       },
@@ -5305,13 +5309,13 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-02T23:33:19.933",
+      "last_seen": "2026-11-03T00:26:26.679",
       "longest_ai_kill_m": 936,
       "longest_ai_kill_weapon": "CheyTac Intervention M200",
       "market_income": 7106758,
       "market_sales": 13,
       "name": "JENDA",
-      "vehicle_driver_entries": 87,
+      "vehicle_driver_entries": 88,
       "vehicle_passenger_entries": 30,
       "vehicle_trip_straightline_m": 200870.8,
       "vehicle_trips": 87,
@@ -5788,16 +5792,16 @@
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-02T19:29:03.658",
+      "last_seen": "2026-11-03T00:28:03.154",
       "longest_ai_kill_m": 140,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 4,
+      "vehicle_driver_entries": 6,
       "vehicle_passenger_entries": 17,
-      "vehicle_trip_straightline_m": 763.0,
-      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 2132.7,
+      "vehicle_trips": 5,
       "weapons": {
         "FX-45": 3,
         "Repeater Carbine": 4
@@ -6434,7 +6438,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 1,
+      "ai_kills": 2,
       "deaths": 2,
       "favorite_weapon": "IJ-70",
       "favorite_weapon_kills": 1,
@@ -6442,9 +6446,9 @@
       "ids": [
         "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
       ],
-      "last_seen": "2026-11-02T15:04:39.794",
-      "longest_ai_kill_m": 16,
-      "longest_ai_kill_weapon": "IJ-70",
+      "last_seen": "2026-11-03T00:17:13.543",
+      "longest_ai_kill_m": 31,
+      "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
       "market_sales": 0,
       "name": "StefanSVK",
@@ -6453,7 +6457,8 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "IJ-70": 1
+        "IJ-70": 1,
+        "CR-527": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -8240,13 +8245,13 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-02T23:33:19.933",
+      "last_seen": "2026-11-03T00:26:26.679",
       "longest_ai_kill_m": 936,
       "longest_ai_kill_weapon": "CheyTac Intervention M200",
       "market_income": 7106758,
       "market_sales": 13,
       "name": "JENDA",
-      "vehicle_driver_entries": 87,
+      "vehicle_driver_entries": 88,
       "vehicle_passenger_entries": 30,
       "vehicle_trip_straightline_m": 200870.8,
       "vehicle_trips": 87,
@@ -8753,13 +8758,13 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-02T23:33:19.933",
+      "last_seen": "2026-11-03T00:26:26.679",
       "longest_ai_kill_m": 936,
       "longest_ai_kill_weapon": "CheyTac Intervention M200",
       "market_income": 7106758,
       "market_sales": 13,
       "name": "JENDA",
-      "vehicle_driver_entries": 87,
+      "vehicle_driver_entries": 88,
       "vehicle_passenger_entries": 30,
       "vehicle_trip_straightline_m": 200870.8,
       "vehicle_trips": 87,
@@ -9186,6 +9191,34 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 7,
+      "deaths": 2,
+      "favorite_weapon": "Repeater Carbine",
+      "favorite_weapon_kills": 4,
+      "first_seen": "2026-11-01T02:41:44.754",
+      "ids": [
+        "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
+      ],
+      "last_seen": "2026-11-03T00:28:03.154",
+      "longest_ai_kill_m": 140,
+      "longest_ai_kill_weapon": "Repeater Carbine",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "CertainlyREALGhost",
+      "vehicle_driver_entries": 6,
+      "vehicle_passenger_entries": 17,
+      "vehicle_trip_straightline_m": 2132.7,
+      "vehicle_trips": 5,
+      "weapons": {
+        "FX-45": 3,
+        "Repeater Carbine": 4
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 0,
       "deaths": 1,
       "favorite_weapon": "",
@@ -9206,34 +9239,6 @@
       "vehicle_trips": 5,
       "weapons": {},
       "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 7,
-      "deaths": 2,
-      "favorite_weapon": "Repeater Carbine",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-11-01T02:41:44.754",
-      "ids": [
-        "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
-      ],
-      "last_seen": "2026-11-02T19:29:03.658",
-      "longest_ai_kill_m": 140,
-      "longest_ai_kill_weapon": "Repeater Carbine",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 4,
-      "vehicle_passenger_entries": 17,
-      "vehicle_trip_straightline_m": 763.0,
-      "vehicle_trips": 4,
-      "weapons": {
-        "FX-45": 3,
-        "Repeater Carbine": 4
-      },
-      "weapon_master_kills": 4,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -9743,6 +9748,36 @@
       }
     },
     {
+      "ai_kills": 12,
+      "deaths": 0,
+      "favorite_weapon": "SK 59/66",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-01T16:53:33.861",
+      "ids": [
+        "lyLKfzZhFRjOsxVw1XqP2oXsguxlf9HX-cBds1_Gxww="
+      ],
+      "last_seen": "2026-11-03T00:20:20.869",
+      "longest_ai_kill_m": 199,
+      "longest_ai_kill_weapon": "SK 59/66",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "EnZo",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Crossbow": 1,
+        "SK 59/66": 9,
+        "Sporter 22": 1,
+        "CR-527": 1
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 16,
       "deaths": 6,
       "favorite_weapon": "AAC Honey Badger",
@@ -9829,35 +9864,6 @@
       "weapons": {
         "Pioneer": 6,
         "SK 59/66": 2
-      },
-      "weapon_master_kills": 6,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 8,
-      "deaths": 0,
-      "favorite_weapon": "SK 59/66",
-      "favorite_weapon_kills": 6,
-      "first_seen": "2026-11-01T16:53:33.861",
-      "ids": [
-        "lyLKfzZhFRjOsxVw1XqP2oXsguxlf9HX-cBds1_Gxww="
-      ],
-      "last_seen": "2026-11-02T18:19:00.203",
-      "longest_ai_kill_m": 199,
-      "longest_ai_kill_weapon": "SK 59/66",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "EnZo",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Crossbow": 1,
-        "SK 59/66": 6,
-        "Sporter 22": 1
       },
       "weapon_master_kills": 6,
       "is_admin": false,
@@ -9994,16 +10000,16 @@
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-02T19:29:03.658",
+      "last_seen": "2026-11-03T00:28:03.154",
       "longest_ai_kill_m": 140,
       "longest_ai_kill_weapon": "Repeater Carbine",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 4,
+      "vehicle_driver_entries": 6,
       "vehicle_passenger_entries": 17,
-      "vehicle_trip_straightline_m": 763.0,
-      "vehicle_trips": 4,
+      "vehicle_trip_straightline_m": 2132.7,
+      "vehicle_trips": 5,
       "weapons": {
         "FX-45": 3,
         "Repeater Carbine": 4
@@ -10050,13 +10056,13 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-02T23:33:19.933",
+      "last_seen": "2026-11-03T00:26:26.679",
       "longest_ai_kill_m": 936,
       "longest_ai_kill_weapon": "CheyTac Intervention M200",
       "market_income": 7106758,
       "market_sales": 13,
       "name": "JENDA",
-      "vehicle_driver_entries": 87,
+      "vehicle_driver_entries": 88,
       "vehicle_passenger_entries": 30,
       "vehicle_trip_straightline_m": 200870.8,
       "vehicle_trips": 87,
@@ -10617,22 +10623,22 @@
       "aris_score_breakdown": {}
     },
     {
-      "name": "OnNEeS (2)",
-      "ids": [],
-      "first_seen": "2026-11-02T23:37:18.264",
-      "last_seen": "2026-11-02T23:37:19.146",
       "ai_kills": 2,
       "deaths": 0,
-      "longest_ai_kill_m": 9,
-      "longest_ai_kill_weapon": "CR-61 Skorpion",
       "favorite_weapon": "CR-61 Skorpion",
       "favorite_weapon_kills": 2,
+      "first_seen": "2026-11-02T23:37:18.264",
+      "ids": [],
+      "last_seen": "2026-11-02T23:37:19.146",
+      "longest_ai_kill_m": 9,
+      "longest_ai_kill_weapon": "CR-61 Skorpion",
       "market_income": 0,
       "market_sales": 0,
+      "name": "OnNEeS (2)",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
       "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
       "weapons": {
         "CR-61 Skorpion": 2
       },
@@ -11136,7 +11142,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 1,
+      "ai_kills": 2,
       "deaths": 2,
       "favorite_weapon": "IJ-70",
       "favorite_weapon_kills": 1,
@@ -11144,9 +11150,9 @@
       "ids": [
         "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
       ],
-      "last_seen": "2026-11-02T15:04:39.794",
-      "longest_ai_kill_m": 16,
-      "longest_ai_kill_weapon": "IJ-70",
+      "last_seen": "2026-11-03T00:17:13.543",
+      "longest_ai_kill_m": 31,
+      "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
       "market_sales": 0,
       "name": "StefanSVK",
@@ -11155,7 +11161,8 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "IJ-70": 1
+        "IJ-70": 1,
+        "CR-527": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -11522,13 +11529,13 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-02T23:33:19.933",
+      "last_seen": "2026-11-03T00:26:26.679",
       "longest_ai_kill_m": 936,
       "longest_ai_kill_weapon": "CheyTac Intervention M200",
       "market_income": 7106758,
       "market_sales": 13,
       "name": "JENDA",
-      "vehicle_driver_entries": 87,
+      "vehicle_driver_entries": 88,
       "vehicle_passenger_entries": 30,
       "vehicle_trip_straightline_m": 200870.8,
       "vehicle_trips": 87,
@@ -11893,13 +11900,13 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-02T23:33:19.933",
+      "last_seen": "2026-11-03T00:26:26.679",
       "longest_ai_kill_m": 936,
       "longest_ai_kill_weapon": "CheyTac Intervention M200",
       "market_income": 7106758,
       "market_sales": 13,
       "name": "JENDA",
-      "vehicle_driver_entries": 87,
+      "vehicle_driver_entries": 88,
       "vehicle_passenger_entries": 30,
       "vehicle_trip_straightline_m": 200870.8,
       "vehicle_trips": 87,
