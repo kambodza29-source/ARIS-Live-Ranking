@@ -2,7 +2,7 @@
   "season_start": "2026-09-07",
   "player_count": 162,
   "staff_count": 8,
-  "updated_at_local": "03.11.2026 08:31",
+  "updated_at_local": "03.11.2026 09:01",
   "staff": [
     {
       "ai_kills": 15,
@@ -376,7 +376,7 @@
       }
     },
     {
-      "ai_kills": 91,
+      "ai_kills": 95,
       "deaths": 7,
       "favorite_weapon": "Barrett M82A2",
       "favorite_weapon_kills": 25,
@@ -384,7 +384,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-03T02:49:51.224",
+      "last_seen": "2026-11-03T08:50:37.686",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 158609,
@@ -398,7 +398,7 @@
         ".50 Beowulf": 2,
         "AAC Honey Badger": 7,
         "Barrett M82A2": 25,
-        "CR-527": 6,
+        "CR-527": 10,
         "Crossbow": 3,
         "FN SCAR-H MK17 MOD O FDE": 10,
         "M70 Tundra": 20,
@@ -924,9 +924,9 @@
       "weapons": {
         "Bizon": 8,
         "Blaze": 1,
+        "Crossbow": 1,
         "FX-45": 1,
-        "SK 59/66": 1,
-        "Crossbow": 1
+        "SK 59/66": 1
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -1429,14 +1429,14 @@
     },
     {
       "ai_kills": 4,
-      "deaths": 4,
+      "deaths": 5,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 3,
       "first_seen": "2026-10-31T21:15:01.058",
       "ids": [
         "f52E6ky3mMnciWmiPN6LyrY3G2oAeWnbPTIpv9Q4Wo4="
       ],
-      "last_seen": "2026-11-03T08:31:00.773",
+      "last_seen": "2026-11-03T08:50:35.950",
       "longest_ai_kill_m": 49,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 0,
@@ -1447,8 +1447,8 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "BK-18": 3,
-        "BK-133": 1
+        "BK-133": 1,
+        "BK-18": 3
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -1785,6 +1785,33 @@
     {
       "ai_kills": 2,
       "deaths": 1,
+      "favorite_weapon": "Crossbow",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-10-31T22:34:37.544",
+      "ids": [
+        "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
+      ],
+      "last_seen": "2026-11-03T08:41:43.784",
+      "longest_ai_kill_m": 23,
+      "longest_ai_kill_weapon": "Crossbow",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "AkameLilith",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Crossbow": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 2,
+      "deaths": 1,
       "favorite_weapon": "BK-43",
       "favorite_weapon_kills": 1,
       "first_seen": "2026-11-01T19:03:13.628",
@@ -1995,33 +2022,6 @@
       "weapons": {
         "BK-133": 1,
         "Mosin 91/30": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 1,
-      "deaths": 1,
-      "favorite_weapon": "Crossbow",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-10-31T22:34:37.544",
-      "ids": [
-        "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
-      ],
-      "last_seen": "2026-11-02T20:15:38.715",
-      "longest_ai_kill_m": 23,
-      "longest_ai_kill_weapon": "Crossbow",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "AkameLilith",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Crossbow": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -2554,7 +2554,7 @@
       }
     },
     {
-      "ai_kills": 91,
+      "ai_kills": 95,
       "deaths": 7,
       "favorite_weapon": "Barrett M82A2",
       "favorite_weapon_kills": 25,
@@ -2562,7 +2562,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-03T02:49:51.224",
+      "last_seen": "2026-11-03T08:50:37.686",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 158609,
@@ -2576,7 +2576,7 @@
         ".50 Beowulf": 2,
         "AAC Honey Badger": 7,
         "Barrett M82A2": 25,
-        "CR-527": 6,
+        "CR-527": 10,
         "Crossbow": 3,
         "FN SCAR-H MK17 MOD O FDE": 10,
         "M70 Tundra": 20,
@@ -3151,9 +3151,9 @@
       "weapons": {
         "Bizon": 8,
         "Blaze": 1,
+        "Crossbow": 1,
         "FX-45": 1,
-        "SK 59/66": 1,
-        "Crossbow": 1
+        "SK 59/66": 1
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -3501,14 +3501,14 @@
     },
     {
       "ai_kills": 4,
-      "deaths": 4,
+      "deaths": 5,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 3,
       "first_seen": "2026-10-31T21:15:01.058",
       "ids": [
         "f52E6ky3mMnciWmiPN6LyrY3G2oAeWnbPTIpv9Q4Wo4="
       ],
-      "last_seen": "2026-11-03T08:31:00.773",
+      "last_seen": "2026-11-03T08:50:35.950",
       "longest_ai_kill_m": 49,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 0,
@@ -3519,8 +3519,8 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "BK-18": 3,
-        "BK-133": 1
+        "BK-133": 1,
+        "BK-18": 3
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -3923,15 +3923,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 1,
+      "ai_kills": 2,
       "deaths": 1,
       "favorite_weapon": "Crossbow",
-      "favorite_weapon_kills": 1,
+      "favorite_weapon_kills": 2,
       "first_seen": "2026-10-31T22:34:37.544",
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-02T20:15:38.715",
+      "last_seen": "2026-11-03T08:41:43.784",
       "longest_ai_kill_m": 23,
       "longest_ai_kill_weapon": "Crossbow",
       "market_income": 0,
@@ -3942,9 +3942,9 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Crossbow": 1
+        "Crossbow": 2
       },
-      "weapon_master_kills": 1,
+      "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -4702,7 +4702,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 91,
+      "ai_kills": 95,
       "deaths": 7,
       "favorite_weapon": "Barrett M82A2",
       "favorite_weapon_kills": 25,
@@ -4710,7 +4710,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-03T02:49:51.224",
+      "last_seen": "2026-11-03T08:50:37.686",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 158609,
@@ -4724,7 +4724,7 @@
         ".50 Beowulf": 2,
         "AAC Honey Badger": 7,
         "Barrett M82A2": 25,
-        "CR-527": 6,
+        "CR-527": 10,
         "Crossbow": 3,
         "FN SCAR-H MK17 MOD O FDE": 10,
         "M70 Tundra": 20,
@@ -4941,9 +4941,9 @@
       "weapons": {
         "Bizon": 8,
         "Blaze": 1,
+        "Crossbow": 1,
         "FX-45": 1,
-        "SK 59/66": 1,
-        "Crossbow": 1
+        "SK 59/66": 1
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -5045,6 +5045,34 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "BK-18": 3
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 4,
+      "deaths": 5,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-10-31T21:15:01.058",
+      "ids": [
+        "f52E6ky3mMnciWmiPN6LyrY3G2oAeWnbPTIpv9Q4Wo4="
+      ],
+      "last_seen": "2026-11-03T08:50:35.950",
+      "longest_ai_kill_m": 49,
+      "longest_ai_kill_weapon": "BK-18",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Punish3r",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 1,
         "BK-18": 3
       },
       "weapon_master_kills": 3,
@@ -5237,34 +5265,6 @@
         "road_warrior": 10,
         "weapon_master": 20
       }
-    },
-    {
-      "ai_kills": 4,
-      "deaths": 4,
-      "favorite_weapon": "BK-18",
-      "favorite_weapon_kills": 3,
-      "first_seen": "2026-10-31T21:15:01.058",
-      "ids": [
-        "f52E6ky3mMnciWmiPN6LyrY3G2oAeWnbPTIpv9Q4Wo4="
-      ],
-      "last_seen": "2026-11-03T08:31:00.773",
-      "longest_ai_kill_m": 49,
-      "longest_ai_kill_weapon": "BK-18",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Punish3r",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-18": 3,
-        "BK-133": 1
-      },
-      "weapon_master_kills": 3,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 3,
@@ -7014,15 +7014,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 1,
+      "ai_kills": 2,
       "deaths": 1,
       "favorite_weapon": "Crossbow",
-      "favorite_weapon_kills": 1,
+      "favorite_weapon_kills": 2,
       "first_seen": "2026-10-31T22:34:37.544",
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-02T20:15:38.715",
+      "last_seen": "2026-11-03T08:41:43.784",
       "longest_ai_kill_m": 23,
       "longest_ai_kill_weapon": "Crossbow",
       "market_income": 0,
@@ -7033,9 +7033,9 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Crossbow": 1
+        "Crossbow": 2
       },
-      "weapon_master_kills": 1,
+      "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -8725,7 +8725,7 @@
       }
     },
     {
-      "ai_kills": 91,
+      "ai_kills": 95,
       "deaths": 7,
       "favorite_weapon": "Barrett M82A2",
       "favorite_weapon_kills": 25,
@@ -8733,7 +8733,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-03T02:49:51.224",
+      "last_seen": "2026-11-03T08:50:37.686",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 158609,
@@ -8747,7 +8747,7 @@
         ".50 Beowulf": 2,
         "AAC Honey Badger": 7,
         "Barrett M82A2": 25,
-        "CR-527": 6,
+        "CR-527": 10,
         "Crossbow": 3,
         "FN SCAR-H MK17 MOD O FDE": 10,
         "M70 Tundra": 20,
@@ -8934,7 +8934,7 @@
       }
     },
     {
-      "ai_kills": 91,
+      "ai_kills": 95,
       "deaths": 7,
       "favorite_weapon": "Barrett M82A2",
       "favorite_weapon_kills": 25,
@@ -8942,7 +8942,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-03T02:49:51.224",
+      "last_seen": "2026-11-03T08:50:37.686",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 158609,
@@ -8956,7 +8956,7 @@
         ".50 Beowulf": 2,
         "AAC Honey Badger": 7,
         "Barrett M82A2": 25,
-        "CR-527": 6,
+        "CR-527": 10,
         "Crossbow": 3,
         "FN SCAR-H MK17 MOD O FDE": 10,
         "M70 Tundra": 20,
@@ -9831,7 +9831,7 @@
       }
     },
     {
-      "ai_kills": 91,
+      "ai_kills": 95,
       "deaths": 7,
       "favorite_weapon": "Barrett M82A2",
       "favorite_weapon_kills": 25,
@@ -9839,7 +9839,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-03T02:49:51.224",
+      "last_seen": "2026-11-03T08:50:37.686",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 158609,
@@ -9853,7 +9853,7 @@
         ".50 Beowulf": 2,
         "AAC Honey Badger": 7,
         "Barrett M82A2": 25,
-        "CR-527": 6,
+        "CR-527": 10,
         "Crossbow": 3,
         "FN SCAR-H MK17 MOD O FDE": 10,
         "M70 Tundra": 20,
@@ -10145,9 +10145,9 @@
       "weapons": {
         "Bizon": 8,
         "Blaze": 1,
+        "Crossbow": 1,
         "FX-45": 1,
-        "SK 59/66": 1,
-        "Crossbow": 1
+        "SK 59/66": 1
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -10748,14 +10748,14 @@
     },
     {
       "ai_kills": 4,
-      "deaths": 4,
+      "deaths": 5,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 3,
       "first_seen": "2026-10-31T21:15:01.058",
       "ids": [
         "f52E6ky3mMnciWmiPN6LyrY3G2oAeWnbPTIpv9Q4Wo4="
       ],
-      "last_seen": "2026-11-03T08:31:00.773",
+      "last_seen": "2026-11-03T08:50:35.950",
       "longest_ai_kill_m": 49,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 0,
@@ -10766,8 +10766,8 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "BK-18": 3,
-        "BK-133": 1
+        "BK-133": 1,
+        "BK-18": 3
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -10908,6 +10908,33 @@
         "SK 59/66": 3
       },
       "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 2,
+      "deaths": 1,
+      "favorite_weapon": "Crossbow",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-10-31T22:34:37.544",
+      "ids": [
+        "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
+      ],
+      "last_seen": "2026-11-03T08:41:43.784",
+      "longest_ai_kill_m": 23,
+      "longest_ai_kill_weapon": "Crossbow",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "AkameLilith",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Crossbow": 2
+      },
+      "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -11215,33 +11242,6 @@
         "IJ-70": 2
       },
       "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 1,
-      "deaths": 1,
-      "favorite_weapon": "Crossbow",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-10-31T22:34:37.544",
-      "ids": [
-        "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
-      ],
-      "last_seen": "2026-11-02T20:15:38.715",
-      "longest_ai_kill_m": 23,
-      "longest_ai_kill_weapon": "Crossbow",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "AkameLilith",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Crossbow": 1
-      },
-      "weapon_master_kills": 1,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -11737,7 +11737,7 @@
       }
     },
     {
-      "ai_kills": 91,
+      "ai_kills": 95,
       "deaths": 7,
       "favorite_weapon": "Barrett M82A2",
       "favorite_weapon_kills": 25,
@@ -11745,7 +11745,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-03T02:49:51.224",
+      "last_seen": "2026-11-03T08:50:37.686",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 158609,
@@ -11759,7 +11759,7 @@
         ".50 Beowulf": 2,
         "AAC Honey Badger": 7,
         "Barrett M82A2": 25,
-        "CR-527": 6,
+        "CR-527": 10,
         "Crossbow": 3,
         "FN SCAR-H MK17 MOD O FDE": 10,
         "M70 Tundra": 20,
@@ -12157,7 +12157,7 @@
       }
     },
     {
-      "ai_kills": 91,
+      "ai_kills": 95,
       "deaths": 7,
       "favorite_weapon": "Barrett M82A2",
       "favorite_weapon_kills": 25,
@@ -12165,7 +12165,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-03T02:49:51.224",
+      "last_seen": "2026-11-03T08:50:37.686",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 158609,
@@ -12179,7 +12179,7 @@
         ".50 Beowulf": 2,
         "AAC Honey Badger": 7,
         "Barrett M82A2": 25,
-        "CR-527": 6,
+        "CR-527": 10,
         "Crossbow": 3,
         "FN SCAR-H MK17 MOD O FDE": 10,
         "M70 Tundra": 20,
