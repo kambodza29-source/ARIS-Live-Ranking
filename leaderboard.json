@@ -1,8 +1,8 @@
 {
   "season_start": "2026-11-03",
   "player_count": 97,
-  "staff_count": 2,
-  "updated_at_local": "04.11.2026 22:31",
+  "staff_count": 3,
+  "updated_at_local": "04.11.2026 23:02",
   "staff": [
     {
       "ai_kills": 5,
@@ -29,6 +29,31 @@
         "VSD": 2
       },
       "weapon_master_kills": 2,
+      "is_admin": true,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "name": "KudlisCZ",
+      "ids": [
+        "YX7SK1KU6Q9dyhhMktlL84PgNApBF3goRGTtodt0UEM="
+      ],
+      "first_seen": "2026-11-04T22:45:19.553",
+      "last_seen": "2026-11-04T22:47:10.213",
+      "ai_kills": 0,
+      "deaths": 0,
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 2,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 2,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {},
+      "weapon_master_kills": 0,
       "is_admin": true,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -107,16 +132,16 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-04T22:21:28.118",
+      "last_seen": "2026-11-04T22:56:04.139",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "Fr3aks",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 57,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 104455.0,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 113765.4,
+      "vehicle_trips": 57,
       "weapons": {
         "CR-527": 6,
         "FN Five-seveN": 5,
@@ -172,28 +197,28 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-04T22:26:55.606",
+      "last_seen": "2026-11-04T23:00:50.937",
       "longest_ai_kill_m": 457,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 39355,
       "market_sales": 15,
       "name": "CHABA_",
-      "vehicle_driver_entries": 29,
+      "vehicle_driver_entries": 31,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 31119.5,
-      "vehicle_trips": 29,
+      "vehicle_trip_straightline_m": 34809.2,
+      "vehicle_trips": 30,
       "weapons": {
         "Blaze": 7,
         "CR-527": 11
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 430,
+      "aris_score": 440,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 70,
         "trader_king": 100,
-        "road_warrior": 40,
+        "road_warrior": 50,
         "weapon_master": 50,
         "salesman": 100
       }
@@ -241,16 +266,16 @@
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-04T22:27:34.664",
+      "last_seen": "2026-11-04T22:51:51.423",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 113,
+      "vehicle_driver_entries": 115,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 160988.5,
-      "vehicle_trips": 111,
+      "vehicle_trips": 112,
       "weapons": {
         "Blaze": 12,
         "KA-74": 2,
@@ -584,8 +609,8 @@
       "weapons": {
         "BK-18": 1,
         "Bizon": 2,
-        "SK 59/66": 6,
-        "CR-527": 1
+        "CR-527": 1,
+        "SK 59/66": 6
       },
       "weapon_master_kills": 6,
       "is_admin": false,
@@ -743,7 +768,7 @@
       "ids": [
         "SbKPVELQzTlZdhe7zpY7eNyQ49wZuZZ3es-ENQ2eZ_k="
       ],
-      "last_seen": "2026-11-04T18:34:21.753",
+      "last_seen": "2026-11-04T22:41:44.270",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
@@ -851,6 +876,36 @@
       "aris_score": 60,
       "aris_score_breakdown": {
         "road_warrior": 60
+      }
+    },
+    {
+      "ai_kills": 7,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 7,
+      "first_seen": "2026-11-03T17:33:27.424",
+      "ids": [
+        "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
+      ],
+      "last_seen": "2026-11-04T22:42:30.965",
+      "longest_ai_kill_m": 298,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Matesin",
+      "vehicle_driver_entries": 58,
+      "vehicle_passenger_entries": 10,
+      "vehicle_trip_straightline_m": 82530.9,
+      "vehicle_trips": 58,
+      "weapons": {
+        "CR-527": 7
+      },
+      "weapon_master_kills": 7,
+      "is_admin": false,
+      "aris_score": 90,
+      "aris_score_breakdown": {
+        "longest_shot": 10,
+        "road_warrior": 80
       }
     },
     {
@@ -994,36 +1049,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 5,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 5,
-      "first_seen": "2026-11-03T17:33:27.424",
-      "ids": [
-        "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
-      ],
-      "last_seen": "2026-11-04T22:08:30.198",
-      "longest_ai_kill_m": 298,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Matesin",
-      "vehicle_driver_entries": 56,
-      "vehicle_passenger_entries": 10,
-      "vehicle_trip_straightline_m": 80047.0,
-      "vehicle_trips": 56,
-      "weapons": {
-        "CR-527": 5
-      },
-      "weapon_master_kills": 5,
-      "is_admin": false,
-      "aris_score": 90,
-      "aris_score_breakdown": {
-        "longest_shot": 10,
-        "road_warrior": 80
-      }
     },
     {
       "ai_kills": 5,
@@ -1356,14 +1381,14 @@
       "ids": [
         "RLaVzA14gG0oRniqqhWKz8BVcqMQ_BVm5OhdfFD8Jsc="
       ],
-      "last_seen": "2026-11-04T22:28:21.326",
+      "last_seen": "2026-11-04T22:56:36.040",
       "longest_ai_kill_m": 91,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyNotGhost",
       "vehicle_driver_entries": 71,
-      "vehicle_passenger_entries": 1,
+      "vehicle_passenger_entries": 2,
       "vehicle_trip_straightline_m": 75630.1,
       "vehicle_trips": 70,
       "weapons": {
@@ -1648,9 +1673,9 @@
       },
       "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 50,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "road_warrior": 50
+        "road_warrior": 40
       }
     },
     {
@@ -1711,7 +1736,7 @@
     {
       "ai_kills": 2,
       "deaths": 0,
-      "favorite_weapon": "Revolver",
+      "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 1,
       "first_seen": "2026-11-04T20:59:42.860",
       "ids": [
@@ -1728,8 +1753,8 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 1,
-        "BK-18": 1
+        "BK-18": 1,
+        "Revolver": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -2040,16 +2065,16 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-04T22:21:28.118",
+      "last_seen": "2026-11-04T22:56:04.139",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "Fr3aks",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 57,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 104455.0,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 113765.4,
+      "vehicle_trips": 57,
       "weapons": {
         "CR-527": 6,
         "FN Five-seveN": 5,
@@ -2073,16 +2098,16 @@
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-04T22:27:34.664",
+      "last_seen": "2026-11-04T22:51:51.423",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 113,
+      "vehicle_driver_entries": 115,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 160988.5,
-      "vehicle_trips": 111,
+      "vehicle_trips": 112,
       "weapons": {
         "Blaze": 12,
         "KA-74": 2,
@@ -2107,28 +2132,28 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-04T22:26:55.606",
+      "last_seen": "2026-11-04T23:00:50.937",
       "longest_ai_kill_m": 457,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 39355,
       "market_sales": 15,
       "name": "CHABA_",
-      "vehicle_driver_entries": 29,
+      "vehicle_driver_entries": 31,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 31119.5,
-      "vehicle_trips": 29,
+      "vehicle_trip_straightline_m": 34809.2,
+      "vehicle_trips": 30,
       "weapons": {
         "Blaze": 7,
         "CR-527": 11
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 430,
+      "aris_score": 440,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 70,
         "trader_king": 100,
-        "road_warrior": 40,
+        "road_warrior": 50,
         "weapon_master": 50,
         "salesman": 100
       }
@@ -2292,28 +2317,28 @@
       }
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 7,
       "deaths": 0,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon_kills": 7,
       "first_seen": "2026-11-03T17:33:27.424",
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-04T22:08:30.198",
+      "last_seen": "2026-11-04T22:42:30.965",
       "longest_ai_kill_m": 298,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
       "market_sales": 0,
       "name": "Matesin",
-      "vehicle_driver_entries": 56,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 10,
-      "vehicle_trip_straightline_m": 80047.0,
-      "vehicle_trips": 56,
+      "vehicle_trip_straightline_m": 82530.9,
+      "vehicle_trips": 58,
       "weapons": {
-        "CR-527": 5
+        "CR-527": 7
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 7,
       "is_admin": false,
       "aris_score": 90,
       "aris_score_breakdown": {
@@ -2770,9 +2795,9 @@
       },
       "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 50,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "road_warrior": 50
+        "road_warrior": 40
       }
     },
     {
@@ -2994,14 +3019,14 @@
       "ids": [
         "RLaVzA14gG0oRniqqhWKz8BVcqMQ_BVm5OhdfFD8Jsc="
       ],
-      "last_seen": "2026-11-04T22:28:21.326",
+      "last_seen": "2026-11-04T22:56:36.040",
       "longest_ai_kill_m": 91,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyNotGhost",
       "vehicle_driver_entries": 71,
-      "vehicle_passenger_entries": 1,
+      "vehicle_passenger_entries": 2,
       "vehicle_trip_straightline_m": 75630.1,
       "vehicle_trips": 70,
       "weapons": {
@@ -3226,8 +3251,8 @@
       "weapons": {
         "BK-18": 1,
         "Bizon": 2,
-        "SK 59/66": 6,
-        "CR-527": 1
+        "CR-527": 1,
+        "SK 59/66": 6
       },
       "weapon_master_kills": 6,
       "is_admin": false,
@@ -3243,7 +3268,7 @@
       "ids": [
         "SbKPVELQzTlZdhe7zpY7eNyQ49wZuZZ3es-ENQ2eZ_k="
       ],
-      "last_seen": "2026-11-04T18:34:21.753",
+      "last_seen": "2026-11-04T22:41:44.270",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
@@ -3347,7 +3372,7 @@
     {
       "ai_kills": 2,
       "deaths": 0,
-      "favorite_weapon": "Revolver",
+      "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 1,
       "first_seen": "2026-11-04T20:59:42.860",
       "ids": [
@@ -3364,8 +3389,8 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 1,
-        "BK-18": 1
+        "BK-18": 1,
+        "Revolver": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -4093,16 +4118,16 @@
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-04T22:27:34.664",
+      "last_seen": "2026-11-04T22:51:51.423",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 113,
+      "vehicle_driver_entries": 115,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 160988.5,
-      "vehicle_trips": 111,
+      "vehicle_trips": 112,
       "weapons": {
         "Blaze": 12,
         "KA-74": 2,
@@ -4346,16 +4371,16 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-04T22:21:28.118",
+      "last_seen": "2026-11-04T22:56:04.139",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "Fr3aks",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 57,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 104455.0,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 113765.4,
+      "vehicle_trips": 57,
       "weapons": {
         "CR-527": 6,
         "FN Five-seveN": 5,
@@ -4613,7 +4638,7 @@
       "ids": [
         "SbKPVELQzTlZdhe7zpY7eNyQ49wZuZZ3es-ENQ2eZ_k="
       ],
-      "last_seen": "2026-11-04T18:34:21.753",
+      "last_seen": "2026-11-04T22:41:44.270",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
@@ -5026,28 +5051,28 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-04T22:26:55.606",
+      "last_seen": "2026-11-04T23:00:50.937",
       "longest_ai_kill_m": 457,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 39355,
       "market_sales": 15,
       "name": "CHABA_",
-      "vehicle_driver_entries": 29,
+      "vehicle_driver_entries": 31,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 31119.5,
-      "vehicle_trips": 29,
+      "vehicle_trip_straightline_m": 34809.2,
+      "vehicle_trips": 30,
       "weapons": {
         "Blaze": 7,
         "CR-527": 11
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 430,
+      "aris_score": 440,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 70,
         "trader_king": 100,
-        "road_warrior": 40,
+        "road_warrior": 50,
         "weapon_master": 50,
         "salesman": 100
       }
@@ -5190,16 +5215,16 @@
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-04T22:27:34.664",
+      "last_seen": "2026-11-04T22:51:51.423",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 113,
+      "vehicle_driver_entries": 115,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 160988.5,
-      "vehicle_trips": 111,
+      "vehicle_trips": 112,
       "weapons": {
         "Blaze": 12,
         "KA-74": 2,
@@ -5224,16 +5249,16 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-04T22:21:28.118",
+      "last_seen": "2026-11-04T22:56:04.139",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "Fr3aks",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 57,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 104455.0,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 113765.4,
+      "vehicle_trips": 57,
       "weapons": {
         "CR-527": 6,
         "FN Five-seveN": 5,
@@ -5249,28 +5274,28 @@
       }
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 7,
       "deaths": 0,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon_kills": 7,
       "first_seen": "2026-11-03T17:33:27.424",
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-04T22:08:30.198",
+      "last_seen": "2026-11-04T22:42:30.965",
       "longest_ai_kill_m": 298,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
       "market_sales": 0,
       "name": "Matesin",
-      "vehicle_driver_entries": 56,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 10,
-      "vehicle_trip_straightline_m": 80047.0,
-      "vehicle_trips": 56,
+      "vehicle_trip_straightline_m": 82530.9,
+      "vehicle_trips": 58,
       "weapons": {
-        "CR-527": 5
+        "CR-527": 7
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 7,
       "is_admin": false,
       "aris_score": 90,
       "aris_score_breakdown": {
@@ -5287,14 +5312,14 @@
       "ids": [
         "RLaVzA14gG0oRniqqhWKz8BVcqMQ_BVm5OhdfFD8Jsc="
       ],
-      "last_seen": "2026-11-04T22:28:21.326",
+      "last_seen": "2026-11-04T22:56:36.040",
       "longest_ai_kill_m": 91,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyNotGhost",
       "vehicle_driver_entries": 71,
-      "vehicle_passenger_entries": 1,
+      "vehicle_passenger_entries": 2,
       "vehicle_trip_straightline_m": 75630.1,
       "vehicle_trips": 70,
       "weapons": {
@@ -5338,6 +5363,41 @@
       }
     },
     {
+      "ai_kills": 18,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 11,
+      "first_seen": "2026-11-03T19:42:57.865",
+      "ids": [
+        "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
+      ],
+      "last_seen": "2026-11-04T23:00:50.937",
+      "longest_ai_kill_m": 457,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 39355,
+      "market_sales": 15,
+      "name": "CHABA_",
+      "vehicle_driver_entries": 31,
+      "vehicle_passenger_entries": 6,
+      "vehicle_trip_straightline_m": 34809.2,
+      "vehicle_trips": 30,
+      "weapons": {
+        "Blaze": 7,
+        "CR-527": 11
+      },
+      "weapon_master_kills": 11,
+      "is_admin": false,
+      "aris_score": 440,
+      "aris_score_breakdown": {
+        "ai_hunter": 70,
+        "longest_shot": 70,
+        "trader_king": 100,
+        "road_warrior": 50,
+        "weapon_master": 50,
+        "salesman": 100
+      }
+    },
+    {
       "ai_kills": 2,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -5361,44 +5421,9 @@
       },
       "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 50,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "road_warrior": 50
-      }
-    },
-    {
-      "ai_kills": 18,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 11,
-      "first_seen": "2026-11-03T19:42:57.865",
-      "ids": [
-        "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
-      ],
-      "last_seen": "2026-11-04T22:26:55.606",
-      "longest_ai_kill_m": 457,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 39355,
-      "market_sales": 15,
-      "name": "CHABA_",
-      "vehicle_driver_entries": 29,
-      "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 31119.5,
-      "vehicle_trips": 29,
-      "weapons": {
-        "Blaze": 7,
-        "CR-527": 11
-      },
-      "weapon_master_kills": 11,
-      "is_admin": false,
-      "aris_score": 430,
-      "aris_score_breakdown": {
-        "ai_hunter": 70,
-        "longest_shot": 70,
-        "trader_king": 100,
-        "road_warrior": 40,
-        "weapon_master": 50,
-        "salesman": 100
+        "road_warrior": 40
       }
     },
     {
@@ -5522,6 +5547,31 @@
       }
     },
     {
+      "ai_kills": 0,
+      "deaths": 0,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-11-03T23:15:29.229",
+      "ids": [
+        "YlkGHIVykFOsojNMvIUo3I6sgR-A9h3WKh87jrL3LDw="
+      ],
+      "last_seen": "2026-11-04T23:01:24.218",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Suzilee",
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 3,
+      "vehicle_trip_straightline_m": 14584.0,
+      "vehicle_trips": 4,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 3,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -5580,31 +5630,6 @@
       "aris_score_breakdown": {
         "longest_shot": 50
       }
-    },
-    {
-      "ai_kills": 0,
-      "deaths": 0,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
-      "first_seen": "2026-11-03T23:15:29.229",
-      "ids": [
-        "YlkGHIVykFOsojNMvIUo3I6sgR-A9h3WKh87jrL3LDw="
-      ],
-      "last_seen": "2026-11-03T23:45:45.959",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Suzilee",
-      "vehicle_driver_entries": 3,
-      "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 6787.4,
-      "vehicle_trips": 3,
-      "weapons": {},
-      "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 1,
@@ -5823,16 +5848,16 @@
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-04T22:27:34.664",
+      "last_seen": "2026-11-04T22:51:51.423",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 113,
+      "vehicle_driver_entries": 115,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 160988.5,
-      "vehicle_trips": 111,
+      "vehicle_trips": 112,
       "weapons": {
         "Blaze": 12,
         "KA-74": 2,
@@ -5885,28 +5910,28 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-04T22:26:55.606",
+      "last_seen": "2026-11-04T23:00:50.937",
       "longest_ai_kill_m": 457,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 39355,
       "market_sales": 15,
       "name": "CHABA_",
-      "vehicle_driver_entries": 29,
+      "vehicle_driver_entries": 31,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 31119.5,
-      "vehicle_trips": 29,
+      "vehicle_trip_straightline_m": 34809.2,
+      "vehicle_trips": 30,
       "weapons": {
         "Blaze": 7,
         "CR-527": 11
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 430,
+      "aris_score": 440,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 70,
         "trader_king": 100,
-        "road_warrior": 40,
+        "road_warrior": 50,
         "weapon_master": 50,
         "salesman": 100
       }
@@ -6125,16 +6150,16 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-04T22:21:28.118",
+      "last_seen": "2026-11-04T22:56:04.139",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "Fr3aks",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 57,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 104455.0,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 113765.4,
+      "vehicle_trips": 57,
       "weapons": {
         "CR-527": 6,
         "FN Five-seveN": 5,
@@ -6179,6 +6204,36 @@
       "aris_score": 40,
       "aris_score_breakdown": {
         "ai_hunter": 40
+      }
+    },
+    {
+      "ai_kills": 7,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 7,
+      "first_seen": "2026-11-03T17:33:27.424",
+      "ids": [
+        "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
+      ],
+      "last_seen": "2026-11-04T22:42:30.965",
+      "longest_ai_kill_m": 298,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Matesin",
+      "vehicle_driver_entries": 58,
+      "vehicle_passenger_entries": 10,
+      "vehicle_trip_straightline_m": 82530.9,
+      "vehicle_trips": 58,
+      "weapons": {
+        "CR-527": 7
+      },
+      "weapon_master_kills": 7,
+      "is_admin": false,
+      "aris_score": 90,
+      "aris_score_breakdown": {
+        "longest_shot": 10,
+        "road_warrior": 80
       }
     },
     {
@@ -6342,43 +6397,13 @@
       "weapons": {
         "BK-18": 1,
         "Bizon": 2,
-        "SK 59/66": 6,
-        "CR-527": 1
+        "CR-527": 1,
+        "SK 59/66": 6
       },
       "weapon_master_kills": 6,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 5,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 5,
-      "first_seen": "2026-11-03T17:33:27.424",
-      "ids": [
-        "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
-      ],
-      "last_seen": "2026-11-04T22:08:30.198",
-      "longest_ai_kill_m": 298,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Matesin",
-      "vehicle_driver_entries": 56,
-      "vehicle_passenger_entries": 10,
-      "vehicle_trip_straightline_m": 80047.0,
-      "vehicle_trips": 56,
-      "weapons": {
-        "CR-527": 5
-      },
-      "weapon_master_kills": 5,
-      "is_admin": false,
-      "aris_score": 90,
-      "aris_score_breakdown": {
-        "longest_shot": 10,
-        "road_warrior": 80
-      }
     },
     {
       "ai_kills": 8,
@@ -6537,7 +6562,7 @@
       "ids": [
         "SbKPVELQzTlZdhe7zpY7eNyQ49wZuZZ3es-ENQ2eZ_k="
       ],
-      "last_seen": "2026-11-04T18:34:21.753",
+      "last_seen": "2026-11-04T22:41:44.270",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
@@ -6838,14 +6863,14 @@
       "ids": [
         "RLaVzA14gG0oRniqqhWKz8BVcqMQ_BVm5OhdfFD8Jsc="
       ],
-      "last_seen": "2026-11-04T22:28:21.326",
+      "last_seen": "2026-11-04T22:56:36.040",
       "longest_ai_kill_m": 91,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyNotGhost",
       "vehicle_driver_entries": 71,
-      "vehicle_passenger_entries": 1,
+      "vehicle_passenger_entries": 2,
       "vehicle_trip_straightline_m": 75630.1,
       "vehicle_trips": 70,
       "weapons": {
@@ -7185,9 +7210,9 @@
       },
       "weapon_master_kills": 2,
       "is_admin": false,
-      "aris_score": 50,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "road_warrior": 50
+        "road_warrior": 40
       }
     },
     {
@@ -7526,7 +7551,7 @@
     {
       "ai_kills": 2,
       "deaths": 0,
-      "favorite_weapon": "Revolver",
+      "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 1,
       "first_seen": "2026-11-04T20:59:42.860",
       "ids": [
@@ -7543,8 +7568,8 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Revolver": 1,
-        "BK-18": 1
+        "BK-18": 1,
+        "Revolver": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -7665,28 +7690,28 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-04T22:26:55.606",
+      "last_seen": "2026-11-04T23:00:50.937",
       "longest_ai_kill_m": 457,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 39355,
       "market_sales": 15,
       "name": "CHABA_",
-      "vehicle_driver_entries": 29,
+      "vehicle_driver_entries": 31,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 31119.5,
-      "vehicle_trips": 29,
+      "vehicle_trip_straightline_m": 34809.2,
+      "vehicle_trips": 30,
       "weapons": {
         "Blaze": 7,
         "CR-527": 11
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 430,
+      "aris_score": 440,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 70,
         "trader_king": 100,
-        "road_warrior": 40,
+        "road_warrior": 50,
         "weapon_master": 50,
         "salesman": 100
       }
@@ -7829,28 +7854,28 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-04T22:26:55.606",
+      "last_seen": "2026-11-04T23:00:50.937",
       "longest_ai_kill_m": 457,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 39355,
       "market_sales": 15,
       "name": "CHABA_",
-      "vehicle_driver_entries": 29,
+      "vehicle_driver_entries": 31,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 31119.5,
-      "vehicle_trips": 29,
+      "vehicle_trip_straightline_m": 34809.2,
+      "vehicle_trips": 30,
       "weapons": {
         "Blaze": 7,
         "CR-527": 11
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 430,
+      "aris_score": 440,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 70,
         "trader_king": 100,
-        "road_warrior": 40,
+        "road_warrior": 50,
         "weapon_master": 50,
         "salesman": 100
       }
@@ -7898,16 +7923,16 @@
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-04T22:27:34.664",
+      "last_seen": "2026-11-04T22:51:51.423",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 113,
+      "vehicle_driver_entries": 115,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 160988.5,
-      "vehicle_trips": 111,
+      "vehicle_trips": 112,
       "weapons": {
         "Blaze": 12,
         "KA-74": 2,
@@ -7932,16 +7957,16 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-04T22:21:28.118",
+      "last_seen": "2026-11-04T22:56:04.139",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "Fr3aks",
-      "vehicle_driver_entries": 53,
+      "vehicle_driver_entries": 57,
       "vehicle_passenger_entries": 4,
-      "vehicle_trip_straightline_m": 104455.0,
-      "vehicle_trips": 53,
+      "vehicle_trip_straightline_m": 113765.4,
+      "vehicle_trips": 57,
       "weapons": {
         "CR-527": 6,
         "FN Five-seveN": 5,
@@ -8175,28 +8200,28 @@
       }
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 7,
       "deaths": 0,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 5,
+      "favorite_weapon_kills": 7,
       "first_seen": "2026-11-03T17:33:27.424",
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-04T22:08:30.198",
+      "last_seen": "2026-11-04T22:42:30.965",
       "longest_ai_kill_m": 298,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
       "market_sales": 0,
       "name": "Matesin",
-      "vehicle_driver_entries": 56,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 10,
-      "vehicle_trip_straightline_m": 80047.0,
-      "vehicle_trips": 56,
+      "vehicle_trip_straightline_m": 82530.9,
+      "vehicle_trips": 58,
       "weapons": {
-        "CR-527": 5
+        "CR-527": 7
       },
-      "weapon_master_kills": 5,
+      "weapon_master_kills": 7,
       "is_admin": false,
       "aris_score": 90,
       "aris_score_breakdown": {
@@ -8213,14 +8238,14 @@
       "ids": [
         "RLaVzA14gG0oRniqqhWKz8BVcqMQ_BVm5OhdfFD8Jsc="
       ],
-      "last_seen": "2026-11-04T22:28:21.326",
+      "last_seen": "2026-11-04T22:56:36.040",
       "longest_ai_kill_m": 91,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyNotGhost",
       "vehicle_driver_entries": 71,
-      "vehicle_passenger_entries": 1,
+      "vehicle_passenger_entries": 2,
       "vehicle_trip_straightline_m": 75630.1,
       "vehicle_trips": 70,
       "weapons": {
@@ -8261,35 +8286,6 @@
       "aris_score": 60,
       "aris_score_breakdown": {
         "road_warrior": 60
-      }
-    },
-    {
-      "ai_kills": 2,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-11-03T21:20:01.409",
-      "ids": [
-        "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
-      ],
-      "last_seen": "2026-11-04T19:55:31.634",
-      "longest_ai_kill_m": 153,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "JENDA",
-      "vehicle_driver_entries": 37,
-      "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 34632.6,
-      "vehicle_trips": 33,
-      "weapons": {
-        "CR-527": 2
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 50,
-      "aris_score_breakdown": {
-        "road_warrior": 50
       }
     },
     {
@@ -8377,6 +8373,35 @@
       "aris_score": 40,
       "aris_score_breakdown": {
         "weapon_master": 40
+      }
+    },
+    {
+      "ai_kills": 2,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-11-03T21:20:01.409",
+      "ids": [
+        "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
+      ],
+      "last_seen": "2026-11-04T19:55:31.634",
+      "longest_ai_kill_m": 153,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "JENDA",
+      "vehicle_driver_entries": 37,
+      "vehicle_passenger_entries": 6,
+      "vehicle_trip_straightline_m": 34632.6,
+      "vehicle_trips": 33,
+      "weapons": {
+        "CR-527": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 40,
+      "aris_score_breakdown": {
+        "road_warrior": 40
       }
     },
     {
