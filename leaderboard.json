@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 98,
   "staff_count": 3,
-  "updated_at_local": "05.11.2026 06:02",
+  "updated_at_local": "05.11.2026 06:31",
   "staff": [
     {
       "ai_kills": 5,
@@ -817,9 +817,9 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-18": 4,
+        "CR-527": 1,
         "FX-45": 2,
-        "IJ-70": 2,
-        "CR-527": 1
+        "IJ-70": 2
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -1257,6 +1257,39 @@
       }
     },
     {
+      "ai_kills": 5,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-11-04T08:29:18.851",
+      "ids": [
+        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
+      ],
+      "last_seen": "2026-11-05T06:27:33.111",
+      "longest_ai_kill_m": 130,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 9748,
+      "market_sales": 5,
+      "name": "Sisicek",
+      "vehicle_driver_entries": 43,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 45687.8,
+      "vehicle_trips": 35,
+      "weapons": {
+        "CR-527": 2,
+        "FX-45": 1,
+        "SG5-K": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 220,
+      "aris_score_breakdown": {
+        "trader_king": 90,
+        "road_warrior": 40,
+        "salesman": 90
+      }
+    },
+    {
       "ai_kills": 4,
       "deaths": 0,
       "favorite_weapon": "Pioneer",
@@ -1580,6 +1613,33 @@
     },
     {
       "ai_kills": 3,
+      "deaths": 4,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-11-04T11:04:15.989",
+      "ids": [
+        "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
+      ],
+      "last_seen": "2026-11-05T06:16:53.979",
+      "longest_ai_kill_m": 151,
+      "longest_ai_kill_weapon": "BK-18",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Delord",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 3
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 3,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 3,
@@ -1634,38 +1694,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-11-04T08:29:18.851",
-      "ids": [
-        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
-      ],
-      "last_seen": "2026-11-05T06:00:46.627",
-      "longest_ai_kill_m": 130,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 9748,
-      "market_sales": 5,
-      "name": "Sisicek",
-      "vehicle_driver_entries": 37,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 42947.2,
-      "vehicle_trips": 30,
-      "weapons": {
-        "CR-527": 2,
-        "FX-45": 1
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 220,
-      "aris_score_breakdown": {
-        "trader_king": 90,
-        "road_warrior": 40,
-        "salesman": 90
-      }
     },
     {
       "ai_kills": 2,
@@ -2928,6 +2956,33 @@
       }
     },
     {
+      "ai_kills": 3,
+      "deaths": 4,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-11-04T11:04:15.989",
+      "ids": [
+        "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
+      ],
+      "last_seen": "2026-11-05T06:16:53.979",
+      "longest_ai_kill_m": 151,
+      "longest_ai_kill_weapon": "BK-18",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Delord",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 3
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 6,
       "deaths": 1,
       "favorite_weapon": "CR-527",
@@ -3018,7 +3073,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 2,
@@ -3026,19 +3081,20 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-05T06:00:46.627",
+      "last_seen": "2026-11-05T06:27:33.111",
       "longest_ai_kill_m": 130,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 9748,
       "market_sales": 5,
       "name": "Sisicek",
-      "vehicle_driver_entries": 37,
+      "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 42947.2,
-      "vehicle_trips": 30,
+      "vehicle_trip_straightline_m": 45687.8,
+      "vehicle_trips": 35,
       "weapons": {
         "CR-527": 2,
-        "FX-45": 1
+        "FX-45": 1,
+        "SG5-K": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -3608,9 +3664,9 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-18": 4,
+        "CR-527": 1,
         "FX-45": 2,
-        "IJ-70": 2,
-        "CR-527": 1
+        "IJ-70": 2
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -4180,9 +4236,9 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-18": 4,
+        "CR-527": 1,
         "FX-45": 2,
-        "IJ-70": 2,
-        "CR-527": 1
+        "IJ-70": 2
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -4254,17 +4310,17 @@
       }
     },
     {
-      "ai_kills": 0,
+      "ai_kills": 3,
       "deaths": 4,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 3,
       "first_seen": "2026-11-04T11:04:15.989",
       "ids": [
         "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
       ],
-      "last_seen": "2026-11-04T16:12:46.650",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
+      "last_seen": "2026-11-05T06:16:53.979",
+      "longest_ai_kill_m": 151,
+      "longest_ai_kill_weapon": "BK-18",
       "market_income": 0,
       "market_sales": 0,
       "name": "Delord",
@@ -4272,8 +4328,10 @@
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
+      "weapons": {
+        "BK-18": 3
+      },
+      "weapon_master_kills": 3,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -5310,7 +5368,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 2,
@@ -5318,19 +5376,20 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-05T06:00:46.627",
+      "last_seen": "2026-11-05T06:27:33.111",
       "longest_ai_kill_m": 130,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 9748,
       "market_sales": 5,
       "name": "Sisicek",
-      "vehicle_driver_entries": 37,
+      "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 42947.2,
-      "vehicle_trips": 30,
+      "vehicle_trip_straightline_m": 45687.8,
+      "vehicle_trips": 35,
       "weapons": {
         "CR-527": 2,
-        "FX-45": 1
+        "FX-45": 1,
+        "SG5-K": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -5661,7 +5720,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 2,
@@ -5669,19 +5728,20 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-05T06:00:46.627",
+      "last_seen": "2026-11-05T06:27:33.111",
       "longest_ai_kill_m": 130,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 9748,
       "market_sales": 5,
       "name": "Sisicek",
-      "vehicle_driver_entries": 37,
+      "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 42947.2,
-      "vehicle_trips": 30,
+      "vehicle_trip_straightline_m": 45687.8,
+      "vehicle_trips": 35,
       "weapons": {
         "CR-527": 2,
-        "FX-45": 1
+        "FX-45": 1,
+        "SG5-K": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -7207,9 +7267,9 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-18": 4,
+        "CR-527": 1,
         "FX-45": 2,
-        "IJ-70": 2,
-        "CR-527": 1
+        "IJ-70": 2
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -7299,6 +7359,33 @@
       "aris_score_breakdown": {
         "road_warrior": 70
       }
+    },
+    {
+      "ai_kills": 3,
+      "deaths": 4,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-11-04T11:04:15.989",
+      "ids": [
+        "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
+      ],
+      "last_seen": "2026-11-05T06:16:53.979",
+      "longest_ai_kill_m": 151,
+      "longest_ai_kill_weapon": "BK-18",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Delord",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 3
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 4,
@@ -7746,7 +7833,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 2,
@@ -7754,19 +7841,20 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-05T06:00:46.627",
+      "last_seen": "2026-11-05T06:27:33.111",
       "longest_ai_kill_m": 130,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 9748,
       "market_sales": 5,
       "name": "Sisicek",
-      "vehicle_driver_entries": 37,
+      "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 42947.2,
-      "vehicle_trips": 30,
+      "vehicle_trip_straightline_m": 45687.8,
+      "vehicle_trips": 35,
       "weapons": {
         "CR-527": 2,
-        "FX-45": 1
+        "FX-45": 1,
+        "SG5-K": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -8138,7 +8226,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 2,
@@ -8146,19 +8234,20 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-05T06:00:46.627",
+      "last_seen": "2026-11-05T06:27:33.111",
       "longest_ai_kill_m": 130,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 9748,
       "market_sales": 5,
       "name": "Sisicek",
-      "vehicle_driver_entries": 37,
+      "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 42947.2,
-      "vehicle_trips": 30,
+      "vehicle_trip_straightline_m": 45687.8,
+      "vehicle_trips": 35,
       "weapons": {
         "CR-527": 2,
-        "FX-45": 1
+        "FX-45": 1,
+        "SG5-K": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -8473,7 +8562,7 @@
       }
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 5,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 2,
@@ -8481,19 +8570,20 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-05T06:00:46.627",
+      "last_seen": "2026-11-05T06:27:33.111",
       "longest_ai_kill_m": 130,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 9748,
       "market_sales": 5,
       "name": "Sisicek",
-      "vehicle_driver_entries": 37,
+      "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 42947.2,
-      "vehicle_trips": 30,
+      "vehicle_trip_straightline_m": 45687.8,
+      "vehicle_trips": 35,
       "weapons": {
         "CR-527": 2,
-        "FX-45": 1
+        "FX-45": 1,
+        "SG5-K": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
