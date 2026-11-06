@@ -1,8 +1,8 @@
 {
   "season_start": "2026-11-03",
-  "player_count": 125,
+  "player_count": 126,
   "staff_count": 4,
-  "updated_at_local": "06.11.2026 23:01",
+  "updated_at_local": "06.11.2026 23:18",
   "staff": [
     {
       "ai_kills": 5,
@@ -154,7 +154,7 @@
       }
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 62,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 20,
@@ -162,7 +162,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-06T22:20:53.905",
+      "last_seen": "2026-11-06T23:14:05.855",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 25469,
@@ -179,7 +179,8 @@
         "FN SCAR SC": 1,
         "Kimber 8400 Advanced Tactical SOC II": 9,
         "L15 Defense": 1,
-        "M70 Tundra": 20
+        "M70 Tundra": 20,
+        "COLT M4A1 CUSTOM": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -268,7 +269,7 @@
       }
     },
     {
-      "ai_kills": 29,
+      "ai_kills": 31,
       "deaths": 0,
       "favorite_weapon": "Pioneer",
       "favorite_weapon_kills": 14,
@@ -276,7 +277,7 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-06T22:57:42.794",
+      "last_seen": "2026-11-06T23:09:37.361",
       "longest_ai_kill_m": 228,
       "longest_ai_kill_weapon": "SCR 16",
       "market_income": 0,
@@ -287,11 +288,11 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "CR-527": 4,
         "FX-45": 1,
         "M16-A2": 3,
         "Pioneer": 14,
-        "SCR 16": 9,
-        "CR-527": 2
+        "SCR 16": 9
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -334,7 +335,7 @@
       }
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 29,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 14,
@@ -342,7 +343,7 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-06T23:00:51.129",
+      "last_seen": "2026-11-06T23:15:00.464",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -356,7 +357,8 @@
         "B&T APC223 PRO": 1,
         "Black Rain Ordnance Commando": 14,
         "CR-527": 5,
-        "M70 Tundra": 8
+        "M70 Tundra": 8,
+        "AKMN": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -685,8 +687,8 @@
       "vehicle_trips": 2,
       "weapons": {
         "CR-527": 16,
-        "Revolver": 2,
-        "Mosin 91/30": 2
+        "Mosin 91/30": 2,
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -1084,6 +1086,32 @@
       }
     },
     {
+      "ai_kills": 13,
+      "deaths": 0,
+      "favorite_weapon": "Bizon",
+      "favorite_weapon_kills": 11,
+      "first_seen": "2026-11-03T18:09:09.988",
+      "ids": [],
+      "last_seen": "2026-11-06T23:17:33.934",
+      "longest_ai_kill_m": 264,
+      "longest_ai_kill_weapon": "Mosin 91/30",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Snejkyejky",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Bizon": 11,
+        "Mosin 91/30": 2
+      },
+      "weapon_master_kills": 11,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 12,
       "deaths": 2,
       "favorite_weapon": "CR-527",
@@ -1284,31 +1312,6 @@
         "USG-45": 1
       },
       "weapon_master_kills": 6,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 11,
-      "deaths": 0,
-      "favorite_weapon": "Bizon",
-      "favorite_weapon_kills": 11,
-      "first_seen": "2026-11-03T18:09:09.988",
-      "ids": [],
-      "last_seen": "2026-11-06T21:10:41.473",
-      "longest_ai_kill_m": 129,
-      "longest_ai_kill_weapon": "Bizon",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Snejkyejky",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Bizon": 11
-      },
-      "weapon_master_kills": 11,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -2795,7 +2798,7 @@
       }
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 29,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 14,
@@ -2803,7 +2806,7 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-06T23:00:51.129",
+      "last_seen": "2026-11-06T23:15:00.464",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -2817,7 +2820,8 @@
         "B&T APC223 PRO": 1,
         "Black Rain Ordnance Commando": 14,
         "CR-527": 5,
-        "M70 Tundra": 8
+        "M70 Tundra": 8,
+        "AKMN": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -2858,7 +2862,7 @@
       }
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 62,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 20,
@@ -2866,7 +2870,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-06T22:20:53.905",
+      "last_seen": "2026-11-06T23:14:05.855",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 25469,
@@ -2883,7 +2887,8 @@
         "FN SCAR SC": 1,
         "Kimber 8400 Advanced Tactical SOC II": 9,
         "L15 Defense": 1,
-        "M70 Tundra": 20
+        "M70 Tundra": 20,
+        "COLT M4A1 CUSTOM": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -3145,8 +3150,8 @@
       "vehicle_trips": 2,
       "weapons": {
         "CR-527": 16,
-        "Revolver": 2,
-        "Mosin 91/30": 2
+        "Mosin 91/30": 2,
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -3473,6 +3478,32 @@
     {
       "ai_kills": 13,
       "deaths": 0,
+      "favorite_weapon": "Bizon",
+      "favorite_weapon_kills": 11,
+      "first_seen": "2026-11-03T18:09:09.988",
+      "ids": [],
+      "last_seen": "2026-11-06T23:17:33.934",
+      "longest_ai_kill_m": 264,
+      "longest_ai_kill_weapon": "Mosin 91/30",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Snejkyejky",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Bizon": 11,
+        "Mosin 91/30": 2
+      },
+      "weapon_master_kills": 11,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 13,
+      "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 12,
       "first_seen": "2026-11-03T18:25:14.474",
@@ -3595,7 +3626,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 29,
+      "ai_kills": 31,
       "deaths": 0,
       "favorite_weapon": "Pioneer",
       "favorite_weapon_kills": 14,
@@ -3603,7 +3634,7 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-06T22:57:42.794",
+      "last_seen": "2026-11-06T23:09:37.361",
       "longest_ai_kill_m": 228,
       "longest_ai_kill_weapon": "SCR 16",
       "market_income": 0,
@@ -3614,11 +3645,11 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "CR-527": 4,
         "FX-45": 1,
         "M16-A2": 3,
         "Pioneer": 14,
-        "SCR 16": 9,
-        "CR-527": 2
+        "SCR 16": 9
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -4206,31 +4237,6 @@
         "trader_king": 10,
         "road_warrior": 20
       }
-    },
-    {
-      "ai_kills": 11,
-      "deaths": 0,
-      "favorite_weapon": "Bizon",
-      "favorite_weapon_kills": 11,
-      "first_seen": "2026-11-03T18:09:09.988",
-      "ids": [],
-      "last_seen": "2026-11-06T21:10:41.473",
-      "longest_ai_kill_m": 129,
-      "longest_ai_kill_weapon": "Bizon",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Snejkyejky",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Bizon": 11
-      },
-      "weapon_master_kills": 11,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 7,
@@ -5941,7 +5947,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 62,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 20,
@@ -5949,7 +5955,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-06T22:20:53.905",
+      "last_seen": "2026-11-06T23:14:05.855",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 25469,
@@ -5966,7 +5972,8 @@
         "FN SCAR SC": 1,
         "Kimber 8400 Advanced Tactical SOC II": 9,
         "L15 Defense": 1,
-        "M70 Tundra": 20
+        "M70 Tundra": 20,
+        "COLT M4A1 CUSTOM": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -6167,6 +6174,31 @@
         "SG5-K": 4
       },
       "weapon_master_kills": 7,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "name": "Attashi",
+      "ids": [
+        "wiGTFL_Gj2Nv3E6z3tld3w-abdhdsTcYnBPFw0garQ4="
+      ],
+      "first_seen": "2026-11-06T23:03:24.986",
+      "last_seen": "2026-11-06T23:03:36.974",
+      "ai_kills": 0,
+      "deaths": 1,
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {},
+      "weapon_master_kills": 0,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -6669,24 +6701,24 @@
       "aris_score_breakdown": {}
     },
     {
-      "name": "Mike3918",
+      "ai_kills": 0,
+      "deaths": 1,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-11-06T22:52:29.335",
       "ids": [
         "wjs8Ocd19Go2vd8H4FUy_5I4rF-m0T16SGFqjmhMJZE="
       ],
-      "first_seen": "2026-11-06T22:52:29.335",
       "last_seen": "2026-11-06T22:52:41.321",
-      "ai_kills": 0,
-      "deaths": 1,
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
       "market_income": 0,
       "market_sales": 0,
+      "name": "Mike3918",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
       "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
@@ -6818,8 +6850,8 @@
       "vehicle_trips": 2,
       "weapons": {
         "CR-527": 16,
-        "Revolver": 2,
-        "Mosin 91/30": 2
+        "Mosin 91/30": 2,
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -7051,7 +7083,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 29,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 14,
@@ -7059,7 +7091,7 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-06T23:00:51.129",
+      "last_seen": "2026-11-06T23:15:00.464",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -7073,7 +7105,8 @@
         "B&T APC223 PRO": 1,
         "Black Rain Ordnance Commando": 14,
         "CR-527": 5,
-        "M70 Tundra": 8
+        "M70 Tundra": 8,
+        "AKMN": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -7444,7 +7477,7 @@
       }
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 62,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 20,
@@ -7452,7 +7485,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-06T22:20:53.905",
+      "last_seen": "2026-11-06T23:14:05.855",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 25469,
@@ -7469,7 +7502,8 @@
         "FN SCAR SC": 1,
         "Kimber 8400 Advanced Tactical SOC II": 9,
         "L15 Defense": 1,
-        "M70 Tundra": 20
+        "M70 Tundra": 20,
+        "COLT M4A1 CUSTOM": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -7645,7 +7679,7 @@
       }
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 29,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 14,
@@ -7653,7 +7687,7 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-06T23:00:51.129",
+      "last_seen": "2026-11-06T23:15:00.464",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -7667,7 +7701,8 @@
         "B&T APC223 PRO": 1,
         "Black Rain Ordnance Commando": 14,
         "CR-527": 5,
-        "M70 Tundra": 8
+        "M70 Tundra": 8,
+        "AKMN": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -7837,8 +7872,8 @@
       "vehicle_trips": 2,
       "weapons": {
         "CR-527": 16,
-        "Revolver": 2,
-        "Mosin 91/30": 2
+        "Mosin 91/30": 2,
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -8047,7 +8082,7 @@
       }
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 62,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 20,
@@ -8055,7 +8090,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-06T22:20:53.905",
+      "last_seen": "2026-11-06T23:14:05.855",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 25469,
@@ -8072,7 +8107,8 @@
         "FN SCAR SC": 1,
         "Kimber 8400 Advanced Tactical SOC II": 9,
         "L15 Defense": 1,
-        "M70 Tundra": 20
+        "M70 Tundra": 20,
+        "COLT M4A1 CUSTOM": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -8664,7 +8700,7 @@
       }
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 29,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 14,
@@ -8672,7 +8708,7 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-06T23:00:51.129",
+      "last_seen": "2026-11-06T23:15:00.464",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -8686,7 +8722,8 @@
         "B&T APC223 PRO": 1,
         "Black Rain Ordnance Commando": 14,
         "CR-527": 5,
-        "M70 Tundra": 8
+        "M70 Tundra": 8,
+        "AKMN": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -8881,8 +8918,8 @@
       "vehicle_trips": 2,
       "weapons": {
         "CR-527": 16,
-        "Revolver": 2,
-        "Mosin 91/30": 2
+        "Mosin 91/30": 2,
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -8997,7 +9034,7 @@
       }
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 62,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 20,
@@ -9005,7 +9042,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-06T22:20:53.905",
+      "last_seen": "2026-11-06T23:14:05.855",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 25469,
@@ -9022,7 +9059,8 @@
         "FN SCAR SC": 1,
         "Kimber 8400 Advanced Tactical SOC II": 9,
         "L15 Defense": 1,
-        "M70 Tundra": 20
+        "M70 Tundra": 20,
+        "COLT M4A1 CUSTOM": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -9191,8 +9229,8 @@
       "vehicle_trips": 2,
       "weapons": {
         "CR-527": 16,
-        "Revolver": 2,
-        "Mosin 91/30": 2
+        "Mosin 91/30": 2,
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -9322,7 +9360,7 @@
       }
     },
     {
-      "ai_kills": 29,
+      "ai_kills": 31,
       "deaths": 0,
       "favorite_weapon": "Pioneer",
       "favorite_weapon_kills": 14,
@@ -9330,7 +9368,7 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-06T22:57:42.794",
+      "last_seen": "2026-11-06T23:09:37.361",
       "longest_ai_kill_m": 228,
       "longest_ai_kill_weapon": "SCR 16",
       "market_income": 0,
@@ -9341,11 +9379,11 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "CR-527": 4,
         "FX-45": 1,
         "M16-A2": 3,
         "Pioneer": 14,
-        "SCR 16": 9,
-        "CR-527": 2
+        "SCR 16": 9
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -9388,7 +9426,7 @@
       }
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 29,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 14,
@@ -9396,7 +9434,7 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-06T23:00:51.129",
+      "last_seen": "2026-11-06T23:15:00.464",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -9410,7 +9448,8 @@
         "B&T APC223 PRO": 1,
         "Black Rain Ordnance Commando": 14,
         "CR-527": 5,
-        "M70 Tundra": 8
+        "M70 Tundra": 8,
+        "AKMN": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -9577,15 +9616,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 11,
+      "ai_kills": 13,
       "deaths": 0,
       "favorite_weapon": "Bizon",
       "favorite_weapon_kills": 11,
       "first_seen": "2026-11-03T18:09:09.988",
       "ids": [],
-      "last_seen": "2026-11-06T21:10:41.473",
-      "longest_ai_kill_m": 129,
-      "longest_ai_kill_weapon": "Bizon",
+      "last_seen": "2026-11-06T23:17:33.934",
+      "longest_ai_kill_m": 264,
+      "longest_ai_kill_weapon": "Mosin 91/30",
       "market_income": 0,
       "market_sales": 0,
       "name": "Snejkyejky",
@@ -9594,7 +9633,8 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Bizon": 11
+        "Bizon": 11,
+        "Mosin 91/30": 2
       },
       "weapon_master_kills": 11,
       "is_admin": false,
@@ -11704,7 +11744,7 @@
       }
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 62,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 20,
@@ -11712,7 +11752,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-06T22:20:53.905",
+      "last_seen": "2026-11-06T23:14:05.855",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 25469,
@@ -11729,7 +11769,8 @@
         "FN SCAR SC": 1,
         "Kimber 8400 Advanced Tactical SOC II": 9,
         "L15 Defense": 1,
-        "M70 Tundra": 20
+        "M70 Tundra": 20,
+        "COLT M4A1 CUSTOM": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -12021,7 +12062,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 29,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 14,
@@ -12029,7 +12070,7 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-06T23:00:51.129",
+      "last_seen": "2026-11-06T23:15:00.464",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -12043,7 +12084,8 @@
         "B&T APC223 PRO": 1,
         "Black Rain Ordnance Commando": 14,
         "CR-527": 5,
-        "M70 Tundra": 8
+        "M70 Tundra": 8,
+        "AKMN": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -12101,8 +12143,8 @@
       "vehicle_trips": 2,
       "weapons": {
         "CR-527": 16,
-        "Revolver": 2,
-        "Mosin 91/30": 2
+        "Mosin 91/30": 2,
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -12236,7 +12278,7 @@
       }
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 62,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 20,
@@ -12244,7 +12286,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-06T22:20:53.905",
+      "last_seen": "2026-11-06T23:14:05.855",
       "longest_ai_kill_m": 504,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 25469,
@@ -12261,7 +12303,8 @@
         "FN SCAR SC": 1,
         "Kimber 8400 Advanced Tactical SOC II": 9,
         "L15 Defense": 1,
-        "M70 Tundra": 20
+        "M70 Tundra": 20,
+        "COLT M4A1 CUSTOM": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -12550,7 +12593,7 @@
       }
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 29,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 14,
@@ -12558,7 +12601,7 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-06T23:00:51.129",
+      "last_seen": "2026-11-06T23:15:00.464",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -12572,7 +12615,8 @@
         "B&T APC223 PRO": 1,
         "Black Rain Ordnance Commando": 14,
         "CR-527": 5,
-        "M70 Tundra": 8
+        "M70 Tundra": 8,
+        "AKMN": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -12614,7 +12658,7 @@
       }
     },
     {
-      "ai_kills": 29,
+      "ai_kills": 31,
       "deaths": 0,
       "favorite_weapon": "Pioneer",
       "favorite_weapon_kills": 14,
@@ -12622,7 +12666,7 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-06T22:57:42.794",
+      "last_seen": "2026-11-06T23:09:37.361",
       "longest_ai_kill_m": 228,
       "longest_ai_kill_weapon": "SCR 16",
       "market_income": 0,
@@ -12633,11 +12677,11 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "CR-527": 4,
         "FX-45": 1,
         "M16-A2": 3,
         "Pioneer": 14,
-        "SCR 16": 9,
-        "CR-527": 2
+        "SCR 16": 9
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -12887,8 +12931,8 @@
       "vehicle_trips": 2,
       "weapons": {
         "CR-527": 16,
-        "Revolver": 2,
-        "Mosin 91/30": 2
+        "Mosin 91/30": 2,
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
