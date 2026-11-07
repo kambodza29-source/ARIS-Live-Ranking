@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 144,
   "staff_count": 4,
-  "updated_at_local": "07.11.2026 16:01",
+  "updated_at_local": "07.11.2026 16:31",
   "staff": [
     {
       "ai_kills": 5,
@@ -911,6 +911,38 @@
     },
     {
       "ai_kills": 17,
+      "deaths": 1,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 12,
+      "first_seen": "2026-11-03T18:15:59.968",
+      "ids": [
+        "-tiu4rH64hk0RXuf-HOh7-g7x621a1-YKbX-v4b5wAI="
+      ],
+      "last_seen": "2026-11-07T16:30:55.340",
+      "longest_ai_kill_m": 184,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Rampa_Mrkvak",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 1,
+        "CR-527": 12,
+        "Longhorn": 1,
+        "Revolver": 1,
+        "SG5-K": 1,
+        "SK 59/66": 1
+      },
+      "weapon_master_kills": 12,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 17,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
@@ -1383,38 +1415,6 @@
     },
     {
       "ai_kills": 13,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
-      "first_seen": "2026-11-03T18:15:59.968",
-      "ids": [
-        "-tiu4rH64hk0RXuf-HOh7-g7x621a1-YKbX-v4b5wAI="
-      ],
-      "last_seen": "2026-11-07T11:23:47.564",
-      "longest_ai_kill_m": 184,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Rampa_Mrkvak",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-133": 1,
-        "CR-527": 8,
-        "Longhorn": 1,
-        "Revolver": 1,
-        "SG5-K": 1,
-        "SK 59/66": 1
-      },
-      "weapon_master_kills": 8,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 13,
       "deaths": 0,
       "favorite_weapon": "Revolver",
       "favorite_weapon_kills": 7,
@@ -1649,6 +1649,36 @@
     },
     {
       "ai_kills": 11,
+      "deaths": 2,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-11-04T18:22:03.243",
+      "ids": [
+        "5ftdHhiy3G9UKu-JR6Ae-IwByQ-mpExiN0o8ItI0TEk="
+      ],
+      "last_seen": "2026-11-07T16:13:50.168",
+      "longest_ai_kill_m": 69,
+      "longest_ai_kill_weapon": "BK-18",
+      "market_income": 2,
+      "market_sales": 2,
+      "name": "Sedloman",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 5,
+        "CR-61 Skorpion": 1,
+        "RAK-37": 3,
+        "Repeater Carbine": 2
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 11,
       "deaths": 1,
       "favorite_weapon": "SK 59/66",
       "favorite_weapon_kills": 6,
@@ -1701,36 +1731,6 @@
         "Revolver": 2
       },
       "weapon_master_kills": 8,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 10,
-      "deaths": 1,
-      "favorite_weapon": "BK-18",
-      "favorite_weapon_kills": 5,
-      "first_seen": "2026-11-04T18:22:03.243",
-      "ids": [
-        "5ftdHhiy3G9UKu-JR6Ae-IwByQ-mpExiN0o8ItI0TEk="
-      ],
-      "last_seen": "2026-11-07T15:18:19.080",
-      "longest_ai_kill_m": 69,
-      "longest_ai_kill_weapon": "BK-18",
-      "market_income": 2,
-      "market_sales": 2,
-      "name": "Sedloman",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-18": 5,
-        "CR-61 Skorpion": 1,
-        "RAK-37": 3,
-        "Repeater Carbine": 1
-      },
-      "weapon_master_kills": 5,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -2546,7 +2546,7 @@
       "ids": [
         "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
       ],
-      "last_seen": "2026-11-07T14:51:19.513",
+      "last_seen": "2026-11-07T16:20:45.119",
       "longest_ai_kill_m": 45,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 0,
@@ -4029,15 +4029,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 13,
+      "ai_kills": 17,
       "deaths": 1,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
+      "favorite_weapon_kills": 12,
       "first_seen": "2026-11-03T18:15:59.968",
       "ids": [
         "-tiu4rH64hk0RXuf-HOh7-g7x621a1-YKbX-v4b5wAI="
       ],
-      "last_seen": "2026-11-07T11:23:47.564",
+      "last_seen": "2026-11-07T16:30:55.340",
       "longest_ai_kill_m": 184,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -4049,13 +4049,13 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-133": 1,
-        "CR-527": 8,
+        "CR-527": 12,
         "Longhorn": 1,
         "Revolver": 1,
         "SG5-K": 1,
         "SK 59/66": 1
       },
-      "weapon_master_kills": 8,
+      "weapon_master_kills": 12,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -4810,15 +4810,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 10,
-      "deaths": 1,
+      "ai_kills": 11,
+      "deaths": 2,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 5,
       "first_seen": "2026-11-04T18:22:03.243",
       "ids": [
         "5ftdHhiy3G9UKu-JR6Ae-IwByQ-mpExiN0o8ItI0TEk="
       ],
-      "last_seen": "2026-11-07T15:18:19.080",
+      "last_seen": "2026-11-07T16:13:50.168",
       "longest_ai_kill_m": 69,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 2,
@@ -4832,7 +4832,7 @@
         "BK-18": 5,
         "CR-61 Skorpion": 1,
         "RAK-37": 3,
-        "Repeater Carbine": 1
+        "Repeater Carbine": 2
       },
       "weapon_master_kills": 5,
       "is_admin": false,
@@ -5165,7 +5165,7 @@
       "ids": [
         "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
       ],
-      "last_seen": "2026-11-07T14:51:19.513",
+      "last_seen": "2026-11-07T16:20:45.119",
       "longest_ai_kill_m": 45,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 0,
@@ -6533,6 +6533,36 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 11,
+      "deaths": 2,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-11-04T18:22:03.243",
+      "ids": [
+        "5ftdHhiy3G9UKu-JR6Ae-IwByQ-mpExiN0o8ItI0TEk="
+      ],
+      "last_seen": "2026-11-07T16:13:50.168",
+      "longest_ai_kill_m": 69,
+      "longest_ai_kill_weapon": "BK-18",
+      "market_income": 2,
+      "market_sales": 2,
+      "name": "Sedloman",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 5,
+        "CR-61 Skorpion": 1,
+        "RAK-37": 3,
+        "Repeater Carbine": 2
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 0,
       "deaths": 2,
       "favorite_weapon": "",
@@ -7574,15 +7604,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 13,
+      "ai_kills": 17,
       "deaths": 1,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
+      "favorite_weapon_kills": 12,
       "first_seen": "2026-11-03T18:15:59.968",
       "ids": [
         "-tiu4rH64hk0RXuf-HOh7-g7x621a1-YKbX-v4b5wAI="
       ],
-      "last_seen": "2026-11-07T11:23:47.564",
+      "last_seen": "2026-11-07T16:30:55.340",
       "longest_ai_kill_m": 184,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -7594,13 +7624,13 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-133": 1,
-        "CR-527": 8,
+        "CR-527": 12,
         "Longhorn": 1,
         "Revolver": 1,
         "SG5-K": 1,
         "SK 59/66": 1
       },
-      "weapon_master_kills": 8,
+      "weapon_master_kills": 12,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -7676,36 +7706,6 @@
       "vehicle_trips": 0,
       "weapons": {},
       "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 10,
-      "deaths": 1,
-      "favorite_weapon": "BK-18",
-      "favorite_weapon_kills": 5,
-      "first_seen": "2026-11-04T18:22:03.243",
-      "ids": [
-        "5ftdHhiy3G9UKu-JR6Ae-IwByQ-mpExiN0o8ItI0TEk="
-      ],
-      "last_seen": "2026-11-07T15:18:19.080",
-      "longest_ai_kill_m": 69,
-      "longest_ai_kill_weapon": "BK-18",
-      "market_income": 2,
-      "market_sales": 2,
-      "name": "Sedloman",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-18": 5,
-        "CR-61 Skorpion": 1,
-        "RAK-37": 3,
-        "Repeater Carbine": 1
-      },
-      "weapon_master_kills": 5,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -8926,15 +8926,15 @@
       }
     },
     {
-      "ai_kills": 10,
-      "deaths": 1,
+      "ai_kills": 11,
+      "deaths": 2,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 5,
       "first_seen": "2026-11-04T18:22:03.243",
       "ids": [
         "5ftdHhiy3G9UKu-JR6Ae-IwByQ-mpExiN0o8ItI0TEk="
       ],
-      "last_seen": "2026-11-07T15:18:19.080",
+      "last_seen": "2026-11-07T16:13:50.168",
       "longest_ai_kill_m": 69,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 2,
@@ -8948,7 +8948,7 @@
         "BK-18": 5,
         "CR-61 Skorpion": 1,
         "RAK-37": 3,
-        "Repeater Carbine": 1
+        "Repeater Carbine": 2
       },
       "weapon_master_kills": 5,
       "is_admin": false,
@@ -10662,6 +10662,38 @@
       }
     },
     {
+      "ai_kills": 17,
+      "deaths": 1,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 12,
+      "first_seen": "2026-11-03T18:15:59.968",
+      "ids": [
+        "-tiu4rH64hk0RXuf-HOh7-g7x621a1-YKbX-v4b5wAI="
+      ],
+      "last_seen": "2026-11-07T16:30:55.340",
+      "longest_ai_kill_m": 184,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Rampa_Mrkvak",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 1,
+        "CR-527": 12,
+        "Longhorn": 1,
+        "Revolver": 1,
+        "SG5-K": 1,
+        "SK 59/66": 1
+      },
+      "weapon_master_kills": 12,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 23,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -11135,38 +11167,6 @@
         "BK-18": 5,
         "CR-527": 8,
         "CR-61 Skorpion": 1
-      },
-      "weapon_master_kills": 8,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 13,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
-      "first_seen": "2026-11-03T18:15:59.968",
-      "ids": [
-        "-tiu4rH64hk0RXuf-HOh7-g7x621a1-YKbX-v4b5wAI="
-      ],
-      "last_seen": "2026-11-07T11:23:47.564",
-      "longest_ai_kill_m": 184,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Rampa_Mrkvak",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-133": 1,
-        "CR-527": 8,
-        "Longhorn": 1,
-        "Revolver": 1,
-        "SG5-K": 1,
-        "SK 59/66": 1
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -11785,15 +11785,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 10,
-      "deaths": 1,
+      "ai_kills": 11,
+      "deaths": 2,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 5,
       "first_seen": "2026-11-04T18:22:03.243",
       "ids": [
         "5ftdHhiy3G9UKu-JR6Ae-IwByQ-mpExiN0o8ItI0TEk="
       ],
-      "last_seen": "2026-11-07T15:18:19.080",
+      "last_seen": "2026-11-07T16:13:50.168",
       "longest_ai_kill_m": 69,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 2,
@@ -11807,7 +11807,7 @@
         "BK-18": 5,
         "CR-61 Skorpion": 1,
         "RAK-37": 3,
-        "Repeater Carbine": 1
+        "Repeater Carbine": 2
       },
       "weapon_master_kills": 5,
       "is_admin": false,
@@ -12510,7 +12510,7 @@
       "ids": [
         "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
       ],
-      "last_seen": "2026-11-07T14:51:19.513",
+      "last_seen": "2026-11-07T16:20:45.119",
       "longest_ai_kill_m": 45,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 0,
@@ -13413,15 +13413,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 10,
-      "deaths": 1,
+      "ai_kills": 11,
+      "deaths": 2,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 5,
       "first_seen": "2026-11-04T18:22:03.243",
       "ids": [
         "5ftdHhiy3G9UKu-JR6Ae-IwByQ-mpExiN0o8ItI0TEk="
       ],
-      "last_seen": "2026-11-07T15:18:19.080",
+      "last_seen": "2026-11-07T16:13:50.168",
       "longest_ai_kill_m": 69,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 2,
@@ -13435,7 +13435,7 @@
         "BK-18": 5,
         "CR-61 Skorpion": 1,
         "RAK-37": 3,
-        "Repeater Carbine": 1
+        "Repeater Carbine": 2
       },
       "weapon_master_kills": 5,
       "is_admin": false,
