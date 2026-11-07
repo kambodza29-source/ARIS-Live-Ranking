@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 131,
   "staff_count": 4,
-  "updated_at_local": "07.11.2026 08:31",
+  "updated_at_local": "07.11.2026 09:01",
   "staff": [
     {
       "ai_kills": 5,
@@ -329,10 +329,10 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 140,
       "aris_score_breakdown": {
         "ai_hunter": 50,
-        "trader_king": 50,
+        "trader_king": 40,
         "salesman": 50
       }
     },
@@ -499,12 +499,11 @@
       },
       "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "trader_king": 20,
+        "trader_king": 10,
         "road_warrior": 90,
-        "weapon_master": 60,
-        "salesman": 10
+        "weapon_master": 60
       }
     },
     {
@@ -663,10 +662,10 @@
       },
       "weapon_master_kills": 9,
       "is_admin": false,
-      "aris_score": 60,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 30,
-        "salesman": 30
+        "trader_king": 20,
+        "salesman": 20
       }
     },
     {
@@ -1754,9 +1753,8 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 50,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 10,
         "salesman": 40
       }
     },
@@ -1872,6 +1870,34 @@
     {
       "ai_kills": 7,
       "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 6,
+      "first_seen": "2026-11-03T18:25:43.384",
+      "ids": [
+        "v82n4e7da4ZVfTW1kcJwGKukbE-V5v-6c86QxR5ieqg="
+      ],
+      "last_seen": "2026-11-07T08:54:50.567",
+      "longest_ai_kill_m": 75,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "grunexprogamer",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 6,
+        "CR-61 Skorpion": 1
+      },
+      "weapon_master_kills": 6,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 7,
+      "deaths": 0,
       "favorite_weapon": "VSD",
       "favorite_weapon_kills": 7,
       "first_seen": "2026-11-05T14:13:12.402",
@@ -1893,9 +1919,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "salesman": 20
+        "salesman": 10
       }
     },
     {
@@ -2411,34 +2437,6 @@
     },
     {
       "ai_kills": 3,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-11-03T18:25:43.384",
-      "ids": [
-        "v82n4e7da4ZVfTW1kcJwGKukbE-V5v-6c86QxR5ieqg="
-      ],
-      "last_seen": "2026-11-06T18:31:08.175",
-      "longest_ai_kill_m": 56,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "grunexprogamer",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 2,
-        "CR-61 Skorpion": 1
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 3,
       "deaths": 3,
       "favorite_weapon": "CR-61 Skorpion",
       "favorite_weapon_kills": 2,
@@ -2474,11 +2472,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-05T23:15:30.348",
+      "last_seen": "2026-11-07T08:49:44.077",
       "longest_ai_kill_m": 153,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8881,
-      "market_sales": 5,
+      "market_income": 47880,
+      "market_sales": 21,
       "name": "JENDA",
       "vehicle_driver_entries": 40,
       "vehicle_passenger_entries": 6,
@@ -2489,8 +2487,11 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
+      "aris_score": 80,
+      "aris_score_breakdown": {
+        "trader_king": 50,
+        "salesman": 30
+      }
     },
     {
       "ai_kills": 3,
@@ -3129,9 +3130,8 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 50,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 10,
         "salesman": 40
       }
     },
@@ -3282,12 +3282,11 @@
       },
       "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "trader_king": 20,
+        "trader_king": 10,
         "road_warrior": 90,
-        "weapon_master": 60,
-        "salesman": 10
+        "weapon_master": 60
       }
     },
     {
@@ -3537,10 +3536,10 @@
       },
       "weapon_master_kills": 9,
       "is_admin": false,
-      "aris_score": 60,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 30,
-        "salesman": 30
+        "trader_king": 20,
+        "salesman": 20
       }
     },
     {
@@ -3567,9 +3566,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "salesman": 20
+        "salesman": 10
       }
     },
     {
@@ -3714,10 +3713,10 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 140,
       "aris_score_breakdown": {
         "ai_hunter": 50,
-        "trader_king": 50,
+        "trader_king": 40,
         "salesman": 50
       }
     },
@@ -4167,11 +4166,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-05T23:15:30.348",
+      "last_seen": "2026-11-07T08:49:44.077",
       "longest_ai_kill_m": 153,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8881,
-      "market_sales": 5,
+      "market_income": 47880,
+      "market_sales": 21,
       "name": "JENDA",
       "vehicle_driver_entries": 40,
       "vehicle_passenger_entries": 6,
@@ -4182,8 +4181,11 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
+      "aris_score": 80,
+      "aris_score_breakdown": {
+        "trader_king": 50,
+        "salesman": 30
+      }
     },
     {
       "ai_kills": 4,
@@ -4587,6 +4589,34 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 7,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 6,
+      "first_seen": "2026-11-03T18:25:43.384",
+      "ids": [
+        "v82n4e7da4ZVfTW1kcJwGKukbE-V5v-6c86QxR5ieqg="
+      ],
+      "last_seen": "2026-11-07T08:54:50.567",
+      "longest_ai_kill_m": 75,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "grunexprogamer",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 6,
+        "CR-61 Skorpion": 1
+      },
+      "weapon_master_kills": 6,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 9,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -4610,34 +4640,6 @@
         "SK 59/66": 2
       },
       "weapon_master_kills": 5,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-11-03T18:25:43.384",
-      "ids": [
-        "v82n4e7da4ZVfTW1kcJwGKukbE-V5v-6c86QxR5ieqg="
-      ],
-      "last_seen": "2026-11-06T18:31:08.175",
-      "longest_ai_kill_m": 56,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "grunexprogamer",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 2,
-        "CR-61 Skorpion": 1
-      },
-      "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -7665,6 +7667,36 @@
       }
     },
     {
+      "ai_kills": 3,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-11-03T21:20:01.409",
+      "ids": [
+        "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
+      ],
+      "last_seen": "2026-11-07T08:49:44.077",
+      "longest_ai_kill_m": 153,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 47880,
+      "market_sales": 21,
+      "name": "JENDA",
+      "vehicle_driver_entries": 40,
+      "vehicle_passenger_entries": 6,
+      "vehicle_trip_straightline_m": 39667.2,
+      "vehicle_trips": 36,
+      "weapons": {
+        "CR-527": 3
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 80,
+      "aris_score_breakdown": {
+        "trader_king": 50,
+        "salesman": 30
+      }
+    },
+    {
       "ai_kills": 35,
       "deaths": 0,
       "favorite_weapon": "Blaze",
@@ -7691,10 +7723,10 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 140,
       "aris_score_breakdown": {
         "ai_hunter": 50,
-        "trader_king": 50,
+        "trader_king": 40,
         "salesman": 50
       }
     },
@@ -7720,9 +7752,9 @@
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
-      "aris_score": 40,
+      "aris_score": 30,
       "aris_score_breakdown": {
-        "trader_king": 40
+        "trader_king": 30
       }
     },
     {
@@ -7751,10 +7783,10 @@
       },
       "weapon_master_kills": 9,
       "is_admin": false,
-      "aris_score": 60,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 30,
-        "salesman": 30
+        "trader_king": 20,
+        "salesman": 20
       }
     },
     {
@@ -7783,12 +7815,11 @@
       },
       "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "trader_king": 20,
+        "trader_king": 10,
         "road_warrior": 90,
-        "weapon_master": 60,
-        "salesman": 10
+        "weapon_master": 60
       }
     },
     {
@@ -7815,9 +7846,8 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 50,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 10,
         "salesman": 40
       }
     },
@@ -7939,9 +7969,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "salesman": 20
+        "salesman": 10
       }
     },
     {
@@ -7997,33 +8027,6 @@
         "SG5-K": 4
       },
       "weapon_master_kills": 7,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 3,
-      "first_seen": "2026-11-03T21:20:01.409",
-      "ids": [
-        "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
-      ],
-      "last_seen": "2026-11-05T23:15:30.348",
-      "longest_ai_kill_m": 153,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8881,
-      "market_sales": 5,
-      "name": "JENDA",
-      "vehicle_driver_entries": 40,
-      "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 39667.2,
-      "vehicle_trips": 36,
-      "weapons": {
-        "CR-527": 3
-      },
-      "weapon_master_kills": 3,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -8268,12 +8271,11 @@
       },
       "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "trader_king": 20,
+        "trader_king": 10,
         "road_warrior": 90,
-        "weapon_master": 60,
-        "salesman": 10
+        "weapon_master": 60
       }
     },
     {
@@ -8590,11 +8592,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-05T23:15:30.348",
+      "last_seen": "2026-11-07T08:49:44.077",
       "longest_ai_kill_m": 153,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8881,
-      "market_sales": 5,
+      "market_income": 47880,
+      "market_sales": 21,
       "name": "JENDA",
       "vehicle_driver_entries": 40,
       "vehicle_passenger_entries": 6,
@@ -8605,8 +8607,11 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
+      "aris_score": 80,
+      "aris_score_breakdown": {
+        "trader_king": 50,
+        "salesman": 30
+      }
     },
     {
       "ai_kills": 3,
@@ -8693,10 +8698,10 @@
       },
       "weapon_master_kills": 9,
       "is_admin": false,
-      "aris_score": 60,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 30,
-        "salesman": 30
+        "trader_king": 20,
+        "salesman": 20
       }
     },
     {
@@ -8872,9 +8877,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "salesman": 20
+        "salesman": 10
       }
     },
     {
@@ -9368,12 +9373,11 @@
       },
       "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "trader_king": 20,
+        "trader_king": 10,
         "road_warrior": 90,
-        "weapon_master": 60,
-        "salesman": 10
+        "weapon_master": 60
       }
     },
     {
@@ -9618,10 +9622,10 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 140,
       "aris_score_breakdown": {
         "ai_hunter": 50,
-        "trader_king": 50,
+        "trader_king": 40,
         "salesman": 50
       }
     },
@@ -10026,10 +10030,10 @@
       },
       "weapon_master_kills": 9,
       "is_admin": false,
-      "aris_score": 60,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 30,
-        "salesman": 30
+        "trader_king": 20,
+        "salesman": 20
       }
     },
     {
@@ -10207,9 +10211,8 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 50,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 10,
         "salesman": 40
       }
     },
@@ -10434,9 +10437,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "salesman": 20
+        "salesman": 10
       }
     },
     {
@@ -10580,6 +10583,34 @@
         "SG5-K": 2
       },
       "weapon_master_kills": 7,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 7,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 6,
+      "first_seen": "2026-11-03T18:25:43.384",
+      "ids": [
+        "v82n4e7da4ZVfTW1kcJwGKukbE-V5v-6c86QxR5ieqg="
+      ],
+      "last_seen": "2026-11-07T08:54:50.567",
+      "longest_ai_kill_m": 75,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "grunexprogamer",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 6,
+        "CR-61 Skorpion": 1
+      },
+      "weapon_master_kills": 6,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -11265,11 +11296,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-05T23:15:30.348",
+      "last_seen": "2026-11-07T08:49:44.077",
       "longest_ai_kill_m": 153,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8881,
-      "market_sales": 5,
+      "market_income": 47880,
+      "market_sales": 21,
       "name": "JENDA",
       "vehicle_driver_entries": 40,
       "vehicle_passenger_entries": 6,
@@ -11280,8 +11311,11 @@
       },
       "weapon_master_kills": 3,
       "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
+      "aris_score": 80,
+      "aris_score_breakdown": {
+        "trader_king": 50,
+        "salesman": 30
+      }
     },
     {
       "ai_kills": 9,
@@ -11555,34 +11589,6 @@
       "vehicle_trips": 2,
       "weapons": {
         "Accuracy International AX50": 2
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-11-03T18:25:43.384",
-      "ids": [
-        "v82n4e7da4ZVfTW1kcJwGKukbE-V5v-6c86QxR5ieqg="
-      ],
-      "last_seen": "2026-11-06T18:31:08.175",
-      "longest_ai_kill_m": 56,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "grunexprogamer",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 2,
-        "CR-61 Skorpion": 1
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -12047,10 +12053,10 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 140,
       "aris_score_breakdown": {
         "ai_hunter": 50,
-        "trader_king": 50,
+        "trader_king": 40,
         "salesman": 50
       }
     },
@@ -12078,10 +12084,39 @@
       },
       "weapon_master_kills": 8,
       "is_admin": false,
-      "aris_score": 50,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 10,
         "salesman": 40
+      }
+    },
+    {
+      "ai_kills": 3,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-11-03T21:20:01.409",
+      "ids": [
+        "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
+      ],
+      "last_seen": "2026-11-07T08:49:44.077",
+      "longest_ai_kill_m": 153,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 47880,
+      "market_sales": 21,
+      "name": "JENDA",
+      "vehicle_driver_entries": 40,
+      "vehicle_passenger_entries": 6,
+      "vehicle_trip_straightline_m": 39667.2,
+      "vehicle_trips": 36,
+      "weapons": {
+        "CR-527": 3
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 80,
+      "aris_score_breakdown": {
+        "trader_king": 50,
+        "salesman": 30
       }
     },
     {
@@ -12110,10 +12145,10 @@
       },
       "weapon_master_kills": 9,
       "is_admin": false,
-      "aris_score": 60,
+      "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 30,
-        "salesman": 30
+        "trader_king": 20,
+        "salesman": 20
       }
     },
     {
@@ -12140,9 +12175,9 @@
       },
       "weapon_master_kills": 7,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "salesman": 20
+        "salesman": 10
       }
     },
     {
@@ -12171,12 +12206,11 @@
       },
       "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "trader_king": 20,
+        "trader_king": 10,
         "road_warrior": 90,
-        "weapon_master": 60,
-        "salesman": 10
+        "weapon_master": 60
       }
     },
     {
@@ -12201,9 +12235,9 @@
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
-      "aris_score": 40,
+      "aris_score": 30,
       "aris_score_breakdown": {
-        "trader_king": 40
+        "trader_king": 30
       }
     },
     {
@@ -12388,33 +12422,6 @@
         "ai_hunter": 30,
         "longest_shot": 60
       }
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 3,
-      "first_seen": "2026-11-03T21:20:01.409",
-      "ids": [
-        "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
-      ],
-      "last_seen": "2026-11-05T23:15:30.348",
-      "longest_ai_kill_m": 153,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8881,
-      "market_sales": 5,
-      "name": "JENDA",
-      "vehicle_driver_entries": 40,
-      "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 39667.2,
-      "vehicle_trips": 36,
-      "weapons": {
-        "CR-527": 3
-      },
-      "weapon_master_kills": 3,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 20,
@@ -12778,12 +12785,11 @@
       },
       "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 180,
+      "aris_score": 160,
       "aris_score_breakdown": {
-        "trader_king": 20,
+        "trader_king": 10,
         "road_warrior": 90,
-        "weapon_master": 60,
-        "salesman": 10
+        "weapon_master": 60
       }
     },
     {
@@ -12813,10 +12819,10 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 140,
       "aris_score_breakdown": {
         "ai_hunter": 50,
-        "trader_king": 50,
+        "trader_king": 40,
         "salesman": 50
       }
     },
@@ -12950,6 +12956,36 @@
       }
     },
     {
+      "ai_kills": 3,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-11-03T21:20:01.409",
+      "ids": [
+        "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
+      ],
+      "last_seen": "2026-11-07T08:49:44.077",
+      "longest_ai_kill_m": 153,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 47880,
+      "market_sales": 21,
+      "name": "JENDA",
+      "vehicle_driver_entries": 40,
+      "vehicle_passenger_entries": 6,
+      "vehicle_trip_straightline_m": 39667.2,
+      "vehicle_trips": 36,
+      "weapons": {
+        "CR-527": 3
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 80,
+      "aris_score_breakdown": {
+        "trader_king": 50,
+        "salesman": 30
+      }
+    },
+    {
       "ai_kills": 41,
       "deaths": 0,
       "favorite_weapon": "Pioneer",
@@ -13019,68 +13055,6 @@
       }
     },
     {
-      "ai_kills": 20,
-      "deaths": 0,
-      "favorite_weapon": "SK 59/66",
-      "favorite_weapon_kills": 9,
-      "first_seen": "2026-11-03T19:13:51.902",
-      "ids": [
-        "lyLKfzZhFRjOsxVw1XqP2oXsguxlf9HX-cBds1_Gxww="
-      ],
-      "last_seen": "2026-11-07T02:21:01.109",
-      "longest_ai_kill_m": 279,
-      "longest_ai_kill_weapon": "SK 59/66",
-      "market_income": 26574,
-      "market_sales": 17,
-      "name": "EnZo",
-      "vehicle_driver_entries": 25,
-      "vehicle_passenger_entries": 2,
-      "vehicle_trip_straightline_m": 32746.9,
-      "vehicle_trips": 24,
-      "weapons": {
-        "Blaze": 4,
-        "CR-527": 7,
-        "SK 59/66": 9
-      },
-      "weapon_master_kills": 9,
-      "is_admin": false,
-      "aris_score": 60,
-      "aris_score_breakdown": {
-        "trader_king": 30,
-        "salesman": 30
-      }
-    },
-    {
-      "ai_kills": 8,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
-      "first_seen": "2026-11-04T13:32:38.383",
-      "ids": [
-        "p0N7m8R3pkdK-hUsQXgE1hKHj3l6lSRSTTVCxIA5_tA="
-      ],
-      "last_seen": "2026-11-05T18:29:05.065",
-      "longest_ai_kill_m": 366,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 20602,
-      "market_sales": 23,
-      "name": "Rumcajs",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 8
-      },
-      "weapon_master_kills": 8,
-      "is_admin": false,
-      "aris_score": 50,
-      "aris_score_breakdown": {
-        "trader_king": 10,
-        "salesman": 40
-      }
-    },
-    {
       "ai_kills": 16,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -13142,30 +13116,35 @@
       }
     },
     {
-      "ai_kills": 0,
+      "ai_kills": 20,
       "deaths": 0,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
-      "first_seen": "2026-11-07T01:26:28.141",
+      "favorite_weapon": "SK 59/66",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-03T19:13:51.902",
       "ids": [
         "lyLKfzZhFRjOsxVw1XqP2oXsguxlf9HX-cBds1_Gxww="
       ],
-      "last_seen": "2026-11-07T01:30:06.886",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
-      "market_income": 29644,
-      "market_sales": 11,
-      "name": "EnZo (2)",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
+      "last_seen": "2026-11-07T02:21:01.109",
+      "longest_ai_kill_m": 279,
+      "longest_ai_kill_weapon": "SK 59/66",
+      "market_income": 26574,
+      "market_sales": 17,
+      "name": "EnZo",
+      "vehicle_driver_entries": 25,
+      "vehicle_passenger_entries": 2,
+      "vehicle_trip_straightline_m": 32746.9,
+      "vehicle_trips": 24,
+      "weapons": {
+        "Blaze": 4,
+        "CR-527": 7,
+        "SK 59/66": 9
+      },
+      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 40,
       "aris_score_breakdown": {
-        "trader_king": 40
+        "trader_king": 20,
+        "salesman": 20
       }
     },
     {
@@ -13201,6 +13180,35 @@
       }
     },
     {
+      "ai_kills": 8,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-11-04T13:32:38.383",
+      "ids": [
+        "p0N7m8R3pkdK-hUsQXgE1hKHj3l6lSRSTTVCxIA5_tA="
+      ],
+      "last_seen": "2026-11-05T18:29:05.065",
+      "longest_ai_kill_m": 366,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 20602,
+      "market_sales": 23,
+      "name": "Rumcajs",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 8
+      },
+      "weapon_master_kills": 8,
+      "is_admin": false,
+      "aris_score": 40,
+      "aris_score_breakdown": {
+        "salesman": 40
+      }
+    },
+    {
       "ai_kills": 11,
       "deaths": 0,
       "favorite_weapon": "KA-101",
@@ -13229,6 +13237,33 @@
       "aris_score": 30,
       "aris_score_breakdown": {
         "road_warrior": 30
+      }
+    },
+    {
+      "ai_kills": 0,
+      "deaths": 0,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-11-07T01:26:28.141",
+      "ids": [
+        "lyLKfzZhFRjOsxVw1XqP2oXsguxlf9HX-cBds1_Gxww="
+      ],
+      "last_seen": "2026-11-07T01:30:06.886",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 29644,
+      "market_sales": 11,
+      "name": "EnZo (2)",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 30,
+      "aris_score_breakdown": {
+        "trader_king": 30
       }
     },
     {
@@ -13261,35 +13296,6 @@
       "aris_score": 30,
       "aris_score_breakdown": {
         "longest_shot": 30
-      }
-    },
-    {
-      "ai_kills": 7,
-      "deaths": 0,
-      "favorite_weapon": "VSD",
-      "favorite_weapon_kills": 7,
-      "first_seen": "2026-11-05T14:13:12.402",
-      "ids": [
-        "vQ6JBrfMvnF_asUYqOgQ4sIrp6gtWahyIlWlhXFAE-g="
-      ],
-      "last_seen": "2026-11-05T18:12:31.331",
-      "longest_ai_kill_m": 278,
-      "longest_ai_kill_weapon": "VSD",
-      "market_income": 10632,
-      "market_sales": 15,
-      "name": "Hanulka_CZ",
-      "vehicle_driver_entries": 10,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 9479.8,
-      "vehicle_trips": 10,
-      "weapons": {
-        "VSD": 7
-      },
-      "weapon_master_kills": 7,
-      "is_admin": false,
-      "aris_score": 20,
-      "aris_score_breakdown": {
-        "salesman": 20
       }
     },
     {
@@ -13351,6 +13357,35 @@
       "aris_score": 20,
       "aris_score_breakdown": {
         "longest_shot": 20
+      }
+    },
+    {
+      "ai_kills": 7,
+      "deaths": 0,
+      "favorite_weapon": "VSD",
+      "favorite_weapon_kills": 7,
+      "first_seen": "2026-11-05T14:13:12.402",
+      "ids": [
+        "vQ6JBrfMvnF_asUYqOgQ4sIrp6gtWahyIlWlhXFAE-g="
+      ],
+      "last_seen": "2026-11-05T18:12:31.331",
+      "longest_ai_kill_m": 278,
+      "longest_ai_kill_weapon": "VSD",
+      "market_income": 10632,
+      "market_sales": 15,
+      "name": "Hanulka_CZ",
+      "vehicle_driver_entries": 10,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 9479.8,
+      "vehicle_trips": 10,
+      "weapons": {
+        "VSD": 7
+      },
+      "weapon_master_kills": 7,
+      "is_admin": false,
+      "aris_score": 10,
+      "aris_score_breakdown": {
+        "salesman": 10
       }
     },
     {
