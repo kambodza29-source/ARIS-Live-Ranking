@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 131,
   "staff_count": 4,
-  "updated_at_local": "07.11.2026 10:08",
+  "updated_at_local": "07.11.2026 10:31",
   "staff": [
     {
       "ai_kills": 5,
@@ -267,6 +267,41 @@
       }
     },
     {
+      "ai_kills": 37,
+      "deaths": 1,
+      "favorite_weapon": "Black Rain Ordnance Commando",
+      "favorite_weapon_kills": 20,
+      "first_seen": "2026-11-03T19:55:57.965",
+      "ids": [
+        "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
+      ],
+      "last_seen": "2026-11-07T10:26:32.126",
+      "longest_ai_kill_m": 540,
+      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
+      "market_income": 10635,
+      "market_sales": 7,
+      "name": "Sproly",
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 30,
+      "vehicle_trip_straightline_m": 8661.5,
+      "vehicle_trips": 4,
+      "weapons": {
+        "AKMN": 3,
+        "B&T APC223 PRO": 1,
+        "Black Rain Ordnance Commando": 20,
+        "CR-527": 5,
+        "M70 Tundra": 8
+      },
+      "weapon_master_kills": 20,
+      "is_admin": false,
+      "aris_score": 170,
+      "aris_score_breakdown": {
+        "ai_hunter": 60,
+        "longest_shot": 60,
+        "weapon_master": 50
+      }
+    },
+    {
       "ai_kills": 36,
       "deaths": 3,
       "favorite_weapon": "Blaze",
@@ -294,47 +329,12 @@
       },
       "weapon_master_kills": 16,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
-        "ai_hunter": 60,
+        "ai_hunter": 50,
         "longest_shot": 80,
         "road_warrior": 100,
         "weapon_master": 20
-      }
-    },
-    {
-      "ai_kills": 35,
-      "deaths": 1,
-      "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 18,
-      "first_seen": "2026-11-03T19:55:57.965",
-      "ids": [
-        "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
-      ],
-      "last_seen": "2026-11-07T10:03:46.404",
-      "longest_ai_kill_m": 540,
-      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 10635,
-      "market_sales": 7,
-      "name": "Sproly",
-      "vehicle_driver_entries": 4,
-      "vehicle_passenger_entries": 30,
-      "vehicle_trip_straightline_m": 8661.5,
-      "vehicle_trips": 4,
-      "weapons": {
-        "AKMN": 3,
-        "B&T APC223 PRO": 1,
-        "Black Rain Ordnance Commando": 18,
-        "CR-527": 5,
-        "M70 Tundra": 8
-      },
-      "weapon_master_kills": 18,
-      "is_admin": false,
-      "aris_score": 150,
-      "aris_score_breakdown": {
-        "ai_hunter": 50,
-        "longest_shot": 60,
-        "weapon_master": 40
       }
     },
     {
@@ -406,14 +406,14 @@
     },
     {
       "ai_kills": 28,
-      "deaths": 7,
+      "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T20:40:42.441",
       "ids": [
         "SbKPVELQzTlZdhe7zpY7eNyQ49wZuZZ3es-ENQ2eZ_k="
       ],
-      "last_seen": "2026-11-07T08:11:25.033",
+      "last_seen": "2026-11-07T10:18:38.471",
       "longest_ai_kill_m": 110,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -785,10 +785,10 @@
       },
       "weapon_master_kills": 18,
       "is_admin": false,
-      "aris_score": 100,
+      "aris_score": 90,
       "aris_score_breakdown": {
         "longest_shot": 50,
-        "weapon_master": 50
+        "weapon_master": 40
       }
     },
     {
@@ -1026,6 +1026,37 @@
       "aris_score_breakdown": {
         "longest_shot": 30
       }
+    },
+    {
+      "ai_kills": 14,
+      "deaths": 0,
+      "favorite_weapon": "Blaze",
+      "favorite_weapon_kills": 4,
+      "first_seen": "2026-11-03T19:18:07.263",
+      "ids": [
+        "kn3Wp48Lu-fr0uE5EAN8VUJRuedzgkvVJbUgty1LjcQ="
+      ],
+      "last_seen": "2026-11-07T10:12:22.960",
+      "longest_ai_kill_m": 173,
+      "longest_ai_kill_weapon": "Blaze",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Botvalanche_69",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Blaze": 4,
+        "Repeater Carbine": 4,
+        "Revolver": 1,
+        "USG-45": 1,
+        "CR-527": 4
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 14,
@@ -1319,6 +1350,34 @@
     },
     {
       "ai_kills": 11,
+      "deaths": 4,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-11-04T18:17:00.148",
+      "ids": [
+        "LcSarshHfsnJdplHH_rwn1Qh6NYr3ZR0sKTfbgjWtTw="
+      ],
+      "last_seen": "2026-11-07T10:14:07.537",
+      "longest_ai_kill_m": 157,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "DambrLord",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 8,
+        "Crossbow": 3
+      },
+      "weapon_master_kills": 8,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 11,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 7,
@@ -1408,36 +1467,6 @@
     {
       "ai_kills": 10,
       "deaths": 0,
-      "favorite_weapon": "Blaze",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-11-03T19:18:07.263",
-      "ids": [
-        "kn3Wp48Lu-fr0uE5EAN8VUJRuedzgkvVJbUgty1LjcQ="
-      ],
-      "last_seen": "2026-11-05T21:19:59.250",
-      "longest_ai_kill_m": 173,
-      "longest_ai_kill_weapon": "Blaze",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Botvalanche_69",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Blaze": 4,
-        "Repeater Carbine": 4,
-        "Revolver": 1,
-        "USG-45": 1
-      },
-      "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 10,
-      "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 7,
       "first_seen": "2026-11-04T19:31:07.704",
@@ -1456,34 +1485,6 @@
         "CR-527": 7,
         "Crossbow": 2,
         "Sig Sauer P229": 1
-      },
-      "weapon_master_kills": 7,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 10,
-      "deaths": 4,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 7,
-      "first_seen": "2026-11-04T18:17:00.148",
-      "ids": [
-        "LcSarshHfsnJdplHH_rwn1Qh6NYr3ZR0sKTfbgjWtTw="
-      ],
-      "last_seen": "2026-11-06T21:57:14.339",
-      "longest_ai_kill_m": 157,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "DambrLord",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 7,
-        "Crossbow": 3
       },
       "weapon_master_kills": 7,
       "is_admin": false,
@@ -2864,9 +2865,9 @@
       },
       "weapon_master_kills": 16,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
-        "ai_hunter": 60,
+        "ai_hunter": 50,
         "longest_shot": 80,
         "road_warrior": 100,
         "weapon_master": 20
@@ -2911,15 +2912,15 @@
       }
     },
     {
-      "ai_kills": 35,
+      "ai_kills": 37,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 18,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-07T10:03:46.404",
+      "last_seen": "2026-11-07T10:26:32.126",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -2932,17 +2933,17 @@
       "weapons": {
         "AKMN": 3,
         "B&T APC223 PRO": 1,
-        "Black Rain Ordnance Commando": 18,
+        "Black Rain Ordnance Commando": 20,
         "CR-527": 5,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 18,
+      "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 170,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 60,
-        "weapon_master": 40
+        "weapon_master": 50
       }
     },
     {
@@ -2969,10 +2970,10 @@
       },
       "weapon_master_kills": 18,
       "is_admin": false,
-      "aris_score": 100,
+      "aris_score": 90,
       "aris_score_breakdown": {
         "longest_shot": 50,
-        "weapon_master": 50
+        "weapon_master": 40
       }
     },
     {
@@ -3987,7 +3988,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 14,
       "deaths": 0,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 4,
@@ -3995,7 +3996,7 @@
       "ids": [
         "kn3Wp48Lu-fr0uE5EAN8VUJRuedzgkvVJbUgty1LjcQ="
       ],
-      "last_seen": "2026-11-05T21:19:59.250",
+      "last_seen": "2026-11-07T10:12:22.960",
       "longest_ai_kill_m": 173,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
@@ -4009,7 +4010,8 @@
         "Blaze": 4,
         "Repeater Carbine": 4,
         "Revolver": 1,
-        "USG-45": 1
+        "USG-45": 1,
+        "CR-527": 4
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -4102,15 +4104,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 11,
       "deaths": 4,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 7,
+      "favorite_weapon_kills": 8,
       "first_seen": "2026-11-04T18:17:00.148",
       "ids": [
         "LcSarshHfsnJdplHH_rwn1Qh6NYr3ZR0sKTfbgjWtTw="
       ],
-      "last_seen": "2026-11-06T21:57:14.339",
+      "last_seen": "2026-11-07T10:14:07.537",
       "longest_ai_kill_m": 157,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -4121,10 +4123,10 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "CR-527": 7,
+        "CR-527": 8,
         "Crossbow": 3
       },
-      "weapon_master_kills": 7,
+      "weapon_master_kills": 8,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -4391,14 +4393,14 @@
     },
     {
       "ai_kills": 28,
-      "deaths": 7,
+      "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T20:40:42.441",
       "ids": [
         "SbKPVELQzTlZdhe7zpY7eNyQ49wZuZZ3es-ENQ2eZ_k="
       ],
-      "last_seen": "2026-11-07T08:11:25.033",
+      "last_seen": "2026-11-07T10:18:38.471",
       "longest_ai_kill_m": 110,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -5444,14 +5446,14 @@
     },
     {
       "ai_kills": 28,
-      "deaths": 7,
+      "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T20:40:42.441",
       "ids": [
         "SbKPVELQzTlZdhe7zpY7eNyQ49wZuZZ3es-ENQ2eZ_k="
       ],
-      "last_seen": "2026-11-07T08:11:25.033",
+      "last_seen": "2026-11-07T10:18:38.471",
       "longest_ai_kill_m": 110,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -5537,15 +5539,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 11,
       "deaths": 4,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 7,
+      "favorite_weapon_kills": 8,
       "first_seen": "2026-11-04T18:17:00.148",
       "ids": [
         "LcSarshHfsnJdplHH_rwn1Qh6NYr3ZR0sKTfbgjWtTw="
       ],
-      "last_seen": "2026-11-06T21:57:14.339",
+      "last_seen": "2026-11-07T10:14:07.537",
       "longest_ai_kill_m": 157,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -5556,10 +5558,10 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "CR-527": 7,
+        "CR-527": 8,
         "Crossbow": 3
       },
-      "weapon_master_kills": 7,
+      "weapon_master_kills": 8,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -5735,9 +5737,9 @@
       },
       "weapon_master_kills": 16,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
-        "ai_hunter": 60,
+        "ai_hunter": 50,
         "longest_shot": 80,
         "road_warrior": 100,
         "weapon_master": 20
@@ -7240,15 +7242,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 35,
+      "ai_kills": 37,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 18,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-07T10:03:46.404",
+      "last_seen": "2026-11-07T10:26:32.126",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -7261,17 +7263,17 @@
       "weapons": {
         "AKMN": 3,
         "B&T APC223 PRO": 1,
-        "Black Rain Ordnance Commando": 18,
+        "Black Rain Ordnance Commando": 20,
         "CR-527": 5,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 18,
+      "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 170,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 60,
-        "weapon_master": 40
+        "weapon_master": 50
       }
     },
     {
@@ -7911,15 +7913,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 35,
+      "ai_kills": 37,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 18,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-07T10:03:46.404",
+      "last_seen": "2026-11-07T10:26:32.126",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -7932,17 +7934,17 @@
       "weapons": {
         "AKMN": 3,
         "B&T APC223 PRO": 1,
-        "Black Rain Ordnance Commando": 18,
+        "Black Rain Ordnance Commando": 20,
         "CR-527": 5,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 18,
+      "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 170,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 60,
-        "weapon_master": 40
+        "weapon_master": 50
       }
     },
     {
@@ -8268,9 +8270,9 @@
       },
       "weapon_master_kills": 16,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
-        "ai_hunter": 60,
+        "ai_hunter": 50,
         "longest_shot": 80,
         "road_warrior": 100,
         "weapon_master": 20
@@ -8971,15 +8973,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 35,
+      "ai_kills": 37,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 18,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-07T10:03:46.404",
+      "last_seen": "2026-11-07T10:26:32.126",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -8992,17 +8994,17 @@
       "weapons": {
         "AKMN": 3,
         "B&T APC223 PRO": 1,
-        "Black Rain Ordnance Commando": 18,
+        "Black Rain Ordnance Commando": 20,
         "CR-527": 5,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 18,
+      "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 170,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 60,
-        "weapon_master": 40
+        "weapon_master": 50
       }
     },
     {
@@ -9412,6 +9414,41 @@
       }
     },
     {
+      "ai_kills": 37,
+      "deaths": 1,
+      "favorite_weapon": "Black Rain Ordnance Commando",
+      "favorite_weapon_kills": 20,
+      "first_seen": "2026-11-03T19:55:57.965",
+      "ids": [
+        "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
+      ],
+      "last_seen": "2026-11-07T10:26:32.126",
+      "longest_ai_kill_m": 540,
+      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
+      "market_income": 10635,
+      "market_sales": 7,
+      "name": "Sproly",
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 30,
+      "vehicle_trip_straightline_m": 8661.5,
+      "vehicle_trips": 4,
+      "weapons": {
+        "AKMN": 3,
+        "B&T APC223 PRO": 1,
+        "Black Rain Ordnance Commando": 20,
+        "CR-527": 5,
+        "M70 Tundra": 8
+      },
+      "weapon_master_kills": 20,
+      "is_admin": false,
+      "aris_score": 170,
+      "aris_score_breakdown": {
+        "ai_hunter": 60,
+        "longest_shot": 60,
+        "weapon_master": 50
+      }
+    },
+    {
       "ai_kills": 18,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -9435,44 +9472,9 @@
       },
       "weapon_master_kills": 18,
       "is_admin": false,
-      "aris_score": 100,
+      "aris_score": 90,
       "aris_score_breakdown": {
         "longest_shot": 50,
-        "weapon_master": 50
-      }
-    },
-    {
-      "ai_kills": 35,
-      "deaths": 1,
-      "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 18,
-      "first_seen": "2026-11-03T19:55:57.965",
-      "ids": [
-        "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
-      ],
-      "last_seen": "2026-11-07T10:03:46.404",
-      "longest_ai_kill_m": 540,
-      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 10635,
-      "market_sales": 7,
-      "name": "Sproly",
-      "vehicle_driver_entries": 4,
-      "vehicle_passenger_entries": 30,
-      "vehicle_trip_straightline_m": 8661.5,
-      "vehicle_trips": 4,
-      "weapons": {
-        "AKMN": 3,
-        "B&T APC223 PRO": 1,
-        "Black Rain Ordnance Commando": 18,
-        "CR-527": 5,
-        "M70 Tundra": 8
-      },
-      "weapon_master_kills": 18,
-      "is_admin": false,
-      "aris_score": 150,
-      "aris_score_breakdown": {
-        "ai_hunter": 50,
-        "longest_shot": 60,
         "weapon_master": 40
       }
     },
@@ -9531,9 +9533,9 @@
       },
       "weapon_master_kills": 16,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
-        "ai_hunter": 60,
+        "ai_hunter": 50,
         "longest_shot": 80,
         "road_warrior": 100,
         "weapon_master": 20
@@ -9541,14 +9543,14 @@
     },
     {
       "ai_kills": 28,
-      "deaths": 7,
+      "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T20:40:42.441",
       "ids": [
         "SbKPVELQzTlZdhe7zpY7eNyQ49wZuZZ3es-ENQ2eZ_k="
       ],
-      "last_seen": "2026-11-07T08:11:25.033",
+      "last_seen": "2026-11-07T10:18:38.471",
       "longest_ai_kill_m": 110,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -10130,6 +10132,34 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 11,
+      "deaths": 4,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 8,
+      "first_seen": "2026-11-04T18:17:00.148",
+      "ids": [
+        "LcSarshHfsnJdplHH_rwn1Qh6NYr3ZR0sKTfbgjWtTw="
+      ],
+      "last_seen": "2026-11-07T10:14:07.537",
+      "longest_ai_kill_m": 157,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "DambrLord",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 8,
+        "Crossbow": 3
+      },
+      "weapon_master_kills": 8,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 13,
       "deaths": 0,
       "favorite_weapon": "BK-18",
@@ -10380,34 +10410,6 @@
         "CR-527": 7,
         "Crossbow": 2,
         "Sig Sauer P229": 1
-      },
-      "weapon_master_kills": 7,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 10,
-      "deaths": 4,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 7,
-      "first_seen": "2026-11-04T18:17:00.148",
-      "ids": [
-        "LcSarshHfsnJdplHH_rwn1Qh6NYr3ZR0sKTfbgjWtTw="
-      ],
-      "last_seen": "2026-11-06T21:57:14.339",
-      "longest_ai_kill_m": 157,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "DambrLord",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 7,
-        "Crossbow": 3
       },
       "weapon_master_kills": 7,
       "is_admin": false,
@@ -10969,7 +10971,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 10,
+      "ai_kills": 14,
       "deaths": 0,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 4,
@@ -10977,7 +10979,7 @@
       "ids": [
         "kn3Wp48Lu-fr0uE5EAN8VUJRuedzgkvVJbUgty1LjcQ="
       ],
-      "last_seen": "2026-11-05T21:19:59.250",
+      "last_seen": "2026-11-07T10:12:22.960",
       "longest_ai_kill_m": 173,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
@@ -10991,7 +10993,8 @@
         "Blaze": 4,
         "Repeater Carbine": 4,
         "Revolver": 1,
-        "USG-45": 1
+        "USG-45": 1,
+        "CR-527": 4
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -12421,15 +12424,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 35,
+      "ai_kills": 37,
       "deaths": 1,
       "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 18,
+      "favorite_weapon_kills": 20,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-07T10:03:46.404",
+      "last_seen": "2026-11-07T10:26:32.126",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 10635,
@@ -12442,17 +12445,17 @@
       "weapons": {
         "AKMN": 3,
         "B&T APC223 PRO": 1,
-        "Black Rain Ordnance Commando": 18,
+        "Black Rain Ordnance Commando": 20,
         "CR-527": 5,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 18,
+      "weapon_master_kills": 20,
       "is_admin": false,
-      "aris_score": 150,
+      "aris_score": 170,
       "aris_score_breakdown": {
-        "ai_hunter": 50,
+        "ai_hunter": 60,
         "longest_shot": 60,
-        "weapon_master": 40
+        "weapon_master": 50
       }
     },
     {
@@ -12814,12 +12817,47 @@
       },
       "weapon_master_kills": 16,
       "is_admin": false,
-      "aris_score": 260,
+      "aris_score": 250,
       "aris_score_breakdown": {
-        "ai_hunter": 60,
+        "ai_hunter": 50,
         "longest_shot": 80,
         "road_warrior": 100,
         "weapon_master": 20
+      }
+    },
+    {
+      "ai_kills": 37,
+      "deaths": 1,
+      "favorite_weapon": "Black Rain Ordnance Commando",
+      "favorite_weapon_kills": 20,
+      "first_seen": "2026-11-03T19:55:57.965",
+      "ids": [
+        "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
+      ],
+      "last_seen": "2026-11-07T10:26:32.126",
+      "longest_ai_kill_m": 540,
+      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
+      "market_income": 10635,
+      "market_sales": 7,
+      "name": "Sproly",
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 30,
+      "vehicle_trip_straightline_m": 8661.5,
+      "vehicle_trips": 4,
+      "weapons": {
+        "AKMN": 3,
+        "B&T APC223 PRO": 1,
+        "Black Rain Ordnance Commando": 20,
+        "CR-527": 5,
+        "M70 Tundra": 8
+      },
+      "weapon_master_kills": 20,
+      "is_admin": false,
+      "aris_score": 170,
+      "aris_score_breakdown": {
+        "ai_hunter": 60,
+        "longest_shot": 60,
+        "weapon_master": 50
       }
     },
     {
@@ -12853,41 +12891,6 @@
         "trader_king": 10,
         "road_warrior": 90,
         "weapon_master": 60
-      }
-    },
-    {
-      "ai_kills": 35,
-      "deaths": 1,
-      "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 18,
-      "first_seen": "2026-11-03T19:55:57.965",
-      "ids": [
-        "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
-      ],
-      "last_seen": "2026-11-07T10:03:46.404",
-      "longest_ai_kill_m": 540,
-      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 10635,
-      "market_sales": 7,
-      "name": "Sproly",
-      "vehicle_driver_entries": 4,
-      "vehicle_passenger_entries": 30,
-      "vehicle_trip_straightline_m": 8661.5,
-      "vehicle_trips": 4,
-      "weapons": {
-        "AKMN": 3,
-        "B&T APC223 PRO": 1,
-        "Black Rain Ordnance Commando": 18,
-        "CR-527": 5,
-        "M70 Tundra": 8
-      },
-      "weapon_master_kills": 18,
-      "is_admin": false,
-      "aris_score": 150,
-      "aris_score_breakdown": {
-        "ai_hunter": 50,
-        "longest_shot": 60,
-        "weapon_master": 40
       }
     },
     {
@@ -13013,10 +13016,10 @@
       },
       "weapon_master_kills": 18,
       "is_admin": false,
-      "aris_score": 100,
+      "aris_score": 90,
       "aris_score_breakdown": {
         "longest_shot": 50,
-        "weapon_master": 50
+        "weapon_master": 40
       }
     },
     {
@@ -13271,14 +13274,14 @@
     },
     {
       "ai_kills": 28,
-      "deaths": 7,
+      "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T20:40:42.441",
       "ids": [
         "SbKPVELQzTlZdhe7zpY7eNyQ49wZuZZ3es-ENQ2eZ_k="
       ],
-      "last_seen": "2026-11-07T08:11:25.033",
+      "last_seen": "2026-11-07T10:18:38.471",
       "longest_ai_kill_m": 110,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
