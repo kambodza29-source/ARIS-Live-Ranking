@@ -1,8 +1,8 @@
 {
   "season_start": "2026-11-03",
-  "player_count": 172,
+  "player_count": 174,
   "staff_count": 6,
-  "updated_at_local": "09.11.2026 20:01",
+  "updated_at_local": "09.11.2026 20:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -302,11 +302,11 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-09T19:59:47.863",
+      "last_seen": "2026-11-09T20:22:52.488",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 81043,
-      "market_sales": 75,
+      "market_income": 90660,
+      "market_sales": 80,
       "name": "Sproly",
       "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 31,
@@ -322,11 +322,11 @@
       },
       "weapon_master_kills": 48,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 40,
-        "trader_king": 20,
+        "trader_king": 30,
         "weapon_master": 80,
         "salesman": 10
       }
@@ -391,9 +391,9 @@
         "CR-527": 25,
         "FX-45": 1,
         "M16-A2": 3,
+        "M70 Tundra": 3,
         "Pioneer": 14,
-        "SCR 16": 12,
-        "M70 Tundra": 3
+        "SCR 16": 12
       },
       "weapon_master_kills": 25,
       "is_admin": false,
@@ -438,6 +438,46 @@
     },
     {
       "ai_kills": 45,
+      "deaths": 0,
+      "favorite_weapon": "NEMO ARMS OMEN",
+      "favorite_weapon_kills": 34,
+      "first_seen": "2026-11-03T23:29:53.579",
+      "ids": [
+        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
+      ],
+      "last_seen": "2026-11-09T20:30:43.930",
+      "longest_ai_kill_m": 719,
+      "longest_ai_kill_weapon": "NEMO ARMS OMEN",
+      "market_income": 334291,
+      "market_sales": 336,
+      "name": "siedma",
+      "vehicle_driver_entries": 97,
+      "vehicle_passenger_entries": 73,
+      "vehicle_trip_straightline_m": 166930.2,
+      "vehicle_trips": 93,
+      "weapons": {
+        "CR-527": 1,
+        "Kimber 8400 Advanced Tactical SOC II": 5,
+        "M70 Tundra": 2,
+        "NEMO ARMS OMEN": 34,
+        "SCR 16": 1,
+        "SG5-K": 1,
+        "HK433": 1
+      },
+      "weapon_master_kills": 34,
+      "is_admin": false,
+      "aris_score": 340,
+      "aris_score_breakdown": {
+        "ai_hunter": 30,
+        "longest_shot": 70,
+        "trader_king": 60,
+        "road_warrior": 50,
+        "weapon_master": 50,
+        "salesman": 80
+      }
+    },
+    {
+      "ai_kills": 45,
       "deaths": 2,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 15,
@@ -466,48 +506,9 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 30,
+      "aris_score": 20,
       "aris_score_breakdown": {
-        "ai_hunter": 30
-      }
-    },
-    {
-      "ai_kills": 44,
-      "deaths": 0,
-      "favorite_weapon": "NEMO ARMS OMEN",
-      "favorite_weapon_kills": 34,
-      "first_seen": "2026-11-03T23:29:53.579",
-      "ids": [
-        "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
-      ],
-      "last_seen": "2026-11-09T18:48:53.108",
-      "longest_ai_kill_m": 719,
-      "longest_ai_kill_weapon": "NEMO ARMS OMEN",
-      "market_income": 334291,
-      "market_sales": 336,
-      "name": "siedma",
-      "vehicle_driver_entries": 97,
-      "vehicle_passenger_entries": 73,
-      "vehicle_trip_straightline_m": 166930.2,
-      "vehicle_trips": 93,
-      "weapons": {
-        "CR-527": 1,
-        "Kimber 8400 Advanced Tactical SOC II": 5,
-        "M70 Tundra": 2,
-        "NEMO ARMS OMEN": 34,
-        "SCR 16": 1,
-        "SG5-K": 1
-      },
-      "weapon_master_kills": 34,
-      "is_admin": false,
-      "aris_score": 330,
-      "aris_score_breakdown": {
-        "ai_hunter": 20,
-        "longest_shot": 70,
-        "trader_king": 60,
-        "road_warrior": 50,
-        "weapon_master": 50,
-        "salesman": 80
+        "ai_hunter": 20
       }
     },
     {
@@ -738,12 +739,44 @@
       "vehicle_trips": 3,
       "weapons": {
         "CR-527": 16,
+        "M4-A1": 4,
         "M70 Tundra": 9,
         "Mosin 91/30": 2,
-        "Revolver": 2,
-        "M4-A1": 4
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 31,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 13,
+      "first_seen": "2026-11-03T19:18:07.263",
+      "ids": [
+        "kn3Wp48Lu-fr0uE5EAN8VUJRuedzgkvVJbUgty1LjcQ="
+      ],
+      "last_seen": "2026-11-09T20:15:11.179",
+      "longest_ai_kill_m": 412,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Botvalanche_69",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Blaze": 10,
+        "CR-527": 13,
+        "Repeater Carbine": 4,
+        "Revolver": 1,
+        "SG5-K": 2,
+        "USG-45": 1
+      },
+      "weapon_master_kills": 13,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -781,14 +814,14 @@
     },
     {
       "ai_kills": 31,
-      "deaths": 1,
+      "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T21:58:21.485",
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-09T18:45:49.756",
+      "last_seen": "2026-11-09T20:07:53.603",
       "longest_ai_kill_m": 384,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 76004,
@@ -845,10 +878,10 @@
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 60,
       "aris_score_breakdown": {
         "longest_shot": 10,
-        "trader_king": 30,
+        "trader_king": 20,
         "salesman": 30
       }
     },
@@ -876,13 +909,13 @@
         "BK-18": 1,
         "Bizon": 4,
         "CR-527": 8,
+        "CR-550 Savanna": 1,
         "KA-74": 2,
         "KA-M": 3,
         "Pioneer": 1,
         "SG5-K": 1,
         "USG-45": 2,
-        "VSD": 4,
-        "CR-550 Savanna": 1
+        "VSD": 4
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -944,9 +977,9 @@
         "CR-527": 10,
         "CR-61 Skorpion": 1,
         "Desert Tech MDRX": 6,
+        "L15 Defense": 1,
         "Pioneer": 4,
-        "SK 59/66": 1,
-        "L15 Defense": 1
+        "SK 59/66": 1
       },
       "weapon_master_kills": 10,
       "is_admin": false,
@@ -1078,38 +1111,6 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 25,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 13,
-      "first_seen": "2026-11-03T19:18:07.263",
-      "ids": [
-        "kn3Wp48Lu-fr0uE5EAN8VUJRuedzgkvVJbUgty1LjcQ="
-      ],
-      "last_seen": "2026-11-09T19:46:34.040",
-      "longest_ai_kill_m": 412,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Botvalanche_69",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Blaze": 4,
-        "CR-527": 13,
-        "Repeater Carbine": 4,
-        "Revolver": 1,
-        "USG-45": 1,
-        "SG5-K": 2
-      },
-      "weapon_master_kills": 13,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
       "ai_kills": 24,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -1140,6 +1141,40 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 24,
+      "deaths": 2,
+      "favorite_weapon": "Blaze",
+      "favorite_weapon_kills": 10,
+      "first_seen": "2026-11-03T20:48:28.720",
+      "ids": [
+        "9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A=",
+        "2) (9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A="
+      ],
+      "last_seen": "2026-11-09T20:22:56.707",
+      "longest_ai_kill_m": 533,
+      "longest_ai_kill_weapon": "Blaze",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "DonDiablo",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Blaze": 10,
+        "CR-527": 9,
+        "Mosin 91/30": 1,
+        "Repeater Carbine": 1,
+        "Sporter 22": 3
+      },
+      "weapon_master_kills": 10,
+      "is_admin": false,
+      "aris_score": 30,
+      "aris_score_breakdown": {
+        "longest_shot": 30
+      }
     },
     {
       "ai_kills": 24,
@@ -1217,11 +1252,11 @@
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-08T19:40:09.378",
+      "last_seen": "2026-11-09T20:22:55.370",
       "longest_ai_kill_m": 324,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 59683,
-      "market_sales": 39,
+      "market_income": 62097,
+      "market_sales": 42,
       "name": "AkameLilith",
       "vehicle_driver_entries": 62,
       "vehicle_passenger_entries": 0,
@@ -1394,40 +1429,6 @@
         "trader_king": 100,
         "road_warrior": 30,
         "salesman": 60
-      }
-    },
-    {
-      "ai_kills": 20,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 9,
-      "first_seen": "2026-11-03T20:48:28.720",
-      "ids": [
-        "9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A=",
-        "2) (9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A="
-      ],
-      "last_seen": "2026-11-09T18:35:43.708",
-      "longest_ai_kill_m": 533,
-      "longest_ai_kill_weapon": "Blaze",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "DonDiablo",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Blaze": 6,
-        "CR-527": 9,
-        "Mosin 91/30": 1,
-        "Repeater Carbine": 1,
-        "Sporter 22": 3
-      },
-      "weapon_master_kills": 9,
-      "is_admin": false,
-      "aris_score": 30,
-      "aris_score_breakdown": {
-        "longest_shot": 30
       }
     },
     {
@@ -2803,11 +2804,11 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-08T14:59:37.860",
+      "last_seen": "2026-11-09T20:10:00.165",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "SG5-K",
-      "market_income": 131091,
-      "market_sales": 106,
+      "market_income": 138498,
+      "market_sales": 111,
       "name": "EriX",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -3556,7 +3557,7 @@
       }
     },
     {
-      "ai_kills": 44,
+      "ai_kills": 45,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
       "favorite_weapon_kills": 34,
@@ -3564,7 +3565,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-09T18:48:53.108",
+      "last_seen": "2026-11-09T20:30:43.930",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 334291,
@@ -3580,13 +3581,14 @@
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 34,
         "SCR 16": 1,
-        "SG5-K": 1
+        "SG5-K": 1,
+        "HK433": 1
       },
       "weapon_master_kills": 34,
       "is_admin": false,
-      "aris_score": 330,
+      "aris_score": 340,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 30,
         "longest_shot": 70,
         "trader_king": 60,
         "road_warrior": 50,
@@ -3683,11 +3685,11 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-09T19:59:47.863",
+      "last_seen": "2026-11-09T20:22:52.488",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 81043,
-      "market_sales": 75,
+      "market_income": 90660,
+      "market_sales": 80,
       "name": "Sproly",
       "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 31,
@@ -3703,26 +3705,26 @@
       },
       "weapon_master_kills": 48,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 40,
-        "trader_king": 20,
+        "trader_king": 30,
         "weapon_master": 80,
         "salesman": 10
       }
     },
     {
-      "ai_kills": 20,
+      "ai_kills": 24,
       "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 9,
+      "favorite_weapon": "Blaze",
+      "favorite_weapon_kills": 10,
       "first_seen": "2026-11-03T20:48:28.720",
       "ids": [
         "9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A=",
         "2) (9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A="
       ],
-      "last_seen": "2026-11-09T18:35:43.708",
+      "last_seen": "2026-11-09T20:22:56.707",
       "longest_ai_kill_m": 533,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
@@ -3733,13 +3735,13 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Blaze": 6,
+        "Blaze": 10,
         "CR-527": 9,
         "Mosin 91/30": 1,
         "Repeater Carbine": 1,
         "Sporter 22": 3
       },
-      "weapon_master_kills": 9,
+      "weapon_master_kills": 10,
       "is_admin": false,
       "aris_score": 30,
       "aris_score_breakdown": {
@@ -3807,10 +3809,10 @@
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 60,
       "aris_score_breakdown": {
         "longest_shot": 10,
-        "trader_king": 30,
+        "trader_king": 20,
         "salesman": 30
       }
     },
@@ -4066,7 +4068,7 @@
       }
     },
     {
-      "ai_kills": 25,
+      "ai_kills": 31,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 13,
@@ -4074,7 +4076,7 @@
       "ids": [
         "kn3Wp48Lu-fr0uE5EAN8VUJRuedzgkvVJbUgty1LjcQ="
       ],
-      "last_seen": "2026-11-09T19:46:34.040",
+      "last_seen": "2026-11-09T20:15:11.179",
       "longest_ai_kill_m": 412,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -4085,12 +4087,12 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Blaze": 4,
+        "Blaze": 10,
         "CR-527": 13,
         "Repeater Carbine": 4,
         "Revolver": 1,
-        "USG-45": 1,
-        "SG5-K": 2
+        "SG5-K": 2,
+        "USG-45": 1
       },
       "weapon_master_kills": 13,
       "is_admin": false,
@@ -4122,9 +4124,9 @@
         "CR-527": 10,
         "CR-61 Skorpion": 1,
         "Desert Tech MDRX": 6,
+        "L15 Defense": 1,
         "Pioneer": 4,
-        "SK 59/66": 1,
-        "L15 Defense": 1
+        "SK 59/66": 1
       },
       "weapon_master_kills": 10,
       "is_admin": false,
@@ -4133,14 +4135,14 @@
     },
     {
       "ai_kills": 31,
-      "deaths": 1,
+      "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T21:58:21.485",
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-09T18:45:49.756",
+      "last_seen": "2026-11-09T20:07:53.603",
       "longest_ai_kill_m": 384,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 76004,
@@ -4371,10 +4373,10 @@
       "vehicle_trips": 3,
       "weapons": {
         "CR-527": 16,
+        "M4-A1": 4,
         "M70 Tundra": 9,
         "Mosin 91/30": 2,
-        "Revolver": 2,
-        "M4-A1": 4
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -4546,11 +4548,11 @@
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-08T19:40:09.378",
+      "last_seen": "2026-11-09T20:22:55.370",
       "longest_ai_kill_m": 324,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 59683,
-      "market_sales": 39,
+      "market_income": 62097,
+      "market_sales": 42,
       "name": "AkameLilith",
       "vehicle_driver_entries": 62,
       "vehicle_passenger_entries": 0,
@@ -4683,9 +4685,9 @@
         "CR-527": 25,
         "FX-45": 1,
         "M16-A2": 3,
+        "M70 Tundra": 3,
         "Pioneer": 14,
-        "SCR 16": 12,
-        "M70 Tundra": 3
+        "SCR 16": 12
       },
       "weapon_master_kills": 25,
       "is_admin": false,
@@ -4719,13 +4721,13 @@
         "BK-18": 1,
         "Bizon": 4,
         "CR-527": 8,
+        "CR-550 Savanna": 1,
         "KA-74": 2,
         "KA-M": 3,
         "Pioneer": 1,
         "SG5-K": 1,
         "USG-45": 2,
-        "VSD": 4,
-        "CR-550 Savanna": 1
+        "VSD": 4
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -4962,9 +4964,9 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 30,
+      "aris_score": 20,
       "aris_score_breakdown": {
-        "ai_hunter": 30
+        "ai_hunter": 20
       }
     },
     {
@@ -6114,11 +6116,11 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-08T14:59:37.860",
+      "last_seen": "2026-11-09T20:10:00.165",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "SG5-K",
-      "market_income": 131091,
-      "market_sales": 106,
+      "market_income": 138498,
+      "market_sales": 111,
       "name": "EriX",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -6866,13 +6868,13 @@
         "BK-18": 1,
         "Bizon": 4,
         "CR-527": 8,
+        "CR-550 Savanna": 1,
         "KA-74": 2,
         "KA-M": 3,
         "Pioneer": 1,
         "SG5-K": 1,
         "USG-45": 2,
-        "VSD": 4,
-        "CR-550 Savanna": 1
+        "VSD": 4
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -6932,9 +6934,9 @@
         "CR-527": 10,
         "CR-61 Skorpion": 1,
         "Desert Tech MDRX": 6,
+        "L15 Defense": 1,
         "Pioneer": 4,
-        "SK 59/66": 1,
-        "L15 Defense": 1
+        "SK 59/66": 1
       },
       "weapon_master_kills": 10,
       "is_admin": false,
@@ -7271,11 +7273,11 @@
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-08T19:40:09.378",
+      "last_seen": "2026-11-09T20:22:55.370",
       "longest_ai_kill_m": 324,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 59683,
-      "market_sales": 39,
+      "market_income": 62097,
+      "market_sales": 42,
       "name": "AkameLilith",
       "vehicle_driver_entries": 62,
       "vehicle_passenger_entries": 0,
@@ -7368,11 +7370,11 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-08T14:59:37.860",
+      "last_seen": "2026-11-09T20:10:00.165",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "SG5-K",
-      "market_income": 131091,
-      "market_sales": 106,
+      "market_income": 138498,
+      "market_sales": 111,
       "name": "EriX",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -7826,16 +7828,16 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 20,
+      "ai_kills": 24,
       "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 9,
+      "favorite_weapon": "Blaze",
+      "favorite_weapon_kills": 10,
       "first_seen": "2026-11-03T20:48:28.720",
       "ids": [
         "9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A=",
         "2) (9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A="
       ],
-      "last_seen": "2026-11-09T18:35:43.708",
+      "last_seen": "2026-11-09T20:22:56.707",
       "longest_ai_kill_m": 533,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
@@ -7846,13 +7848,13 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Blaze": 6,
+        "Blaze": 10,
         "CR-527": 9,
         "Mosin 91/30": 1,
         "Repeater Carbine": 1,
         "Sporter 22": 3
       },
-      "weapon_master_kills": 9,
+      "weapon_master_kills": 10,
       "is_admin": false,
       "aris_score": 30,
       "aris_score_breakdown": {
@@ -8221,6 +8223,41 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 31,
+      "deaths": 2,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-03T21:58:21.485",
+      "ids": [
+        "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
+      ],
+      "last_seen": "2026-11-09T20:07:53.603",
+      "longest_ai_kill_m": 384,
+      "longest_ai_kill_weapon": "VS-89",
+      "market_income": 76004,
+      "market_sales": 54,
+      "name": "Ryky_cz",
+      "vehicle_driver_entries": 27,
+      "vehicle_passenger_entries": 7,
+      "vehicle_trip_straightline_m": 34674.4,
+      "vehicle_trips": 27,
+      "weapons": {
+        "BK-133": 3,
+        "BK-18": 2,
+        "Blaze": 2,
+        "CR-527": 16,
+        "SG5-K": 1,
+        "SK 59/66": 3,
+        "VS-89": 4
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 10,
+      "aris_score_breakdown": {
+        "trader_king": 10
+      }
+    },
+    {
       "ai_kills": 15,
       "deaths": 2,
       "favorite_weapon": "BK-18",
@@ -8260,11 +8297,11 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-09T19:59:47.863",
+      "last_seen": "2026-11-09T20:22:52.488",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 81043,
-      "market_sales": 75,
+      "market_income": 90660,
+      "market_sales": 80,
       "name": "Sproly",
       "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 31,
@@ -8280,11 +8317,11 @@
       },
       "weapon_master_kills": 48,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 40,
-        "trader_king": 20,
+        "trader_king": 30,
         "weapon_master": 80,
         "salesman": 10
       }
@@ -8372,9 +8409,9 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 30,
+      "aris_score": 20,
       "aris_score_breakdown": {
-        "ai_hunter": 30
+        "ai_hunter": 20
       }
     },
     {
@@ -9347,10 +9384,10 @@
       "vehicle_trips": 3,
       "weapons": {
         "CR-527": 16,
+        "M4-A1": 4,
         "M70 Tundra": 9,
         "Mosin 91/30": 2,
-        "Revolver": 2,
-        "M4-A1": 4
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -9512,41 +9549,6 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 31,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 16,
-      "first_seen": "2026-11-03T21:58:21.485",
-      "ids": [
-        "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
-      ],
-      "last_seen": "2026-11-09T18:45:49.756",
-      "longest_ai_kill_m": 384,
-      "longest_ai_kill_weapon": "VS-89",
-      "market_income": 76004,
-      "market_sales": 54,
-      "name": "Ryky_cz",
-      "vehicle_driver_entries": 27,
-      "vehicle_passenger_entries": 7,
-      "vehicle_trip_straightline_m": 34674.4,
-      "vehicle_trips": 27,
-      "weapons": {
-        "BK-133": 3,
-        "BK-18": 2,
-        "Blaze": 2,
-        "CR-527": 16,
-        "SG5-K": 1,
-        "SK 59/66": 3,
-        "VS-89": 4
-      },
-      "weapon_master_kills": 16,
-      "is_admin": false,
-      "aris_score": 10,
-      "aris_score_breakdown": {
-        "trader_king": 10
-      }
-    },
-    {
       "ai_kills": 36,
       "deaths": 1,
       "favorite_weapon": "CR-527",
@@ -9610,6 +9612,31 @@
         "SK 59/66": 1
       },
       "weapon_master_kills": 12,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "name": "SLovakian PatrioT",
+      "ids": [
+        "FkllyHTAe3gREJF2u2MhrDRfMk1aDVhXJBXBWXk3Tow="
+      ],
+      "first_seen": "2026-11-09T20:14:11.753",
+      "last_seen": "2026-11-09T20:14:23.740",
+      "ai_kills": 0,
+      "deaths": 1,
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {},
+      "weapon_master_kills": 0,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -9909,6 +9936,31 @@
       "aris_score_breakdown": {}
     },
     {
+      "name": "Tomiho Vyndej",
+      "ids": [
+        "eNbmtEp_6kk0uuuP4lJ2i3mRGgLsFMdDiPYOc8gBR_A="
+      ],
+      "first_seen": "2026-11-09T20:03:57.411",
+      "last_seen": "2026-11-09T20:04:09.403",
+      "ai_kills": 0,
+      "deaths": 1,
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 4,
       "deaths": 1,
       "favorite_weapon": "CR-75",
@@ -10194,7 +10246,7 @@
       }
     },
     {
-      "ai_kills": 44,
+      "ai_kills": 45,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
       "favorite_weapon_kills": 34,
@@ -10202,7 +10254,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-09T18:48:53.108",
+      "last_seen": "2026-11-09T20:30:43.930",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 334291,
@@ -10218,13 +10270,14 @@
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 34,
         "SCR 16": 1,
-        "SG5-K": 1
+        "SG5-K": 1,
+        "HK433": 1
       },
       "weapon_master_kills": 34,
       "is_admin": false,
-      "aris_score": 330,
+      "aris_score": 340,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 30,
         "longest_shot": 70,
         "trader_king": 60,
         "road_warrior": 50,
@@ -10272,11 +10325,11 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-08T14:59:37.860",
+      "last_seen": "2026-11-09T20:10:00.165",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "SG5-K",
-      "market_income": 131091,
-      "market_sales": 106,
+      "market_income": 138498,
+      "market_sales": 111,
       "name": "EriX",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -10293,6 +10346,44 @@
       "aris_score_breakdown": {
         "trader_king": 40,
         "salesman": 50
+      }
+    },
+    {
+      "ai_kills": 72,
+      "deaths": 2,
+      "favorite_weapon": "Black Rain Ordnance Commando",
+      "favorite_weapon_kills": 48,
+      "first_seen": "2026-11-03T19:55:57.965",
+      "ids": [
+        "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
+      ],
+      "last_seen": "2026-11-09T20:22:52.488",
+      "longest_ai_kill_m": 540,
+      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
+      "market_income": 90660,
+      "market_sales": 80,
+      "name": "Sproly",
+      "vehicle_driver_entries": 8,
+      "vehicle_passenger_entries": 31,
+      "vehicle_trip_straightline_m": 14728.4,
+      "vehicle_trips": 8,
+      "weapons": {
+        "AKMN": 8,
+        "B&T APC223 PRO": 1,
+        "Beretta ARX160": 2,
+        "Black Rain Ordnance Commando": 48,
+        "CR-527": 5,
+        "M70 Tundra": 8
+      },
+      "weapon_master_kills": 48,
+      "is_admin": false,
+      "aris_score": 230,
+      "aris_score_breakdown": {
+        "ai_hunter": 70,
+        "longest_shot": 40,
+        "trader_king": 30,
+        "weapon_master": 80,
+        "salesman": 10
       }
     },
     {
@@ -10326,61 +10417,23 @@
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 60,
       "aris_score_breakdown": {
         "longest_shot": 10,
-        "trader_king": 30,
+        "trader_king": 20,
         "salesman": 30
       }
     },
     {
-      "ai_kills": 72,
-      "deaths": 2,
-      "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 48,
-      "first_seen": "2026-11-03T19:55:57.965",
-      "ids": [
-        "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
-      ],
-      "last_seen": "2026-11-09T19:59:47.863",
-      "longest_ai_kill_m": 540,
-      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 81043,
-      "market_sales": 75,
-      "name": "Sproly",
-      "vehicle_driver_entries": 8,
-      "vehicle_passenger_entries": 31,
-      "vehicle_trip_straightline_m": 14728.4,
-      "vehicle_trips": 8,
-      "weapons": {
-        "AKMN": 8,
-        "B&T APC223 PRO": 1,
-        "Beretta ARX160": 2,
-        "Black Rain Ordnance Commando": 48,
-        "CR-527": 5,
-        "M70 Tundra": 8
-      },
-      "weapon_master_kills": 48,
-      "is_admin": false,
-      "aris_score": 220,
-      "aris_score_breakdown": {
-        "ai_hunter": 70,
-        "longest_shot": 40,
-        "trader_king": 20,
-        "weapon_master": 80,
-        "salesman": 10
-      }
-    },
-    {
       "ai_kills": 31,
-      "deaths": 1,
+      "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T21:58:21.485",
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-09T18:45:49.756",
+      "last_seen": "2026-11-09T20:07:53.603",
       "longest_ai_kill_m": 384,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 76004,
@@ -10465,9 +10518,9 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 30,
+      "aris_score": 20,
       "aris_score_breakdown": {
-        "ai_hunter": 30
+        "ai_hunter": 20
       }
     },
     {
@@ -10501,6 +10554,37 @@
         "ai_hunter": 40,
         "road_warrior": 90,
         "weapon_master": 70
+      }
+    },
+    {
+      "ai_kills": 23,
+      "deaths": 3,
+      "favorite_weapon": "Blaze",
+      "favorite_weapon_kills": 12,
+      "first_seen": "2026-11-03T21:53:53.157",
+      "ids": [
+        "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
+      ],
+      "last_seen": "2026-11-09T20:22:55.370",
+      "longest_ai_kill_m": 324,
+      "longest_ai_kill_weapon": "Blaze",
+      "market_income": 62097,
+      "market_sales": 42,
+      "name": "AkameLilith",
+      "vehicle_driver_entries": 62,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 70528.2,
+      "vehicle_trips": 61,
+      "weapons": {
+        "Blaze": 12,
+        "CR-527": 7,
+        "SG5-K": 4
+      },
+      "weapon_master_kills": 12,
+      "is_admin": false,
+      "aris_score": 10,
+      "aris_score_breakdown": {
+        "road_warrior": 10
       }
     },
     {
@@ -10539,37 +10623,6 @@
         "road_warrior": 20,
         "weapon_master": 10,
         "salesman": 20
-      }
-    },
-    {
-      "ai_kills": 23,
-      "deaths": 3,
-      "favorite_weapon": "Blaze",
-      "favorite_weapon_kills": 12,
-      "first_seen": "2026-11-03T21:53:53.157",
-      "ids": [
-        "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
-      ],
-      "last_seen": "2026-11-08T19:40:09.378",
-      "longest_ai_kill_m": 324,
-      "longest_ai_kill_weapon": "Blaze",
-      "market_income": 59683,
-      "market_sales": 39,
-      "name": "AkameLilith",
-      "vehicle_driver_entries": 62,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 70528.2,
-      "vehicle_trips": 61,
-      "weapons": {
-        "Blaze": 12,
-        "CR-527": 7,
-        "SG5-K": 4
-      },
-      "weapon_master_kills": 12,
-      "is_admin": false,
-      "aris_score": 10,
-      "aris_score_breakdown": {
-        "road_warrior": 10
       }
     },
     {
@@ -10707,10 +10760,10 @@
       "vehicle_trips": 3,
       "weapons": {
         "CR-527": 16,
+        "M4-A1": 4,
         "M70 Tundra": 9,
         "Mosin 91/30": 2,
-        "Revolver": 2,
-        "M4-A1": 4
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -10741,13 +10794,13 @@
         "BK-18": 1,
         "Bizon": 4,
         "CR-527": 8,
+        "CR-550 Savanna": 1,
         "KA-74": 2,
         "KA-M": 3,
         "Pioneer": 1,
         "SG5-K": 1,
         "USG-45": 2,
-        "VSD": 4,
-        "CR-550 Savanna": 1
+        "VSD": 4
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -11330,9 +11383,9 @@
         "CR-527": 10,
         "CR-61 Skorpion": 1,
         "Desert Tech MDRX": 6,
+        "L15 Defense": 1,
         "Pioneer": 4,
-        "SK 59/66": 1,
-        "L15 Defense": 1
+        "SK 59/66": 1
       },
       "weapon_master_kills": 10,
       "is_admin": false,
@@ -11621,7 +11674,7 @@
       }
     },
     {
-      "ai_kills": 44,
+      "ai_kills": 45,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
       "favorite_weapon_kills": 34,
@@ -11629,7 +11682,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-09T18:48:53.108",
+      "last_seen": "2026-11-09T20:30:43.930",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 334291,
@@ -11645,13 +11698,14 @@
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 34,
         "SCR 16": 1,
-        "SG5-K": 1
+        "SG5-K": 1,
+        "HK433": 1
       },
       "weapon_master_kills": 34,
       "is_admin": false,
-      "aris_score": 330,
+      "aris_score": 340,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 30,
         "longest_shot": 70,
         "trader_king": 60,
         "road_warrior": 50,
@@ -11776,11 +11830,11 @@
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-08T19:40:09.378",
+      "last_seen": "2026-11-09T20:22:55.370",
       "longest_ai_kill_m": 324,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 59683,
-      "market_sales": 39,
+      "market_income": 62097,
+      "market_sales": 42,
       "name": "AkameLilith",
       "vehicle_driver_entries": 62,
       "vehicle_passenger_entries": 0,
@@ -11891,14 +11945,14 @@
     },
     {
       "ai_kills": 31,
-      "deaths": 1,
+      "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T21:58:21.485",
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-09T18:45:49.756",
+      "last_seen": "2026-11-09T20:07:53.603",
       "longest_ai_kill_m": 384,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 76004,
@@ -12124,11 +12178,11 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-09T19:59:47.863",
+      "last_seen": "2026-11-09T20:22:52.488",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 81043,
-      "market_sales": 75,
+      "market_income": 90660,
+      "market_sales": 80,
       "name": "Sproly",
       "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 31,
@@ -12144,11 +12198,11 @@
       },
       "weapon_master_kills": 48,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 40,
-        "trader_king": 20,
+        "trader_king": 30,
         "weapon_master": 80,
         "salesman": 10
       }
@@ -12216,10 +12270,10 @@
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 60,
       "aris_score_breakdown": {
         "longest_shot": 10,
-        "trader_king": 30,
+        "trader_king": 20,
         "salesman": 30
       }
     },
@@ -12600,10 +12654,10 @@
       "vehicle_trips": 3,
       "weapons": {
         "CR-527": 16,
+        "M4-A1": 4,
         "M70 Tundra": 9,
         "Mosin 91/30": 2,
-        "Revolver": 2,
-        "M4-A1": 4
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -12728,11 +12782,11 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-09T19:59:47.863",
+      "last_seen": "2026-11-09T20:22:52.488",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 81043,
-      "market_sales": 75,
+      "market_income": 90660,
+      "market_sales": 80,
       "name": "Sproly",
       "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 31,
@@ -12748,11 +12802,11 @@
       },
       "weapon_master_kills": 48,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 40,
-        "trader_king": 20,
+        "trader_king": 30,
         "weapon_master": 80,
         "salesman": 10
       }
@@ -12829,7 +12883,7 @@
       }
     },
     {
-      "ai_kills": 44,
+      "ai_kills": 45,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
       "favorite_weapon_kills": 34,
@@ -12837,7 +12891,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-09T18:48:53.108",
+      "last_seen": "2026-11-09T20:30:43.930",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 334291,
@@ -12853,13 +12907,14 @@
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 34,
         "SCR 16": 1,
-        "SG5-K": 1
+        "SG5-K": 1,
+        "HK433": 1
       },
       "weapon_master_kills": 34,
       "is_admin": false,
-      "aris_score": 330,
+      "aris_score": 340,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 30,
         "longest_shot": 70,
         "trader_king": 60,
         "road_warrior": 50,
@@ -12890,9 +12945,9 @@
         "CR-527": 25,
         "FX-45": 1,
         "M16-A2": 3,
+        "M70 Tundra": 3,
         "Pioneer": 14,
-        "SCR 16": 12,
-        "M70 Tundra": 3
+        "SCR 16": 12
       },
       "weapon_master_kills": 25,
       "is_admin": false,
@@ -13394,10 +13449,10 @@
       "vehicle_trips": 3,
       "weapons": {
         "CR-527": 16,
+        "M4-A1": 4,
         "M70 Tundra": 9,
         "Mosin 91/30": 2,
-        "Revolver": 2,
-        "M4-A1": 4
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -13434,14 +13489,14 @@
     },
     {
       "ai_kills": 31,
-      "deaths": 1,
+      "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T21:58:21.485",
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-09T18:45:49.756",
+      "last_seen": "2026-11-09T20:07:53.603",
       "longest_ai_kill_m": 384,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 76004,
@@ -13649,9 +13704,9 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 30,
+      "aris_score": 20,
       "aris_score_breakdown": {
-        "ai_hunter": 30
+        "ai_hunter": 20
       }
     },
     {
@@ -13715,7 +13770,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 25,
+      "ai_kills": 31,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 13,
@@ -13723,7 +13778,7 @@
       "ids": [
         "kn3Wp48Lu-fr0uE5EAN8VUJRuedzgkvVJbUgty1LjcQ="
       ],
-      "last_seen": "2026-11-09T19:46:34.040",
+      "last_seen": "2026-11-09T20:15:11.179",
       "longest_ai_kill_m": 412,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -13734,12 +13789,12 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Blaze": 4,
+        "Blaze": 10,
         "CR-527": 13,
         "Repeater Carbine": 4,
         "Revolver": 1,
-        "USG-45": 1,
-        "SG5-K": 2
+        "SG5-K": 2,
+        "USG-45": 1
       },
       "weapon_master_kills": 13,
       "is_admin": false,
@@ -13786,11 +13841,11 @@
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-08T19:40:09.378",
+      "last_seen": "2026-11-09T20:22:55.370",
       "longest_ai_kill_m": 324,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 59683,
-      "market_sales": 39,
+      "market_income": 62097,
+      "market_sales": 42,
       "name": "AkameLilith",
       "vehicle_driver_entries": 62,
       "vehicle_passenger_entries": 0,
@@ -14016,10 +14071,10 @@
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 60,
       "aris_score_breakdown": {
         "longest_shot": 10,
-        "trader_king": 30,
+        "trader_king": 20,
         "salesman": 30
       }
     },
@@ -14050,6 +14105,40 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 24,
+      "deaths": 2,
+      "favorite_weapon": "Blaze",
+      "favorite_weapon_kills": 10,
+      "first_seen": "2026-11-03T20:48:28.720",
+      "ids": [
+        "9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A=",
+        "2) (9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A="
+      ],
+      "last_seen": "2026-11-09T20:22:56.707",
+      "longest_ai_kill_m": 533,
+      "longest_ai_kill_weapon": "Blaze",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "DonDiablo",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Blaze": 10,
+        "CR-527": 9,
+        "Mosin 91/30": 1,
+        "Repeater Carbine": 1,
+        "Sporter 22": 3
+      },
+      "weapon_master_kills": 10,
+      "is_admin": false,
+      "aris_score": 30,
+      "aris_score_breakdown": {
+        "longest_shot": 30
+      }
     },
     {
       "ai_kills": 14,
@@ -14172,9 +14261,9 @@
         "CR-527": 10,
         "CR-61 Skorpion": 1,
         "Desert Tech MDRX": 6,
+        "L15 Defense": 1,
         "Pioneer": 4,
-        "SK 59/66": 1,
-        "L15 Defense": 1
+        "SK 59/66": 1
       },
       "weapon_master_kills": 10,
       "is_admin": false,
@@ -14213,40 +14302,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 20,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 9,
-      "first_seen": "2026-11-03T20:48:28.720",
-      "ids": [
-        "9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A=",
-        "2) (9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A="
-      ],
-      "last_seen": "2026-11-09T18:35:43.708",
-      "longest_ai_kill_m": 533,
-      "longest_ai_kill_weapon": "Blaze",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "DonDiablo",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Blaze": 6,
-        "CR-527": 9,
-        "Mosin 91/30": 1,
-        "Repeater Carbine": 1,
-        "Sporter 22": 3
-      },
-      "weapon_master_kills": 9,
-      "is_admin": false,
-      "aris_score": 30,
-      "aris_score_breakdown": {
-        "longest_shot": 30
-      }
     },
     {
       "ai_kills": 20,
@@ -14480,13 +14535,13 @@
         "BK-18": 1,
         "Bizon": 4,
         "CR-527": 8,
+        "CR-550 Savanna": 1,
         "KA-74": 2,
         "KA-M": 3,
         "Pioneer": 1,
         "SG5-K": 1,
         "USG-45": 2,
-        "VSD": 4,
-        "CR-550 Savanna": 1
+        "VSD": 4
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -15506,11 +15561,11 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-08T14:59:37.860",
+      "last_seen": "2026-11-09T20:10:00.165",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "SG5-K",
-      "market_income": 131091,
-      "market_sales": 106,
+      "market_income": 138498,
+      "market_sales": 111,
       "name": "EriX",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -15989,7 +16044,7 @@
       }
     },
     {
-      "ai_kills": 44,
+      "ai_kills": 45,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
       "favorite_weapon_kills": 34,
@@ -15997,7 +16052,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-09T18:48:53.108",
+      "last_seen": "2026-11-09T20:30:43.930",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 334291,
@@ -16013,13 +16068,14 @@
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 34,
         "SCR 16": 1,
-        "SG5-K": 1
+        "SG5-K": 1,
+        "HK433": 1
       },
       "weapon_master_kills": 34,
       "is_admin": false,
-      "aris_score": 330,
+      "aris_score": 340,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 30,
         "longest_shot": 70,
         "trader_king": 60,
         "road_warrior": 50,
@@ -16111,11 +16167,11 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-08T14:59:37.860",
+      "last_seen": "2026-11-09T20:10:00.165",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "SG5-K",
-      "market_income": 131091,
-      "market_sales": 106,
+      "market_income": 138498,
+      "market_sales": 111,
       "name": "EriX",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -16198,10 +16254,10 @@
       },
       "weapon_master_kills": 11,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 60,
       "aris_score_breakdown": {
         "longest_shot": 10,
-        "trader_king": 30,
+        "trader_king": 20,
         "salesman": 30
       }
     },
@@ -16252,11 +16308,11 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-09T19:59:47.863",
+      "last_seen": "2026-11-09T20:22:52.488",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 81043,
-      "market_sales": 75,
+      "market_income": 90660,
+      "market_sales": 80,
       "name": "Sproly",
       "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 31,
@@ -16272,11 +16328,11 @@
       },
       "weapon_master_kills": 48,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 40,
-        "trader_king": 20,
+        "trader_king": 30,
         "weapon_master": 80,
         "salesman": 10
       }
@@ -16369,21 +16425,21 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 30,
+      "aris_score": 20,
       "aris_score_breakdown": {
-        "ai_hunter": 30
+        "ai_hunter": 20
       }
     },
     {
       "ai_kills": 31,
-      "deaths": 1,
+      "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T21:58:21.485",
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-09T18:45:49.756",
+      "last_seen": "2026-11-09T20:07:53.603",
       "longest_ai_kill_m": 384,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 76004,
@@ -16509,11 +16565,11 @@
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-08T19:40:09.378",
+      "last_seen": "2026-11-09T20:22:55.370",
       "longest_ai_kill_m": 324,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 59683,
-      "market_sales": 39,
+      "market_income": 62097,
+      "market_sales": 42,
       "name": "AkameLilith",
       "vehicle_driver_entries": 62,
       "vehicle_passenger_entries": 0,
@@ -16611,13 +16667,13 @@
         "BK-18": 1,
         "Bizon": 4,
         "CR-527": 8,
+        "CR-550 Savanna": 1,
         "KA-74": 2,
         "KA-M": 3,
         "Pioneer": 1,
         "SG5-K": 1,
         "USG-45": 2,
-        "VSD": 4,
-        "CR-550 Savanna": 1
+        "VSD": 4
       },
       "weapon_master_kills": 8,
       "is_admin": false,
@@ -16645,10 +16701,10 @@
       "vehicle_trips": 3,
       "weapons": {
         "CR-527": 16,
+        "M4-A1": 4,
         "M70 Tundra": 9,
         "Mosin 91/30": 2,
-        "Revolver": 2,
-        "M4-A1": 4
+        "Revolver": 2
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -17265,9 +17321,9 @@
         "CR-527": 10,
         "CR-61 Skorpion": 1,
         "Desert Tech MDRX": 6,
+        "L15 Defense": 1,
         "Pioneer": 4,
-        "SK 59/66": 1,
-        "L15 Defense": 1
+        "SK 59/66": 1
       },
       "weapon_master_kills": 10,
       "is_admin": false,
@@ -17386,7 +17442,7 @@
       }
     },
     {
-      "ai_kills": 44,
+      "ai_kills": 45,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
       "favorite_weapon_kills": 34,
@@ -17394,7 +17450,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-09T18:48:53.108",
+      "last_seen": "2026-11-09T20:30:43.930",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 334291,
@@ -17410,13 +17466,14 @@
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 34,
         "SCR 16": 1,
-        "SG5-K": 1
+        "SG5-K": 1,
+        "HK433": 1
       },
       "weapon_master_kills": 34,
       "is_admin": false,
-      "aris_score": 330,
+      "aris_score": 340,
       "aris_score_breakdown": {
-        "ai_hunter": 20,
+        "ai_hunter": 30,
         "longest_shot": 70,
         "trader_king": 60,
         "road_warrior": 50,
@@ -17545,11 +17602,11 @@
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-09T19:59:47.863",
+      "last_seen": "2026-11-09T20:22:52.488",
       "longest_ai_kill_m": 540,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 81043,
-      "market_sales": 75,
+      "market_income": 90660,
+      "market_sales": 80,
       "name": "Sproly",
       "vehicle_driver_entries": 8,
       "vehicle_passenger_entries": 31,
@@ -17565,11 +17622,11 @@
       },
       "weapon_master_kills": 48,
       "is_admin": false,
-      "aris_score": 220,
+      "aris_score": 230,
       "aris_score_breakdown": {
         "ai_hunter": 70,
         "longest_shot": 40,
-        "trader_king": 20,
+        "trader_king": 30,
         "weapon_master": 80,
         "salesman": 10
       }
@@ -17630,9 +17687,9 @@
         "CR-527": 25,
         "FX-45": 1,
         "M16-A2": 3,
+        "M70 Tundra": 3,
         "Pioneer": 14,
-        "SCR 16": 12,
-        "M70 Tundra": 3
+        "SCR 16": 12
       },
       "weapon_master_kills": 25,
       "is_admin": false,
@@ -17651,11 +17708,11 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-08T14:59:37.860",
+      "last_seen": "2026-11-09T20:10:00.165",
       "longest_ai_kill_m": 51,
       "longest_ai_kill_weapon": "SG5-K",
-      "market_income": 131091,
-      "market_sales": 106,
+      "market_income": 138498,
+      "market_sales": 111,
       "name": "EriX",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -17745,44 +17802,6 @@
       }
     },
     {
-      "ai_kills": 31,
-      "deaths": 0,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 11,
-      "first_seen": "2026-11-03T19:05:45.701",
-      "ids": [
-        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
-      ],
-      "last_seen": "2026-11-09T18:31:22.804",
-      "longest_ai_kill_m": 501,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 88219,
-      "market_sales": 89,
-      "name": "Skelly",
-      "vehicle_driver_entries": 8,
-      "vehicle_passenger_entries": 22,
-      "vehicle_trip_straightline_m": 12204.2,
-      "vehicle_trips": 8,
-      "weapons": {
-        "Blaze": 1,
-        "CR-527": 4,
-        "CR-550 Savanna": 3,
-        "KAS-74U": 3,
-        "M70 Tundra": 11,
-        "R12": 3,
-        "STEYR AUG A3": 5,
-        "VSD": 1
-      },
-      "weapon_master_kills": 11,
-      "is_admin": false,
-      "aris_score": 70,
-      "aris_score_breakdown": {
-        "longest_shot": 10,
-        "trader_king": 30,
-        "salesman": 30
-      }
-    },
-    {
       "ai_kills": 24,
       "deaths": 1,
       "favorite_weapon": "Mosin 91/30",
@@ -17815,6 +17834,44 @@
       "aris_score": 60,
       "aris_score_breakdown": {
         "road_warrior": 60
+      }
+    },
+    {
+      "ai_kills": 31,
+      "deaths": 0,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 11,
+      "first_seen": "2026-11-03T19:05:45.701",
+      "ids": [
+        "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
+      ],
+      "last_seen": "2026-11-09T18:31:22.804",
+      "longest_ai_kill_m": 501,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 88219,
+      "market_sales": 89,
+      "name": "Skelly",
+      "vehicle_driver_entries": 8,
+      "vehicle_passenger_entries": 22,
+      "vehicle_trip_straightline_m": 12204.2,
+      "vehicle_trips": 8,
+      "weapons": {
+        "Blaze": 1,
+        "CR-527": 4,
+        "CR-550 Savanna": 3,
+        "KAS-74U": 3,
+        "M70 Tundra": 11,
+        "R12": 3,
+        "STEYR AUG A3": 5,
+        "VSD": 1
+      },
+      "weapon_master_kills": 11,
+      "is_admin": false,
+      "aris_score": 60,
+      "aris_score_breakdown": {
+        "longest_shot": 10,
+        "trader_king": 20,
+        "salesman": 30
       }
     },
     {
@@ -17917,16 +17974,16 @@
       }
     },
     {
-      "ai_kills": 20,
+      "ai_kills": 24,
       "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 9,
+      "favorite_weapon": "Blaze",
+      "favorite_weapon_kills": 10,
       "first_seen": "2026-11-03T20:48:28.720",
       "ids": [
         "9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A=",
         "2) (9zjJM3-3AGpGx9hUN_Tut3Zg_7YAI8fm3ZJlkxd_H1A="
       ],
-      "last_seen": "2026-11-09T18:35:43.708",
+      "last_seen": "2026-11-09T20:22:56.707",
       "longest_ai_kill_m": 533,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 0,
@@ -17937,13 +17994,13 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Blaze": 6,
+        "Blaze": 10,
         "CR-527": 9,
         "Mosin 91/30": 1,
         "Repeater Carbine": 1,
         "Sporter 22": 3
       },
-      "weapon_master_kills": 9,
+      "weapon_master_kills": 10,
       "is_admin": false,
       "aris_score": 30,
       "aris_score_breakdown": {
@@ -17980,9 +18037,9 @@
       },
       "weapon_master_kills": 15,
       "is_admin": false,
-      "aris_score": 30,
+      "aris_score": 20,
       "aris_score_breakdown": {
-        "ai_hunter": 30
+        "ai_hunter": 20
       }
     },
     {
@@ -17994,11 +18051,11 @@
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-08T19:40:09.378",
+      "last_seen": "2026-11-09T20:22:55.370",
       "longest_ai_kill_m": 324,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 59683,
-      "market_sales": 39,
+      "market_income": 62097,
+      "market_sales": 42,
       "name": "AkameLilith",
       "vehicle_driver_entries": 62,
       "vehicle_passenger_entries": 0,
@@ -18018,14 +18075,14 @@
     },
     {
       "ai_kills": 31,
-      "deaths": 1,
+      "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
       "first_seen": "2026-11-03T21:58:21.485",
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-09T18:45:49.756",
+      "last_seen": "2026-11-09T20:07:53.603",
       "longest_ai_kill_m": 384,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 76004,
