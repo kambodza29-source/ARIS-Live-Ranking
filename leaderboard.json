@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 178,
   "staff_count": 6,
-  "updated_at_local": "10.11.2026 06:01",
+  "updated_at_local": "10.11.2026 06:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -218,7 +218,7 @@
       }
     },
     {
-      "ai_kills": 123,
+      "ai_kills": 127,
       "deaths": 14,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 58,
@@ -226,7 +226,7 @@
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-10T05:39:00.331",
+      "last_seen": "2026-11-10T06:30:45.535",
       "longest_ai_kill_m": 459,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 460061,
@@ -239,7 +239,7 @@
       "weapons": {
         "BK-133": 1,
         "BK-18": 6,
-        "Blaze": 42,
+        "Blaze": 46,
         "CR-527": 58,
         "Crossbow": 3,
         "Daniel Defense MK18 CQBR": 9,
@@ -295,27 +295,27 @@
       }
     },
     {
-      "ai_kills": 88,
+      "ai_kills": 92,
       "deaths": 3,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 30,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 31,
       "first_seen": "2026-11-03T23:56:10.344",
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-10T06:00:15.044",
+      "last_seen": "2026-11-10T06:29:46.508",
       "longest_ai_kill_m": 814,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 306,
+      "vehicle_driver_entries": 309,
       "vehicle_passenger_entries": 21,
-      "vehicle_trip_straightline_m": 404352.5,
-      "vehicle_trips": 302,
+      "vehicle_trip_straightline_m": 408409.6,
+      "vehicle_trips": 304,
       "weapons": {
         "Blaze": 16,
-        "CR-527": 27,
+        "CR-527": 31,
         "CR-550 Savanna": 3,
         "Desert Tech SRS-A2": 3,
         "IJ-70": 6,
@@ -323,7 +323,7 @@
         "M70 Tundra": 30,
         "SG5-K": 1
       },
-      "weapon_master_kills": 30,
+      "weapon_master_kills": 31,
       "is_admin": false,
       "aris_score": 310,
       "aris_score_breakdown": {
@@ -407,22 +407,22 @@
       }
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 58,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
-      "favorite_weapon_kills": 45,
+      "favorite_weapon_kills": 47,
       "first_seen": "2026-11-03T23:29:53.579",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-10T05:51:01.896",
+      "last_seen": "2026-11-10T06:30:04.103",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 407638,
       "market_sales": 465,
       "name": "siedma",
       "vehicle_driver_entries": 97,
-      "vehicle_passenger_entries": 93,
+      "vehicle_passenger_entries": 95,
       "vehicle_trip_straightline_m": 166930.2,
       "vehicle_trips": 93,
       "weapons": {
@@ -430,11 +430,11 @@
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
-        "NEMO ARMS OMEN": 45,
+        "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
         "SG5-K": 1
       },
-      "weapon_master_kills": 45,
+      "weapon_master_kills": 47,
       "is_admin": false,
       "aris_score": 360,
       "aris_score_breakdown": {
@@ -2847,6 +2847,33 @@
     },
     {
       "ai_kills": 5,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-11-10T03:36:04.924",
+      "ids": [
+        "cbbFo5NVe-3nvjKiVWreWBfjwfUyxB84v1EwGuttC_k="
+      ],
+      "last_seen": "2026-11-10T06:19:13.863",
+      "longest_ai_kill_m": 159,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "monkey",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 5
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "Pioneer",
       "favorite_weapon_kills": 3,
@@ -3474,33 +3501,6 @@
     },
     {
       "ai_kills": 1,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-11-10T03:36:04.924",
-      "ids": [
-        "cbbFo5NVe-3nvjKiVWreWBfjwfUyxB84v1EwGuttC_k="
-      ],
-      "last_seen": "2026-11-10T03:41:59.428",
-      "longest_ai_kill_m": 34,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "monkey",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 1,
       "deaths": 3,
       "favorite_weapon": "Sawed-off BK-12",
       "favorite_weapon_kills": 1,
@@ -3556,27 +3556,27 @@
   ],
   "longest_shot": [
     {
-      "ai_kills": 88,
+      "ai_kills": 92,
       "deaths": 3,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 30,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 31,
       "first_seen": "2026-11-03T23:56:10.344",
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-10T06:00:15.044",
+      "last_seen": "2026-11-10T06:29:46.508",
       "longest_ai_kill_m": 814,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 306,
+      "vehicle_driver_entries": 309,
       "vehicle_passenger_entries": 21,
-      "vehicle_trip_straightline_m": 404352.5,
-      "vehicle_trips": 302,
+      "vehicle_trip_straightline_m": 408409.6,
+      "vehicle_trips": 304,
       "weapons": {
         "Blaze": 16,
-        "CR-527": 27,
+        "CR-527": 31,
         "CR-550 Savanna": 3,
         "Desert Tech SRS-A2": 3,
         "IJ-70": 6,
@@ -3584,7 +3584,7 @@
         "M70 Tundra": 30,
         "SG5-K": 1
       },
-      "weapon_master_kills": 30,
+      "weapon_master_kills": 31,
       "is_admin": false,
       "aris_score": 310,
       "aris_score_breakdown": {
@@ -3668,22 +3668,22 @@
       }
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 58,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
-      "favorite_weapon_kills": 45,
+      "favorite_weapon_kills": 47,
       "first_seen": "2026-11-03T23:29:53.579",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-10T05:51:01.896",
+      "last_seen": "2026-11-10T06:30:04.103",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 407638,
       "market_sales": 465,
       "name": "siedma",
       "vehicle_driver_entries": 97,
-      "vehicle_passenger_entries": 93,
+      "vehicle_passenger_entries": 95,
       "vehicle_trip_straightline_m": 166930.2,
       "vehicle_trips": 93,
       "weapons": {
@@ -3691,11 +3691,11 @@
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
-        "NEMO ARMS OMEN": 45,
+        "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
         "SG5-K": 1
       },
-      "weapon_master_kills": 45,
+      "weapon_master_kills": 47,
       "is_admin": false,
       "aris_score": 360,
       "aris_score_breakdown": {
@@ -4017,7 +4017,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 123,
+      "ai_kills": 127,
       "deaths": 14,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 58,
@@ -4025,7 +4025,7 @@
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-10T05:39:00.331",
+      "last_seen": "2026-11-10T06:30:45.535",
       "longest_ai_kill_m": 459,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 460061,
@@ -4038,7 +4038,7 @@
       "weapons": {
         "BK-133": 1,
         "BK-18": 6,
-        "Blaze": 42,
+        "Blaze": 46,
         "CR-527": 58,
         "Crossbow": 3,
         "Daniel Defense MK18 CQBR": 9,
@@ -5661,6 +5661,33 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 5,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-11-10T03:36:04.924",
+      "ids": [
+        "cbbFo5NVe-3nvjKiVWreWBfjwfUyxB84v1EwGuttC_k="
+      ],
+      "last_seen": "2026-11-10T06:19:13.863",
+      "longest_ai_kill_m": 159,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "monkey",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 5
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 16,
       "deaths": 4,
       "favorite_weapon": "BK-18",
@@ -6549,33 +6576,6 @@
         "Crossbow": 1
       },
       "weapon_master_kills": 3,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 1,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-11-10T03:36:04.924",
-      "ids": [
-        "cbbFo5NVe-3nvjKiVWreWBfjwfUyxB84v1EwGuttC_k="
-      ],
-      "last_seen": "2026-11-10T03:41:59.428",
-      "longest_ai_kill_m": 34,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "monkey",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 1
-      },
-      "weapon_master_kills": 1,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -6936,7 +6936,7 @@
   ],
   "most_deaths": [
     {
-      "ai_kills": 123,
+      "ai_kills": 127,
       "deaths": 14,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 58,
@@ -6944,7 +6944,7 @@
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-10T05:39:00.331",
+      "last_seen": "2026-11-10T06:30:45.535",
       "longest_ai_kill_m": 459,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 460061,
@@ -6957,7 +6957,7 @@
       "weapons": {
         "BK-133": 1,
         "BK-18": 6,
-        "Blaze": 42,
+        "Blaze": 46,
         "CR-527": 58,
         "Crossbow": 3,
         "Daniel Defense MK18 CQBR": 9,
@@ -7549,27 +7549,27 @@
       }
     },
     {
-      "ai_kills": 88,
+      "ai_kills": 92,
       "deaths": 3,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 30,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 31,
       "first_seen": "2026-11-03T23:56:10.344",
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-10T06:00:15.044",
+      "last_seen": "2026-11-10T06:29:46.508",
       "longest_ai_kill_m": 814,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 306,
+      "vehicle_driver_entries": 309,
       "vehicle_passenger_entries": 21,
-      "vehicle_trip_straightline_m": 404352.5,
-      "vehicle_trips": 302,
+      "vehicle_trip_straightline_m": 408409.6,
+      "vehicle_trips": 304,
       "weapons": {
         "Blaze": 16,
-        "CR-527": 27,
+        "CR-527": 31,
         "CR-550 Savanna": 3,
         "Desert Tech SRS-A2": 3,
         "IJ-70": 6,
@@ -7577,7 +7577,7 @@
         "M70 Tundra": 30,
         "SG5-K": 1
       },
-      "weapon_master_kills": 30,
+      "weapon_master_kills": 31,
       "is_admin": false,
       "aris_score": 310,
       "aris_score_breakdown": {
@@ -10499,7 +10499,7 @@
       }
     },
     {
-      "ai_kills": 123,
+      "ai_kills": 127,
       "deaths": 14,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 58,
@@ -10507,7 +10507,7 @@
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-10T05:39:00.331",
+      "last_seen": "2026-11-10T06:30:45.535",
       "longest_ai_kill_m": 459,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 460061,
@@ -10520,7 +10520,7 @@
       "weapons": {
         "BK-133": 1,
         "BK-18": 6,
-        "Blaze": 42,
+        "Blaze": 46,
         "CR-527": 58,
         "Crossbow": 3,
         "Daniel Defense MK18 CQBR": 9,
@@ -10618,22 +10618,22 @@
       }
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 58,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
-      "favorite_weapon_kills": 45,
+      "favorite_weapon_kills": 47,
       "first_seen": "2026-11-03T23:29:53.579",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-10T05:51:01.896",
+      "last_seen": "2026-11-10T06:30:04.103",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 407638,
       "market_sales": 465,
       "name": "siedma",
       "vehicle_driver_entries": 97,
-      "vehicle_passenger_entries": 93,
+      "vehicle_passenger_entries": 95,
       "vehicle_trip_straightline_m": 166930.2,
       "vehicle_trips": 93,
       "weapons": {
@@ -10641,11 +10641,11 @@
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
-        "NEMO ARMS OMEN": 45,
+        "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
         "SG5-K": 1
       },
-      "weapon_master_kills": 45,
+      "weapon_master_kills": 47,
       "is_admin": false,
       "aris_score": 360,
       "aris_score_breakdown": {
@@ -11930,27 +11930,27 @@
   ],
   "road_warrior": [
     {
-      "ai_kills": 88,
+      "ai_kills": 92,
       "deaths": 3,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 30,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 31,
       "first_seen": "2026-11-03T23:56:10.344",
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-10T06:00:15.044",
+      "last_seen": "2026-11-10T06:29:46.508",
       "longest_ai_kill_m": 814,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 306,
+      "vehicle_driver_entries": 309,
       "vehicle_passenger_entries": 21,
-      "vehicle_trip_straightline_m": 404352.5,
-      "vehicle_trips": 302,
+      "vehicle_trip_straightline_m": 408409.6,
+      "vehicle_trips": 304,
       "weapons": {
         "Blaze": 16,
-        "CR-527": 27,
+        "CR-527": 31,
         "CR-550 Savanna": 3,
         "Desert Tech SRS-A2": 3,
         "IJ-70": 6,
@@ -11958,7 +11958,7 @@
         "M70 Tundra": 30,
         "SG5-K": 1
       },
-      "weapon_master_kills": 30,
+      "weapon_master_kills": 31,
       "is_admin": false,
       "aris_score": 310,
       "aris_score_breakdown": {
@@ -12117,22 +12117,22 @@
       }
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 58,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
-      "favorite_weapon_kills": 45,
+      "favorite_weapon_kills": 47,
       "first_seen": "2026-11-03T23:29:53.579",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-10T05:51:01.896",
+      "last_seen": "2026-11-10T06:30:04.103",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 407638,
       "market_sales": 465,
       "name": "siedma",
       "vehicle_driver_entries": 97,
-      "vehicle_passenger_entries": 93,
+      "vehicle_passenger_entries": 95,
       "vehicle_trip_straightline_m": 166930.2,
       "vehicle_trips": 93,
       "weapons": {
@@ -12140,11 +12140,11 @@
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
-        "NEMO ARMS OMEN": 45,
+        "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
         "SG5-K": 1
       },
-      "weapon_master_kills": 45,
+      "weapon_master_kills": 47,
       "is_admin": false,
       "aris_score": 360,
       "aris_score_breakdown": {
@@ -12517,7 +12517,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 123,
+      "ai_kills": 127,
       "deaths": 14,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 58,
@@ -12525,7 +12525,7 @@
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-10T05:39:00.331",
+      "last_seen": "2026-11-10T06:30:45.535",
       "longest_ai_kill_m": 459,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 460061,
@@ -12538,7 +12538,7 @@
       "weapons": {
         "BK-133": 1,
         "BK-18": 6,
-        "Blaze": 42,
+        "Blaze": 46,
         "CR-527": 58,
         "Crossbow": 3,
         "Daniel Defense MK18 CQBR": 9,
@@ -13181,7 +13181,7 @@
       }
     },
     {
-      "ai_kills": 123,
+      "ai_kills": 127,
       "deaths": 14,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 58,
@@ -13189,7 +13189,7 @@
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-10T05:39:00.331",
+      "last_seen": "2026-11-10T06:30:45.535",
       "longest_ai_kill_m": 459,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 460061,
@@ -13202,7 +13202,7 @@
       "weapons": {
         "BK-133": 1,
         "BK-18": 6,
-        "Blaze": 42,
+        "Blaze": 46,
         "CR-527": 58,
         "Crossbow": 3,
         "Daniel Defense MK18 CQBR": 9,
@@ -13300,22 +13300,22 @@
       }
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 58,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
-      "favorite_weapon_kills": 45,
+      "favorite_weapon_kills": 47,
       "first_seen": "2026-11-03T23:29:53.579",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-10T05:51:01.896",
+      "last_seen": "2026-11-10T06:30:04.103",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 407638,
       "market_sales": 465,
       "name": "siedma",
       "vehicle_driver_entries": 97,
-      "vehicle_passenger_entries": 93,
+      "vehicle_passenger_entries": 95,
       "vehicle_trip_straightline_m": 166930.2,
       "vehicle_trips": 93,
       "weapons": {
@@ -13323,11 +13323,11 @@
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
-        "NEMO ARMS OMEN": 45,
+        "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
         "SG5-K": 1
       },
-      "weapon_master_kills": 45,
+      "weapon_master_kills": 47,
       "is_admin": false,
       "aris_score": 360,
       "aris_score_breakdown": {
@@ -13373,27 +13373,27 @@
       }
     },
     {
-      "ai_kills": 88,
+      "ai_kills": 92,
       "deaths": 3,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 30,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 31,
       "first_seen": "2026-11-03T23:56:10.344",
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-10T06:00:15.044",
+      "last_seen": "2026-11-10T06:29:46.508",
       "longest_ai_kill_m": 814,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 306,
+      "vehicle_driver_entries": 309,
       "vehicle_passenger_entries": 21,
-      "vehicle_trip_straightline_m": 404352.5,
-      "vehicle_trips": 302,
+      "vehicle_trip_straightline_m": 408409.6,
+      "vehicle_trips": 304,
       "weapons": {
         "Blaze": 16,
-        "CR-527": 27,
+        "CR-527": 31,
         "CR-550 Savanna": 3,
         "Desert Tech SRS-A2": 3,
         "IJ-70": 6,
@@ -13401,7 +13401,7 @@
         "M70 Tundra": 30,
         "SG5-K": 1
       },
-      "weapon_master_kills": 30,
+      "weapon_master_kills": 31,
       "is_admin": false,
       "aris_score": 310,
       "aris_score_breakdown": {
@@ -15546,6 +15546,33 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 5,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-11-10T03:36:04.924",
+      "ids": [
+        "cbbFo5NVe-3nvjKiVWreWBfjwfUyxB84v1EwGuttC_k="
+      ],
+      "last_seen": "2026-11-10T06:19:13.863",
+      "longest_ai_kill_m": 159,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "monkey",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 5
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 15,
       "deaths": 2,
       "favorite_weapon": "BK-18",
@@ -16412,33 +16439,6 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 1,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-11-10T03:36:04.924",
-      "ids": [
-        "cbbFo5NVe-3nvjKiVWreWBfjwfUyxB84v1EwGuttC_k="
-      ],
-      "last_seen": "2026-11-10T03:41:59.428",
-      "longest_ai_kill_m": 34,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "monkey",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
       "ai_kills": 2,
       "deaths": 3,
       "favorite_weapon": "Blaze",
@@ -16603,22 +16603,22 @@
       }
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 58,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
-      "favorite_weapon_kills": 45,
+      "favorite_weapon_kills": 47,
       "first_seen": "2026-11-03T23:29:53.579",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-10T05:51:01.896",
+      "last_seen": "2026-11-10T06:30:04.103",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 407638,
       "market_sales": 465,
       "name": "siedma",
       "vehicle_driver_entries": 97,
-      "vehicle_passenger_entries": 93,
+      "vehicle_passenger_entries": 95,
       "vehicle_trip_straightline_m": 166930.2,
       "vehicle_trips": 93,
       "weapons": {
@@ -16626,11 +16626,11 @@
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
-        "NEMO ARMS OMEN": 45,
+        "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
         "SG5-K": 1
       },
-      "weapon_master_kills": 45,
+      "weapon_master_kills": 47,
       "is_admin": false,
       "aris_score": 360,
       "aris_score_breakdown": {
@@ -16643,7 +16643,7 @@
       }
     },
     {
-      "ai_kills": 123,
+      "ai_kills": 127,
       "deaths": 14,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 58,
@@ -16651,7 +16651,7 @@
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-10T05:39:00.331",
+      "last_seen": "2026-11-10T06:30:45.535",
       "longest_ai_kill_m": 459,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 460061,
@@ -16664,7 +16664,7 @@
       "weapons": {
         "BK-133": 1,
         "BK-18": 6,
-        "Blaze": 42,
+        "Blaze": 46,
         "CR-527": 58,
         "Crossbow": 3,
         "Daniel Defense MK18 CQBR": 9,
@@ -18071,22 +18071,22 @@
       }
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 58,
       "deaths": 0,
       "favorite_weapon": "NEMO ARMS OMEN",
-      "favorite_weapon_kills": 45,
+      "favorite_weapon_kills": 47,
       "first_seen": "2026-11-03T23:29:53.579",
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-10T05:51:01.896",
+      "last_seen": "2026-11-10T06:30:04.103",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 407638,
       "market_sales": 465,
       "name": "siedma",
       "vehicle_driver_entries": 97,
-      "vehicle_passenger_entries": 93,
+      "vehicle_passenger_entries": 95,
       "vehicle_trip_straightline_m": 166930.2,
       "vehicle_trips": 93,
       "weapons": {
@@ -18094,11 +18094,11 @@
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
-        "NEMO ARMS OMEN": 45,
+        "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
         "SG5-K": 1
       },
-      "weapon_master_kills": 45,
+      "weapon_master_kills": 47,
       "is_admin": false,
       "aris_score": 360,
       "aris_score_breakdown": {
@@ -18111,7 +18111,7 @@
       }
     },
     {
-      "ai_kills": 123,
+      "ai_kills": 127,
       "deaths": 14,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 58,
@@ -18119,7 +18119,7 @@
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-10T05:39:00.331",
+      "last_seen": "2026-11-10T06:30:45.535",
       "longest_ai_kill_m": 459,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 460061,
@@ -18132,7 +18132,7 @@
       "weapons": {
         "BK-133": 1,
         "BK-18": 6,
-        "Blaze": 42,
+        "Blaze": 46,
         "CR-527": 58,
         "Crossbow": 3,
         "Daniel Defense MK18 CQBR": 9,
@@ -18150,27 +18150,27 @@
       }
     },
     {
-      "ai_kills": 88,
+      "ai_kills": 92,
       "deaths": 3,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 30,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 31,
       "first_seen": "2026-11-03T23:56:10.344",
       "ids": [
         "v7AbqzjY8ZKWu2D778qPcCDyiy3qaVM3sIrwhIP5R1o="
       ],
-      "last_seen": "2026-11-10T06:00:15.044",
+      "last_seen": "2026-11-10T06:29:46.508",
       "longest_ai_kill_m": 814,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 0,
       "market_sales": 0,
       "name": "CertainlyREALGhost",
-      "vehicle_driver_entries": 306,
+      "vehicle_driver_entries": 309,
       "vehicle_passenger_entries": 21,
-      "vehicle_trip_straightline_m": 404352.5,
-      "vehicle_trips": 302,
+      "vehicle_trip_straightline_m": 408409.6,
+      "vehicle_trips": 304,
       "weapons": {
         "Blaze": 16,
-        "CR-527": 27,
+        "CR-527": 31,
         "CR-550 Savanna": 3,
         "Desert Tech SRS-A2": 3,
         "IJ-70": 6,
@@ -18178,7 +18178,7 @@
         "M70 Tundra": 30,
         "SG5-K": 1
       },
-      "weapon_master_kills": 30,
+      "weapon_master_kills": 31,
       "is_admin": false,
       "aris_score": 310,
       "aris_score_breakdown": {
