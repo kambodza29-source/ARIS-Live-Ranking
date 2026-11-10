@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 185,
   "staff_count": 6,
-  "updated_at_local": "10.11.2026 20:31",
+  "updated_at_local": "10.11.2026 20:34",
   "staff": [
     {
       "ai_kills": 0,
@@ -430,13 +430,13 @@
       "vehicle_trips": 97,
       "weapons": {
         "CR-527": 1,
+        "Cobalt Kinetics 27 Expert": 1,
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
-        "SG5-K": 1,
-        "Cobalt Kinetics 27 Expert": 1
+        "SG5-K": 1
       },
       "weapon_master_kills": 47,
       "is_admin": false,
@@ -474,10 +474,10 @@
         "Blaze": 27,
         "CR-527": 19,
         "KAS-74U": 1,
+        "LE-MAS": 2,
         "Lee Enfield": 3,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "LE-MAS": 2
+        "SK 59/66": 2
       },
       "weapon_master_kills": 27,
       "is_admin": false,
@@ -697,9 +697,9 @@
         "KA-74": 4,
         "L15 Defense TAN": 15,
         "Mosin 91/30": 7,
+        "R12": 1,
         "SG5-K": 3,
-        "VS-89": 2,
-        "R12": 1
+        "VS-89": 2
       },
       "weapon_master_kills": 15,
       "is_admin": false,
@@ -729,11 +729,11 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-43": 3,
+        "Blaze": 2,
         "CR-527": 20,
         "M16-A2": 1,
         "M70 Tundra": 14,
-        "Sawed-off BK-43": 1,
-        "Blaze": 2
+        "Sawed-off BK-43": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -749,11 +749,11 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-10T19:36:57.096",
+      "last_seen": "2026-11-10T20:34:22.547",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 18164,
+      "market_sales": 16,
       "name": "Bravo_CheekiBreeki",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -902,8 +902,8 @@
         "Repeater Carbine": 4,
         "Revolver": 1,
         "SG5-K": 2,
-        "USG-45": 1,
-        "SK 59/66": 1
+        "SK 59/66": 1,
+        "USG-45": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -1097,9 +1097,9 @@
       "weapons": {
         "Blaze": 14,
         "CR-527": 7,
+        "Mosin 91/30": 3,
         "Pioneer": 3,
-        "SG5-K": 4,
-        "Mosin 91/30": 3
+        "SG5-K": 4
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -1237,6 +1237,38 @@
     },
     {
       "ai_kills": 26,
+      "deaths": 2,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-03T17:57:20.125",
+      "ids": [
+        "mTkSXEdPsgHtDcvmcWec0q85tnXOyW_fMXaPPrcC2lk="
+      ],
+      "last_seen": "2026-11-10T20:32:11.711",
+      "longest_ai_kill_m": 381,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Cipisek",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 1,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 16,
+        "CR-61 Skorpion": 1,
+        "SG5-K": 2,
+        "Sawed-off BK-43": 1,
+        "Sporter 22": 2,
+        "VS-89": 4
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 26,
       "deaths": 0,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 15,
@@ -1260,38 +1292,6 @@
         "M70 Tundra": 15
       },
       "weapon_master_kills": 15,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 25,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 16,
-      "first_seen": "2026-11-03T17:57:20.125",
-      "ids": [
-        "mTkSXEdPsgHtDcvmcWec0q85tnXOyW_fMXaPPrcC2lk="
-      ],
-      "last_seen": "2026-11-10T20:30:40.616",
-      "longest_ai_kill_m": 381,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Cipisek",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 16,
-        "CR-61 Skorpion": 1,
-        "SG5-K": 2,
-        "Sawed-off BK-43": 1,
-        "Sporter 22": 2,
-        "VS-89": 3
-      },
-      "weapon_master_kills": 16,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -3741,9 +3741,9 @@
         "KA-74": 4,
         "L15 Defense TAN": 15,
         "Mosin 91/30": 7,
+        "R12": 1,
         "SG5-K": 3,
-        "VS-89": 2,
-        "R12": 1
+        "VS-89": 2
       },
       "weapon_master_kills": 15,
       "is_admin": false,
@@ -3773,13 +3773,13 @@
       "vehicle_trips": 97,
       "weapons": {
         "CR-527": 1,
+        "Cobalt Kinetics 27 Expert": 1,
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
-        "SG5-K": 1,
-        "Cobalt Kinetics 27 Expert": 1
+        "SG5-K": 1
       },
       "weapon_master_kills": 47,
       "is_admin": false,
@@ -3987,11 +3987,11 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-10T19:36:57.096",
+      "last_seen": "2026-11-10T20:34:22.547",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 18164,
+      "market_sales": 16,
       "name": "Bravo_CheekiBreeki",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -4172,11 +4172,11 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-43": 3,
+        "Blaze": 2,
         "CR-527": 20,
         "M16-A2": 1,
         "M70 Tundra": 14,
-        "Sawed-off BK-43": 1,
-        "Blaze": 2
+        "Sawed-off BK-43": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -4494,8 +4494,8 @@
         "Repeater Carbine": 4,
         "Revolver": 1,
         "SG5-K": 2,
-        "USG-45": 1,
-        "SK 59/66": 1
+        "SK 59/66": 1,
+        "USG-45": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -4633,7 +4633,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 25,
+      "ai_kills": 26,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
@@ -4641,7 +4641,7 @@
       "ids": [
         "mTkSXEdPsgHtDcvmcWec0q85tnXOyW_fMXaPPrcC2lk="
       ],
-      "last_seen": "2026-11-10T20:30:40.616",
+      "last_seen": "2026-11-10T20:32:11.711",
       "longest_ai_kill_m": 381,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -4657,7 +4657,7 @@
         "SG5-K": 2,
         "Sawed-off BK-43": 1,
         "Sporter 22": 2,
-        "VS-89": 3
+        "VS-89": 4
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -4872,10 +4872,10 @@
         "Blaze": 27,
         "CR-527": 19,
         "KAS-74U": 1,
+        "LE-MAS": 2,
         "Lee Enfield": 3,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "LE-MAS": 2
+        "SK 59/66": 2
       },
       "weapon_master_kills": 27,
       "is_admin": false,
@@ -5036,9 +5036,9 @@
       "weapons": {
         "Blaze": 14,
         "CR-527": 7,
+        "Mosin 91/30": 3,
         "Pioneer": 3,
-        "SG5-K": 4,
-        "Mosin 91/30": 3
+        "SG5-K": 4
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -7358,10 +7358,10 @@
         "Blaze": 27,
         "CR-527": 19,
         "KAS-74U": 1,
+        "LE-MAS": 2,
         "Lee Enfield": 3,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "LE-MAS": 2
+        "SK 59/66": 2
       },
       "weapon_master_kills": 27,
       "is_admin": false,
@@ -7767,9 +7767,9 @@
       "weapons": {
         "Blaze": 14,
         "CR-527": 7,
+        "Mosin 91/30": 3,
         "Pioneer": 3,
-        "SG5-K": 4,
-        "Mosin 91/30": 3
+        "SG5-K": 4
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -8299,7 +8299,7 @@
       }
     },
     {
-      "ai_kills": 25,
+      "ai_kills": 26,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
@@ -8307,7 +8307,7 @@
       "ids": [
         "mTkSXEdPsgHtDcvmcWec0q85tnXOyW_fMXaPPrcC2lk="
       ],
-      "last_seen": "2026-11-10T20:30:40.616",
+      "last_seen": "2026-11-10T20:32:11.711",
       "longest_ai_kill_m": 381,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -8323,7 +8323,7 @@
         "SG5-K": 2,
         "Sawed-off BK-43": 1,
         "Sporter 22": 2,
-        "VS-89": 3
+        "VS-89": 4
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -8489,11 +8489,11 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-43": 3,
+        "Blaze": 2,
         "CR-527": 20,
         "M16-A2": 1,
         "M70 Tundra": 14,
-        "Sawed-off BK-43": 1,
-        "Blaze": 2
+        "Sawed-off BK-43": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -10300,13 +10300,13 @@
       "vehicle_trips": 97,
       "weapons": {
         "CR-527": 1,
+        "Cobalt Kinetics 27 Expert": 1,
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
-        "SG5-K": 1,
-        "Cobalt Kinetics 27 Expert": 1
+        "SG5-K": 1
       },
       "weapon_master_kills": 47,
       "is_admin": false,
@@ -10944,13 +10944,13 @@
       "vehicle_trips": 97,
       "weapons": {
         "CR-527": 1,
+        "Cobalt Kinetics 27 Expert": 1,
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
-        "SG5-K": 1,
-        "Cobalt Kinetics 27 Expert": 1
+        "SG5-K": 1
       },
       "weapon_master_kills": 47,
       "is_admin": false,
@@ -11270,9 +11270,9 @@
       "weapons": {
         "Blaze": 14,
         "CR-527": 7,
+        "Mosin 91/30": 3,
         "Pioneer": 3,
-        "SG5-K": 4,
-        "Mosin 91/30": 3
+        "SG5-K": 4
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -11839,6 +11839,42 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 39,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-04T19:31:07.704",
+      "ids": [
+        "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
+      ],
+      "last_seen": "2026-11-10T20:34:22.547",
+      "longest_ai_kill_m": 523,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 18164,
+      "market_sales": 16,
+      "name": "Bravo_CheekiBreeki",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 1,
+        "Blaze": 8,
+        "CR-527": 16,
+        "Crossbow": 2,
+        "M70 Tundra": 8,
+        "Mosin 91/30": 2,
+        "SG5-K": 1,
+        "Sig Sauer P229": 1
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 10,
+      "aris_score_breakdown": {
+        "longest_shot": 10
+      }
+    },
+    {
       "ai_kills": 24,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -12320,10 +12356,10 @@
         "Blaze": 27,
         "CR-527": 19,
         "KAS-74U": 1,
+        "LE-MAS": 2,
         "Lee Enfield": 3,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "LE-MAS": 2
+        "SK 59/66": 2
       },
       "weapon_master_kills": 27,
       "is_admin": false,
@@ -12679,13 +12715,13 @@
       "vehicle_trips": 97,
       "weapons": {
         "CR-527": 1,
+        "Cobalt Kinetics 27 Expert": 1,
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
-        "SG5-K": 1,
-        "Cobalt Kinetics 27 Expert": 1
+        "SG5-K": 1
       },
       "weapon_master_kills": 47,
       "is_admin": false,
@@ -12866,9 +12902,9 @@
       "weapons": {
         "Blaze": 14,
         "CR-527": 7,
+        "Mosin 91/30": 3,
         "Pioneer": 3,
-        "SG5-K": 4,
-        "Mosin 91/30": 3
+        "SG5-K": 4
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -13059,9 +13095,9 @@
         "KA-74": 4,
         "L15 Defense TAN": 15,
         "Mosin 91/30": 7,
+        "R12": 1,
         "SG5-K": 3,
-        "VS-89": 2,
-        "R12": 1
+        "VS-89": 2
       },
       "weapon_master_kills": 15,
       "is_admin": false,
@@ -13261,10 +13297,10 @@
         "Blaze": 27,
         "CR-527": 19,
         "KAS-74U": 1,
+        "LE-MAS": 2,
         "Lee Enfield": 3,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "LE-MAS": 2
+        "SK 59/66": 2
       },
       "weapon_master_kills": 27,
       "is_admin": false,
@@ -13909,13 +13945,13 @@
       "vehicle_trips": 97,
       "weapons": {
         "CR-527": 1,
+        "Cobalt Kinetics 27 Expert": 1,
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
-        "SG5-K": 1,
-        "Cobalt Kinetics 27 Expert": 1
+        "SG5-K": 1
       },
       "weapon_master_kills": 47,
       "is_admin": false,
@@ -14101,10 +14137,10 @@
         "Blaze": 27,
         "CR-527": 19,
         "KAS-74U": 1,
+        "LE-MAS": 2,
         "Lee Enfield": 3,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "LE-MAS": 2
+        "SK 59/66": 2
       },
       "weapon_master_kills": 27,
       "is_admin": false,
@@ -14293,11 +14329,11 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-43": 3,
+        "Blaze": 2,
         "CR-527": 20,
         "M16-A2": 1,
         "M70 Tundra": 14,
-        "Sawed-off BK-43": 1,
-        "Blaze": 2
+        "Sawed-off BK-43": 1
       },
       "weapon_master_kills": 20,
       "is_admin": false,
@@ -14504,11 +14540,11 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-10T19:36:57.096",
+      "last_seen": "2026-11-10T20:34:22.547",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 18164,
+      "market_sales": 16,
       "name": "Bravo_CheekiBreeki",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -14532,7 +14568,7 @@
       }
     },
     {
-      "ai_kills": 25,
+      "ai_kills": 26,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
@@ -14540,7 +14576,7 @@
       "ids": [
         "mTkSXEdPsgHtDcvmcWec0q85tnXOyW_fMXaPPrcC2lk="
       ],
-      "last_seen": "2026-11-10T20:30:40.616",
+      "last_seen": "2026-11-10T20:32:11.711",
       "longest_ai_kill_m": 381,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -14556,7 +14592,7 @@
         "SG5-K": 2,
         "Sawed-off BK-43": 1,
         "Sporter 22": 2,
-        "VS-89": 3
+        "VS-89": 4
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -14832,9 +14868,9 @@
         "KA-74": 4,
         "L15 Defense TAN": 15,
         "Mosin 91/30": 7,
+        "R12": 1,
         "SG5-K": 3,
-        "VS-89": 2,
-        "R12": 1
+        "VS-89": 2
       },
       "weapon_master_kills": 15,
       "is_admin": false,
@@ -14898,9 +14934,9 @@
       "weapons": {
         "Blaze": 14,
         "CR-527": 7,
+        "Mosin 91/30": 3,
         "Pioneer": 3,
-        "SG5-K": 4,
-        "Mosin 91/30": 3
+        "SG5-K": 4
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -14934,8 +14970,8 @@
         "Repeater Carbine": 4,
         "Revolver": 1,
         "SG5-K": 2,
-        "USG-45": 1,
-        "SK 59/66": 1
+        "SK 59/66": 1,
+        "USG-45": 1
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -17251,13 +17287,13 @@
       "vehicle_trips": 97,
       "weapons": {
         "CR-527": 1,
+        "Cobalt Kinetics 27 Expert": 1,
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
-        "SG5-K": 1,
-        "Cobalt Kinetics 27 Expert": 1
+        "SG5-K": 1
       },
       "weapon_master_kills": 47,
       "is_admin": false,
@@ -17658,9 +17694,9 @@
       "weapons": {
         "Blaze": 14,
         "CR-527": 7,
+        "Mosin 91/30": 3,
         "Pioneer": 3,
-        "SG5-K": 4,
-        "Mosin 91/30": 3
+        "SG5-K": 4
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -18069,10 +18105,10 @@
         "Blaze": 27,
         "CR-527": 19,
         "KAS-74U": 1,
+        "LE-MAS": 2,
         "Lee Enfield": 3,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "LE-MAS": 2
+        "SK 59/66": 2
       },
       "weapon_master_kills": 27,
       "is_admin": false,
@@ -18259,6 +18295,42 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 39,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-04T19:31:07.704",
+      "ids": [
+        "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
+      ],
+      "last_seen": "2026-11-10T20:34:22.547",
+      "longest_ai_kill_m": 523,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 18164,
+      "market_sales": 16,
+      "name": "Bravo_CheekiBreeki",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 1,
+        "Blaze": 8,
+        "CR-527": 16,
+        "Crossbow": 2,
+        "M70 Tundra": 8,
+        "Mosin 91/30": 2,
+        "SG5-K": 1,
+        "Sig Sauer P229": 1
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 10,
+      "aris_score_breakdown": {
+        "longest_shot": 10
+      }
     },
     {
       "ai_kills": 17,
@@ -18984,13 +19056,13 @@
       "vehicle_trips": 97,
       "weapons": {
         "CR-527": 1,
+        "Cobalt Kinetics 27 Expert": 1,
         "HK433": 1,
         "Kimber 8400 Advanced Tactical SOC II": 5,
         "M70 Tundra": 2,
         "NEMO ARMS OMEN": 47,
         "SCR 16": 1,
-        "SG5-K": 1,
-        "Cobalt Kinetics 27 Expert": 1
+        "SG5-K": 1
       },
       "weapon_master_kills": 47,
       "is_admin": false,
@@ -19259,9 +19331,9 @@
         "KA-74": 4,
         "L15 Defense TAN": 15,
         "Mosin 91/30": 7,
+        "R12": 1,
         "SG5-K": 3,
-        "VS-89": 2,
-        "R12": 1
+        "VS-89": 2
       },
       "weapon_master_kills": 15,
       "is_admin": false,
@@ -19457,10 +19529,10 @@
         "Blaze": 27,
         "CR-527": 19,
         "KAS-74U": 1,
+        "LE-MAS": 2,
         "Lee Enfield": 3,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "LE-MAS": 2
+        "SK 59/66": 2
       },
       "weapon_master_kills": 27,
       "is_admin": false,
@@ -19670,9 +19742,9 @@
       "weapons": {
         "Blaze": 14,
         "CR-527": 7,
+        "Mosin 91/30": 3,
         "Pioneer": 3,
-        "SG5-K": 4,
-        "Mosin 91/30": 3
+        "SG5-K": 4
       },
       "weapon_master_kills": 14,
       "is_admin": false,
@@ -19690,11 +19762,11 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-10T19:36:57.096",
+      "last_seen": "2026-11-10T20:34:22.547",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 18164,
+      "market_sales": 16,
       "name": "Bravo_CheekiBreeki",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
