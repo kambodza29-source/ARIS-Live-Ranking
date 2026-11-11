@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 186,
   "staff_count": 6,
-  "updated_at_local": "11.11.2026 07:31",
+  "updated_at_local": "11.11.2026 08:01",
   "staff": [
     {
       "ai_kills": 0,
@@ -493,6 +493,45 @@
       }
     },
     {
+      "ai_kills": 58,
+      "deaths": 1,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 24,
+      "first_seen": "2026-11-04T08:29:18.851",
+      "ids": [
+        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
+      ],
+      "last_seen": "2026-11-11T07:59:56.835",
+      "longest_ai_kill_m": 415,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 92085,
+      "market_sales": 129,
+      "name": "Sisicek",
+      "vehicle_driver_entries": 91,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 113463.0,
+      "vehicle_trips": 72,
+      "weapons": {
+        "B&T APC223 PRO": 1,
+        "CR-527": 22,
+        "FX-45": 1,
+        "KAS-74U": 1,
+        "LE-MAS": 1,
+        "M70 Tundra": 24,
+        "Mlock-91": 1,
+        "SG5-K": 3,
+        "SK 59/66": 4
+      },
+      "weapon_master_kills": 24,
+      "is_admin": false,
+      "aris_score": 50,
+      "aris_score_breakdown": {
+        "ai_hunter": 20,
+        "road_warrior": 20,
+        "salesman": 10
+      }
+    },
+    {
       "ai_kills": 55,
       "deaths": 6,
       "favorite_weapon": "Barrett Model 98B",
@@ -529,48 +568,9 @@
       },
       "weapon_master_kills": 19,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "ai_hunter": 20
-      }
-    },
-    {
-      "ai_kills": 54,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
-      "first_seen": "2026-11-04T08:29:18.851",
-      "ids": [
-        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
-      ],
-      "last_seen": "2026-11-11T06:07:52.702",
-      "longest_ai_kill_m": 415,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 92085,
-      "market_sales": 129,
-      "name": "Sisicek",
-      "vehicle_driver_entries": 91,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 113463.0,
-      "vehicle_trips": 72,
-      "weapons": {
-        "B&T APC223 PRO": 1,
-        "CR-527": 22,
-        "FX-45": 1,
-        "KAS-74U": 1,
-        "LE-MAS": 1,
-        "M70 Tundra": 20,
-        "Mlock-91": 1,
-        "SG5-K": 3,
-        "SK 59/66": 4
-      },
-      "weapon_master_kills": 22,
-      "is_admin": false,
-      "aris_score": 40,
-      "aris_score_breakdown": {
-        "ai_hunter": 10,
-        "road_warrior": 20,
-        "salesman": 10
+        "ai_hunter": 10
       }
     },
     {
@@ -2020,6 +2020,37 @@
     },
     {
       "ai_kills": 18,
+      "deaths": 2,
+      "favorite_weapon": "Lee Enfield",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-06T21:39:15.848",
+      "ids": [
+        "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
+      ],
+      "last_seen": "2026-11-11T07:34:28.847",
+      "longest_ai_kill_m": 100,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "JackieMustangCZ",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 5,
+        "Crossbow": 2,
+        "Lee Enfield": 9,
+        "Revolver": 1,
+        "SK 59/66": 1
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 18,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 10,
@@ -2099,37 +2130,6 @@
         "VSD": 17
       },
       "weapon_master_kills": 17,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 17,
-      "deaths": 2,
-      "favorite_weapon": "Lee Enfield",
-      "favorite_weapon_kills": 9,
-      "first_seen": "2026-11-06T21:39:15.848",
-      "ids": [
-        "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
-      ],
-      "last_seen": "2026-11-11T07:29:55.170",
-      "longest_ai_kill_m": 78,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "JackieMustangCZ",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 4,
-        "Crossbow": 2,
-        "Lee Enfield": 9,
-        "Revolver": 1,
-        "SK 59/66": 1
-      },
-      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -3682,6 +3682,33 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 1,
+      "deaths": 1,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-11-06T17:51:26.726",
+      "ids": [
+        "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
+      ],
+      "last_seen": "2026-11-11T07:59:47.420",
+      "longest_ai_kill_m": 85,
+      "longest_ai_kill_weapon": "IJ-70",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "WoCasCZ",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "IJ-70": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
     }
   ],
   "longest_shot": [
@@ -4168,9 +4195,9 @@
       },
       "weapon_master_kills": 19,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "ai_hunter": 20
+        "ai_hunter": 10
       }
     },
     {
@@ -4524,15 +4551,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 54,
+      "ai_kills": 58,
       "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 24,
       "first_seen": "2026-11-04T08:29:18.851",
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-11T06:07:52.702",
+      "last_seen": "2026-11-11T07:59:56.835",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 92085,
@@ -4548,16 +4575,16 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "LE-MAS": 1,
-        "M70 Tundra": 20,
+        "M70 Tundra": 24,
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 4
       },
-      "weapon_master_kills": 22,
+      "weapon_master_kills": 24,
       "is_admin": false,
-      "aris_score": 40,
+      "aris_score": 50,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
+        "ai_hunter": 20,
         "road_warrior": 20,
         "salesman": 10
       }
@@ -6244,6 +6271,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 18,
+      "deaths": 2,
+      "favorite_weapon": "Lee Enfield",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-06T21:39:15.848",
+      "ids": [
+        "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
+      ],
+      "last_seen": "2026-11-11T07:34:28.847",
+      "longest_ai_kill_m": 100,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "JackieMustangCZ",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 5,
+        "Crossbow": 2,
+        "Lee Enfield": 9,
+        "Revolver": 1,
+        "SK 59/66": 1
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 3,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -6326,6 +6384,33 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 1,
+      "deaths": 1,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-11-06T17:51:26.726",
+      "ids": [
+        "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
+      ],
+      "last_seen": "2026-11-11T07:59:47.420",
+      "longest_ai_kill_m": 85,
+      "longest_ai_kill_weapon": "IJ-70",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "WoCasCZ",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "IJ-70": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 3,
       "deaths": 1,
       "favorite_weapon": "Mlock-91",
@@ -6382,37 +6467,6 @@
         "SK 59/66": 6
       },
       "weapon_master_kills": 6,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 17,
-      "deaths": 2,
-      "favorite_weapon": "Lee Enfield",
-      "favorite_weapon_kills": 9,
-      "first_seen": "2026-11-06T21:39:15.848",
-      "ids": [
-        "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
-      ],
-      "last_seen": "2026-11-11T07:29:55.170",
-      "longest_ai_kill_m": 78,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "JackieMustangCZ",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 4,
-        "Crossbow": 2,
-        "Lee Enfield": 9,
-        "Revolver": 1,
-        "SK 59/66": 1
-      },
-      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -7363,9 +7417,9 @@
       },
       "weapon_master_kills": 19,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "ai_hunter": 20
+        "ai_hunter": 10
       }
     },
     {
@@ -8638,7 +8692,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 17,
+      "ai_kills": 18,
       "deaths": 2,
       "favorite_weapon": "Lee Enfield",
       "favorite_weapon_kills": 9,
@@ -8646,8 +8700,8 @@
       "ids": [
         "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
       ],
-      "last_seen": "2026-11-11T07:29:55.170",
-      "longest_ai_kill_m": 78,
+      "last_seen": "2026-11-11T07:34:28.847",
+      "longest_ai_kill_m": 100,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
       "market_sales": 0,
@@ -8657,7 +8711,7 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "CR-527": 4,
+        "CR-527": 5,
         "Crossbow": 2,
         "Lee Enfield": 9,
         "Revolver": 1,
@@ -10482,15 +10536,15 @@
       }
     },
     {
-      "ai_kills": 54,
+      "ai_kills": 58,
       "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 24,
       "first_seen": "2026-11-04T08:29:18.851",
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-11T06:07:52.702",
+      "last_seen": "2026-11-11T07:59:56.835",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 92085,
@@ -10506,16 +10560,16 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "LE-MAS": 1,
-        "M70 Tundra": 20,
+        "M70 Tundra": 24,
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 4
       },
-      "weapon_master_kills": 22,
+      "weapon_master_kills": 24,
       "is_admin": false,
-      "aris_score": 40,
+      "aris_score": 50,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
+        "ai_hunter": 20,
         "road_warrior": 20,
         "salesman": 10
       }
@@ -10848,17 +10902,17 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 0,
+      "ai_kills": 1,
       "deaths": 1,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 1,
       "first_seen": "2026-11-06T17:51:26.726",
       "ids": [
         "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
       ],
-      "last_seen": "2026-11-06T17:51:38.711",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
+      "last_seen": "2026-11-11T07:59:47.420",
+      "longest_ai_kill_m": 85,
+      "longest_ai_kill_weapon": "IJ-70",
       "market_income": 0,
       "market_sales": 0,
       "name": "WoCasCZ",
@@ -10866,8 +10920,10 @@
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
+      "weapons": {
+        "IJ-70": 1
+      },
+      "weapon_master_kills": 1,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -11467,15 +11523,15 @@
       }
     },
     {
-      "ai_kills": 54,
+      "ai_kills": 58,
       "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 24,
       "first_seen": "2026-11-04T08:29:18.851",
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-11T06:07:52.702",
+      "last_seen": "2026-11-11T07:59:56.835",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 92085,
@@ -11491,16 +11547,16 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "LE-MAS": 1,
-        "M70 Tundra": 20,
+        "M70 Tundra": 24,
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 4
       },
-      "weapon_master_kills": 22,
+      "weapon_master_kills": 24,
       "is_admin": false,
-      "aris_score": 40,
+      "aris_score": 50,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
+        "ai_hunter": 20,
         "road_warrior": 20,
         "salesman": 10
       }
@@ -11703,9 +11759,9 @@
       },
       "weapon_master_kills": 19,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "ai_hunter": 20
+        "ai_hunter": 10
       }
     },
     {
@@ -13046,15 +13102,15 @@
       }
     },
     {
-      "ai_kills": 54,
+      "ai_kills": 58,
       "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 24,
       "first_seen": "2026-11-04T08:29:18.851",
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-11T06:07:52.702",
+      "last_seen": "2026-11-11T07:59:56.835",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 92085,
@@ -13070,16 +13126,16 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "LE-MAS": 1,
-        "M70 Tundra": 20,
+        "M70 Tundra": 24,
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 4
       },
-      "weapon_master_kills": 22,
+      "weapon_master_kills": 24,
       "is_admin": false,
-      "aris_score": 40,
+      "aris_score": 50,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
+        "ai_hunter": 20,
         "road_warrior": 20,
         "salesman": 10
       }
@@ -14481,6 +14537,45 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 58,
+      "deaths": 1,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 24,
+      "first_seen": "2026-11-04T08:29:18.851",
+      "ids": [
+        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
+      ],
+      "last_seen": "2026-11-11T07:59:56.835",
+      "longest_ai_kill_m": 415,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 92085,
+      "market_sales": 129,
+      "name": "Sisicek",
+      "vehicle_driver_entries": 91,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 113463.0,
+      "vehicle_trips": 72,
+      "weapons": {
+        "B&T APC223 PRO": 1,
+        "CR-527": 22,
+        "FX-45": 1,
+        "KAS-74U": 1,
+        "LE-MAS": 1,
+        "M70 Tundra": 24,
+        "Mlock-91": 1,
+        "SG5-K": 3,
+        "SK 59/66": 4
+      },
+      "weapon_master_kills": 24,
+      "is_admin": false,
+      "aris_score": 50,
+      "aris_score_breakdown": {
+        "ai_hunter": 20,
+        "road_warrior": 20,
+        "salesman": 10
+      }
+    },
+    {
       "ai_kills": 24,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -14507,45 +14602,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 54,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
-      "first_seen": "2026-11-04T08:29:18.851",
-      "ids": [
-        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
-      ],
-      "last_seen": "2026-11-11T06:07:52.702",
-      "longest_ai_kill_m": 415,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 92085,
-      "market_sales": 129,
-      "name": "Sisicek",
-      "vehicle_driver_entries": 91,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 113463.0,
-      "vehicle_trips": 72,
-      "weapons": {
-        "B&T APC223 PRO": 1,
-        "CR-527": 22,
-        "FX-45": 1,
-        "KAS-74U": 1,
-        "LE-MAS": 1,
-        "M70 Tundra": 20,
-        "Mlock-91": 1,
-        "SG5-K": 3,
-        "SK 59/66": 4
-      },
-      "weapon_master_kills": 22,
-      "is_admin": false,
-      "aris_score": 40,
-      "aris_score_breakdown": {
-        "ai_hunter": 10,
-        "road_warrior": 20,
-        "salesman": 10
-      }
     },
     {
       "ai_kills": 32,
@@ -14711,9 +14767,9 @@
       },
       "weapon_master_kills": 19,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "ai_hunter": 20
+        "ai_hunter": 10
       }
     },
     {
@@ -15996,7 +16052,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 17,
+      "ai_kills": 18,
       "deaths": 2,
       "favorite_weapon": "Lee Enfield",
       "favorite_weapon_kills": 9,
@@ -16004,8 +16060,8 @@
       "ids": [
         "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
       ],
-      "last_seen": "2026-11-11T07:29:55.170",
-      "longest_ai_kill_m": 78,
+      "last_seen": "2026-11-11T07:34:28.847",
+      "longest_ai_kill_m": 100,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
       "market_sales": 0,
@@ -16015,7 +16071,7 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "CR-527": 4,
+        "CR-527": 5,
         "Crossbow": 2,
         "Lee Enfield": 9,
         "Revolver": 1,
@@ -17507,6 +17563,33 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 1,
+      "deaths": 1,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-11-06T17:51:26.726",
+      "ids": [
+        "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
+      ],
+      "last_seen": "2026-11-11T07:59:47.420",
+      "longest_ai_kill_m": 85,
+      "longest_ai_kill_weapon": "IJ-70",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "WoCasCZ",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "IJ-70": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
     }
   ],
   "salesman": [
@@ -17868,15 +17951,15 @@
       }
     },
     {
-      "ai_kills": 54,
+      "ai_kills": 58,
       "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 24,
       "first_seen": "2026-11-04T08:29:18.851",
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-11T06:07:52.702",
+      "last_seen": "2026-11-11T07:59:56.835",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 92085,
@@ -17892,16 +17975,16 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "LE-MAS": 1,
-        "M70 Tundra": 20,
+        "M70 Tundra": 24,
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 4
       },
-      "weapon_master_kills": 22,
+      "weapon_master_kills": 24,
       "is_admin": false,
-      "aris_score": 40,
+      "aris_score": 50,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
+        "ai_hunter": 20,
         "road_warrior": 20,
         "salesman": 10
       }
@@ -18408,9 +18491,9 @@
       },
       "weapon_master_kills": 19,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "ai_hunter": 20
+        "ai_hunter": 10
       }
     },
     {
@@ -19722,6 +19805,45 @@
       }
     },
     {
+      "ai_kills": 58,
+      "deaths": 1,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 24,
+      "first_seen": "2026-11-04T08:29:18.851",
+      "ids": [
+        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
+      ],
+      "last_seen": "2026-11-11T07:59:56.835",
+      "longest_ai_kill_m": 415,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 92085,
+      "market_sales": 129,
+      "name": "Sisicek",
+      "vehicle_driver_entries": 91,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 113463.0,
+      "vehicle_trips": 72,
+      "weapons": {
+        "B&T APC223 PRO": 1,
+        "CR-527": 22,
+        "FX-45": 1,
+        "KAS-74U": 1,
+        "LE-MAS": 1,
+        "M70 Tundra": 24,
+        "Mlock-91": 1,
+        "SG5-K": 3,
+        "SK 59/66": 4
+      },
+      "weapon_master_kills": 24,
+      "is_admin": false,
+      "aris_score": 50,
+      "aris_score_breakdown": {
+        "ai_hunter": 20,
+        "road_warrior": 20,
+        "salesman": 10
+      }
+    },
+    {
       "ai_kills": 16,
       "deaths": 0,
       "favorite_weapon": "Blaze",
@@ -19856,45 +19978,6 @@
       }
     },
     {
-      "ai_kills": 54,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
-      "first_seen": "2026-11-04T08:29:18.851",
-      "ids": [
-        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
-      ],
-      "last_seen": "2026-11-11T06:07:52.702",
-      "longest_ai_kill_m": 415,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 92085,
-      "market_sales": 129,
-      "name": "Sisicek",
-      "vehicle_driver_entries": 91,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 113463.0,
-      "vehicle_trips": 72,
-      "weapons": {
-        "B&T APC223 PRO": 1,
-        "CR-527": 22,
-        "FX-45": 1,
-        "KAS-74U": 1,
-        "LE-MAS": 1,
-        "M70 Tundra": 20,
-        "Mlock-91": 1,
-        "SG5-K": 3,
-        "SK 59/66": 4
-      },
-      "weapon_master_kills": 22,
-      "is_admin": false,
-      "aris_score": 40,
-      "aris_score_breakdown": {
-        "ai_hunter": 10,
-        "road_warrior": 20,
-        "salesman": 10
-      }
-    },
-    {
       "ai_kills": 38,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -19926,48 +20009,6 @@
       "aris_score": 20,
       "aris_score_breakdown": {
         "weapon_master": 20
-      }
-    },
-    {
-      "ai_kills": 55,
-      "deaths": 6,
-      "favorite_weapon": "Barrett Model 98B",
-      "favorite_weapon_kills": 19,
-      "first_seen": "2026-11-03T18:47:24.281",
-      "ids": [
-        "ml5N6tgvZiGyt9ShsgmhFotp5pvFXXXkqfEhbKRiZ1A="
-      ],
-      "last_seen": "2026-11-10T20:52:41.342",
-      "longest_ai_kill_m": 496,
-      "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 67770,
-      "market_sales": 43,
-      "name": "dejf00cz1",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-133": 3,
-        "BK-18": 1,
-        "Barrett Model 98B": 19,
-        "Bizon": 4,
-        "CR-527": 8,
-        "CR-550 Savanna": 1,
-        "KA-74": 2,
-        "KA-M": 3,
-        "L85A2": 3,
-        "Pioneer": 1,
-        "RPK-74M": 3,
-        "SG5-K": 1,
-        "USG-45": 2,
-        "VSD": 4
-      },
-      "weapon_master_kills": 19,
-      "is_admin": false,
-      "aris_score": 20,
-      "aris_score_breakdown": {
-        "ai_hunter": 20
       }
     },
     {
@@ -20102,6 +20143,48 @@
       "aris_score": 10,
       "aris_score_breakdown": {
         "longest_shot": 10
+      }
+    },
+    {
+      "ai_kills": 55,
+      "deaths": 6,
+      "favorite_weapon": "Barrett Model 98B",
+      "favorite_weapon_kills": 19,
+      "first_seen": "2026-11-03T18:47:24.281",
+      "ids": [
+        "ml5N6tgvZiGyt9ShsgmhFotp5pvFXXXkqfEhbKRiZ1A="
+      ],
+      "last_seen": "2026-11-10T20:52:41.342",
+      "longest_ai_kill_m": 496,
+      "longest_ai_kill_weapon": "Barrett Model 98B",
+      "market_income": 67770,
+      "market_sales": 43,
+      "name": "dejf00cz1",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 3,
+        "BK-18": 1,
+        "Barrett Model 98B": 19,
+        "Bizon": 4,
+        "CR-527": 8,
+        "CR-550 Savanna": 1,
+        "KA-74": 2,
+        "KA-M": 3,
+        "L85A2": 3,
+        "Pioneer": 1,
+        "RPK-74M": 3,
+        "SG5-K": 1,
+        "USG-45": 2,
+        "VSD": 4
+      },
+      "weapon_master_kills": 19,
+      "is_admin": false,
+      "aris_score": 10,
+      "aris_score_breakdown": {
+        "ai_hunter": 10
       }
     }
   ]
