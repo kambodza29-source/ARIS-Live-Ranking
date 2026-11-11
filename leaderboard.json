@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 186,
   "staff_count": 6,
-  "updated_at_local": "11.11.2026 05:31",
+  "updated_at_local": "11.11.2026 06:01",
   "staff": [
     {
       "ai_kills": 0,
@@ -257,7 +257,7 @@
       }
     },
     {
-      "ai_kills": 139,
+      "ai_kills": 142,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 88,
@@ -265,7 +265,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-11T05:24:37.126",
+      "last_seen": "2026-11-11T05:42:57.459",
       "longest_ai_kill_m": 564,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 555452,
@@ -281,7 +281,7 @@
         "DMR": 88,
         "KA-M": 14,
         "Mosin 91/30": 1,
-        "Sa vz. 58 SF": 9
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 88,
       "is_admin": false,
@@ -535,6 +535,44 @@
       }
     },
     {
+      "ai_kills": 54,
+      "deaths": 1,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 22,
+      "first_seen": "2026-11-04T08:29:18.851",
+      "ids": [
+        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
+      ],
+      "last_seen": "2026-11-11T05:57:11.949",
+      "longest_ai_kill_m": 415,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 81554,
+      "market_sales": 113,
+      "name": "Sisicek",
+      "vehicle_driver_entries": 91,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 113463.0,
+      "vehicle_trips": 72,
+      "weapons": {
+        "B&T APC223 PRO": 1,
+        "CR-527": 22,
+        "FX-45": 1,
+        "KAS-74U": 1,
+        "LE-MAS": 1,
+        "M70 Tundra": 20,
+        "Mlock-91": 1,
+        "SG5-K": 3,
+        "SK 59/66": 4
+      },
+      "weapon_master_kills": 22,
+      "is_admin": false,
+      "aris_score": 30,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "road_warrior": 20
+      }
+    },
+    {
       "ai_kills": 52,
       "deaths": 0,
       "favorite_weapon": "Blaze",
@@ -562,9 +600,8 @@
       },
       "weapon_master_kills": 37,
       "is_admin": false,
-      "aris_score": 120,
+      "aris_score": 110,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 40,
         "weapon_master": 30,
         "salesman": 40
@@ -605,43 +642,6 @@
         "road_warrior": 90,
         "weapon_master": 40,
         "salesman": 30
-      }
-    },
-    {
-      "ai_kills": 49,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
-      "first_seen": "2026-11-04T08:29:18.851",
-      "ids": [
-        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
-      ],
-      "last_seen": "2026-11-11T05:07:18.267",
-      "longest_ai_kill_m": 415,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 72960,
-      "market_sales": 99,
-      "name": "Sisicek",
-      "vehicle_driver_entries": 91,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 113463.0,
-      "vehicle_trips": 72,
-      "weapons": {
-        "B&T APC223 PRO": 1,
-        "CR-527": 22,
-        "FX-45": 1,
-        "KAS-74U": 1,
-        "LE-MAS": 1,
-        "M70 Tundra": 15,
-        "Mlock-91": 1,
-        "SG5-K": 3,
-        "SK 59/66": 4
-      },
-      "weapon_master_kills": 22,
-      "is_admin": false,
-      "aris_score": 20,
-      "aris_score_breakdown": {
-        "road_warrior": 20
       }
     },
     {
@@ -3920,7 +3920,7 @@
       }
     },
     {
-      "ai_kills": 139,
+      "ai_kills": 142,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 88,
@@ -3928,7 +3928,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-11T05:24:37.126",
+      "last_seen": "2026-11-11T05:42:57.459",
       "longest_ai_kill_m": 564,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 555452,
@@ -3944,7 +3944,7 @@
         "DMR": 88,
         "KA-M": 14,
         "Mosin 91/30": 1,
-        "Sa vz. 58 SF": 9
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 88,
       "is_admin": false,
@@ -4522,7 +4522,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 49,
+      "ai_kills": 54,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 22,
@@ -4530,11 +4530,11 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-11T05:07:18.267",
+      "last_seen": "2026-11-11T05:57:11.949",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 72960,
-      "market_sales": 99,
+      "market_income": 81554,
+      "market_sales": 113,
       "name": "Sisicek",
       "vehicle_driver_entries": 91,
       "vehicle_passenger_entries": 0,
@@ -4546,15 +4546,16 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "LE-MAS": 1,
-        "M70 Tundra": 15,
+        "M70 Tundra": 20,
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 4
       },
       "weapon_master_kills": 22,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 30,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "road_warrior": 20
       }
     },
@@ -4803,9 +4804,8 @@
       },
       "weapon_master_kills": 37,
       "is_admin": false,
-      "aris_score": 120,
+      "aris_score": 110,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 40,
         "weapon_master": 30,
         "salesman": 40
@@ -8364,7 +8364,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 139,
+      "ai_kills": 142,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 88,
@@ -8372,7 +8372,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-11T05:24:37.126",
+      "last_seen": "2026-11-11T05:42:57.459",
       "longest_ai_kill_m": 564,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 555452,
@@ -8388,7 +8388,7 @@
         "DMR": 88,
         "KA-M": 14,
         "Mosin 91/30": 1,
-        "Sa vz. 58 SF": 9
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 88,
       "is_admin": false,
@@ -10477,7 +10477,7 @@
       }
     },
     {
-      "ai_kills": 49,
+      "ai_kills": 54,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 22,
@@ -10485,11 +10485,11 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-11T05:07:18.267",
+      "last_seen": "2026-11-11T05:57:11.949",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 72960,
-      "market_sales": 99,
+      "market_income": 81554,
+      "market_sales": 113,
       "name": "Sisicek",
       "vehicle_driver_entries": 91,
       "vehicle_passenger_entries": 0,
@@ -10501,15 +10501,16 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "LE-MAS": 1,
-        "M70 Tundra": 15,
+        "M70 Tundra": 20,
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 4
       },
       "weapon_master_kills": 22,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 30,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "road_warrior": 20
       }
     },
@@ -11108,7 +11109,7 @@
       }
     },
     {
-      "ai_kills": 139,
+      "ai_kills": 142,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 88,
@@ -11116,7 +11117,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-11T05:24:37.126",
+      "last_seen": "2026-11-11T05:42:57.459",
       "longest_ai_kill_m": 564,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 555452,
@@ -11132,7 +11133,7 @@
         "DMR": 88,
         "KA-M": 14,
         "Mosin 91/30": 1,
-        "Sa vz. 58 SF": 9
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 88,
       "is_admin": false,
@@ -11453,9 +11454,8 @@
       },
       "weapon_master_kills": 37,
       "is_admin": false,
-      "aris_score": 120,
+      "aris_score": 110,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 40,
         "weapon_master": 30,
         "salesman": 40
@@ -11529,7 +11529,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 49,
+      "ai_kills": 54,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 22,
@@ -11537,11 +11537,11 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-11T05:07:18.267",
+      "last_seen": "2026-11-11T05:57:11.949",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 72960,
-      "market_sales": 99,
+      "market_income": 81554,
+      "market_sales": 113,
       "name": "Sisicek",
       "vehicle_driver_entries": 91,
       "vehicle_passenger_entries": 0,
@@ -11553,15 +11553,16 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "LE-MAS": 1,
-        "M70 Tundra": 15,
+        "M70 Tundra": 20,
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 4
       },
       "weapon_master_kills": 22,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 30,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "road_warrior": 20
       }
     },
@@ -12806,7 +12807,7 @@
       }
     },
     {
-      "ai_kills": 139,
+      "ai_kills": 142,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 88,
@@ -12814,7 +12815,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-11T05:24:37.126",
+      "last_seen": "2026-11-11T05:42:57.459",
       "longest_ai_kill_m": 564,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 555452,
@@ -12830,7 +12831,7 @@
         "DMR": 88,
         "KA-M": 14,
         "Mosin 91/30": 1,
-        "Sa vz. 58 SF": 9
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 88,
       "is_admin": false,
@@ -12991,9 +12992,8 @@
       },
       "weapon_master_kills": 37,
       "is_admin": false,
-      "aris_score": 120,
+      "aris_score": 110,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 40,
         "weapon_master": 30,
         "salesman": 40
@@ -13040,7 +13040,7 @@
       }
     },
     {
-      "ai_kills": 49,
+      "ai_kills": 54,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 22,
@@ -13048,11 +13048,11 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-11T05:07:18.267",
+      "last_seen": "2026-11-11T05:57:11.949",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 72960,
-      "market_sales": 99,
+      "market_income": 81554,
+      "market_sales": 113,
       "name": "Sisicek",
       "vehicle_driver_entries": 91,
       "vehicle_passenger_entries": 0,
@@ -13064,15 +13064,16 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "LE-MAS": 1,
-        "M70 Tundra": 15,
+        "M70 Tundra": 20,
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 4
       },
       "weapon_master_kills": 22,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 30,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "road_warrior": 20
       }
     },
@@ -13993,7 +13994,7 @@
   ],
   "weapon_master": [
     {
-      "ai_kills": 139,
+      "ai_kills": 142,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 88,
@@ -14001,7 +14002,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-11T05:24:37.126",
+      "last_seen": "2026-11-11T05:42:57.459",
       "longest_ai_kill_m": 564,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 555452,
@@ -14017,7 +14018,7 @@
         "DMR": 88,
         "KA-M": 14,
         "Mosin 91/30": 1,
-        "Sa vz. 58 SF": 9
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 88,
       "is_admin": false,
@@ -14302,9 +14303,8 @@
       },
       "weapon_master_kills": 37,
       "is_admin": false,
-      "aris_score": 120,
+      "aris_score": 110,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 40,
         "weapon_master": 30,
         "salesman": 40
@@ -14502,7 +14502,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 49,
+      "ai_kills": 54,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 22,
@@ -14510,11 +14510,11 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-11T05:07:18.267",
+      "last_seen": "2026-11-11T05:57:11.949",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 72960,
-      "market_sales": 99,
+      "market_income": 81554,
+      "market_sales": 113,
       "name": "Sisicek",
       "vehicle_driver_entries": 91,
       "vehicle_passenger_entries": 0,
@@ -14526,15 +14526,16 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "LE-MAS": 1,
-        "M70 Tundra": 15,
+        "M70 Tundra": 20,
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 4
       },
       "weapon_master_kills": 22,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 30,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "road_warrior": 20
       }
     },
@@ -17501,7 +17502,7 @@
   ],
   "salesman": [
     {
-      "ai_kills": 139,
+      "ai_kills": 142,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 88,
@@ -17509,7 +17510,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-11T05:24:37.126",
+      "last_seen": "2026-11-11T05:42:57.459",
       "longest_ai_kill_m": 564,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 555452,
@@ -17525,7 +17526,7 @@
         "DMR": 88,
         "KA-M": 14,
         "Mosin 91/30": 1,
-        "Sa vz. 58 SF": 9
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 88,
       "is_admin": false,
@@ -17774,9 +17775,8 @@
       },
       "weapon_master_kills": 37,
       "is_admin": false,
-      "aris_score": 120,
+      "aris_score": 110,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 40,
         "weapon_master": 30,
         "salesman": 40
@@ -17891,6 +17891,44 @@
       }
     },
     {
+      "ai_kills": 54,
+      "deaths": 1,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 22,
+      "first_seen": "2026-11-04T08:29:18.851",
+      "ids": [
+        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
+      ],
+      "last_seen": "2026-11-11T05:57:11.949",
+      "longest_ai_kill_m": 415,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 81554,
+      "market_sales": 113,
+      "name": "Sisicek",
+      "vehicle_driver_entries": 91,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 113463.0,
+      "vehicle_trips": 72,
+      "weapons": {
+        "B&T APC223 PRO": 1,
+        "CR-527": 22,
+        "FX-45": 1,
+        "KAS-74U": 1,
+        "LE-MAS": 1,
+        "M70 Tundra": 20,
+        "Mlock-91": 1,
+        "SG5-K": 3,
+        "SK 59/66": 4
+      },
+      "weapon_master_kills": 22,
+      "is_admin": false,
+      "aris_score": 30,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "road_warrior": 20
+      }
+    },
+    {
       "ai_kills": 25,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -17918,43 +17956,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 49,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
-      "first_seen": "2026-11-04T08:29:18.851",
-      "ids": [
-        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
-      ],
-      "last_seen": "2026-11-11T05:07:18.267",
-      "longest_ai_kill_m": 415,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 72960,
-      "market_sales": 99,
-      "name": "Sisicek",
-      "vehicle_driver_entries": 91,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 113463.0,
-      "vehicle_trips": 72,
-      "weapons": {
-        "B&T APC223 PRO": 1,
-        "CR-527": 22,
-        "FX-45": 1,
-        "KAS-74U": 1,
-        "LE-MAS": 1,
-        "M70 Tundra": 15,
-        "Mlock-91": 1,
-        "SG5-K": 3,
-        "SK 59/66": 4
-      },
-      "weapon_master_kills": 22,
-      "is_admin": false,
-      "aris_score": 20,
-      "aris_score_breakdown": {
-        "road_warrior": 20
-      }
     },
     {
       "ai_kills": 32,
@@ -19327,7 +19328,7 @@
       }
     },
     {
-      "ai_kills": 139,
+      "ai_kills": 142,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 88,
@@ -19335,7 +19336,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-11T05:24:37.126",
+      "last_seen": "2026-11-11T05:42:57.459",
       "longest_ai_kill_m": 564,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 555452,
@@ -19351,7 +19352,7 @@
         "DMR": 88,
         "KA-M": 14,
         "Mosin 91/30": 1,
-        "Sa vz. 58 SF": 9
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 88,
       "is_admin": false,
@@ -19632,9 +19633,8 @@
       },
       "weapon_master_kills": 37,
       "is_admin": false,
-      "aris_score": 120,
+      "aris_score": 110,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 40,
         "weapon_master": 30,
         "salesman": 40
@@ -19879,6 +19879,44 @@
       }
     },
     {
+      "ai_kills": 54,
+      "deaths": 1,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 22,
+      "first_seen": "2026-11-04T08:29:18.851",
+      "ids": [
+        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
+      ],
+      "last_seen": "2026-11-11T05:57:11.949",
+      "longest_ai_kill_m": 415,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 81554,
+      "market_sales": 113,
+      "name": "Sisicek",
+      "vehicle_driver_entries": 91,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 113463.0,
+      "vehicle_trips": 72,
+      "weapons": {
+        "B&T APC223 PRO": 1,
+        "CR-527": 22,
+        "FX-45": 1,
+        "KAS-74U": 1,
+        "LE-MAS": 1,
+        "M70 Tundra": 20,
+        "Mlock-91": 1,
+        "SG5-K": 3,
+        "SK 59/66": 4
+      },
+      "weapon_master_kills": 22,
+      "is_admin": false,
+      "aris_score": 30,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "road_warrior": 20
+      }
+    },
+    {
       "ai_kills": 38,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -19986,43 +20024,6 @@
       "aris_score": 20,
       "aris_score_breakdown": {
         "longest_shot": 20
-      }
-    },
-    {
-      "ai_kills": 49,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
-      "first_seen": "2026-11-04T08:29:18.851",
-      "ids": [
-        "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
-      ],
-      "last_seen": "2026-11-11T05:07:18.267",
-      "longest_ai_kill_m": 415,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 72960,
-      "market_sales": 99,
-      "name": "Sisicek",
-      "vehicle_driver_entries": 91,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 113463.0,
-      "vehicle_trips": 72,
-      "weapons": {
-        "B&T APC223 PRO": 1,
-        "CR-527": 22,
-        "FX-45": 1,
-        "KAS-74U": 1,
-        "LE-MAS": 1,
-        "M70 Tundra": 15,
-        "Mlock-91": 1,
-        "SG5-K": 3,
-        "SK 59/66": 4
-      },
-      "weapon_master_kills": 22,
-      "is_admin": false,
-      "aris_score": 20,
-      "aris_score_breakdown": {
-        "road_warrior": 20
       }
     },
     {
