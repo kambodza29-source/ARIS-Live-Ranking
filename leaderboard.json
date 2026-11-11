@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 186,
   "staff_count": 6,
-  "updated_at_local": "11.11.2026 08:39",
+  "updated_at_local": "11.11.2026 09:02",
   "staff": [
     {
       "ai_kills": 0,
@@ -3209,16 +3209,16 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-10T12:44:00.573",
+      "last_seen": "2026-11-11T09:01:29.000",
       "longest_ai_kill_m": 100,
       "longest_ai_kill_weapon": "SG5-K",
       "market_income": 65649,
       "market_sales": 57,
       "name": "Erix",
-      "vehicle_driver_entries": 0,
+      "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 519.5,
+      "vehicle_trips": 1,
       "weapons": {
         "Pioneer": 2,
         "SG5-K": 1
@@ -6251,16 +6251,16 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-10T12:44:00.573",
+      "last_seen": "2026-11-11T09:01:29.000",
       "longest_ai_kill_m": 100,
       "longest_ai_kill_weapon": "SG5-K",
       "market_income": 65649,
       "market_sales": 57,
       "name": "Erix",
-      "vehicle_driver_entries": 0,
+      "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 519.5,
+      "vehicle_trips": 1,
       "weapons": {
         "Pioneer": 2,
         "SG5-K": 1
@@ -9889,16 +9889,16 @@
       "ids": [
         "u03WcR-GUhCpG0x5izTTv-mPaMqqQ3SE8EoXj2ADcL0="
       ],
-      "last_seen": "2026-11-10T00:22:07.387",
+      "last_seen": "2026-11-11T09:01:25.987",
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
       "market_income": 0,
       "market_sales": 0,
       "name": "kenny",
-      "vehicle_driver_entries": 6,
+      "vehicle_driver_entries": 7,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 354.4,
-      "vehicle_trips": 6,
+      "vehicle_trip_straightline_m": 871.5,
+      "vehicle_trips": 7,
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
@@ -11802,16 +11802,16 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-10T12:44:00.573",
+      "last_seen": "2026-11-11T09:01:29.000",
       "longest_ai_kill_m": 100,
       "longest_ai_kill_weapon": "SG5-K",
       "market_income": 65649,
       "market_sales": 57,
       "name": "Erix",
-      "vehicle_driver_entries": 0,
+      "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 519.5,
+      "vehicle_trips": 1,
       "weapons": {
         "Pioneer": 2,
         "SG5-K": 1
@@ -13826,6 +13826,59 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 0,
+      "deaths": 1,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-11-09T11:21:49.051",
+      "ids": [
+        "u03WcR-GUhCpG0x5izTTv-mPaMqqQ3SE8EoXj2ADcL0="
+      ],
+      "last_seen": "2026-11-11T09:01:25.987",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "kenny",
+      "vehicle_driver_entries": 7,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 871.5,
+      "vehicle_trips": 7,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 3,
+      "deaths": 0,
+      "favorite_weapon": "Pioneer",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-11-04T14:23:27.035",
+      "ids": [
+        "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
+      ],
+      "last_seen": "2026-11-11T09:01:29.000",
+      "longest_ai_kill_m": 100,
+      "longest_ai_kill_weapon": "SG5-K",
+      "market_income": 65649,
+      "market_sales": 57,
+      "name": "Erix",
+      "vehicle_driver_entries": 1,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 519.5,
+      "vehicle_trips": 1,
+      "weapons": {
+        "Pioneer": 2,
+        "SG5-K": 1
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 16,
       "deaths": 1,
       "favorite_weapon": "CR-527",
@@ -13878,31 +13931,6 @@
         "SCR 16": 4
       },
       "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 0,
-      "deaths": 1,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
-      "first_seen": "2026-11-09T11:21:49.051",
-      "ids": [
-        "u03WcR-GUhCpG0x5izTTv-mPaMqqQ3SE8EoXj2ADcL0="
-      ],
-      "last_seen": "2026-11-10T00:22:07.387",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "kenny",
-      "vehicle_driver_entries": 6,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 354.4,
-      "vehicle_trips": 6,
-      "weapons": {},
-      "weapon_master_kills": 0,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -17112,16 +17140,16 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-10T12:44:00.573",
+      "last_seen": "2026-11-11T09:01:29.000",
       "longest_ai_kill_m": 100,
       "longest_ai_kill_weapon": "SG5-K",
       "market_income": 65649,
       "market_sales": 57,
       "name": "Erix",
-      "vehicle_driver_entries": 0,
+      "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 519.5,
+      "vehicle_trips": 1,
       "weapons": {
         "Pioneer": 2,
         "SG5-K": 1
@@ -18316,16 +18344,16 @@
       "ids": [
         "XGbv_363dwNvHTf-KlvDskJAw4eKt1DbotAbVYXKGSs="
       ],
-      "last_seen": "2026-11-10T12:44:00.573",
+      "last_seen": "2026-11-11T09:01:29.000",
       "longest_ai_kill_m": 100,
       "longest_ai_kill_weapon": "SG5-K",
       "market_income": 65649,
       "market_sales": 57,
       "name": "Erix",
-      "vehicle_driver_entries": 0,
+      "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 519.5,
+      "vehicle_trips": 1,
       "weapons": {
         "Pioneer": 2,
         "SG5-K": 1
