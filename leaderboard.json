@@ -1,8 +1,8 @@
 {
   "season_start": "2026-11-03",
-  "player_count": 193,
+  "player_count": 194,
   "staff_count": 6,
-  "updated_at_local": "12.11.2026 14:31",
+  "updated_at_local": "12.11.2026 15:01",
   "staff": [
     {
       "ai_kills": 0,
@@ -659,7 +659,7 @@
       "ids": [
         "LInp708bqYCzoN_h5fetQdq2gfKYsXbzY_2lku1PTs8="
       ],
-      "last_seen": "2026-11-12T14:03:19.869",
+      "last_seen": "2026-11-12T14:37:51.801",
       "longest_ai_kill_m": 334,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 50,
@@ -1002,6 +1002,35 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 40,
+      "deaths": 1,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 26,
+      "first_seen": "2026-11-04T00:19:41.662",
+      "ids": [
+        "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
+      ],
+      "last_seen": "2026-11-12T14:51:29.824",
+      "longest_ai_kill_m": 328,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 78426,
+      "market_sales": 38,
+      "name": "StefanSVK",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Blaze": 11,
+        "CR-527": 26,
+        "KAS-74U": 3
+      },
+      "weapon_master_kills": 26,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 38,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -1064,35 +1093,6 @@
         "SK 59/66": 2
       },
       "weapon_master_kills": 10,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 38,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 26,
-      "first_seen": "2026-11-04T00:19:41.662",
-      "ids": [
-        "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
-      ],
-      "last_seen": "2026-11-12T00:41:21.693",
-      "longest_ai_kill_m": 328,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 78426,
-      "market_sales": 38,
-      "name": "StefanSVK",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Blaze": 10,
-        "CR-527": 26,
-        "KAS-74U": 2
-      },
-      "weapon_master_kills": 26,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -1235,11 +1235,11 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-11-12T14:25:05.900",
+      "last_seen": "2026-11-12T14:41:40.948",
       "longest_ai_kill_m": 520,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 49551,
-      "market_sales": 99,
+      "market_income": 58210,
+      "market_sales": 120,
       "name": "Parazone",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -1426,11 +1426,11 @@
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-12T13:21:03.572",
+      "last_seen": "2026-11-12T14:35:58.220",
       "longest_ai_kill_m": 265,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 132776,
-      "market_sales": 94,
+      "market_income": 138356,
+      "market_sales": 100,
       "name": "Limio",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -1456,11 +1456,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-12T14:15:41.710",
+      "last_seen": "2026-11-12T14:46:27.787",
       "longest_ai_kill_m": 409,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 241839,
-      "market_sales": 153,
+      "market_income": 242341,
+      "market_sales": 155,
       "name": "JENDA",
       "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 6,
@@ -3442,6 +3442,31 @@
       "vehicle_trips": 3,
       "weapons": {
         "Accuracy International AX50": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "name": "Kulich",
+      "ids": [],
+      "first_seen": "2026-11-12T14:42:46.919",
+      "last_seen": "2026-11-12T14:45:49.036",
+      "ai_kills": 2,
+      "deaths": 0,
+      "longest_ai_kill_m": 43,
+      "longest_ai_kill_weapon": "BK-18",
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 2,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "BK-18": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -4217,11 +4242,11 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-11-12T14:25:05.900",
+      "last_seen": "2026-11-12T14:41:40.948",
       "longest_ai_kill_m": 520,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 49551,
-      "market_sales": 99,
+      "market_income": 58210,
+      "market_sales": 120,
       "name": "Parazone",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -4855,11 +4880,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-12T14:15:41.710",
+      "last_seen": "2026-11-12T14:46:27.787",
       "longest_ai_kill_m": 409,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 241839,
-      "market_sales": 153,
+      "market_income": 242341,
+      "market_sales": 155,
       "name": "JENDA",
       "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 6,
@@ -5264,7 +5289,7 @@
       "ids": [
         "LInp708bqYCzoN_h5fetQdq2gfKYsXbzY_2lku1PTs8="
       ],
-      "last_seen": "2026-11-12T14:03:19.869",
+      "last_seen": "2026-11-12T14:37:51.801",
       "longest_ai_kill_m": 334,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 50,
@@ -5294,7 +5319,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 38,
+      "ai_kills": 40,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 26,
@@ -5302,7 +5327,7 @@
       "ids": [
         "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
       ],
-      "last_seen": "2026-11-12T00:41:21.693",
+      "last_seen": "2026-11-12T14:51:29.824",
       "longest_ai_kill_m": 328,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 78426,
@@ -5313,9 +5338,9 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Blaze": 10,
+        "Blaze": 11,
         "CR-527": 26,
-        "KAS-74U": 2
+        "KAS-74U": 3
       },
       "weapon_master_kills": 26,
       "is_admin": false,
@@ -5606,11 +5631,11 @@
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-12T13:21:03.572",
+      "last_seen": "2026-11-12T14:35:58.220",
       "longest_ai_kill_m": 265,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 132776,
-      "market_sales": 94,
+      "market_income": 138356,
+      "market_sales": 100,
       "name": "Limio",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -7005,6 +7030,31 @@
       "aris_score_breakdown": {}
     },
     {
+      "name": "Kulich",
+      "ids": [],
+      "first_seen": "2026-11-12T14:42:46.919",
+      "last_seen": "2026-11-12T14:45:49.036",
+      "ai_kills": 2,
+      "deaths": 0,
+      "longest_ai_kill_m": 43,
+      "longest_ai_kill_weapon": "BK-18",
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 2,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "BK-18": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 1,
       "deaths": 2,
       "favorite_weapon": "BK-18",
@@ -7651,7 +7701,7 @@
       "ids": [
         "LInp708bqYCzoN_h5fetQdq2gfKYsXbzY_2lku1PTs8="
       ],
-      "last_seen": "2026-11-12T14:03:19.869",
+      "last_seen": "2026-11-12T14:37:51.801",
       "longest_ai_kill_m": 334,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 50,
@@ -10991,7 +11041,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 38,
+      "ai_kills": 40,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 26,
@@ -10999,7 +11049,7 @@
       "ids": [
         "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
       ],
-      "last_seen": "2026-11-12T00:41:21.693",
+      "last_seen": "2026-11-12T14:51:29.824",
       "longest_ai_kill_m": 328,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 78426,
@@ -11010,9 +11060,9 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Blaze": 10,
+        "Blaze": 11,
         "CR-527": 26,
-        "KAS-74U": 2
+        "KAS-74U": 3
       },
       "weapon_master_kills": 26,
       "is_admin": false,
@@ -11631,11 +11681,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-12T14:15:41.710",
+      "last_seen": "2026-11-12T14:46:27.787",
       "longest_ai_kill_m": 409,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 241839,
-      "market_sales": 153,
+      "market_income": 242341,
+      "market_sales": 155,
       "name": "JENDA",
       "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 6,
@@ -11971,11 +12021,11 @@
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-12T13:21:03.572",
+      "last_seen": "2026-11-12T14:35:58.220",
       "longest_ai_kill_m": 265,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 132776,
-      "market_sales": 94,
+      "market_income": 138356,
+      "market_sales": 100,
       "name": "Limio",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -12137,7 +12187,7 @@
       }
     },
     {
-      "ai_kills": 38,
+      "ai_kills": 40,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 26,
@@ -12145,7 +12195,7 @@
       "ids": [
         "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
       ],
-      "last_seen": "2026-11-12T00:41:21.693",
+      "last_seen": "2026-11-12T14:51:29.824",
       "longest_ai_kill_m": 328,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 78426,
@@ -12156,9 +12206,9 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Blaze": 10,
+        "Blaze": 11,
         "CR-527": 26,
-        "KAS-74U": 2
+        "KAS-74U": 3
       },
       "weapon_master_kills": 26,
       "is_admin": false,
@@ -12296,6 +12346,35 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 33,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 22,
+      "first_seen": "2026-11-03T22:45:53.530",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "last_seen": "2026-11-12T14:41:40.948",
+      "longest_ai_kill_m": 520,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 58210,
+      "market_sales": 120,
+      "name": "Parazone",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Bizon": 1,
+        "Blaze": 10,
+        "CR-527": 22
+      },
+      "weapon_master_kills": 22,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 20,
       "deaths": 0,
       "favorite_weapon": "SK 59/66",
@@ -12418,35 +12497,6 @@
       "aris_score_breakdown": {
         "longest_shot": 10
       }
-    },
-    {
-      "ai_kills": 33,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
-      "first_seen": "2026-11-03T22:45:53.530",
-      "ids": [
-        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
-      ],
-      "last_seen": "2026-11-12T14:25:05.900",
-      "longest_ai_kill_m": 520,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 49551,
-      "market_sales": 99,
-      "name": "Parazone",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Bizon": 1,
-        "Blaze": 10,
-        "CR-527": 22
-      },
-      "weapon_master_kills": 22,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 16,
@@ -13201,7 +13251,7 @@
       "ids": [
         "LInp708bqYCzoN_h5fetQdq2gfKYsXbzY_2lku1PTs8="
       ],
-      "last_seen": "2026-11-12T14:03:19.869",
+      "last_seen": "2026-11-12T14:37:51.801",
       "longest_ai_kill_m": 334,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 50,
@@ -13725,11 +13775,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-12T14:15:41.710",
+      "last_seen": "2026-11-12T14:46:27.787",
       "longest_ai_kill_m": 409,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 241839,
-      "market_sales": 153,
+      "market_income": 242341,
+      "market_sales": 155,
       "name": "JENDA",
       "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 6,
@@ -15066,7 +15116,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 38,
+      "ai_kills": 40,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 26,
@@ -15074,7 +15124,7 @@
       "ids": [
         "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
       ],
-      "last_seen": "2026-11-12T00:41:21.693",
+      "last_seen": "2026-11-12T14:51:29.824",
       "longest_ai_kill_m": 328,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 78426,
@@ -15085,9 +15135,9 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Blaze": 10,
+        "Blaze": 11,
         "CR-527": 26,
-        "KAS-74U": 2
+        "KAS-74U": 3
       },
       "weapon_master_kills": 26,
       "is_admin": false,
@@ -15209,11 +15259,11 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-11-12T14:25:05.900",
+      "last_seen": "2026-11-12T14:41:40.948",
       "longest_ai_kill_m": 520,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 49551,
-      "market_sales": 99,
+      "market_income": 58210,
+      "market_sales": 120,
       "name": "Parazone",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -15337,7 +15387,7 @@
       "ids": [
         "LInp708bqYCzoN_h5fetQdq2gfKYsXbzY_2lku1PTs8="
       ],
-      "last_seen": "2026-11-12T14:03:19.869",
+      "last_seen": "2026-11-12T14:37:51.801",
       "longest_ai_kill_m": 334,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 50,
@@ -16045,11 +16095,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-12T14:15:41.710",
+      "last_seen": "2026-11-12T14:46:27.787",
       "longest_ai_kill_m": 409,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 241839,
-      "market_sales": 153,
+      "market_income": 242341,
+      "market_sales": 155,
       "name": "JENDA",
       "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 6,
@@ -16076,11 +16126,11 @@
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-12T13:21:03.572",
+      "last_seen": "2026-11-12T14:35:58.220",
       "longest_ai_kill_m": 265,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 132776,
-      "market_sales": 94,
+      "market_income": 138356,
+      "market_sales": 100,
       "name": "Limio",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -17790,6 +17840,31 @@
       "aris_score_breakdown": {}
     },
     {
+      "name": "Kulich",
+      "ids": [],
+      "first_seen": "2026-11-12T14:42:46.919",
+      "last_seen": "2026-11-12T14:45:49.036",
+      "ai_kills": 2,
+      "deaths": 0,
+      "longest_ai_kill_m": 43,
+      "longest_ai_kill_weapon": "BK-18",
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 2,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "BK-18": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 2,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -18668,11 +18743,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-12T14:15:41.710",
+      "last_seen": "2026-11-12T14:46:27.787",
       "longest_ai_kill_m": 409,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 241839,
-      "market_sales": 153,
+      "market_income": 242341,
+      "market_sales": 155,
       "name": "JENDA",
       "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 6,
@@ -18848,6 +18923,35 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 33,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 22,
+      "first_seen": "2026-11-03T22:45:53.530",
+      "ids": [
+        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
+      ],
+      "last_seen": "2026-11-12T14:41:40.948",
+      "longest_ai_kill_m": 520,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 58210,
+      "market_sales": 120,
+      "name": "Parazone",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Bizon": 1,
+        "Blaze": 10,
+        "CR-527": 22
+      },
+      "weapon_master_kills": 22,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 42,
       "deaths": 1,
       "favorite_weapon": "M70 Tundra",
@@ -18874,6 +18978,36 @@
         "Mlock-91": 1
       },
       "weapon_master_kills": 29,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 30,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 14,
+      "first_seen": "2026-11-05T12:36:19.011",
+      "ids": [
+        "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
+      ],
+      "last_seen": "2026-11-12T14:35:58.220",
+      "longest_ai_kill_m": 265,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 138356,
+      "market_sales": 100,
+      "name": "Limio",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 14,
+        "KAS-74U": 3,
+        "Pioneer": 5,
+        "Sawed-off Mosin 91/30": 8
+      },
+      "weapon_master_kills": 14,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -18910,65 +19044,6 @@
       "aris_score_breakdown": {
         "road_warrior": 10
       }
-    },
-    {
-      "ai_kills": 33,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 22,
-      "first_seen": "2026-11-03T22:45:53.530",
-      "ids": [
-        "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
-      ],
-      "last_seen": "2026-11-12T14:25:05.900",
-      "longest_ai_kill_m": 520,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 49551,
-      "market_sales": 99,
-      "name": "Parazone",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Bizon": 1,
-        "Blaze": 10,
-        "CR-527": 22
-      },
-      "weapon_master_kills": 22,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 30,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 14,
-      "first_seen": "2026-11-05T12:36:19.011",
-      "ids": [
-        "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
-      ],
-      "last_seen": "2026-11-12T13:21:03.572",
-      "longest_ai_kill_m": 265,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 132776,
-      "market_sales": 94,
-      "name": "Limio",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 14,
-        "KAS-74U": 3,
-        "Pioneer": 5,
-        "Sawed-off Mosin 91/30": 8
-      },
-      "weapon_master_kills": 14,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 63,
@@ -19356,7 +19431,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 38,
+      "ai_kills": 40,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 26,
@@ -19364,7 +19439,7 @@
       "ids": [
         "czBKI1IkExxQpIEZIoSsaGKxjIC6NmUjC6d71q30aZQ="
       ],
-      "last_seen": "2026-11-12T00:41:21.693",
+      "last_seen": "2026-11-12T14:51:29.824",
       "longest_ai_kill_m": 328,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 78426,
@@ -19375,9 +19450,9 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Blaze": 10,
+        "Blaze": 11,
         "CR-527": 26,
-        "KAS-74U": 2
+        "KAS-74U": 3
       },
       "weapon_master_kills": 26,
       "is_admin": false,
@@ -20044,7 +20119,7 @@
       "ids": [
         "LInp708bqYCzoN_h5fetQdq2gfKYsXbzY_2lku1PTs8="
       ],
-      "last_seen": "2026-11-12T14:03:19.869",
+      "last_seen": "2026-11-12T14:37:51.801",
       "longest_ai_kill_m": 334,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 50,
@@ -20596,11 +20671,11 @@
       "ids": [
         "szjdEwQPtH8m20AGJOpOoCJ_TUh5quFZfwCQcgVi8lE="
       ],
-      "last_seen": "2026-11-12T14:15:41.710",
+      "last_seen": "2026-11-12T14:46:27.787",
       "longest_ai_kill_m": 409,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 241839,
-      "market_sales": 153,
+      "market_income": 242341,
+      "market_sales": 155,
       "name": "JENDA",
       "vehicle_driver_entries": 43,
       "vehicle_passenger_entries": 6,
