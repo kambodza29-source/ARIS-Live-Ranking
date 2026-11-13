@@ -1,8 +1,8 @@
 {
   "season_start": "2026-11-03",
-  "player_count": 199,
+  "player_count": 200,
   "staff_count": 6,
-  "updated_at_local": "13.11.2026 09:39",
+  "updated_at_local": "13.11.2026 10:02",
   "staff": [
     {
       "ai_kills": 0,
@@ -142,7 +142,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 42,
+      "ai_kills": 46,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 12,
@@ -150,21 +150,21 @@
       "ids": [
         "cc-EXzxcq52tT5vGuiCvN5ufInakgI3rOXGdz5WZkvs="
       ],
-      "last_seen": "2026-11-12T23:39:15.128",
+      "last_seen": "2026-11-13T10:00:01.391",
       "longest_ai_kill_m": 575,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 327972,
       "market_sales": 90,
       "name": "RadusCZ",
-      "vehicle_driver_entries": 98,
+      "vehicle_driver_entries": 99,
       "vehicle_passenger_entries": 2,
-      "vehicle_trip_straightline_m": 64052.9,
-      "vehicle_trips": 93,
+      "vehicle_trip_straightline_m": 67359.7,
+      "vehicle_trips": 94,
       "weapons": {
         "AUR AX": 11,
         "CR-527": 12,
-        "NEMO ARMS OMEN": 8,
-        "SG5-K": 6,
+        "NEMO ARMS OMEN": 11,
+        "SG5-K": 7,
         "SVAL": 1,
         "VSD": 4
       },
@@ -226,16 +226,16 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-13T09:29:33.267",
+      "last_seen": "2026-11-13T09:59:02.307",
       "longest_ai_kill_m": 669,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 729238,
-      "market_sales": 889,
+      "market_income": 730424,
+      "market_sales": 890,
       "name": "CHABA_",
-      "vehicle_driver_entries": 196,
+      "vehicle_driver_entries": 198,
       "vehicle_passenger_entries": 14,
       "vehicle_trip_straightline_m": 268237.6,
-      "vehicle_trips": 196,
+      "vehicle_trips": 197,
       "weapons": {
         "Barrett Model 98B": 23,
         "Blaze": 16,
@@ -434,13 +434,13 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-13T04:41:12.915",
+      "last_seen": "2026-11-13T09:43:49.100",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 679356,
       "market_sales": 811,
       "name": "siedma",
-      "vehicle_driver_entries": 117,
+      "vehicle_driver_entries": 118,
       "vehicle_passenger_entries": 120,
       "vehicle_trip_straightline_m": 218110.6,
       "vehicle_trips": 113,
@@ -478,16 +478,16 @@
       "ids": [
         "8QmiDRtTjiQhI51mwlRwSBSaMvhewrMXHuQfb0-7K8A="
       ],
-      "last_seen": "2026-11-13T09:36:59.911",
+      "last_seen": "2026-11-13T09:59:00.083",
       "longest_ai_kill_m": 363,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 238439,
       "market_sales": 269,
       "name": "Kropy",
-      "vehicle_driver_entries": 247,
-      "vehicle_passenger_entries": 44,
+      "vehicle_driver_entries": 248,
+      "vehicle_passenger_entries": 45,
       "vehicle_trip_straightline_m": 285544.6,
-      "vehicle_trips": 239,
+      "vehicle_trips": 240,
       "weapons": {
         "BK-43": 2,
         "Blaze": 14,
@@ -698,6 +698,40 @@
     },
     {
       "ai_kills": 60,
+      "deaths": 1,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 42,
+      "first_seen": "2026-11-03T17:39:21.008",
+      "ids": [
+        "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
+      ],
+      "last_seen": "2026-11-13T10:01:55.930",
+      "longest_ai_kill_m": 446,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 167145,
+      "market_sales": 122,
+      "name": "Lovec",
+      "vehicle_driver_entries": 51,
+      "vehicle_passenger_entries": 6,
+      "vehicle_trip_straightline_m": 93867.5,
+      "vehicle_trips": 45,
+      "weapons": {
+        "AKML": 11,
+        "Blaze": 2,
+        "CR-527": 4,
+        "M70 Tundra": 42,
+        "Mlock-91": 1
+      },
+      "weapon_master_kills": 42,
+      "is_admin": false,
+      "aris_score": 30,
+      "aris_score_breakdown": {
+        "road_warrior": 10,
+        "weapon_master": 20
+      }
+    },
+    {
+      "ai_kills": 60,
       "deaths": 0,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 43,
@@ -729,40 +763,6 @@
         "road_warrior": 50,
         "weapon_master": 40,
         "salesman": 20
-      }
-    },
-    {
-      "ai_kills": 58,
-      "deaths": 1,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 40,
-      "first_seen": "2026-11-03T17:39:21.008",
-      "ids": [
-        "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
-      ],
-      "last_seen": "2026-11-13T09:34:19.636",
-      "longest_ai_kill_m": 446,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 165375,
-      "market_sales": 117,
-      "name": "Lovec",
-      "vehicle_driver_entries": 49,
-      "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 85873.7,
-      "vehicle_trips": 43,
-      "weapons": {
-        "AKML": 11,
-        "Blaze": 2,
-        "CR-527": 4,
-        "M70 Tundra": 40,
-        "Mlock-91": 1
-      },
-      "weapon_master_kills": 40,
-      "is_admin": false,
-      "aris_score": 30,
-      "aris_score_breakdown": {
-        "road_warrior": 10,
-        "weapon_master": 20
       }
     },
     {
@@ -1507,6 +1507,35 @@
       "ai_kills": 30,
       "deaths": 0,
       "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 15,
+      "first_seen": "2026-11-08T04:58:27.295",
+      "ids": [
+        "5hEVksxs0jFOPbULJLojg5vSCnKVj0RpRKtDbl5qL6c="
+      ],
+      "last_seen": "2026-11-13T09:45:04.147",
+      "longest_ai_kill_m": 428,
+      "longest_ai_kill_weapon": "Blaze",
+      "market_income": 145518,
+      "market_sales": 120,
+      "name": "El Gattito",
+      "vehicle_driver_entries": 9,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 11555.4,
+      "vehicle_trips": 5,
+      "weapons": {
+        "BK-18": 2,
+        "Blaze": 13,
+        "CR-527": 15
+      },
+      "weapon_master_kills": 15,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 30,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 14,
       "first_seen": "2026-11-05T12:36:19.011",
       "ids": [
@@ -1562,35 +1591,6 @@
         "VSD": 2
       },
       "weapon_master_kills": 16,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 28,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 15,
-      "first_seen": "2026-11-08T04:58:27.295",
-      "ids": [
-        "5hEVksxs0jFOPbULJLojg5vSCnKVj0RpRKtDbl5qL6c="
-      ],
-      "last_seen": "2026-11-13T08:58:56.503",
-      "longest_ai_kill_m": 428,
-      "longest_ai_kill_weapon": "Blaze",
-      "market_income": 145518,
-      "market_sales": 120,
-      "name": "El Gattito",
-      "vehicle_driver_entries": 9,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 11555.4,
-      "vehicle_trips": 5,
-      "weapons": {
-        "BK-18": 2,
-        "Blaze": 11,
-        "CR-527": 15
-      },
-      "weapon_master_kills": 15,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -3765,16 +3765,16 @@
       "ids": [
         "S3gTstEwQeJBwpA16rU8VssjwhLoyEb5AbowQRiVfL0="
       ],
-      "last_seen": "2026-11-13T09:09:35.308",
+      "last_seen": "2026-11-13T09:49:09.753",
       "longest_ai_kill_m": 29,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
       "market_sales": 0,
       "name": "RobertCZ",
-      "vehicle_driver_entries": 1,
+      "vehicle_driver_entries": 3,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 1,
+      "vehicle_trips": 3,
       "weapons": {
         "Pioneer": 1
       },
@@ -4022,13 +4022,13 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-13T04:41:12.915",
+      "last_seen": "2026-11-13T09:43:49.100",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 679356,
       "market_sales": 811,
       "name": "siedma",
-      "vehicle_driver_entries": 117,
+      "vehicle_driver_entries": 118,
       "vehicle_passenger_entries": 120,
       "vehicle_trip_straightline_m": 218110.6,
       "vehicle_trips": 113,
@@ -4143,16 +4143,16 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-13T09:29:33.267",
+      "last_seen": "2026-11-13T09:59:02.307",
       "longest_ai_kill_m": 669,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 729238,
-      "market_sales": 889,
+      "market_income": 730424,
+      "market_sales": 890,
       "name": "CHABA_",
-      "vehicle_driver_entries": 196,
+      "vehicle_driver_entries": 198,
       "vehicle_passenger_entries": 14,
       "vehicle_trip_straightline_m": 268237.6,
-      "vehicle_trips": 196,
+      "vehicle_trips": 197,
       "weapons": {
         "Barrett Model 98B": 23,
         "Blaze": 16,
@@ -4793,32 +4793,32 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 58,
+      "ai_kills": 60,
       "deaths": 1,
       "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 40,
+      "favorite_weapon_kills": 42,
       "first_seen": "2026-11-03T17:39:21.008",
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-13T09:34:19.636",
+      "last_seen": "2026-11-13T10:01:55.930",
       "longest_ai_kill_m": 446,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 165375,
-      "market_sales": 117,
+      "market_income": 167145,
+      "market_sales": 122,
       "name": "Lovec",
-      "vehicle_driver_entries": 49,
+      "vehicle_driver_entries": 51,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 85873.7,
-      "vehicle_trips": 43,
+      "vehicle_trip_straightline_m": 93867.5,
+      "vehicle_trips": 45,
       "weapons": {
         "AKML": 11,
         "Blaze": 2,
         "CR-527": 4,
-        "M70 Tundra": 40,
+        "M70 Tundra": 42,
         "Mlock-91": 1
       },
-      "weapon_master_kills": 40,
+      "weapon_master_kills": 42,
       "is_admin": false,
       "aris_score": 30,
       "aris_score_breakdown": {
@@ -4891,7 +4891,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 30,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 15,
@@ -4899,7 +4899,7 @@
       "ids": [
         "5hEVksxs0jFOPbULJLojg5vSCnKVj0RpRKtDbl5qL6c="
       ],
-      "last_seen": "2026-11-13T08:58:56.503",
+      "last_seen": "2026-11-13T09:45:04.147",
       "longest_ai_kill_m": 428,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 145518,
@@ -4911,7 +4911,7 @@
       "vehicle_trips": 5,
       "weapons": {
         "BK-18": 2,
-        "Blaze": 11,
+        "Blaze": 13,
         "CR-527": 15
       },
       "weapon_master_kills": 15,
@@ -5254,16 +5254,16 @@
       "ids": [
         "8QmiDRtTjiQhI51mwlRwSBSaMvhewrMXHuQfb0-7K8A="
       ],
-      "last_seen": "2026-11-13T09:36:59.911",
+      "last_seen": "2026-11-13T09:59:00.083",
       "longest_ai_kill_m": 363,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 238439,
       "market_sales": 269,
       "name": "Kropy",
-      "vehicle_driver_entries": 247,
-      "vehicle_passenger_entries": 44,
+      "vehicle_driver_entries": 248,
+      "vehicle_passenger_entries": 45,
       "vehicle_trip_straightline_m": 285544.6,
-      "vehicle_trips": 239,
+      "vehicle_trips": 240,
       "weapons": {
         "BK-43": 2,
         "Blaze": 14,
@@ -7370,16 +7370,16 @@
       "ids": [
         "S3gTstEwQeJBwpA16rU8VssjwhLoyEb5AbowQRiVfL0="
       ],
-      "last_seen": "2026-11-13T09:09:35.308",
+      "last_seen": "2026-11-13T09:49:09.753",
       "longest_ai_kill_m": 29,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
       "market_sales": 0,
       "name": "RobertCZ",
-      "vehicle_driver_entries": 1,
+      "vehicle_driver_entries": 3,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 1,
+      "vehicle_trips": 3,
       "weapons": {
         "Pioneer": 1
       },
@@ -8948,16 +8948,16 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-13T09:29:33.267",
+      "last_seen": "2026-11-13T09:59:02.307",
       "longest_ai_kill_m": 669,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 729238,
-      "market_sales": 889,
+      "market_income": 730424,
+      "market_sales": 890,
       "name": "CHABA_",
-      "vehicle_driver_entries": 196,
+      "vehicle_driver_entries": 198,
       "vehicle_passenger_entries": 14,
       "vehicle_trip_straightline_m": 268237.6,
-      "vehicle_trips": 196,
+      "vehicle_trips": 197,
       "weapons": {
         "Barrett Model 98B": 23,
         "Blaze": 16,
@@ -9262,16 +9262,16 @@
       "ids": [
         "8QmiDRtTjiQhI51mwlRwSBSaMvhewrMXHuQfb0-7K8A="
       ],
-      "last_seen": "2026-11-13T09:36:59.911",
+      "last_seen": "2026-11-13T09:59:00.083",
       "longest_ai_kill_m": 363,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 238439,
       "market_sales": 269,
       "name": "Kropy",
-      "vehicle_driver_entries": 247,
-      "vehicle_passenger_entries": 44,
+      "vehicle_driver_entries": 248,
+      "vehicle_passenger_entries": 45,
       "vehicle_trip_straightline_m": 285544.6,
-      "vehicle_trips": 239,
+      "vehicle_trips": 240,
       "weapons": {
         "BK-43": 2,
         "Blaze": 14,
@@ -10602,32 +10602,32 @@
       }
     },
     {
-      "ai_kills": 58,
+      "ai_kills": 60,
       "deaths": 1,
       "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 40,
+      "favorite_weapon_kills": 42,
       "first_seen": "2026-11-03T17:39:21.008",
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-13T09:34:19.636",
+      "last_seen": "2026-11-13T10:01:55.930",
       "longest_ai_kill_m": 446,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 165375,
-      "market_sales": 117,
+      "market_income": 167145,
+      "market_sales": 122,
       "name": "Lovec",
-      "vehicle_driver_entries": 49,
+      "vehicle_driver_entries": 51,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 85873.7,
-      "vehicle_trips": 43,
+      "vehicle_trip_straightline_m": 93867.5,
+      "vehicle_trips": 45,
       "weapons": {
         "AKML": 11,
         "Blaze": 2,
         "CR-527": 4,
-        "M70 Tundra": 40,
+        "M70 Tundra": 42,
         "Mlock-91": 1
       },
-      "weapon_master_kills": 40,
+      "weapon_master_kills": 42,
       "is_admin": false,
       "aris_score": 30,
       "aris_score_breakdown": {
@@ -11090,16 +11090,16 @@
       "ids": [
         "S3gTstEwQeJBwpA16rU8VssjwhLoyEb5AbowQRiVfL0="
       ],
-      "last_seen": "2026-11-13T09:09:35.308",
+      "last_seen": "2026-11-13T09:49:09.753",
       "longest_ai_kill_m": 29,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
       "market_sales": 0,
       "name": "RobertCZ",
-      "vehicle_driver_entries": 1,
+      "vehicle_driver_entries": 3,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 1,
+      "vehicle_trips": 3,
       "weapons": {
         "Pioneer": 1
       },
@@ -11142,13 +11142,13 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-13T04:41:12.915",
+      "last_seen": "2026-11-13T09:43:49.100",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 679356,
       "market_sales": 811,
       "name": "siedma",
-      "vehicle_driver_entries": 117,
+      "vehicle_driver_entries": 118,
       "vehicle_passenger_entries": 120,
       "vehicle_trip_straightline_m": 218110.6,
       "vehicle_trips": 113,
@@ -11772,16 +11772,16 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-13T09:29:33.267",
+      "last_seen": "2026-11-13T09:59:02.307",
       "longest_ai_kill_m": 669,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 729238,
-      "market_sales": 889,
+      "market_income": 730424,
+      "market_sales": 890,
       "name": "CHABA_",
-      "vehicle_driver_entries": 196,
+      "vehicle_driver_entries": 198,
       "vehicle_passenger_entries": 14,
       "vehicle_trip_straightline_m": 268237.6,
-      "vehicle_trips": 196,
+      "vehicle_trips": 197,
       "weapons": {
         "Barrett Model 98B": 23,
         "Blaze": 16,
@@ -11854,13 +11854,13 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-13T04:41:12.915",
+      "last_seen": "2026-11-13T09:43:49.100",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 679356,
       "market_sales": 811,
       "name": "siedma",
-      "vehicle_driver_entries": 117,
+      "vehicle_driver_entries": 118,
       "vehicle_passenger_entries": 120,
       "vehicle_trip_straightline_m": 218110.6,
       "vehicle_trips": 113,
@@ -11968,16 +11968,16 @@
       "ids": [
         "8QmiDRtTjiQhI51mwlRwSBSaMvhewrMXHuQfb0-7K8A="
       ],
-      "last_seen": "2026-11-13T09:36:59.911",
+      "last_seen": "2026-11-13T09:59:00.083",
       "longest_ai_kill_m": 363,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 238439,
       "market_sales": 269,
       "name": "Kropy",
-      "vehicle_driver_entries": 247,
-      "vehicle_passenger_entries": 44,
+      "vehicle_driver_entries": 248,
+      "vehicle_passenger_entries": 45,
       "vehicle_trip_straightline_m": 285544.6,
-      "vehicle_trips": 239,
+      "vehicle_trips": 240,
       "weapons": {
         "BK-43": 2,
         "Blaze": 14,
@@ -12169,6 +12169,40 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 60,
+      "deaths": 1,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 42,
+      "first_seen": "2026-11-03T17:39:21.008",
+      "ids": [
+        "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
+      ],
+      "last_seen": "2026-11-13T10:01:55.930",
+      "longest_ai_kill_m": 446,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 167145,
+      "market_sales": 122,
+      "name": "Lovec",
+      "vehicle_driver_entries": 51,
+      "vehicle_passenger_entries": 6,
+      "vehicle_trip_straightline_m": 93867.5,
+      "vehicle_trips": 45,
+      "weapons": {
+        "AKML": 11,
+        "Blaze": 2,
+        "CR-527": 4,
+        "M70 Tundra": 42,
+        "Mlock-91": 1
+      },
+      "weapon_master_kills": 42,
+      "is_admin": false,
+      "aris_score": 30,
+      "aris_score_breakdown": {
+        "road_warrior": 10,
+        "weapon_master": 20
+      }
+    },
+    {
       "ai_kills": 51,
       "deaths": 2,
       "favorite_weapon": "CR-527",
@@ -12206,40 +12240,6 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 58,
-      "deaths": 1,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 40,
-      "first_seen": "2026-11-03T17:39:21.008",
-      "ids": [
-        "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
-      ],
-      "last_seen": "2026-11-13T09:34:19.636",
-      "longest_ai_kill_m": 446,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 165375,
-      "market_sales": 117,
-      "name": "Lovec",
-      "vehicle_driver_entries": 49,
-      "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 85873.7,
-      "vehicle_trips": 43,
-      "weapons": {
-        "AKML": 11,
-        "Blaze": 2,
-        "CR-527": 4,
-        "M70 Tundra": 40,
-        "Mlock-91": 1
-      },
-      "weapon_master_kills": 40,
-      "is_admin": false,
-      "aris_score": 30,
-      "aris_score_breakdown": {
-        "road_warrior": 10,
-        "weapon_master": 20
-      }
-    },
-    {
       "ai_kills": 30,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -12270,7 +12270,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 30,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 15,
@@ -12278,7 +12278,7 @@
       "ids": [
         "5hEVksxs0jFOPbULJLojg5vSCnKVj0RpRKtDbl5qL6c="
       ],
-      "last_seen": "2026-11-13T08:58:56.503",
+      "last_seen": "2026-11-13T09:45:04.147",
       "longest_ai_kill_m": 428,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 145518,
@@ -12290,7 +12290,7 @@
       "vehicle_trips": 5,
       "weapons": {
         "BK-18": 2,
-        "Blaze": 11,
+        "Blaze": 13,
         "CR-527": 15
       },
       "weapon_master_kills": 15,
@@ -13785,16 +13785,16 @@
       "ids": [
         "8QmiDRtTjiQhI51mwlRwSBSaMvhewrMXHuQfb0-7K8A="
       ],
-      "last_seen": "2026-11-13T09:36:59.911",
+      "last_seen": "2026-11-13T09:59:00.083",
       "longest_ai_kill_m": 363,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 238439,
       "market_sales": 269,
       "name": "Kropy",
-      "vehicle_driver_entries": 247,
-      "vehicle_passenger_entries": 44,
+      "vehicle_driver_entries": 248,
+      "vehicle_passenger_entries": 45,
       "vehicle_trip_straightline_m": 285544.6,
-      "vehicle_trips": 239,
+      "vehicle_trips": 240,
       "weapons": {
         "BK-43": 2,
         "Blaze": 14,
@@ -13825,16 +13825,16 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-13T09:29:33.267",
+      "last_seen": "2026-11-13T09:59:02.307",
       "longest_ai_kill_m": 669,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 729238,
-      "market_sales": 889,
+      "market_income": 730424,
+      "market_sales": 890,
       "name": "CHABA_",
-      "vehicle_driver_entries": 196,
+      "vehicle_driver_entries": 198,
       "vehicle_passenger_entries": 14,
       "vehicle_trip_straightline_m": 268237.6,
-      "vehicle_trips": 196,
+      "vehicle_trips": 197,
       "weapons": {
         "Barrett Model 98B": 23,
         "Blaze": 16,
@@ -13908,13 +13908,13 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-13T04:41:12.915",
+      "last_seen": "2026-11-13T09:43:49.100",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 679356,
       "market_sales": 811,
       "name": "siedma",
-      "vehicle_driver_entries": 117,
+      "vehicle_driver_entries": 118,
       "vehicle_passenger_entries": 120,
       "vehicle_trip_straightline_m": 218110.6,
       "vehicle_trips": 113,
@@ -14096,32 +14096,32 @@
       }
     },
     {
-      "ai_kills": 58,
+      "ai_kills": 60,
       "deaths": 1,
       "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 40,
+      "favorite_weapon_kills": 42,
       "first_seen": "2026-11-03T17:39:21.008",
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-13T09:34:19.636",
+      "last_seen": "2026-11-13T10:01:55.930",
       "longest_ai_kill_m": 446,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 165375,
-      "market_sales": 117,
+      "market_income": 167145,
+      "market_sales": 122,
       "name": "Lovec",
-      "vehicle_driver_entries": 49,
+      "vehicle_driver_entries": 51,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 85873.7,
-      "vehicle_trips": 43,
+      "vehicle_trip_straightline_m": 93867.5,
+      "vehicle_trips": 45,
       "weapons": {
         "AKML": 11,
         "Blaze": 2,
         "CR-527": 4,
-        "M70 Tundra": 40,
+        "M70 Tundra": 42,
         "Mlock-91": 1
       },
-      "weapon_master_kills": 40,
+      "weapon_master_kills": 42,
       "is_admin": false,
       "aris_score": 30,
       "aris_score_breakdown": {
@@ -14652,7 +14652,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 30,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 15,
@@ -14660,7 +14660,7 @@
       "ids": [
         "5hEVksxs0jFOPbULJLojg5vSCnKVj0RpRKtDbl5qL6c="
       ],
-      "last_seen": "2026-11-13T08:58:56.503",
+      "last_seen": "2026-11-13T09:45:04.147",
       "longest_ai_kill_m": 428,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 145518,
@@ -14672,7 +14672,7 @@
       "vehicle_trips": 5,
       "weapons": {
         "BK-18": 2,
-        "Blaze": 11,
+        "Blaze": 13,
         "CR-527": 15
       },
       "weapon_master_kills": 15,
@@ -15256,16 +15256,16 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-13T09:29:33.267",
+      "last_seen": "2026-11-13T09:59:02.307",
       "longest_ai_kill_m": 669,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 729238,
-      "market_sales": 889,
+      "market_income": 730424,
+      "market_sales": 890,
       "name": "CHABA_",
-      "vehicle_driver_entries": 196,
+      "vehicle_driver_entries": 198,
       "vehicle_passenger_entries": 14,
       "vehicle_trip_straightline_m": 268237.6,
-      "vehicle_trips": 196,
+      "vehicle_trips": 197,
       "weapons": {
         "Barrett Model 98B": 23,
         "Blaze": 16,
@@ -15464,13 +15464,13 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-13T04:41:12.915",
+      "last_seen": "2026-11-13T09:43:49.100",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 679356,
       "market_sales": 811,
       "name": "siedma",
-      "vehicle_driver_entries": 117,
+      "vehicle_driver_entries": 118,
       "vehicle_passenger_entries": 120,
       "vehicle_trip_straightline_m": 218110.6,
       "vehicle_trips": 113,
@@ -15543,16 +15543,16 @@
       "ids": [
         "8QmiDRtTjiQhI51mwlRwSBSaMvhewrMXHuQfb0-7K8A="
       ],
-      "last_seen": "2026-11-13T09:36:59.911",
+      "last_seen": "2026-11-13T09:59:00.083",
       "longest_ai_kill_m": 363,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 238439,
       "market_sales": 269,
       "name": "Kropy",
-      "vehicle_driver_entries": 247,
-      "vehicle_passenger_entries": 44,
+      "vehicle_driver_entries": 248,
+      "vehicle_passenger_entries": 45,
       "vehicle_trip_straightline_m": 285544.6,
-      "vehicle_trips": 239,
+      "vehicle_trips": 240,
       "weapons": {
         "BK-43": 2,
         "Blaze": 14,
@@ -15575,32 +15575,32 @@
       }
     },
     {
-      "ai_kills": 58,
+      "ai_kills": 60,
       "deaths": 1,
       "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 40,
+      "favorite_weapon_kills": 42,
       "first_seen": "2026-11-03T17:39:21.008",
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-13T09:34:19.636",
+      "last_seen": "2026-11-13T10:01:55.930",
       "longest_ai_kill_m": 446,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 165375,
-      "market_sales": 117,
+      "market_income": 167145,
+      "market_sales": 122,
       "name": "Lovec",
-      "vehicle_driver_entries": 49,
+      "vehicle_driver_entries": 51,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 85873.7,
-      "vehicle_trips": 43,
+      "vehicle_trip_straightline_m": 93867.5,
+      "vehicle_trips": 45,
       "weapons": {
         "AKML": 11,
         "Blaze": 2,
         "CR-527": 4,
-        "M70 Tundra": 40,
+        "M70 Tundra": 42,
         "Mlock-91": 1
       },
-      "weapon_master_kills": 40,
+      "weapon_master_kills": 42,
       "is_admin": false,
       "aris_score": 30,
       "aris_score_breakdown": {
@@ -16496,7 +16496,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 30,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 15,
@@ -16504,7 +16504,7 @@
       "ids": [
         "5hEVksxs0jFOPbULJLojg5vSCnKVj0RpRKtDbl5qL6c="
       ],
-      "last_seen": "2026-11-13T08:58:56.503",
+      "last_seen": "2026-11-13T09:45:04.147",
       "longest_ai_kill_m": 428,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 145518,
@@ -16516,7 +16516,7 @@
       "vehicle_trips": 5,
       "weapons": {
         "BK-18": 2,
-        "Blaze": 11,
+        "Blaze": 13,
         "CR-527": 15
       },
       "weapon_master_kills": 15,
@@ -18837,16 +18837,16 @@
       "ids": [
         "S3gTstEwQeJBwpA16rU8VssjwhLoyEb5AbowQRiVfL0="
       ],
-      "last_seen": "2026-11-13T09:09:35.308",
+      "last_seen": "2026-11-13T09:49:09.753",
       "longest_ai_kill_m": 29,
       "longest_ai_kill_weapon": "Pioneer",
       "market_income": 0,
       "market_sales": 0,
       "name": "RobertCZ",
-      "vehicle_driver_entries": 1,
+      "vehicle_driver_entries": 3,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 1,
+      "vehicle_trips": 3,
       "weapons": {
         "Pioneer": 1
       },
@@ -18972,16 +18972,16 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-13T09:29:33.267",
+      "last_seen": "2026-11-13T09:59:02.307",
       "longest_ai_kill_m": 669,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 729238,
-      "market_sales": 889,
+      "market_income": 730424,
+      "market_sales": 890,
       "name": "CHABA_",
-      "vehicle_driver_entries": 196,
+      "vehicle_driver_entries": 198,
       "vehicle_passenger_entries": 14,
       "vehicle_trip_straightline_m": 268237.6,
-      "vehicle_trips": 196,
+      "vehicle_trips": 197,
       "weapons": {
         "Barrett Model 98B": 23,
         "Blaze": 16,
@@ -19055,13 +19055,13 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-13T04:41:12.915",
+      "last_seen": "2026-11-13T09:43:49.100",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 679356,
       "market_sales": 811,
       "name": "siedma",
-      "vehicle_driver_entries": 117,
+      "vehicle_driver_entries": 118,
       "vehicle_passenger_entries": 120,
       "vehicle_trip_straightline_m": 218110.6,
       "vehicle_trips": 113,
@@ -19262,16 +19262,16 @@
       "ids": [
         "8QmiDRtTjiQhI51mwlRwSBSaMvhewrMXHuQfb0-7K8A="
       ],
-      "last_seen": "2026-11-13T09:36:59.911",
+      "last_seen": "2026-11-13T09:59:00.083",
       "longest_ai_kill_m": 363,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 238439,
       "market_sales": 269,
       "name": "Kropy",
-      "vehicle_driver_entries": 247,
-      "vehicle_passenger_entries": 44,
+      "vehicle_driver_entries": 248,
+      "vehicle_passenger_entries": 45,
       "vehicle_trip_straightline_m": 285544.6,
-      "vehicle_trips": 239,
+      "vehicle_trips": 240,
       "weapons": {
         "BK-43": 2,
         "Blaze": 14,
@@ -19628,7 +19628,41 @@
       }
     },
     {
-      "ai_kills": 28,
+      "ai_kills": 60,
+      "deaths": 1,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 42,
+      "first_seen": "2026-11-03T17:39:21.008",
+      "ids": [
+        "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
+      ],
+      "last_seen": "2026-11-13T10:01:55.930",
+      "longest_ai_kill_m": 446,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 167145,
+      "market_sales": 122,
+      "name": "Lovec",
+      "vehicle_driver_entries": 51,
+      "vehicle_passenger_entries": 6,
+      "vehicle_trip_straightline_m": 93867.5,
+      "vehicle_trips": 45,
+      "weapons": {
+        "AKML": 11,
+        "Blaze": 2,
+        "CR-527": 4,
+        "M70 Tundra": 42,
+        "Mlock-91": 1
+      },
+      "weapon_master_kills": 42,
+      "is_admin": false,
+      "aris_score": 30,
+      "aris_score_breakdown": {
+        "road_warrior": 10,
+        "weapon_master": 20
+      }
+    },
+    {
+      "ai_kills": 30,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 15,
@@ -19636,7 +19670,7 @@
       "ids": [
         "5hEVksxs0jFOPbULJLojg5vSCnKVj0RpRKtDbl5qL6c="
       ],
-      "last_seen": "2026-11-13T08:58:56.503",
+      "last_seen": "2026-11-13T09:45:04.147",
       "longest_ai_kill_m": 428,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 145518,
@@ -19648,7 +19682,7 @@
       "vehicle_trips": 5,
       "weapons": {
         "BK-18": 2,
-        "Blaze": 11,
+        "Blaze": 13,
         "CR-527": 15
       },
       "weapon_master_kills": 15,
@@ -19685,40 +19719,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 58,
-      "deaths": 1,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 40,
-      "first_seen": "2026-11-03T17:39:21.008",
-      "ids": [
-        "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
-      ],
-      "last_seen": "2026-11-13T09:34:19.636",
-      "longest_ai_kill_m": 446,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 165375,
-      "market_sales": 117,
-      "name": "Lovec",
-      "vehicle_driver_entries": 49,
-      "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 85873.7,
-      "vehicle_trips": 43,
-      "weapons": {
-        "AKML": 11,
-        "Blaze": 2,
-        "CR-527": 4,
-        "M70 Tundra": 40,
-        "Mlock-91": 1
-      },
-      "weapon_master_kills": 40,
-      "is_admin": false,
-      "aris_score": 30,
-      "aris_score_breakdown": {
-        "road_warrior": 10,
-        "weapon_master": 20
-      }
     },
     {
       "ai_kills": 43,
@@ -21068,16 +21068,16 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-13T09:29:33.267",
+      "last_seen": "2026-11-13T09:59:02.307",
       "longest_ai_kill_m": 669,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 729238,
-      "market_sales": 889,
+      "market_income": 730424,
+      "market_sales": 890,
       "name": "CHABA_",
-      "vehicle_driver_entries": 196,
+      "vehicle_driver_entries": 198,
       "vehicle_passenger_entries": 14,
       "vehicle_trip_straightline_m": 268237.6,
-      "vehicle_trips": 196,
+      "vehicle_trips": 197,
       "weapons": {
         "Barrett Model 98B": 23,
         "Blaze": 16,
@@ -21195,13 +21195,13 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-13T04:41:12.915",
+      "last_seen": "2026-11-13T09:43:49.100",
       "longest_ai_kill_m": 719,
       "longest_ai_kill_weapon": "NEMO ARMS OMEN",
       "market_income": 679356,
       "market_sales": 811,
       "name": "siedma",
-      "vehicle_driver_entries": 117,
+      "vehicle_driver_entries": 118,
       "vehicle_passenger_entries": 120,
       "vehicle_trip_straightline_m": 218110.6,
       "vehicle_trips": 113,
@@ -21321,16 +21321,16 @@
       "ids": [
         "8QmiDRtTjiQhI51mwlRwSBSaMvhewrMXHuQfb0-7K8A="
       ],
-      "last_seen": "2026-11-13T09:36:59.911",
+      "last_seen": "2026-11-13T09:59:00.083",
       "longest_ai_kill_m": 363,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 238439,
       "market_sales": 269,
       "name": "Kropy",
-      "vehicle_driver_entries": 247,
-      "vehicle_passenger_entries": 44,
+      "vehicle_driver_entries": 248,
+      "vehicle_passenger_entries": 45,
       "vehicle_trip_straightline_m": 285544.6,
-      "vehicle_trips": 239,
+      "vehicle_trips": 240,
       "weapons": {
         "BK-43": 2,
         "Blaze": 14,
@@ -21607,32 +21607,32 @@
       }
     },
     {
-      "ai_kills": 58,
+      "ai_kills": 60,
       "deaths": 1,
       "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 40,
+      "favorite_weapon_kills": 42,
       "first_seen": "2026-11-03T17:39:21.008",
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-13T09:34:19.636",
+      "last_seen": "2026-11-13T10:01:55.930",
       "longest_ai_kill_m": 446,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 165375,
-      "market_sales": 117,
+      "market_income": 167145,
+      "market_sales": 122,
       "name": "Lovec",
-      "vehicle_driver_entries": 49,
+      "vehicle_driver_entries": 51,
       "vehicle_passenger_entries": 6,
-      "vehicle_trip_straightline_m": 85873.7,
-      "vehicle_trips": 43,
+      "vehicle_trip_straightline_m": 93867.5,
+      "vehicle_trips": 45,
       "weapons": {
         "AKML": 11,
         "Blaze": 2,
         "CR-527": 4,
-        "M70 Tundra": 40,
+        "M70 Tundra": 42,
         "Mlock-91": 1
       },
-      "weapon_master_kills": 40,
+      "weapon_master_kills": 42,
       "is_admin": false,
       "aris_score": 30,
       "aris_score_breakdown": {
