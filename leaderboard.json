@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 215,
   "staff_count": 6,
-  "updated_at_local": "14.11.2026 20:01",
+  "updated_at_local": "14.11.2026 20:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -1497,6 +1497,39 @@
     },
     {
       "ai_kills": 33,
+      "deaths": 1,
+      "favorite_weapon": "VS-89",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-06T00:47:10.061",
+      "ids": [
+        "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
+      ],
+      "last_seen": "2026-11-14T20:26:38.971",
+      "longest_ai_kill_m": 664,
+      "longest_ai_kill_weapon": "VS-89",
+      "market_income": 221706,
+      "market_sales": 213,
+      "name": "Fenix-CZ",
+      "vehicle_driver_entries": 17,
+      "vehicle_passenger_entries": 28,
+      "vehicle_trip_straightline_m": 462.6,
+      "vehicle_trips": 17,
+      "weapons": {
+        "BRN-180": 3,
+        "CR-527": 10,
+        "IJ-70": 1,
+        "SG5-K": 3,
+        "VS-89": 16
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 20,
+      "aris_score_breakdown": {
+        "longest_shot": 20
+      }
+    },
+    {
+      "ai_kills": 33,
       "deaths": 5,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 10,
@@ -1686,39 +1719,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 29,
-      "deaths": 1,
-      "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 12,
-      "first_seen": "2026-11-06T00:47:10.061",
-      "ids": [
-        "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
-      ],
-      "last_seen": "2026-11-14T19:59:27.755",
-      "longest_ai_kill_m": 664,
-      "longest_ai_kill_weapon": "VS-89",
-      "market_income": 211531,
-      "market_sales": 199,
-      "name": "Fenix-CZ",
-      "vehicle_driver_entries": 17,
-      "vehicle_passenger_entries": 28,
-      "vehicle_trip_straightline_m": 462.6,
-      "vehicle_trips": 17,
-      "weapons": {
-        "BRN-180": 3,
-        "CR-527": 10,
-        "IJ-70": 1,
-        "SG5-K": 3,
-        "VS-89": 12
-      },
-      "weapon_master_kills": 12,
-      "is_admin": false,
-      "aris_score": 20,
-      "aris_score_breakdown": {
-        "longest_shot": 20
-      }
     },
     {
       "ai_kills": 28,
@@ -3362,7 +3362,7 @@
       "ids": [
         "FaANk4tVlIfT_iFrem0Imqa3NLZetL_QBDBm7KobqTs="
       ],
-      "last_seen": "2026-11-14T17:00:35.285",
+      "last_seen": "2026-11-14T20:18:17.193",
       "longest_ai_kill_m": 98,
       "longest_ai_kill_weapon": "RAK-37",
       "market_income": 0,
@@ -4370,19 +4370,19 @@
       }
     },
     {
-      "ai_kills": 29,
+      "ai_kills": 33,
       "deaths": 1,
       "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 12,
+      "favorite_weapon_kills": 16,
       "first_seen": "2026-11-06T00:47:10.061",
       "ids": [
         "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
       ],
-      "last_seen": "2026-11-14T19:59:27.755",
+      "last_seen": "2026-11-14T20:26:38.971",
       "longest_ai_kill_m": 664,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 211531,
-      "market_sales": 199,
+      "market_income": 221706,
+      "market_sales": 213,
       "name": "Fenix-CZ",
       "vehicle_driver_entries": 17,
       "vehicle_passenger_entries": 28,
@@ -4393,9 +4393,9 @@
         "CR-527": 10,
         "IJ-70": 1,
         "SG5-K": 3,
-        "VS-89": 12
+        "VS-89": 16
       },
-      "weapon_master_kills": 12,
+      "weapon_master_kills": 16,
       "is_admin": false,
       "aris_score": 20,
       "aris_score_breakdown": {
@@ -6997,7 +6997,7 @@
       "ids": [
         "FaANk4tVlIfT_iFrem0Imqa3NLZetL_QBDBm7KobqTs="
       ],
-      "last_seen": "2026-11-14T17:00:35.285",
+      "last_seen": "2026-11-14T20:18:17.193",
       "longest_ai_kill_m": 98,
       "longest_ai_kill_weapon": "RAK-37",
       "market_income": 0,
@@ -8249,7 +8249,7 @@
       "ids": [
         "FaANk4tVlIfT_iFrem0Imqa3NLZetL_QBDBm7KobqTs="
       ],
-      "last_seen": "2026-11-14T17:00:35.285",
+      "last_seen": "2026-11-14T20:18:17.193",
       "longest_ai_kill_m": 98,
       "longest_ai_kill_weapon": "RAK-37",
       "market_income": 0,
@@ -10750,19 +10750,19 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 29,
+      "ai_kills": 33,
       "deaths": 1,
       "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 12,
+      "favorite_weapon_kills": 16,
       "first_seen": "2026-11-06T00:47:10.061",
       "ids": [
         "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
       ],
-      "last_seen": "2026-11-14T19:59:27.755",
+      "last_seen": "2026-11-14T20:26:38.971",
       "longest_ai_kill_m": 664,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 211531,
-      "market_sales": 199,
+      "market_income": 221706,
+      "market_sales": 213,
       "name": "Fenix-CZ",
       "vehicle_driver_entries": 17,
       "vehicle_passenger_entries": 28,
@@ -10773,9 +10773,9 @@
         "CR-527": 10,
         "IJ-70": 1,
         "SG5-K": 3,
-        "VS-89": 12
+        "VS-89": 16
       },
-      "weapon_master_kills": 12,
+      "weapon_master_kills": 16,
       "is_admin": false,
       "aris_score": 20,
       "aris_score_breakdown": {
@@ -13060,19 +13060,19 @@
       }
     },
     {
-      "ai_kills": 29,
+      "ai_kills": 33,
       "deaths": 1,
       "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 12,
+      "favorite_weapon_kills": 16,
       "first_seen": "2026-11-06T00:47:10.061",
       "ids": [
         "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
       ],
-      "last_seen": "2026-11-14T19:59:27.755",
+      "last_seen": "2026-11-14T20:26:38.971",
       "longest_ai_kill_m": 664,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 211531,
-      "market_sales": 199,
+      "market_income": 221706,
+      "market_sales": 213,
       "name": "Fenix-CZ",
       "vehicle_driver_entries": 17,
       "vehicle_passenger_entries": 28,
@@ -13083,9 +13083,9 @@
         "CR-527": 10,
         "IJ-70": 1,
         "SG5-K": 3,
-        "VS-89": 12
+        "VS-89": 16
       },
-      "weapon_master_kills": 12,
+      "weapon_master_kills": 16,
       "is_admin": false,
       "aris_score": 20,
       "aris_score_breakdown": {
@@ -16085,19 +16085,19 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 29,
+      "ai_kills": 33,
       "deaths": 1,
       "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 12,
+      "favorite_weapon_kills": 16,
       "first_seen": "2026-11-06T00:47:10.061",
       "ids": [
         "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
       ],
-      "last_seen": "2026-11-14T19:59:27.755",
+      "last_seen": "2026-11-14T20:26:38.971",
       "longest_ai_kill_m": 664,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 211531,
-      "market_sales": 199,
+      "market_income": 221706,
+      "market_sales": 213,
       "name": "Fenix-CZ",
       "vehicle_driver_entries": 17,
       "vehicle_passenger_entries": 28,
@@ -16108,9 +16108,9 @@
         "CR-527": 10,
         "IJ-70": 1,
         "SG5-K": 3,
-        "VS-89": 12
+        "VS-89": 16
       },
-      "weapon_master_kills": 12,
+      "weapon_master_kills": 16,
       "is_admin": false,
       "aris_score": 20,
       "aris_score_breakdown": {
@@ -17730,6 +17730,39 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 33,
+      "deaths": 1,
+      "favorite_weapon": "VS-89",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-06T00:47:10.061",
+      "ids": [
+        "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
+      ],
+      "last_seen": "2026-11-14T20:26:38.971",
+      "longest_ai_kill_m": 664,
+      "longest_ai_kill_weapon": "VS-89",
+      "market_income": 221706,
+      "market_sales": 213,
+      "name": "Fenix-CZ",
+      "vehicle_driver_entries": 17,
+      "vehicle_passenger_entries": 28,
+      "vehicle_trip_straightline_m": 462.6,
+      "vehicle_trips": 17,
+      "weapons": {
+        "BRN-180": 3,
+        "CR-527": 10,
+        "IJ-70": 1,
+        "SG5-K": 3,
+        "VS-89": 16
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 20,
+      "aris_score_breakdown": {
+        "longest_shot": 20
+      }
+    },
+    {
       "ai_kills": 31,
       "deaths": 1,
       "favorite_weapon": "CR-527",
@@ -18238,39 +18271,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 29,
-      "deaths": 1,
-      "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 12,
-      "first_seen": "2026-11-06T00:47:10.061",
-      "ids": [
-        "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
-      ],
-      "last_seen": "2026-11-14T19:59:27.755",
-      "longest_ai_kill_m": 664,
-      "longest_ai_kill_weapon": "VS-89",
-      "market_income": 211531,
-      "market_sales": 199,
-      "name": "Fenix-CZ",
-      "vehicle_driver_entries": 17,
-      "vehicle_passenger_entries": 28,
-      "vehicle_trip_straightline_m": 462.6,
-      "vehicle_trips": 17,
-      "weapons": {
-        "BRN-180": 3,
-        "CR-527": 10,
-        "IJ-70": 1,
-        "SG5-K": 3,
-        "VS-89": 12
-      },
-      "weapon_master_kills": 12,
-      "is_admin": false,
-      "aris_score": 20,
-      "aris_score_breakdown": {
-        "longest_shot": 20
-      }
     },
     {
       "ai_kills": 18,
@@ -20070,7 +20070,7 @@
       "ids": [
         "FaANk4tVlIfT_iFrem0Imqa3NLZetL_QBDBm7KobqTs="
       ],
-      "last_seen": "2026-11-14T17:00:35.285",
+      "last_seen": "2026-11-14T20:18:17.193",
       "longest_ai_kill_m": 98,
       "longest_ai_kill_weapon": "RAK-37",
       "market_income": 0,
@@ -20836,6 +20836,39 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 33,
+      "deaths": 1,
+      "favorite_weapon": "VS-89",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-06T00:47:10.061",
+      "ids": [
+        "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
+      ],
+      "last_seen": "2026-11-14T20:26:38.971",
+      "longest_ai_kill_m": 664,
+      "longest_ai_kill_weapon": "VS-89",
+      "market_income": 221706,
+      "market_sales": 213,
+      "name": "Fenix-CZ",
+      "vehicle_driver_entries": 17,
+      "vehicle_passenger_entries": 28,
+      "vehicle_trip_straightline_m": 462.6,
+      "vehicle_trips": 17,
+      "weapons": {
+        "BRN-180": 3,
+        "CR-527": 10,
+        "IJ-70": 1,
+        "SG5-K": 3,
+        "VS-89": 16
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 20,
+      "aris_score_breakdown": {
+        "longest_shot": 20
+      }
+    },
+    {
       "ai_kills": 64,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
@@ -20869,39 +20902,6 @@
       "aris_score_breakdown": {
         "road_warrior": 10,
         "weapon_master": 30
-      }
-    },
-    {
-      "ai_kills": 29,
-      "deaths": 1,
-      "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 12,
-      "first_seen": "2026-11-06T00:47:10.061",
-      "ids": [
-        "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
-      ],
-      "last_seen": "2026-11-14T19:59:27.755",
-      "longest_ai_kill_m": 664,
-      "longest_ai_kill_weapon": "VS-89",
-      "market_income": 211531,
-      "market_sales": 199,
-      "name": "Fenix-CZ",
-      "vehicle_driver_entries": 17,
-      "vehicle_passenger_entries": 28,
-      "vehicle_trip_straightline_m": 462.6,
-      "vehicle_trips": 17,
-      "weapons": {
-        "BRN-180": 3,
-        "CR-527": 10,
-        "IJ-70": 1,
-        "SG5-K": 3,
-        "VS-89": 12
-      },
-      "weapon_master_kills": 12,
-      "is_admin": false,
-      "aris_score": 20,
-      "aris_score_breakdown": {
-        "longest_shot": 20
       }
     },
     {
@@ -23176,19 +23176,19 @@
       }
     },
     {
-      "ai_kills": 29,
+      "ai_kills": 33,
       "deaths": 1,
       "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 12,
+      "favorite_weapon_kills": 16,
       "first_seen": "2026-11-06T00:47:10.061",
       "ids": [
         "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
       ],
-      "last_seen": "2026-11-14T19:59:27.755",
+      "last_seen": "2026-11-14T20:26:38.971",
       "longest_ai_kill_m": 664,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 211531,
-      "market_sales": 199,
+      "market_income": 221706,
+      "market_sales": 213,
       "name": "Fenix-CZ",
       "vehicle_driver_entries": 17,
       "vehicle_passenger_entries": 28,
@@ -23199,9 +23199,9 @@
         "CR-527": 10,
         "IJ-70": 1,
         "SG5-K": 3,
-        "VS-89": 12
+        "VS-89": 16
       },
-      "weapon_master_kills": 12,
+      "weapon_master_kills": 16,
       "is_admin": false,
       "aris_score": 20,
       "aris_score_breakdown": {
