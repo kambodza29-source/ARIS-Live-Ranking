@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 206,
   "staff_count": 6,
-  "updated_at_local": "14.11.2026 11:09",
+  "updated_at_local": "14.11.2026 11:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -177,15 +177,15 @@
   ],
   "ai_hunter": [
     {
-      "ai_kills": 233,
-      "deaths": 15,
+      "ai_kills": 234,
+      "deaths": 16,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 78,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-14T00:15:55.877",
+      "last_seen": "2026-11-14T11:22:35.446",
       "longest_ai_kill_m": 532,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 710201,
@@ -201,7 +201,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 43,
+        "DMR": 44,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 2,
@@ -348,15 +348,15 @@
       }
     },
     {
-      "ai_kills": 147,
+      "ai_kills": 150,
       "deaths": 3,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 72,
+      "favorite_weapon_kills": 75,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-14T10:35:50.289",
+      "last_seen": "2026-11-14T11:19:30.635",
       "longest_ai_kill_m": 547,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 332533,
@@ -373,10 +373,10 @@
         "Black Rain Ordnance Commando": 48,
         "CR-527": 5,
         "CR-550 Savanna": 1,
-        "LMT M900 DMR": 72,
+        "LMT M900 DMR": 75,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 72,
+      "weapon_master_kills": 75,
       "is_admin": false,
       "aris_score": 170,
       "aris_score_breakdown": {
@@ -597,11 +597,11 @@
       "ids": [
         "ml5N6tgvZiGyt9ShsgmhFotp5pvFXXXkqfEhbKRiZ1A="
       ],
-      "last_seen": "2026-11-13T19:13:52.205",
+      "last_seen": "2026-11-14T11:29:09.499",
       "longest_ai_kill_m": 496,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 130319,
-      "market_sales": 93,
+      "market_income": 138812,
+      "market_sales": 100,
       "name": "dejf00cz1",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -669,6 +669,44 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 66,
+      "deaths": 0,
+      "favorite_weapon": "L15 Defense TAN",
+      "favorite_weapon_kills": 15,
+      "first_seen": "2026-11-03T17:42:23.220",
+      "ids": [
+        "lasmvzJItRz2FRplkhM5ErxxmcLkWk4DwQR_kfIsXh0="
+      ],
+      "last_seen": "2026-11-14T11:27:33.560",
+      "longest_ai_kill_m": 1009,
+      "longest_ai_kill_weapon": "VS-89",
+      "market_income": 83099,
+      "market_sales": 29,
+      "name": "Tox1c_Dave",
+      "vehicle_driver_entries": 49,
+      "vehicle_passenger_entries": 33,
+      "vehicle_trip_straightline_m": 38801.2,
+      "vehicle_trips": 49,
+      "weapons": {
+        "Blaze": 7,
+        "FX-45": 1,
+        "HK416 TAN": 3,
+        "HK433 TAN": 9,
+        "KA-74": 5,
+        "L15 Defense TAN": 15,
+        "Mosin 91/30": 7,
+        "R12": 1,
+        "SG5-K": 3,
+        "VS-89": 15
+      },
+      "weapon_master_kills": 15,
+      "is_admin": false,
+      "aris_score": 90,
+      "aris_score_breakdown": {
+        "longest_shot": 90
+      }
+    },
+    {
       "ai_kills": 65,
       "deaths": 0,
       "favorite_weapon": "M70 Tundra",
@@ -677,17 +715,18 @@
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-11-14T11:05:51.343",
+      "last_seen": "2026-11-14T11:25:31.943",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 162782,
-      "market_sales": 185,
+      "market_income": 166182,
+      "market_sales": 186,
       "name": "Skelly",
       "vehicle_driver_entries": 21,
       "vehicle_passenger_entries": 23,
       "vehicle_trip_straightline_m": 27896.3,
       "vehicle_trips": 21,
       "weapons": {
+        "Accuracy International AWM": 3,
         "Blaze": 1,
         "CR-527": 4,
         "CR-550 Savanna": 3,
@@ -696,8 +735,7 @@
         "M70 Tundra": 39,
         "R12": 3,
         "STEYR AUG A3": 7,
-        "VSD": 1,
-        "Accuracy International AWM": 3
+        "VSD": 1
       },
       "weapon_master_kills": 39,
       "is_admin": false,
@@ -741,44 +779,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 62,
-      "deaths": 0,
-      "favorite_weapon": "L15 Defense TAN",
-      "favorite_weapon_kills": 15,
-      "first_seen": "2026-11-03T17:42:23.220",
-      "ids": [
-        "lasmvzJItRz2FRplkhM5ErxxmcLkWk4DwQR_kfIsXh0="
-      ],
-      "last_seen": "2026-11-13T22:21:53.113",
-      "longest_ai_kill_m": 1009,
-      "longest_ai_kill_weapon": "VS-89",
-      "market_income": 83099,
-      "market_sales": 29,
-      "name": "Tox1c_Dave",
-      "vehicle_driver_entries": 49,
-      "vehicle_passenger_entries": 33,
-      "vehicle_trip_straightline_m": 38801.2,
-      "vehicle_trips": 49,
-      "weapons": {
-        "Blaze": 7,
-        "FX-45": 1,
-        "HK416 TAN": 3,
-        "HK433 TAN": 9,
-        "KA-74": 5,
-        "L15 Defense TAN": 15,
-        "Mosin 91/30": 7,
-        "R12": 1,
-        "SG5-K": 3,
-        "VS-89": 11
-      },
-      "weapon_master_kills": 15,
-      "is_admin": false,
-      "aris_score": 90,
-      "aris_score_breakdown": {
-        "longest_shot": 90
-      }
     },
     {
       "ai_kills": 61,
@@ -951,6 +951,41 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 50,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-04T19:31:07.704",
+      "ids": [
+        "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
+      ],
+      "last_seen": "2026-11-14T11:17:55.565",
+      "longest_ai_kill_m": 523,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 87149,
+      "market_sales": 100,
+      "name": "Bravo_CheekiBreeki",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 1,
+        "Blaze": 8,
+        "CR-527": 16,
+        "Crossbow": 2,
+        "KAS-74U": 2,
+        "M70 Tundra": 9,
+        "Mosin 91/30": 10,
+        "SG5-K": 1,
+        "Sig Sauer P229": 1
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 49,
       "deaths": 3,
       "favorite_weapon": "CR-527",
@@ -978,41 +1013,6 @@
         "Sawed-off BK-43": 1
       },
       "weapon_master_kills": 20,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 48,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 16,
-      "first_seen": "2026-11-04T19:31:07.704",
-      "ids": [
-        "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
-      ],
-      "last_seen": "2026-11-14T10:09:42.311",
-      "longest_ai_kill_m": 523,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 87149,
-      "market_sales": 100,
-      "name": "Bravo_CheekiBreeki",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-133": 1,
-        "Blaze": 8,
-        "CR-527": 16,
-        "Crossbow": 2,
-        "KAS-74U": 2,
-        "M70 Tundra": 9,
-        "Mosin 91/30": 8,
-        "SG5-K": 1,
-        "Sig Sauer P229": 1
-      },
-      "weapon_master_kills": 16,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -1617,11 +1617,11 @@
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-14T10:09:26.072",
+      "last_seen": "2026-11-14T11:24:59.172",
       "longest_ai_kill_m": 265,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 191303,
-      "market_sales": 142,
+      "market_income": 194521,
+      "market_sales": 146,
       "name": "Limio",
       "vehicle_driver_entries": 2,
       "vehicle_passenger_entries": 0,
@@ -3137,6 +3137,36 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 6,
+      "deaths": 6,
+      "favorite_weapon": "Black Rain Ordnance Commando",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-11-07T04:23:48.021",
+      "ids": [
+        "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
+      ],
+      "last_seen": "2026-11-14T11:30:27.449",
+      "longest_ai_kill_m": 142,
+      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Rosomak400K",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Black Rain Ordnance Commando": 3,
+        "Blaze": 1,
+        "Repeater Carbine": 1,
+        "SK 59/66": 1
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 5,
       "deaths": 3,
       "favorite_weapon": "Pioneer",
@@ -3191,36 +3221,6 @@
         "Pioneer": 3
       },
       "weapon_master_kills": 3,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 5,
-      "deaths": 6,
-      "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-11-07T04:23:48.021",
-      "ids": [
-        "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
-      ],
-      "last_seen": "2026-11-12T20:29:18.182",
-      "longest_ai_kill_m": 142,
-      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Rosomak400K",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Black Rain Ordnance Commando": 2,
-        "Blaze": 1,
-        "Repeater Carbine": 1,
-        "SK 59/66": 1
-      },
-      "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -4019,7 +4019,7 @@
       }
     },
     {
-      "ai_kills": 62,
+      "ai_kills": 66,
       "deaths": 0,
       "favorite_weapon": "L15 Defense TAN",
       "favorite_weapon_kills": 15,
@@ -4027,7 +4027,7 @@
       "ids": [
         "lasmvzJItRz2FRplkhM5ErxxmcLkWk4DwQR_kfIsXh0="
       ],
-      "last_seen": "2026-11-13T22:21:53.113",
+      "last_seen": "2026-11-14T11:27:33.560",
       "longest_ai_kill_m": 1009,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 83099,
@@ -4047,7 +4047,7 @@
         "Mosin 91/30": 7,
         "R12": 1,
         "SG5-K": 3,
-        "VS-89": 11
+        "VS-89": 15
       },
       "weapon_master_kills": 15,
       "is_admin": false,
@@ -4392,15 +4392,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 147,
+      "ai_kills": 150,
       "deaths": 3,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 72,
+      "favorite_weapon_kills": 75,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-14T10:35:50.289",
+      "last_seen": "2026-11-14T11:19:30.635",
       "longest_ai_kill_m": 547,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 332533,
@@ -4417,10 +4417,10 @@
         "Black Rain Ordnance Commando": 48,
         "CR-527": 5,
         "CR-550 Savanna": 1,
-        "LMT M900 DMR": 72,
+        "LMT M900 DMR": 75,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 72,
+      "weapon_master_kills": 75,
       "is_admin": false,
       "aris_score": 170,
       "aris_score_breakdown": {
@@ -4464,15 +4464,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 233,
-      "deaths": 15,
+      "ai_kills": 234,
+      "deaths": 16,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 78,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-14T00:15:55.877",
+      "last_seen": "2026-11-14T11:22:35.446",
       "longest_ai_kill_m": 532,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 710201,
@@ -4488,7 +4488,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 43,
+        "DMR": 44,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 2,
@@ -4507,7 +4507,7 @@
       }
     },
     {
-      "ai_kills": 48,
+      "ai_kills": 50,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
@@ -4515,7 +4515,7 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-14T10:09:42.311",
+      "last_seen": "2026-11-14T11:17:55.565",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 87149,
@@ -4532,7 +4532,7 @@
         "Crossbow": 2,
         "KAS-74U": 2,
         "M70 Tundra": 9,
-        "Mosin 91/30": 8,
+        "Mosin 91/30": 10,
         "SG5-K": 1,
         "Sig Sauer P229": 1
       },
@@ -4618,17 +4618,18 @@
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-11-14T11:05:51.343",
+      "last_seen": "2026-11-14T11:25:31.943",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 162782,
-      "market_sales": 185,
+      "market_income": 166182,
+      "market_sales": 186,
       "name": "Skelly",
       "vehicle_driver_entries": 21,
       "vehicle_passenger_entries": 23,
       "vehicle_trip_straightline_m": 27896.3,
       "vehicle_trips": 21,
       "weapons": {
+        "Accuracy International AWM": 3,
         "Blaze": 1,
         "CR-527": 4,
         "CR-550 Savanna": 3,
@@ -4637,8 +4638,7 @@
         "M70 Tundra": 39,
         "R12": 3,
         "STEYR AUG A3": 7,
-        "VSD": 1,
-        "Accuracy International AWM": 3
+        "VSD": 1
       },
       "weapon_master_kills": 39,
       "is_admin": false,
@@ -4654,11 +4654,11 @@
       "ids": [
         "ml5N6tgvZiGyt9ShsgmhFotp5pvFXXXkqfEhbKRiZ1A="
       ],
-      "last_seen": "2026-11-13T19:13:52.205",
+      "last_seen": "2026-11-14T11:29:09.499",
       "longest_ai_kill_m": 496,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 130319,
-      "market_sales": 93,
+      "market_income": 138812,
+      "market_sales": 100,
       "name": "dejf00cz1",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -5942,11 +5942,11 @@
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-14T10:09:26.072",
+      "last_seen": "2026-11-14T11:24:59.172",
       "longest_ai_kill_m": 265,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 191303,
-      "market_sales": 142,
+      "market_income": 194521,
+      "market_sales": 146,
       "name": "Limio",
       "vehicle_driver_entries": 2,
       "vehicle_passenger_entries": 0,
@@ -6681,15 +6681,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 6,
       "deaths": 6,
       "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 2,
+      "favorite_weapon_kills": 3,
       "first_seen": "2026-11-07T04:23:48.021",
       "ids": [
         "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
       ],
-      "last_seen": "2026-11-12T20:29:18.182",
+      "last_seen": "2026-11-14T11:30:27.449",
       "longest_ai_kill_m": 142,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 0,
@@ -6700,12 +6700,12 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Black Rain Ordnance Commando": 2,
+        "Black Rain Ordnance Commando": 3,
         "Blaze": 1,
         "Repeater Carbine": 1,
         "SK 59/66": 1
       },
-      "weapon_master_kills": 2,
+      "weapon_master_kills": 3,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -7773,15 +7773,15 @@
   ],
   "most_deaths": [
     {
-      "ai_kills": 233,
-      "deaths": 15,
+      "ai_kills": 234,
+      "deaths": 16,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 78,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-14T00:15:55.877",
+      "last_seen": "2026-11-14T11:22:35.446",
       "longest_ai_kill_m": 532,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 710201,
@@ -7797,7 +7797,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 43,
+        "DMR": 44,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 2,
@@ -8053,11 +8053,11 @@
       "ids": [
         "ml5N6tgvZiGyt9ShsgmhFotp5pvFXXXkqfEhbKRiZ1A="
       ],
-      "last_seen": "2026-11-13T19:13:52.205",
+      "last_seen": "2026-11-14T11:29:09.499",
       "longest_ai_kill_m": 496,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 130319,
-      "market_sales": 93,
+      "market_income": 138812,
+      "market_sales": 100,
       "name": "dejf00cz1",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -8114,15 +8114,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 6,
       "deaths": 6,
       "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 2,
+      "favorite_weapon_kills": 3,
       "first_seen": "2026-11-07T04:23:48.021",
       "ids": [
         "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
       ],
-      "last_seen": "2026-11-12T20:29:18.182",
+      "last_seen": "2026-11-14T11:30:27.449",
       "longest_ai_kill_m": 142,
       "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
       "market_income": 0,
@@ -8133,12 +8133,12 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "Black Rain Ordnance Commando": 2,
+        "Black Rain Ordnance Commando": 3,
         "Blaze": 1,
         "Repeater Carbine": 1,
         "SK 59/66": 1
       },
-      "weapon_master_kills": 2,
+      "weapon_master_kills": 3,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -8998,15 +8998,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 147,
+      "ai_kills": 150,
       "deaths": 3,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 72,
+      "favorite_weapon_kills": 75,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-14T10:35:50.289",
+      "last_seen": "2026-11-14T11:19:30.635",
       "longest_ai_kill_m": 547,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 332533,
@@ -9023,10 +9023,10 @@
         "Black Rain Ordnance Commando": 48,
         "CR-527": 5,
         "CR-550 Savanna": 1,
-        "LMT M900 DMR": 72,
+        "LMT M900 DMR": 75,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 72,
+      "weapon_master_kills": 75,
       "is_admin": false,
       "aris_score": 170,
       "aris_score_breakdown": {
@@ -12253,15 +12253,15 @@
       }
     },
     {
-      "ai_kills": 233,
-      "deaths": 15,
+      "ai_kills": 234,
+      "deaths": 16,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 78,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-14T00:15:55.877",
+      "last_seen": "2026-11-14T11:22:35.446",
       "longest_ai_kill_m": 532,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 710201,
@@ -12277,7 +12277,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 43,
+        "DMR": 44,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 2,
@@ -12369,15 +12369,15 @@
       }
     },
     {
-      "ai_kills": 147,
+      "ai_kills": 150,
       "deaths": 3,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 72,
+      "favorite_weapon_kills": 75,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-14T10:35:50.289",
+      "last_seen": "2026-11-14T11:19:30.635",
       "longest_ai_kill_m": 547,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 332533,
@@ -12394,10 +12394,10 @@
         "Black Rain Ordnance Commando": 48,
         "CR-527": 5,
         "CR-550 Savanna": 1,
-        "LMT M900 DMR": 72,
+        "LMT M900 DMR": 75,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 72,
+      "weapon_master_kills": 75,
       "is_admin": false,
       "aris_score": 170,
       "aris_score_breakdown": {
@@ -12634,11 +12634,11 @@
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-14T10:09:26.072",
+      "last_seen": "2026-11-14T11:24:59.172",
       "longest_ai_kill_m": 265,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 191303,
-      "market_sales": 142,
+      "market_income": 194521,
+      "market_sales": 146,
       "name": "Limio",
       "vehicle_driver_entries": 2,
       "vehicle_passenger_entries": 0,
@@ -12793,17 +12793,18 @@
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-11-14T11:05:51.343",
+      "last_seen": "2026-11-14T11:25:31.943",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 162782,
-      "market_sales": 185,
+      "market_income": 166182,
+      "market_sales": 186,
       "name": "Skelly",
       "vehicle_driver_entries": 21,
       "vehicle_passenger_entries": 23,
       "vehicle_trip_straightline_m": 27896.3,
       "vehicle_trips": 21,
       "weapons": {
+        "Accuracy International AWM": 3,
         "Blaze": 1,
         "CR-527": 4,
         "CR-550 Savanna": 3,
@@ -12812,8 +12813,7 @@
         "M70 Tundra": 39,
         "R12": 3,
         "STEYR AUG A3": 7,
-        "VSD": 1,
-        "Accuracy International AWM": 3
+        "VSD": 1
       },
       "weapon_master_kills": 39,
       "is_admin": false,
@@ -12913,6 +12913,47 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 73,
+      "deaths": 6,
+      "favorite_weapon": "Barrett Model 98B",
+      "favorite_weapon_kills": 30,
+      "first_seen": "2026-11-03T18:47:24.281",
+      "ids": [
+        "ml5N6tgvZiGyt9ShsgmhFotp5pvFXXXkqfEhbKRiZ1A="
+      ],
+      "last_seen": "2026-11-14T11:29:09.499",
+      "longest_ai_kill_m": 496,
+      "longest_ai_kill_weapon": "Barrett Model 98B",
+      "market_income": 138812,
+      "market_sales": 100,
+      "name": "dejf00cz1",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 3,
+        "BK-18": 1,
+        "Barrett Model 98B": 30,
+        "Bizon": 4,
+        "CR-527": 8,
+        "CR-550 Savanna": 1,
+        "DVL-10 M2 Urbana": 2,
+        "KA-74": 2,
+        "KA-M": 3,
+        "L85A2": 3,
+        "Pioneer": 1,
+        "RPK-74M": 6,
+        "SG5-K": 1,
+        "USG-45": 2,
+        "VSD": 6
+      },
+      "weapon_master_kills": 30,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 56,
       "deaths": 1,
       "favorite_weapon": "CR-527",
@@ -12938,47 +12979,6 @@
         "Mosin 91/30": 14
       },
       "weapon_master_kills": 26,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 73,
-      "deaths": 6,
-      "favorite_weapon": "Barrett Model 98B",
-      "favorite_weapon_kills": 30,
-      "first_seen": "2026-11-03T18:47:24.281",
-      "ids": [
-        "ml5N6tgvZiGyt9ShsgmhFotp5pvFXXXkqfEhbKRiZ1A="
-      ],
-      "last_seen": "2026-11-13T19:13:52.205",
-      "longest_ai_kill_m": 496,
-      "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 130319,
-      "market_sales": 93,
-      "name": "dejf00cz1",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-133": 3,
-        "BK-18": 1,
-        "Barrett Model 98B": 30,
-        "Bizon": 4,
-        "CR-527": 8,
-        "CR-550 Savanna": 1,
-        "DVL-10 M2 Urbana": 2,
-        "KA-74": 2,
-        "KA-M": 3,
-        "L85A2": 3,
-        "Pioneer": 1,
-        "RPK-74M": 6,
-        "SG5-K": 1,
-        "USG-45": 2,
-        "VSD": 6
-      },
-      "weapon_master_kills": 30,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -13049,7 +13049,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 48,
+      "ai_kills": 50,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
@@ -13057,7 +13057,7 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-14T10:09:42.311",
+      "last_seen": "2026-11-14T11:17:55.565",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 87149,
@@ -13074,7 +13074,7 @@
         "Crossbow": 2,
         "KAS-74U": 2,
         "M70 Tundra": 9,
-        "Mosin 91/30": 8,
+        "Mosin 91/30": 10,
         "SG5-K": 1,
         "Sig Sauer P229": 1
       },
@@ -13084,7 +13084,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 62,
+      "ai_kills": 66,
       "deaths": 0,
       "favorite_weapon": "L15 Defense TAN",
       "favorite_weapon_kills": 15,
@@ -13092,7 +13092,7 @@
       "ids": [
         "lasmvzJItRz2FRplkhM5ErxxmcLkWk4DwQR_kfIsXh0="
       ],
-      "last_seen": "2026-11-13T22:21:53.113",
+      "last_seen": "2026-11-14T11:27:33.560",
       "longest_ai_kill_m": 1009,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 83099,
@@ -13112,7 +13112,7 @@
         "Mosin 91/30": 7,
         "R12": 1,
         "SG5-K": 3,
-        "VS-89": 11
+        "VS-89": 15
       },
       "weapon_master_kills": 15,
       "is_admin": false,
@@ -14699,15 +14699,15 @@
       }
     },
     {
-      "ai_kills": 233,
-      "deaths": 15,
+      "ai_kills": 234,
+      "deaths": 16,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 78,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-14T00:15:55.877",
+      "last_seen": "2026-11-14T11:22:35.446",
       "longest_ai_kill_m": 532,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 710201,
@@ -14723,7 +14723,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 43,
+        "DMR": 44,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 2,
@@ -14935,7 +14935,7 @@
       }
     },
     {
-      "ai_kills": 62,
+      "ai_kills": 66,
       "deaths": 0,
       "favorite_weapon": "L15 Defense TAN",
       "favorite_weapon_kills": 15,
@@ -14943,7 +14943,7 @@
       "ids": [
         "lasmvzJItRz2FRplkhM5ErxxmcLkWk4DwQR_kfIsXh0="
       ],
-      "last_seen": "2026-11-13T22:21:53.113",
+      "last_seen": "2026-11-14T11:27:33.560",
       "longest_ai_kill_m": 1009,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 83099,
@@ -14963,7 +14963,7 @@
         "Mosin 91/30": 7,
         "R12": 1,
         "SG5-K": 3,
-        "VS-89": 11
+        "VS-89": 15
       },
       "weapon_master_kills": 15,
       "is_admin": false,
@@ -15010,17 +15010,18 @@
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-11-14T11:05:51.343",
+      "last_seen": "2026-11-14T11:25:31.943",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 162782,
-      "market_sales": 185,
+      "market_income": 166182,
+      "market_sales": 186,
       "name": "Skelly",
       "vehicle_driver_entries": 21,
       "vehicle_passenger_entries": 23,
       "vehicle_trip_straightline_m": 27896.3,
       "vehicle_trips": 21,
       "weapons": {
+        "Accuracy International AWM": 3,
         "Blaze": 1,
         "CR-527": 4,
         "CR-550 Savanna": 3,
@@ -15029,8 +15030,7 @@
         "M70 Tundra": 39,
         "R12": 3,
         "STEYR AUG A3": 7,
-        "VSD": 1,
-        "Accuracy International AWM": 3
+        "VSD": 1
       },
       "weapon_master_kills": 39,
       "is_admin": false,
@@ -15181,15 +15181,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 147,
+      "ai_kills": 150,
       "deaths": 3,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 72,
+      "favorite_weapon_kills": 75,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-14T10:35:50.289",
+      "last_seen": "2026-11-14T11:19:30.635",
       "longest_ai_kill_m": 547,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 332533,
@@ -15206,10 +15206,10 @@
         "Black Rain Ordnance Commando": 48,
         "CR-527": 5,
         "CR-550 Savanna": 1,
-        "LMT M900 DMR": 72,
+        "LMT M900 DMR": 75,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 72,
+      "weapon_master_kills": 75,
       "is_admin": false,
       "aris_score": 170,
       "aris_score_breakdown": {
@@ -15843,11 +15843,11 @@
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-14T10:09:26.072",
+      "last_seen": "2026-11-14T11:24:59.172",
       "longest_ai_kill_m": 265,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 191303,
-      "market_sales": 142,
+      "market_income": 194521,
+      "market_sales": 146,
       "name": "Limio",
       "vehicle_driver_entries": 2,
       "vehicle_passenger_entries": 0,
@@ -16012,15 +16012,15 @@
       }
     },
     {
-      "ai_kills": 233,
-      "deaths": 15,
+      "ai_kills": 234,
+      "deaths": 16,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 78,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-14T00:15:55.877",
+      "last_seen": "2026-11-14T11:22:35.446",
       "longest_ai_kill_m": 532,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 710201,
@@ -16036,7 +16036,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 43,
+        "DMR": 44,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 2,
@@ -16055,15 +16055,15 @@
       }
     },
     {
-      "ai_kills": 147,
+      "ai_kills": 150,
       "deaths": 3,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 72,
+      "favorite_weapon_kills": 75,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-14T10:35:50.289",
+      "last_seen": "2026-11-14T11:19:30.635",
       "longest_ai_kill_m": 547,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 332533,
@@ -16080,10 +16080,10 @@
         "Black Rain Ordnance Commando": 48,
         "CR-527": 5,
         "CR-550 Savanna": 1,
-        "LMT M900 DMR": 72,
+        "LMT M900 DMR": 75,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 72,
+      "weapon_master_kills": 75,
       "is_admin": false,
       "aris_score": 170,
       "aris_score_breakdown": {
@@ -16347,17 +16347,18 @@
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-11-14T11:05:51.343",
+      "last_seen": "2026-11-14T11:25:31.943",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 162782,
-      "market_sales": 185,
+      "market_income": 166182,
+      "market_sales": 186,
       "name": "Skelly",
       "vehicle_driver_entries": 21,
       "vehicle_passenger_entries": 23,
       "vehicle_trip_straightline_m": 27896.3,
       "vehicle_trips": 21,
       "weapons": {
+        "Accuracy International AWM": 3,
         "Blaze": 1,
         "CR-527": 4,
         "CR-550 Savanna": 3,
@@ -16366,8 +16367,7 @@
         "M70 Tundra": 39,
         "R12": 3,
         "STEYR AUG A3": 7,
-        "VSD": 1,
-        "Accuracy International AWM": 3
+        "VSD": 1
       },
       "weapon_master_kills": 39,
       "is_admin": false,
@@ -16412,11 +16412,11 @@
       "ids": [
         "ml5N6tgvZiGyt9ShsgmhFotp5pvFXXXkqfEhbKRiZ1A="
       ],
-      "last_seen": "2026-11-13T19:13:52.205",
+      "last_seen": "2026-11-14T11:29:09.499",
       "longest_ai_kill_m": 496,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 130319,
-      "market_sales": 93,
+      "market_income": 138812,
+      "market_sales": 100,
       "name": "dejf00cz1",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -17058,7 +17058,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 48,
+      "ai_kills": 50,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
@@ -17066,7 +17066,7 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-14T10:09:42.311",
+      "last_seen": "2026-11-14T11:17:55.565",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 87149,
@@ -17083,7 +17083,7 @@
         "Crossbow": 2,
         "KAS-74U": 2,
         "M70 Tundra": 9,
-        "Mosin 91/30": 8,
+        "Mosin 91/30": 10,
         "SG5-K": 1,
         "Sig Sauer P229": 1
       },
@@ -17473,7 +17473,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 62,
+      "ai_kills": 66,
       "deaths": 0,
       "favorite_weapon": "L15 Defense TAN",
       "favorite_weapon_kills": 15,
@@ -17481,7 +17481,7 @@
       "ids": [
         "lasmvzJItRz2FRplkhM5ErxxmcLkWk4DwQR_kfIsXh0="
       ],
-      "last_seen": "2026-11-13T22:21:53.113",
+      "last_seen": "2026-11-14T11:27:33.560",
       "longest_ai_kill_m": 1009,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 83099,
@@ -17501,7 +17501,7 @@
         "Mosin 91/30": 7,
         "R12": 1,
         "SG5-K": 3,
-        "VS-89": 11
+        "VS-89": 15
       },
       "weapon_master_kills": 15,
       "is_admin": false,
@@ -17624,11 +17624,11 @@
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-14T10:09:26.072",
+      "last_seen": "2026-11-14T11:24:59.172",
       "longest_ai_kill_m": 265,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 191303,
-      "market_sales": 142,
+      "market_income": 194521,
+      "market_sales": 146,
       "name": "Limio",
       "vehicle_driver_entries": 2,
       "vehicle_passenger_entries": 0,
@@ -19069,6 +19069,36 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 6,
+      "deaths": 6,
+      "favorite_weapon": "Black Rain Ordnance Commando",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-11-07T04:23:48.021",
+      "ids": [
+        "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
+      ],
+      "last_seen": "2026-11-14T11:30:27.449",
+      "longest_ai_kill_m": 142,
+      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Rosomak400K",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Black Rain Ordnance Commando": 3,
+        "Blaze": 1,
+        "Repeater Carbine": 1,
+        "SK 59/66": 1
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 11,
       "deaths": 8,
       "favorite_weapon": "P1",
@@ -19284,36 +19314,6 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-18": 2
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 5,
-      "deaths": 6,
-      "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-11-07T04:23:48.021",
-      "ids": [
-        "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
-      ],
-      "last_seen": "2026-11-12T20:29:18.182",
-      "longest_ai_kill_m": 142,
-      "longest_ai_kill_weapon": "Black Rain Ordnance Commando",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Rosomak400K",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Black Rain Ordnance Commando": 2,
-        "Blaze": 1,
-        "Repeater Carbine": 1,
-        "SK 59/66": 1
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -19975,15 +19975,15 @@
       }
     },
     {
-      "ai_kills": 233,
-      "deaths": 15,
+      "ai_kills": 234,
+      "deaths": 16,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 78,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-14T00:15:55.877",
+      "last_seen": "2026-11-14T11:22:35.446",
       "longest_ai_kill_m": 532,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 710201,
@@ -19999,7 +19999,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 43,
+        "DMR": 44,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 2,
@@ -20060,15 +20060,15 @@
       }
     },
     {
-      "ai_kills": 147,
+      "ai_kills": 150,
       "deaths": 3,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 72,
+      "favorite_weapon_kills": 75,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-14T10:35:50.289",
+      "last_seen": "2026-11-14T11:19:30.635",
       "longest_ai_kill_m": 547,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 332533,
@@ -20085,10 +20085,10 @@
         "Black Rain Ordnance Commando": 48,
         "CR-527": 5,
         "CR-550 Savanna": 1,
-        "LMT M900 DMR": 72,
+        "LMT M900 DMR": 75,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 72,
+      "weapon_master_kills": 75,
       "is_admin": false,
       "aris_score": 170,
       "aris_score_breakdown": {
@@ -20349,17 +20349,18 @@
       "ids": [
         "W9Eo73PP81iFRUrIsqQT-z2egi3XzvEXE4QeMTT6NUk="
       ],
-      "last_seen": "2026-11-14T11:05:51.343",
+      "last_seen": "2026-11-14T11:25:31.943",
       "longest_ai_kill_m": 501,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 162782,
-      "market_sales": 185,
+      "market_income": 166182,
+      "market_sales": 186,
       "name": "Skelly",
       "vehicle_driver_entries": 21,
       "vehicle_passenger_entries": 23,
       "vehicle_trip_straightline_m": 27896.3,
       "vehicle_trips": 21,
       "weapons": {
+        "Accuracy International AWM": 3,
         "Blaze": 1,
         "CR-527": 4,
         "CR-550 Savanna": 3,
@@ -20368,8 +20369,7 @@
         "M70 Tundra": 39,
         "R12": 3,
         "STEYR AUG A3": 7,
-        "VSD": 1,
-        "Accuracy International AWM": 3
+        "VSD": 1
       },
       "weapon_master_kills": 39,
       "is_admin": false,
@@ -20540,6 +20540,36 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 30,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 14,
+      "first_seen": "2026-11-05T12:36:19.011",
+      "ids": [
+        "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
+      ],
+      "last_seen": "2026-11-14T11:24:59.172",
+      "longest_ai_kill_m": 265,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 194521,
+      "market_sales": 146,
+      "name": "Limio",
+      "vehicle_driver_entries": 2,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 12.7,
+      "vehicle_trips": 1,
+      "weapons": {
+        "CR-527": 14,
+        "KAS-74U": 3,
+        "Pioneer": 5,
+        "Sawed-off Mosin 91/30": 8
+      },
+      "weapon_master_kills": 14,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 3,
       "deaths": 0,
       "favorite_weapon": "Pioneer",
@@ -20563,36 +20593,6 @@
         "SG5-K": 1
       },
       "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 30,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 14,
-      "first_seen": "2026-11-05T12:36:19.011",
-      "ids": [
-        "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
-      ],
-      "last_seen": "2026-11-14T10:09:26.072",
-      "longest_ai_kill_m": 265,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 191303,
-      "market_sales": 142,
-      "name": "Limio",
-      "vehicle_driver_entries": 2,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 12.7,
-      "vehicle_trips": 1,
-      "weapons": {
-        "CR-527": 14,
-        "KAS-74U": 3,
-        "Pioneer": 5,
-        "Sawed-off Mosin 91/30": 8
-      },
-      "weapon_master_kills": 14,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -20663,7 +20663,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 48,
+      "ai_kills": 50,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 16,
@@ -20671,7 +20671,7 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-14T10:09:42.311",
+      "last_seen": "2026-11-14T11:17:55.565",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 87149,
@@ -20688,7 +20688,7 @@
         "Crossbow": 2,
         "KAS-74U": 2,
         "M70 Tundra": 9,
-        "Mosin 91/30": 8,
+        "Mosin 91/30": 10,
         "SG5-K": 1,
         "Sig Sauer P229": 1
       },
@@ -20706,11 +20706,11 @@
       "ids": [
         "ml5N6tgvZiGyt9ShsgmhFotp5pvFXXXkqfEhbKRiZ1A="
       ],
-      "last_seen": "2026-11-13T19:13:52.205",
+      "last_seen": "2026-11-14T11:29:09.499",
       "longest_ai_kill_m": 496,
       "longest_ai_kill_weapon": "Barrett Model 98B",
-      "market_income": 130319,
-      "market_sales": 93,
+      "market_income": 138812,
+      "market_sales": 100,
       "name": "dejf00cz1",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -21085,7 +21085,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 62,
+      "ai_kills": 66,
       "deaths": 0,
       "favorite_weapon": "L15 Defense TAN",
       "favorite_weapon_kills": 15,
@@ -21093,7 +21093,7 @@
       "ids": [
         "lasmvzJItRz2FRplkhM5ErxxmcLkWk4DwQR_kfIsXh0="
       ],
-      "last_seen": "2026-11-13T22:21:53.113",
+      "last_seen": "2026-11-14T11:27:33.560",
       "longest_ai_kill_m": 1009,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 83099,
@@ -21113,7 +21113,7 @@
         "Mosin 91/30": 7,
         "R12": 1,
         "SG5-K": 3,
-        "VS-89": 11
+        "VS-89": 15
       },
       "weapon_master_kills": 15,
       "is_admin": false,
@@ -22152,15 +22152,15 @@
       }
     },
     {
-      "ai_kills": 233,
-      "deaths": 15,
+      "ai_kills": 234,
+      "deaths": 16,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 78,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-14T00:15:55.877",
+      "last_seen": "2026-11-14T11:22:35.446",
       "longest_ai_kill_m": 532,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 710201,
@@ -22176,7 +22176,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 43,
+        "DMR": 44,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 2,
@@ -22314,15 +22314,15 @@
       }
     },
     {
-      "ai_kills": 147,
+      "ai_kills": 150,
       "deaths": 3,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 72,
+      "favorite_weapon_kills": 75,
       "first_seen": "2026-11-03T19:55:57.965",
       "ids": [
         "V1omU0_4XkQb_sLMUMdiCi10WWj1cDSvy_Axn1XUTmw="
       ],
-      "last_seen": "2026-11-14T10:35:50.289",
+      "last_seen": "2026-11-14T11:19:30.635",
       "longest_ai_kill_m": 547,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 332533,
@@ -22339,10 +22339,10 @@
         "Black Rain Ordnance Commando": 48,
         "CR-527": 5,
         "CR-550 Savanna": 1,
-        "LMT M900 DMR": 72,
+        "LMT M900 DMR": 75,
         "M70 Tundra": 8
       },
-      "weapon_master_kills": 72,
+      "weapon_master_kills": 75,
       "is_admin": false,
       "aris_score": 170,
       "aris_score_breakdown": {
@@ -22397,7 +22397,7 @@
       }
     },
     {
-      "ai_kills": 62,
+      "ai_kills": 66,
       "deaths": 0,
       "favorite_weapon": "L15 Defense TAN",
       "favorite_weapon_kills": 15,
@@ -22405,7 +22405,7 @@
       "ids": [
         "lasmvzJItRz2FRplkhM5ErxxmcLkWk4DwQR_kfIsXh0="
       ],
-      "last_seen": "2026-11-13T22:21:53.113",
+      "last_seen": "2026-11-14T11:27:33.560",
       "longest_ai_kill_m": 1009,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 83099,
@@ -22425,7 +22425,7 @@
         "Mosin 91/30": 7,
         "R12": 1,
         "SG5-K": 3,
-        "VS-89": 11
+        "VS-89": 15
       },
       "weapon_master_kills": 15,
       "is_admin": false,
