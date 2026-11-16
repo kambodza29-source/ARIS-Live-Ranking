@@ -1,8 +1,8 @@
 {
   "season_start": "2026-11-03",
-  "player_count": 227,
+  "player_count": 228,
   "staff_count": 6,
-  "updated_at_local": "16.11.2026 12:01",
+  "updated_at_local": "16.11.2026 12:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -246,12 +246,12 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
+        "HK G28": 6,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
         "Remington MSR": 5,
-        "Sa vz. 58 SF": 12,
-        "HK G28": 6
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 126,
       "is_admin": false,
@@ -1067,7 +1067,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 64,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 35,
@@ -1075,7 +1075,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-16T01:39:54.746",
+      "last_seen": "2026-11-16T12:23:18.362",
       "longest_ai_kill_m": 550,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 174180,
@@ -1087,8 +1087,8 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 23,
-        "M16A4E": 3
+        "M110 SASS": 24,
+        "M16A4E": 5
       },
       "weapon_master_kills": 35,
       "is_admin": false,
@@ -1501,11 +1501,11 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-11-16T09:06:01.710",
+      "last_seen": "2026-11-16T12:26:45.293",
       "longest_ai_kill_m": 520,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 379200,
-      "market_sales": 469,
+      "market_income": 414421,
+      "market_sales": 492,
       "name": "Parazone",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -3297,6 +3297,36 @@
     },
     {
       "ai_kills": 6,
+      "deaths": 6,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 2,
+      "first_seen": "2026-11-09T18:16:23.381",
+      "ids": [
+        "fH7MATciW3treEdDTnDc5b4jkRL_BOt4U9tgy1_K284="
+      ],
+      "last_seen": "2026-11-16T12:30:48.758",
+      "longest_ai_kill_m": 42,
+      "longest_ai_kill_weapon": "Mlock-91",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Katran",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "IJ-70": 2,
+        "Mlock-91": 1,
+        "Sporter 22": 1,
+        "BK-18": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 6,
       "deaths": 4,
       "favorite_weapon": "BK-133",
       "favorite_weapon_kills": 3,
@@ -3492,35 +3522,6 @@
     },
     {
       "ai_kills": 4,
-      "deaths": 6,
-      "favorite_weapon": "IJ-70",
-      "favorite_weapon_kills": 2,
-      "first_seen": "2026-11-09T18:16:23.381",
-      "ids": [
-        "fH7MATciW3treEdDTnDc5b4jkRL_BOt4U9tgy1_K284="
-      ],
-      "last_seen": "2026-11-16T01:06:04.880",
-      "longest_ai_kill_m": 42,
-      "longest_ai_kill_weapon": "Mlock-91",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Katran",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "IJ-70": 2,
-        "Mlock-91": 1,
-        "Sporter 22": 1
-      },
-      "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 4,
       "deaths": 0,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 4,
@@ -3679,6 +3680,32 @@
         "SK 59/66": 1
       },
       "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "name": "kubix (2)",
+      "ids": [],
+      "first_seen": "2026-11-16T12:23:33.803",
+      "last_seen": "2026-11-16T12:29:57.394",
+      "ai_kills": 3,
+      "deaths": 0,
+      "longest_ai_kill_m": 82,
+      "longest_ai_kill_weapon": "CR-61 Skorpion",
+      "favorite_weapon": "CR-61 Skorpion",
+      "favorite_weapon_kills": 2,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "Crossbow": 1,
+        "CR-61 Skorpion": 2
+      },
+      "weapon_master_kills": 2,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -4557,12 +4584,12 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
+        "HK G28": 6,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
         "Remington MSR": 5,
-        "Sa vz. 58 SF": 12,
-        "HK G28": 6
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 126,
       "is_admin": false,
@@ -4838,7 +4865,7 @@
       }
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 64,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 35,
@@ -4846,7 +4873,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-16T01:39:54.746",
+      "last_seen": "2026-11-16T12:23:18.362",
       "longest_ai_kill_m": 550,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 174180,
@@ -4858,8 +4885,8 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 23,
-        "M16A4E": 3
+        "M110 SASS": 24,
+        "M16A4E": 5
       },
       "weapon_master_kills": 35,
       "is_admin": false,
@@ -5073,11 +5100,11 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-11-16T09:06:01.710",
+      "last_seen": "2026-11-16T12:26:45.293",
       "longest_ai_kill_m": 520,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 379200,
-      "market_sales": 469,
+      "market_income": 414421,
+      "market_sales": 492,
       "name": "Parazone",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -7511,6 +7538,32 @@
       "aris_score_breakdown": {}
     },
     {
+      "name": "kubix (2)",
+      "ids": [],
+      "first_seen": "2026-11-16T12:23:33.803",
+      "last_seen": "2026-11-16T12:29:57.394",
+      "ai_kills": 3,
+      "deaths": 0,
+      "longest_ai_kill_m": 82,
+      "longest_ai_kill_weapon": "CR-61 Skorpion",
+      "favorite_weapon": "CR-61 Skorpion",
+      "favorite_weapon_kills": 2,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "Crossbow": 1,
+        "CR-61 Skorpion": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 8,
       "deaths": 0,
       "favorite_weapon": "VSD",
@@ -7818,7 +7871,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 4,
+      "ai_kills": 6,
       "deaths": 6,
       "favorite_weapon": "IJ-70",
       "favorite_weapon_kills": 2,
@@ -7826,7 +7879,7 @@
       "ids": [
         "fH7MATciW3treEdDTnDc5b4jkRL_BOt4U9tgy1_K284="
       ],
-      "last_seen": "2026-11-16T01:06:04.880",
+      "last_seen": "2026-11-16T12:30:48.758",
       "longest_ai_kill_m": 42,
       "longest_ai_kill_weapon": "Mlock-91",
       "market_income": 0,
@@ -7839,7 +7892,8 @@
       "weapons": {
         "IJ-70": 2,
         "Mlock-91": 1,
-        "Sporter 22": 1
+        "Sporter 22": 1,
+        "BK-18": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -8725,7 +8779,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 4,
+      "ai_kills": 6,
       "deaths": 6,
       "favorite_weapon": "IJ-70",
       "favorite_weapon_kills": 2,
@@ -8733,7 +8787,7 @@
       "ids": [
         "fH7MATciW3treEdDTnDc5b4jkRL_BOt4U9tgy1_K284="
       ],
-      "last_seen": "2026-11-16T01:06:04.880",
+      "last_seen": "2026-11-16T12:30:48.758",
       "longest_ai_kill_m": 42,
       "longest_ai_kill_weapon": "Mlock-91",
       "market_income": 0,
@@ -8746,7 +8800,8 @@
       "weapons": {
         "IJ-70": 2,
         "Mlock-91": 1,
-        "Sporter 22": 1
+        "Sporter 22": 1,
+        "BK-18": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -10002,12 +10057,12 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
+        "HK G28": 6,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
         "Remington MSR": 5,
-        "Sa vz. 58 SF": 12,
-        "HK G28": 6
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 126,
       "is_admin": false,
@@ -13342,12 +13397,12 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
+        "HK G28": 6,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
         "Remington MSR": 5,
-        "Sa vz. 58 SF": 12,
-        "HK G28": 6
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 126,
       "is_admin": false,
@@ -13678,11 +13733,11 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-11-16T09:06:01.710",
+      "last_seen": "2026-11-16T12:26:45.293",
       "longest_ai_kill_m": 520,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 379200,
-      "market_sales": 469,
+      "market_income": 414421,
+      "market_sales": 492,
       "name": "Parazone",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -14152,7 +14207,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 64,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 35,
@@ -14160,7 +14215,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-16T01:39:54.746",
+      "last_seen": "2026-11-16T12:23:18.362",
       "longest_ai_kill_m": 550,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 174180,
@@ -14172,8 +14227,8 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 23,
-        "M16A4E": 3
+        "M110 SASS": 24,
+        "M16A4E": 5
       },
       "weapon_master_kills": 35,
       "is_admin": false,
@@ -15796,12 +15851,12 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
+        "HK G28": 6,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
         "Remington MSR": 5,
-        "Sa vz. 58 SF": 12,
-        "HK G28": 6
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 126,
       "is_admin": false,
@@ -16097,7 +16152,7 @@
       }
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 64,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 35,
@@ -16105,7 +16160,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-16T01:39:54.746",
+      "last_seen": "2026-11-16T12:23:18.362",
       "longest_ai_kill_m": 550,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 174180,
@@ -16117,8 +16172,8 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 23,
-        "M16A4E": 3
+        "M110 SASS": 24,
+        "M16A4E": 5
       },
       "weapon_master_kills": 35,
       "is_admin": false,
@@ -17330,12 +17385,12 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
+        "HK G28": 6,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
         "Remington MSR": 5,
-        "Sa vz. 58 SF": 12,
-        "HK G28": 6
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 126,
       "is_admin": false,
@@ -18021,7 +18076,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 64,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 35,
@@ -18029,7 +18084,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-16T01:39:54.746",
+      "last_seen": "2026-11-16T12:23:18.362",
       "longest_ai_kill_m": 550,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 174180,
@@ -18041,8 +18096,8 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 23,
-        "M16A4E": 3
+        "M110 SASS": 24,
+        "M16A4E": 5
       },
       "weapon_master_kills": 35,
       "is_admin": false,
@@ -18436,11 +18491,11 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-11-16T09:06:01.710",
+      "last_seen": "2026-11-16T12:26:45.293",
       "longest_ai_kill_m": 520,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 379200,
-      "market_sales": 469,
+      "market_income": 414421,
+      "market_sales": 492,
       "name": "Parazone",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -20805,7 +20860,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 4,
+      "ai_kills": 6,
       "deaths": 6,
       "favorite_weapon": "IJ-70",
       "favorite_weapon_kills": 2,
@@ -20813,7 +20868,7 @@
       "ids": [
         "fH7MATciW3treEdDTnDc5b4jkRL_BOt4U9tgy1_K284="
       ],
-      "last_seen": "2026-11-16T01:06:04.880",
+      "last_seen": "2026-11-16T12:30:48.758",
       "longest_ai_kill_m": 42,
       "longest_ai_kill_weapon": "Mlock-91",
       "market_income": 0,
@@ -20826,7 +20881,8 @@
       "weapons": {
         "IJ-70": 2,
         "Mlock-91": 1,
-        "Sporter 22": 1
+        "Sporter 22": 1,
+        "BK-18": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -20854,6 +20910,32 @@
       "vehicle_trips": 3,
       "weapons": {
         "Accuracy International AX50": 2
+      },
+      "weapon_master_kills": 2,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "name": "kubix (2)",
+      "ids": [],
+      "first_seen": "2026-11-16T12:23:33.803",
+      "last_seen": "2026-11-16T12:29:57.394",
+      "ai_kills": 3,
+      "deaths": 0,
+      "longest_ai_kill_m": 82,
+      "longest_ai_kill_weapon": "CR-61 Skorpion",
+      "favorite_weapon": "CR-61 Skorpion",
+      "favorite_weapon_kills": 2,
+      "market_income": 0,
+      "market_sales": 0,
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trips": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "weapons": {
+        "Crossbow": 1,
+        "CR-61 Skorpion": 2
       },
       "weapon_master_kills": 2,
       "is_admin": false,
@@ -21395,12 +21477,12 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
+        "HK G28": 6,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
         "Remington MSR": 5,
-        "Sa vz. 58 SF": 12,
-        "HK G28": 6
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 126,
       "is_admin": false,
@@ -21761,11 +21843,11 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-11-16T09:06:01.710",
+      "last_seen": "2026-11-16T12:26:45.293",
       "longest_ai_kill_m": 520,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 379200,
-      "market_sales": 469,
+      "market_income": 414421,
+      "market_sales": 492,
       "name": "Parazone",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -22105,7 +22187,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 61,
+      "ai_kills": 64,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 35,
@@ -22113,7 +22195,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-16T01:39:54.746",
+      "last_seen": "2026-11-16T12:23:18.362",
       "longest_ai_kill_m": 550,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 174180,
@@ -22125,8 +22207,8 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 23,
-        "M16A4E": 3
+        "M110 SASS": 24,
+        "M16A4E": 5
       },
       "weapon_master_kills": 35,
       "is_admin": false,
@@ -23893,12 +23975,12 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
+        "HK G28": 6,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
         "Remington MSR": 5,
-        "Sa vz. 58 SF": 12,
-        "HK G28": 6
+        "Sa vz. 58 SF": 12
       },
       "weapon_master_kills": 126,
       "is_admin": false,
@@ -24514,11 +24596,11 @@
       "ids": [
         "2vyJimUYfT6p-O3_EJdgsmP_PjvONs4gsmAvXaorWGo="
       ],
-      "last_seen": "2026-11-16T09:06:01.710",
+      "last_seen": "2026-11-16T12:26:45.293",
       "longest_ai_kill_m": 520,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 379200,
-      "market_sales": 469,
+      "market_income": 414421,
+      "market_sales": 492,
       "name": "Parazone",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
