@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 239,
   "staff_count": 6,
-  "updated_at_local": "17.11.2026 14:31",
+  "updated_at_local": "17.11.2026 15:01",
   "staff": [
     {
       "ai_kills": 0,
@@ -221,7 +221,7 @@
       }
     },
     {
-      "ai_kills": 284,
+      "ai_kills": 285,
       "deaths": 5,
       "favorite_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "favorite_weapon_kills": 60,
@@ -229,7 +229,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-17T14:25:45.211",
+      "last_seen": "2026-11-17T14:56:13.038",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 3225098,
@@ -241,7 +241,7 @@
       "vehicle_trips": 166,
       "weapons": {
         "Accuracy International AWM": 29,
-        "Barrett Model 98B": 35,
+        "Barrett Model 98B": 36,
         "Black Rain Ordnance Commando": 25,
         "COLT M4A1 CUSTOM": 29,
         "CR-527": 6,
@@ -875,11 +875,11 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-17T13:51:00.685",
+      "last_seen": "2026-11-17T15:00:03.082",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 244571,
-      "market_sales": 284,
+      "market_income": 246755,
+      "market_sales": 288,
       "name": "Bravo_CheekiBreeki",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -1033,11 +1033,11 @@
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-17T14:11:05.727",
+      "last_seen": "2026-11-17T14:45:34.101",
       "longest_ai_kill_m": 510,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 217926,
-      "market_sales": 173,
+      "market_income": 219810,
+      "market_sales": 174,
       "name": "Glocktopus",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 3,
@@ -1164,6 +1164,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 64,
+      "deaths": 0,
+      "favorite_weapon": "MK 14 Enhanced Battle Rifle",
+      "favorite_weapon_kills": 34,
+      "first_seen": "2026-11-05T12:36:19.011",
+      "ids": [
+        "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
+      ],
+      "last_seen": "2026-11-17T14:40:05.709",
+      "longest_ai_kill_m": 475,
+      "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
+      "market_income": 321476,
+      "market_sales": 228,
+      "name": "Limio",
+      "vehicle_driver_entries": 3,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 12.7,
+      "vehicle_trips": 2,
+      "weapons": {
+        "CR-527": 14,
+        "KAS-74U": 3,
+        "MK 14 Enhanced Battle Rifle": 34,
+        "Pioneer": 5,
+        "Sawed-off Mosin 91/30": 8
+      },
+      "weapon_master_kills": 34,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 63,
       "deaths": 1,
       "favorite_weapon": "VS-89",
@@ -1191,37 +1222,6 @@
         "VS-89": 41
       },
       "weapon_master_kills": 41,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 62,
-      "deaths": 0,
-      "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 32,
-      "first_seen": "2026-11-05T12:36:19.011",
-      "ids": [
-        "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
-      ],
-      "last_seen": "2026-11-17T14:28:44.288",
-      "longest_ai_kill_m": 475,
-      "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
-      "market_income": 321476,
-      "market_sales": 228,
-      "name": "Limio",
-      "vehicle_driver_entries": 3,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 12.7,
-      "vehicle_trips": 2,
-      "weapons": {
-        "CR-527": 14,
-        "KAS-74U": 3,
-        "MK 14 Enhanced Battle Rifle": 32,
-        "Pioneer": 5,
-        "Sawed-off Mosin 91/30": 8
-      },
-      "weapon_master_kills": 32,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -1380,6 +1380,7 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "AKMS": 1,
         "Blaze": 17,
         "CR-527": 13,
         "KA-74": 3,
@@ -1388,8 +1389,7 @@
         "Revolver": 1,
         "SG5-K": 2,
         "SK 59/66": 3,
-        "USG-45": 1,
-        "AKMS": 1
+        "USG-45": 1
       },
       "weapon_master_kills": 17,
       "is_admin": false,
@@ -1471,11 +1471,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-17T03:16:09.837",
+      "last_seen": "2026-11-17T14:36:06.599",
       "longest_ai_kill_m": 443,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 377206,
-      "market_sales": 405,
+      "market_income": 436587,
+      "market_sales": 435,
       "name": "Proxymo",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -1746,11 +1746,11 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-17T14:17:54.149",
+      "last_seen": "2026-11-17T14:59:33.478",
       "longest_ai_kill_m": 209,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 101891,
-      "market_sales": 93,
+      "market_income": 103936,
+      "market_sales": 98,
       "name": "Tyslik",
       "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 2,
@@ -1967,6 +1967,38 @@
     },
     {
       "ai_kills": 35,
+      "deaths": 6,
+      "favorite_weapon": "Black Rain Ordnance Commando",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-07T04:23:48.021",
+      "ids": [
+        "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
+      ],
+      "last_seen": "2026-11-17T14:33:33.645",
+      "longest_ai_kill_m": 275,
+      "longest_ai_kill_weapon": "HK G28 TAN",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Rosomak400K",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "AK-12": 5,
+        "Black Rain Ordnance Commando": 16,
+        "Blaze": 1,
+        "HK G28 TAN": 11,
+        "Repeater Carbine": 1,
+        "SK 59/66": 1
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 35,
       "deaths": 1,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 14,
@@ -2009,56 +2041,24 @@
       "ids": [
         "6P8t2j9E1EaCwX_DttkM24I-5qc67E5vx3sKXgc4stw="
       ],
-      "last_seen": "2026-11-17T14:30:44.303",
+      "last_seen": "2026-11-17T15:01:21.223",
       "longest_ai_kill_m": 441,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 16237,
-      "market_sales": 28,
+      "market_income": 23547,
+      "market_sales": 46,
       "name": "Tommomeister",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "Blaze": 5,
         "CR-527": 23,
         "SG5-K": 1,
         "SK 59/66": 2,
-        "VSD": 3,
-        "Blaze": 5
+        "VSD": 3
       },
       "weapon_master_kills": 23,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 33,
-      "deaths": 6,
-      "favorite_weapon": "Black Rain Ordnance Commando",
-      "favorite_weapon_kills": 16,
-      "first_seen": "2026-11-07T04:23:48.021",
-      "ids": [
-        "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
-      ],
-      "last_seen": "2026-11-16T23:37:29.807",
-      "longest_ai_kill_m": 275,
-      "longest_ai_kill_weapon": "HK G28 TAN",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Rosomak400K",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "AK-12": 5,
-        "Black Rain Ordnance Commando": 16,
-        "Blaze": 1,
-        "HK G28 TAN": 9,
-        "Repeater Carbine": 1,
-        "SK 59/66": 1
-      },
-      "weapon_master_kills": 16,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -3481,11 +3481,11 @@
       "ids": [
         "wiGTFL_Gj2Nv3E6z3tld3w-abdhdsTcYnBPFw0garQ4="
       ],
-      "last_seen": "2026-11-17T11:31:57.708",
+      "last_seen": "2026-11-17T14:54:51.185",
       "longest_ai_kill_m": 55,
       "longest_ai_kill_weapon": "BK-18",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 4619,
+      "market_sales": 3,
       "name": "Attashi",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -4949,7 +4949,7 @@
       }
     },
     {
-      "ai_kills": 284,
+      "ai_kills": 285,
       "deaths": 5,
       "favorite_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "favorite_weapon_kills": 60,
@@ -4957,7 +4957,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-17T14:25:45.211",
+      "last_seen": "2026-11-17T14:56:13.038",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 3225098,
@@ -4969,7 +4969,7 @@
       "vehicle_trips": 166,
       "weapons": {
         "Accuracy International AWM": 29,
-        "Barrett Model 98B": 35,
+        "Barrett Model 98B": 36,
         "Black Rain Ordnance Commando": 25,
         "COLT M4A1 CUSTOM": 29,
         "CR-527": 6,
@@ -5482,11 +5482,11 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-17T13:51:00.685",
+      "last_seen": "2026-11-17T15:00:03.082",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 244571,
-      "market_sales": 284,
+      "market_income": 246755,
+      "market_sales": 288,
       "name": "Bravo_CheekiBreeki",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -5521,11 +5521,11 @@
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-17T14:11:05.727",
+      "last_seen": "2026-11-17T14:45:34.101",
       "longest_ai_kill_m": 510,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 217926,
-      "market_sales": 173,
+      "market_income": 219810,
+      "market_sales": 174,
       "name": "Glocktopus",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 3,
@@ -5732,15 +5732,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 62,
+      "ai_kills": 64,
       "deaths": 0,
       "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 32,
+      "favorite_weapon_kills": 34,
       "first_seen": "2026-11-05T12:36:19.011",
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-17T14:28:44.288",
+      "last_seen": "2026-11-17T14:40:05.709",
       "longest_ai_kill_m": 475,
       "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
       "market_income": 321476,
@@ -5753,11 +5753,11 @@
       "weapons": {
         "CR-527": 14,
         "KAS-74U": 3,
-        "MK 14 Enhanced Battle Rifle": 32,
+        "MK 14 Enhanced Battle Rifle": 34,
         "Pioneer": 5,
         "Sawed-off Mosin 91/30": 8
       },
-      "weapon_master_kills": 32,
+      "weapon_master_kills": 34,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -5928,11 +5928,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-17T03:16:09.837",
+      "last_seen": "2026-11-17T14:36:06.599",
       "longest_ai_kill_m": 443,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 377206,
-      "market_sales": 405,
+      "market_income": 436587,
+      "market_sales": 435,
       "name": "Proxymo",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -5962,22 +5962,22 @@
       "ids": [
         "6P8t2j9E1EaCwX_DttkM24I-5qc67E5vx3sKXgc4stw="
       ],
-      "last_seen": "2026-11-17T14:30:44.303",
+      "last_seen": "2026-11-17T15:01:21.223",
       "longest_ai_kill_m": 441,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 16237,
-      "market_sales": 28,
+      "market_income": 23547,
+      "market_sales": 46,
       "name": "Tommomeister",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "Blaze": 5,
         "CR-527": 23,
         "SG5-K": 1,
         "SK 59/66": 2,
-        "VSD": 3,
-        "Blaze": 5
+        "VSD": 3
       },
       "weapon_master_kills": 23,
       "is_admin": false,
@@ -6004,6 +6004,7 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "AKMS": 1,
         "Blaze": 17,
         "CR-527": 13,
         "KA-74": 3,
@@ -6012,8 +6013,7 @@
         "Revolver": 1,
         "SG5-K": 2,
         "SK 59/66": 3,
-        "USG-45": 1,
-        "AKMS": 1
+        "USG-45": 1
       },
       "weapon_master_kills": 17,
       "is_admin": false,
@@ -6885,7 +6885,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 33,
+      "ai_kills": 35,
       "deaths": 6,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 16,
@@ -6893,7 +6893,7 @@
       "ids": [
         "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
       ],
-      "last_seen": "2026-11-16T23:37:29.807",
+      "last_seen": "2026-11-17T14:33:33.645",
       "longest_ai_kill_m": 275,
       "longest_ai_kill_weapon": "HK G28 TAN",
       "market_income": 0,
@@ -6907,7 +6907,7 @@
         "AK-12": 5,
         "Black Rain Ordnance Commando": 16,
         "Blaze": 1,
-        "HK G28 TAN": 9,
+        "HK G28 TAN": 11,
         "Repeater Carbine": 1,
         "SK 59/66": 1
       },
@@ -7379,11 +7379,11 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-17T14:17:54.149",
+      "last_seen": "2026-11-17T14:59:33.478",
       "longest_ai_kill_m": 209,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 101891,
-      "market_sales": 93,
+      "market_income": 103936,
+      "market_sales": 98,
       "name": "Tyslik",
       "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 2,
@@ -8191,11 +8191,11 @@
       "ids": [
         "wiGTFL_Gj2Nv3E6z3tld3w-abdhdsTcYnBPFw0garQ4="
       ],
-      "last_seen": "2026-11-17T11:31:57.708",
+      "last_seen": "2026-11-17T14:54:51.185",
       "longest_ai_kill_m": 55,
       "longest_ai_kill_weapon": "BK-18",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 4619,
+      "market_sales": 3,
       "name": "Attashi",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -9382,11 +9382,11 @@
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-17T14:11:05.727",
+      "last_seen": "2026-11-17T14:45:34.101",
       "longest_ai_kill_m": 510,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 217926,
-      "market_sales": 173,
+      "market_income": 219810,
+      "market_sales": 174,
       "name": "Glocktopus",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 3,
@@ -9481,7 +9481,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 33,
+      "ai_kills": 35,
       "deaths": 6,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 16,
@@ -9489,7 +9489,7 @@
       "ids": [
         "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
       ],
-      "last_seen": "2026-11-16T23:37:29.807",
+      "last_seen": "2026-11-17T14:33:33.645",
       "longest_ai_kill_m": 275,
       "longest_ai_kill_weapon": "HK G28 TAN",
       "market_income": 0,
@@ -9503,7 +9503,7 @@
         "AK-12": 5,
         "Black Rain Ordnance Commando": 16,
         "Blaze": 1,
-        "HK G28 TAN": 9,
+        "HK G28 TAN": 11,
         "Repeater Carbine": 1,
         "SK 59/66": 1
       },
@@ -9541,7 +9541,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 284,
+      "ai_kills": 285,
       "deaths": 5,
       "favorite_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "favorite_weapon_kills": 60,
@@ -9549,7 +9549,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-17T14:25:45.211",
+      "last_seen": "2026-11-17T14:56:13.038",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 3225098,
@@ -9561,7 +9561,7 @@
       "vehicle_trips": 166,
       "weapons": {
         "Accuracy International AWM": 29,
-        "Barrett Model 98B": 35,
+        "Barrett Model 98B": 36,
         "Black Rain Ordnance Commando": 25,
         "COLT M4A1 CUSTOM": 29,
         "CR-527": 6,
@@ -9822,11 +9822,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-17T03:16:09.837",
+      "last_seen": "2026-11-17T14:36:06.599",
       "longest_ai_kill_m": 443,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 377206,
-      "market_sales": 405,
+      "market_income": 436587,
+      "market_sales": 435,
       "name": "Proxymo",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -10499,11 +10499,11 @@
       "ids": [
         "wiGTFL_Gj2Nv3E6z3tld3w-abdhdsTcYnBPFw0garQ4="
       ],
-      "last_seen": "2026-11-17T11:31:57.708",
+      "last_seen": "2026-11-17T14:54:51.185",
       "longest_ai_kill_m": 55,
       "longest_ai_kill_weapon": "BK-18",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 4619,
+      "market_sales": 3,
       "name": "Attashi",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -12035,11 +12035,11 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-17T13:51:00.685",
+      "last_seen": "2026-11-17T15:00:03.082",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 244571,
-      "market_sales": 284,
+      "market_income": 246755,
+      "market_sales": 288,
       "name": "Bravo_CheekiBreeki",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -13838,11 +13838,11 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-17T14:17:54.149",
+      "last_seen": "2026-11-17T14:59:33.478",
       "longest_ai_kill_m": 209,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 101891,
-      "market_sales": 93,
+      "market_income": 103936,
+      "market_sales": 98,
       "name": "Tyslik",
       "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 2,
@@ -14129,7 +14129,7 @@
       }
     },
     {
-      "ai_kills": 284,
+      "ai_kills": 285,
       "deaths": 5,
       "favorite_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "favorite_weapon_kills": 60,
@@ -14137,7 +14137,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-17T14:25:45.211",
+      "last_seen": "2026-11-17T14:56:13.038",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 3225098,
@@ -14149,7 +14149,7 @@
       "vehicle_trips": 166,
       "weapons": {
         "Accuracy International AWM": 29,
-        "Barrett Model 98B": 35,
+        "Barrett Model 98B": 36,
         "Black Rain Ordnance Commando": 25,
         "COLT M4A1 CUSTOM": 29,
         "CR-527": 6,
@@ -14607,6 +14607,40 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 52,
+      "deaths": 4,
+      "favorite_weapon": "CR-550 Savanna",
+      "favorite_weapon_kills": 18,
+      "first_seen": "2026-11-03T17:35:10.205",
+      "ids": [
+        "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
+      ],
+      "last_seen": "2026-11-17T14:36:06.599",
+      "longest_ai_kill_m": 443,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 436587,
+      "market_sales": 435,
+      "name": "Proxymo",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 6,
+        "CR-550 Savanna": 18,
+        "HK416": 1,
+        "M70 Tundra": 15,
+        "Mossberg 590M": 1,
+        "SK 59/66": 4,
+        "Sa vz. 58": 6,
+        "USG-45": 1
+      },
+      "weapon_master_kills": 18,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 5,
       "deaths": 3,
       "favorite_weapon": "Pioneer",
@@ -14631,40 +14665,6 @@
         "Sawed-off BK-43": 1
       },
       "weapon_master_kills": 2,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 52,
-      "deaths": 4,
-      "favorite_weapon": "CR-550 Savanna",
-      "favorite_weapon_kills": 18,
-      "first_seen": "2026-11-03T17:35:10.205",
-      "ids": [
-        "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
-      ],
-      "last_seen": "2026-11-17T03:16:09.837",
-      "longest_ai_kill_m": 443,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 377206,
-      "market_sales": 405,
-      "name": "Proxymo",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 6,
-        "CR-550 Savanna": 18,
-        "HK416": 1,
-        "M70 Tundra": 15,
-        "Mossberg 590M": 1,
-        "SK 59/66": 4,
-        "Sa vz. 58": 6,
-        "USG-45": 1
-      },
-      "weapon_master_kills": 18,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -14765,15 +14765,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 62,
+      "ai_kills": 64,
       "deaths": 0,
       "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 32,
+      "favorite_weapon_kills": 34,
       "first_seen": "2026-11-05T12:36:19.011",
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-17T14:28:44.288",
+      "last_seen": "2026-11-17T14:40:05.709",
       "longest_ai_kill_m": 475,
       "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
       "market_income": 321476,
@@ -14786,11 +14786,11 @@
       "weapons": {
         "CR-527": 14,
         "KAS-74U": 3,
-        "MK 14 Enhanced Battle Rifle": 32,
+        "MK 14 Enhanced Battle Rifle": 34,
         "Pioneer": 5,
         "Sawed-off Mosin 91/30": 8
       },
-      "weapon_master_kills": 32,
+      "weapon_master_kills": 34,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -14847,11 +14847,11 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-17T13:51:00.685",
+      "last_seen": "2026-11-17T15:00:03.082",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 244571,
-      "market_sales": 284,
+      "market_income": 246755,
+      "market_sales": 288,
       "name": "Bravo_CheekiBreeki",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -14955,11 +14955,11 @@
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-17T14:11:05.727",
+      "last_seen": "2026-11-17T14:45:34.101",
       "longest_ai_kill_m": 510,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 217926,
-      "market_sales": 173,
+      "market_income": 219810,
+      "market_sales": 174,
       "name": "Glocktopus",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 3,
@@ -15373,6 +15373,38 @@
       }
     },
     {
+      "ai_kills": 38,
+      "deaths": 1,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-04T00:19:39.686",
+      "ids": [
+        "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
+      ],
+      "last_seen": "2026-11-17T14:59:33.478",
+      "longest_ai_kill_m": 209,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 103936,
+      "market_sales": 98,
+      "name": "Tyslik",
+      "vehicle_driver_entries": 1,
+      "vehicle_passenger_entries": 2,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 1,
+      "weapons": {
+        "CR-527": 16,
+        "Crossbow": 2,
+        "IJ-70": 3,
+        "Mosin 91/30": 11,
+        "SCR 16": 5,
+        "SG5-K": 1
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 56,
       "deaths": 2,
       "favorite_weapon": "Black Rain Ordnance Commando",
@@ -15399,38 +15431,6 @@
         "CR-75": 1,
         "KAS-74U": 2,
         "SG5-K": 6
-      },
-      "weapon_master_kills": 16,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 38,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 16,
-      "first_seen": "2026-11-04T00:19:39.686",
-      "ids": [
-        "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
-      ],
-      "last_seen": "2026-11-17T14:17:54.149",
-      "longest_ai_kill_m": 209,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 101891,
-      "market_sales": 93,
-      "name": "Tyslik",
-      "vehicle_driver_entries": 1,
-      "vehicle_passenger_entries": 2,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 1,
-      "weapons": {
-        "CR-527": 16,
-        "Crossbow": 2,
-        "IJ-70": 3,
-        "Mosin 91/30": 11,
-        "SCR 16": 5,
-        "SG5-K": 1
       },
       "weapon_master_kills": 16,
       "is_admin": false,
@@ -15737,6 +15737,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 34,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 23,
+      "first_seen": "2026-11-03T17:33:31.427",
+      "ids": [
+        "6P8t2j9E1EaCwX_DttkM24I-5qc67E5vx3sKXgc4stw="
+      ],
+      "last_seen": "2026-11-17T15:01:21.223",
+      "longest_ai_kill_m": 441,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 23547,
+      "market_sales": 46,
+      "name": "Tommomeister",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Blaze": 5,
+        "CR-527": 23,
+        "SG5-K": 1,
+        "SK 59/66": 2,
+        "VSD": 3
+      },
+      "weapon_master_kills": 23,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 8,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -15861,37 +15892,6 @@
         "Repeater Carbine": 4
       },
       "weapon_master_kills": 9,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 34,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 23,
-      "first_seen": "2026-11-03T17:33:31.427",
-      "ids": [
-        "6P8t2j9E1EaCwX_DttkM24I-5qc67E5vx3sKXgc4stw="
-      ],
-      "last_seen": "2026-11-17T14:30:44.303",
-      "longest_ai_kill_m": 441,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 16237,
-      "market_sales": 28,
-      "name": "Tommomeister",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 23,
-        "SG5-K": 1,
-        "SK 59/66": 2,
-        "VSD": 3,
-        "Blaze": 5
-      },
-      "weapon_master_kills": 23,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -16110,6 +16110,35 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 6,
+      "deaths": 2,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 4,
+      "first_seen": "2026-11-06T23:03:24.986",
+      "ids": [
+        "wiGTFL_Gj2Nv3E6z3tld3w-abdhdsTcYnBPFw0garQ4="
+      ],
+      "last_seen": "2026-11-17T14:54:51.185",
+      "longest_ai_kill_m": 55,
+      "longest_ai_kill_weapon": "BK-18",
+      "market_income": 4619,
+      "market_sales": 3,
+      "name": "Attashi",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 4,
+        "IJ-70": 1,
+        "Mosin 91/30": 1
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 0,
       "deaths": 0,
       "favorite_weapon": "",
@@ -16215,6 +16244,7 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "AKMS": 1,
         "Blaze": 17,
         "CR-527": 13,
         "KA-74": 3,
@@ -16223,8 +16253,7 @@
         "Revolver": 1,
         "SG5-K": 2,
         "SK 59/66": 3,
-        "USG-45": 1,
-        "AKMS": 1
+        "USG-45": 1
       },
       "weapon_master_kills": 17,
       "is_admin": false,
@@ -16669,7 +16698,7 @@
       }
     },
     {
-      "ai_kills": 284,
+      "ai_kills": 285,
       "deaths": 5,
       "favorite_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "favorite_weapon_kills": 60,
@@ -16677,7 +16706,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-17T14:25:45.211",
+      "last_seen": "2026-11-17T14:56:13.038",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 3225098,
@@ -16689,7 +16718,7 @@
       "vehicle_trips": 166,
       "weapons": {
         "Accuracy International AWM": 29,
-        "Barrett Model 98B": 35,
+        "Barrett Model 98B": 36,
         "Black Rain Ordnance Commando": 25,
         "COLT M4A1 CUSTOM": 29,
         "CR-527": 6,
@@ -17587,11 +17616,11 @@
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-17T14:11:05.727",
+      "last_seen": "2026-11-17T14:45:34.101",
       "longest_ai_kill_m": 510,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 217926,
-      "market_sales": 173,
+      "market_income": 219810,
+      "market_sales": 174,
       "name": "Glocktopus",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 3,
@@ -18164,15 +18193,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 62,
+      "ai_kills": 64,
       "deaths": 0,
       "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 32,
+      "favorite_weapon_kills": 34,
       "first_seen": "2026-11-05T12:36:19.011",
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-17T14:28:44.288",
+      "last_seen": "2026-11-17T14:40:05.709",
       "longest_ai_kill_m": 475,
       "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
       "market_income": 321476,
@@ -18185,11 +18214,11 @@
       "weapons": {
         "CR-527": 14,
         "KAS-74U": 3,
-        "MK 14 Enhanced Battle Rifle": 32,
+        "MK 14 Enhanced Battle Rifle": 34,
         "Pioneer": 5,
         "Sawed-off Mosin 91/30": 8
       },
-      "weapon_master_kills": 32,
+      "weapon_master_kills": 34,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -18514,7 +18543,7 @@
       }
     },
     {
-      "ai_kills": 284,
+      "ai_kills": 285,
       "deaths": 5,
       "favorite_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "favorite_weapon_kills": 60,
@@ -18522,7 +18551,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-17T14:25:45.211",
+      "last_seen": "2026-11-17T14:56:13.038",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 3225098,
@@ -18534,7 +18563,7 @@
       "vehicle_trips": 166,
       "weapons": {
         "Accuracy International AWM": 29,
-        "Barrett Model 98B": 35,
+        "Barrett Model 98B": 36,
         "Black Rain Ordnance Commando": 25,
         "COLT M4A1 CUSTOM": 29,
         "CR-527": 6,
@@ -19017,11 +19046,11 @@
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-17T14:11:05.727",
+      "last_seen": "2026-11-17T14:45:34.101",
       "longest_ai_kill_m": 510,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 217926,
-      "market_sales": 173,
+      "market_income": 219810,
+      "market_sales": 174,
       "name": "Glocktopus",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 3,
@@ -19040,6 +19069,37 @@
         "SG5-K": 1,
         "Sa vz. 58 SF": 1,
         "VSD": 7
+      },
+      "weapon_master_kills": 34,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 64,
+      "deaths": 0,
+      "favorite_weapon": "MK 14 Enhanced Battle Rifle",
+      "favorite_weapon_kills": 34,
+      "first_seen": "2026-11-05T12:36:19.011",
+      "ids": [
+        "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
+      ],
+      "last_seen": "2026-11-17T14:40:05.709",
+      "longest_ai_kill_m": 475,
+      "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
+      "market_income": 321476,
+      "market_sales": 228,
+      "name": "Limio",
+      "vehicle_driver_entries": 3,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 12.7,
+      "vehicle_trips": 2,
+      "weapons": {
+        "CR-527": 14,
+        "KAS-74U": 3,
+        "MK 14 Enhanced Battle Rifle": 34,
+        "Pioneer": 5,
+        "Sawed-off Mosin 91/30": 8
       },
       "weapon_master_kills": 34,
       "is_admin": false,
@@ -19125,37 +19185,6 @@
         "SG5-K": 1,
         "USG-45": 2,
         "VSD": 6
-      },
-      "weapon_master_kills": 32,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 62,
-      "deaths": 0,
-      "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 32,
-      "first_seen": "2026-11-05T12:36:19.011",
-      "ids": [
-        "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
-      ],
-      "last_seen": "2026-11-17T14:28:44.288",
-      "longest_ai_kill_m": 475,
-      "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
-      "market_income": 321476,
-      "market_sales": 228,
-      "name": "Limio",
-      "vehicle_driver_entries": 3,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 12.7,
-      "vehicle_trips": 2,
-      "weapons": {
-        "CR-527": 14,
-        "KAS-74U": 3,
-        "MK 14 Enhanced Battle Rifle": 32,
-        "Pioneer": 5,
-        "Sawed-off Mosin 91/30": 8
       },
       "weapon_master_kills": 32,
       "is_admin": false,
@@ -19401,22 +19430,22 @@
       "ids": [
         "6P8t2j9E1EaCwX_DttkM24I-5qc67E5vx3sKXgc4stw="
       ],
-      "last_seen": "2026-11-17T14:30:44.303",
+      "last_seen": "2026-11-17T15:01:21.223",
       "longest_ai_kill_m": 441,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 16237,
-      "market_sales": 28,
+      "market_income": 23547,
+      "market_sales": 46,
       "name": "Tommomeister",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "Blaze": 5,
         "CR-527": 23,
         "SG5-K": 1,
         "SK 59/66": 2,
-        "VSD": 3,
-        "Blaze": 5
+        "VSD": 3
       },
       "weapon_master_kills": 23,
       "is_admin": false,
@@ -19789,11 +19818,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-17T03:16:09.837",
+      "last_seen": "2026-11-17T14:36:06.599",
       "longest_ai_kill_m": 443,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 377206,
-      "market_sales": 405,
+      "market_income": 436587,
+      "market_sales": 435,
       "name": "Proxymo",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -19834,6 +19863,7 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "AKMS": 1,
         "Blaze": 17,
         "CR-527": 13,
         "KA-74": 3,
@@ -19842,8 +19872,7 @@
         "Revolver": 1,
         "SG5-K": 2,
         "SK 59/66": 3,
-        "USG-45": 1,
-        "AKMS": 1
+        "USG-45": 1
       },
       "weapon_master_kills": 17,
       "is_admin": false,
@@ -19918,11 +19947,11 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-17T13:51:00.685",
+      "last_seen": "2026-11-17T15:00:03.082",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 244571,
-      "market_sales": 284,
+      "market_income": 246755,
+      "market_sales": 288,
       "name": "Bravo_CheekiBreeki",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -20017,7 +20046,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 33,
+      "ai_kills": 35,
       "deaths": 6,
       "favorite_weapon": "Black Rain Ordnance Commando",
       "favorite_weapon_kills": 16,
@@ -20025,7 +20054,7 @@
       "ids": [
         "63yItm8sx9si_k4U9rnCt83sgtd05jGkOCCbqNuKL4Y="
       ],
-      "last_seen": "2026-11-16T23:37:29.807",
+      "last_seen": "2026-11-17T14:33:33.645",
       "longest_ai_kill_m": 275,
       "longest_ai_kill_weapon": "HK G28 TAN",
       "market_income": 0,
@@ -20039,7 +20068,7 @@
         "AK-12": 5,
         "Black Rain Ordnance Commando": 16,
         "Blaze": 1,
-        "HK G28 TAN": 9,
+        "HK G28 TAN": 11,
         "Repeater Carbine": 1,
         "SK 59/66": 1
       },
@@ -20057,11 +20086,11 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-17T14:17:54.149",
+      "last_seen": "2026-11-17T14:59:33.478",
       "longest_ai_kill_m": 209,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 101891,
-      "market_sales": 93,
+      "market_income": 103936,
+      "market_sales": 98,
       "name": "Tyslik",
       "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 2,
@@ -21413,11 +21442,11 @@
       "ids": [
         "wiGTFL_Gj2Nv3E6z3tld3w-abdhdsTcYnBPFw0garQ4="
       ],
-      "last_seen": "2026-11-17T11:31:57.708",
+      "last_seen": "2026-11-17T14:54:51.185",
       "longest_ai_kill_m": 55,
       "longest_ai_kill_weapon": "BK-18",
-      "market_income": 0,
-      "market_sales": 0,
+      "market_income": 4619,
+      "market_sales": 3,
       "name": "Attashi",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -22763,7 +22792,7 @@
       }
     },
     {
-      "ai_kills": 284,
+      "ai_kills": 285,
       "deaths": 5,
       "favorite_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "favorite_weapon_kills": 60,
@@ -22771,7 +22800,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-17T14:25:45.211",
+      "last_seen": "2026-11-17T14:56:13.038",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 3225098,
@@ -22783,7 +22812,7 @@
       "vehicle_trips": 166,
       "weapons": {
         "Accuracy International AWM": 29,
-        "Barrett Model 98B": 35,
+        "Barrett Model 98B": 36,
         "Black Rain Ordnance Commando": 25,
         "COLT M4A1 CUSTOM": 29,
         "CR-527": 6,
@@ -23168,11 +23197,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-17T03:16:09.837",
+      "last_seen": "2026-11-17T14:36:06.599",
       "longest_ai_kill_m": 443,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 377206,
-      "market_sales": 405,
+      "market_income": 436587,
+      "market_sales": 435,
       "name": "Proxymo",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -23371,11 +23400,11 @@
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-17T13:51:00.685",
+      "last_seen": "2026-11-17T15:00:03.082",
       "longest_ai_kill_m": 523,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 244571,
-      "market_sales": 284,
+      "market_income": 246755,
+      "market_sales": 288,
       "name": "Bravo_CheekiBreeki",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -23505,15 +23534,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 62,
+      "ai_kills": 64,
       "deaths": 0,
       "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 32,
+      "favorite_weapon_kills": 34,
       "first_seen": "2026-11-05T12:36:19.011",
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-17T14:28:44.288",
+      "last_seen": "2026-11-17T14:40:05.709",
       "longest_ai_kill_m": 475,
       "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
       "market_income": 321476,
@@ -23526,11 +23555,11 @@
       "weapons": {
         "CR-527": 14,
         "KAS-74U": 3,
-        "MK 14 Enhanced Battle Rifle": 32,
+        "MK 14 Enhanced Battle Rifle": 34,
         "Pioneer": 5,
         "Sawed-off Mosin 91/30": 8
       },
-      "weapon_master_kills": 32,
+      "weapon_master_kills": 34,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -23607,11 +23636,11 @@
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-17T14:11:05.727",
+      "last_seen": "2026-11-17T14:45:34.101",
       "longest_ai_kill_m": 510,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 217926,
-      "market_sales": 173,
+      "market_income": 219810,
+      "market_sales": 174,
       "name": "Glocktopus",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 3,
@@ -23958,11 +23987,11 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-17T14:17:54.149",
+      "last_seen": "2026-11-17T14:59:33.478",
       "longest_ai_kill_m": 209,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 101891,
-      "market_sales": 93,
+      "market_income": 103936,
+      "market_sales": 98,
       "name": "Tyslik",
       "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 2,
@@ -24211,6 +24240,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 34,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 23,
+      "first_seen": "2026-11-03T17:33:31.427",
+      "ids": [
+        "6P8t2j9E1EaCwX_DttkM24I-5qc67E5vx3sKXgc4stw="
+      ],
+      "last_seen": "2026-11-17T15:01:21.223",
+      "longest_ai_kill_m": 441,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 23547,
+      "market_sales": 46,
+      "name": "Tommomeister",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Blaze": 5,
+        "CR-527": 23,
+        "SG5-K": 1,
+        "SK 59/66": 2,
+        "VSD": 3
+      },
+      "weapon_master_kills": 23,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 19,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -24299,37 +24359,6 @@
         "SK 59/66": 6
       },
       "weapon_master_kills": 14,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 34,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 23,
-      "first_seen": "2026-11-03T17:33:31.427",
-      "ids": [
-        "6P8t2j9E1EaCwX_DttkM24I-5qc67E5vx3sKXgc4stw="
-      ],
-      "last_seen": "2026-11-17T14:30:44.303",
-      "longest_ai_kill_m": 441,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 16237,
-      "market_sales": 28,
-      "name": "Tommomeister",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 23,
-        "SG5-K": 1,
-        "SK 59/66": 2,
-        "VSD": 3,
-        "Blaze": 5
-      },
-      "weapon_master_kills": 23,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -24438,6 +24467,7 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
+        "AKMS": 1,
         "Blaze": 17,
         "CR-527": 13,
         "KA-74": 3,
@@ -24446,8 +24476,7 @@
         "Revolver": 1,
         "SG5-K": 2,
         "SK 59/66": 3,
-        "USG-45": 1,
-        "AKMS": 1
+        "USG-45": 1
       },
       "weapon_master_kills": 17,
       "is_admin": false,
@@ -24894,6 +24923,35 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 6,
+      "deaths": 2,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 4,
+      "first_seen": "2026-11-06T23:03:24.986",
+      "ids": [
+        "wiGTFL_Gj2Nv3E6z3tld3w-abdhdsTcYnBPFw0garQ4="
+      ],
+      "last_seen": "2026-11-17T14:54:51.185",
+      "longest_ai_kill_m": 55,
+      "longest_ai_kill_weapon": "BK-18",
+      "market_income": 4619,
+      "market_sales": 3,
+      "name": "Attashi",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 4,
+        "IJ-70": 1,
+        "Mosin 91/30": 1
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 0,
       "deaths": 0,
       "favorite_weapon": "",
@@ -25258,7 +25316,7 @@
       }
     },
     {
-      "ai_kills": 284,
+      "ai_kills": 285,
       "deaths": 5,
       "favorite_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "favorite_weapon_kills": 60,
@@ -25266,7 +25324,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-17T14:25:45.211",
+      "last_seen": "2026-11-17T14:56:13.038",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 3225098,
@@ -25278,7 +25336,7 @@
       "vehicle_trips": 166,
       "weapons": {
         "Accuracy International AWM": 29,
-        "Barrett Model 98B": 35,
+        "Barrett Model 98B": 36,
         "Black Rain Ordnance Commando": 25,
         "COLT M4A1 CUSTOM": 29,
         "CR-527": 6,
