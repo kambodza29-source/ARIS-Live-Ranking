@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 247,
   "staff_count": 6,
-  "updated_at_local": "18.11.2026 12:31",
+  "updated_at_local": "18.11.2026 13:01",
   "staff": [
     {
       "ai_kills": 0,
@@ -266,7 +266,7 @@
       }
     },
     {
-      "ai_kills": 259,
+      "ai_kills": 261,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 126,
@@ -274,7 +274,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-18T11:57:56.912",
+      "last_seen": "2026-11-18T12:37:09.282",
       "longest_ai_kill_m": 698,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1497774,
@@ -291,7 +291,7 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
-        "HK G28": 11,
+        "HK G28": 13,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
@@ -759,7 +759,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 105,
+      "ai_kills": 108,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -767,7 +767,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T11:15:26.257",
+      "last_seen": "2026-11-18T12:59:43.468",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 577642,
@@ -780,10 +780,10 @@
       "weapons": {
         "AAC Honey Badger": 11,
         "AKML": 11,
-        "B&T APC223 PRO": 1,
+        "B&T APC223 PRO": 2,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 18,
+        "CR-550 Savanna": 20,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -915,7 +915,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 82,
+      "ai_kills": 83,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 25,
@@ -923,7 +923,7 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-18T12:30:01.882",
+      "last_seen": "2026-11-18T12:31:58.637",
       "longest_ai_kill_m": 321,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 19454,
@@ -937,7 +937,7 @@
         "CR-527": 25,
         "FX-45": 1,
         "M16-A2": 3,
-        "M70 Tundra": 23,
+        "M70 Tundra": 24,
         "Pioneer": 14,
         "SCR 16": 12,
         "SK 59/66": 4
@@ -2121,11 +2121,11 @@
       "ids": [
         "m0xRSax5Fqsy_roQJivZoKDko2MWms7UUEe_lzJxzds="
       ],
-      "last_seen": "2026-11-17T21:04:01.609",
+      "last_seen": "2026-11-18T12:57:04.524",
       "longest_ai_kill_m": 410,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 4766,
-      "market_sales": 2,
+      "market_income": 8944,
+      "market_sales": 8,
       "name": "stado_cz",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -3638,6 +3638,35 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 6,
+      "deaths": 1,
+      "favorite_weapon": "BK-133",
+      "favorite_weapon_kills": 3,
+      "first_seen": "2026-11-11T23:34:51.190",
+      "ids": [
+        "sTOhBKpboD32I_YdtczPHTCCZeGcbsNbvnYYSYVNrDQ="
+      ],
+      "last_seen": "2026-11-18T12:32:48.043",
+      "longest_ai_kill_m": 138,
+      "longest_ai_kill_weapon": "SK 59/66",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "OPA",
+      "vehicle_driver_entries": 24,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 22567.2,
+      "vehicle_trips": 23,
+      "weapons": {
+        "BK-133": 3,
+        "Crossbow": 1,
+        "SK 59/66": 2
+      },
+      "weapon_master_kills": 3,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 5,
       "deaths": 3,
       "favorite_weapon": "Pioneer",
@@ -3688,35 +3717,6 @@
       "weapons": {
         "BK-18": 2,
         "Pioneer": 3
-      },
-      "weapon_master_kills": 3,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 5,
-      "deaths": 1,
-      "favorite_weapon": "BK-133",
-      "favorite_weapon_kills": 3,
-      "first_seen": "2026-11-11T23:34:51.190",
-      "ids": [
-        "sTOhBKpboD32I_YdtczPHTCCZeGcbsNbvnYYSYVNrDQ="
-      ],
-      "last_seen": "2026-11-18T12:30:55.015",
-      "longest_ai_kill_m": 138,
-      "longest_ai_kill_weapon": "SK 59/66",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "OPA",
-      "vehicle_driver_entries": 24,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 22567.2,
-      "vehicle_trips": 23,
-      "weapons": {
-        "BK-133": 3,
-        "Crossbow": 1,
-        "SK 59/66": 1
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -4340,6 +4340,33 @@
     },
     {
       "ai_kills": 1,
+      "deaths": 3,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-11-18T07:13:33.456",
+      "ids": [
+        "bvPSP7NqJ7NHusqLi6Zd_Chqn-lCc4buGoJ4Di_0zAQ="
+      ],
+      "last_seen": "2026-11-18T12:35:07.717",
+      "longest_ai_kill_m": 14,
+      "longest_ai_kill_weapon": "IJ-70",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "BOT",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "IJ-70": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 1,
       "deaths": 1,
       "favorite_weapon": "AKS-74UN",
       "favorite_weapon_kills": 1,
@@ -4727,7 +4754,7 @@
       }
     },
     {
-      "ai_kills": 105,
+      "ai_kills": 108,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -4735,7 +4762,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T11:15:26.257",
+      "last_seen": "2026-11-18T12:59:43.468",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 577642,
@@ -4748,10 +4775,10 @@
       "weapons": {
         "AAC Honey Badger": 11,
         "AKML": 11,
-        "B&T APC223 PRO": 1,
+        "B&T APC223 PRO": 2,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 18,
+        "CR-550 Savanna": 20,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -4967,7 +4994,7 @@
       }
     },
     {
-      "ai_kills": 259,
+      "ai_kills": 261,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 126,
@@ -4975,7 +5002,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-18T11:57:56.912",
+      "last_seen": "2026-11-18T12:37:09.282",
       "longest_ai_kill_m": 698,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1497774,
@@ -4992,7 +5019,7 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
-        "HK G28": 11,
+        "HK G28": 13,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
@@ -6198,11 +6225,11 @@
       "ids": [
         "m0xRSax5Fqsy_roQJivZoKDko2MWms7UUEe_lzJxzds="
       ],
-      "last_seen": "2026-11-17T21:04:01.609",
+      "last_seen": "2026-11-18T12:57:04.524",
       "longest_ai_kill_m": 410,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 4766,
-      "market_sales": 2,
+      "market_income": 8944,
+      "market_sales": 8,
       "name": "stado_cz",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -6721,7 +6748,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 82,
+      "ai_kills": 83,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 25,
@@ -6729,7 +6756,7 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-18T12:30:01.882",
+      "last_seen": "2026-11-18T12:31:58.637",
       "longest_ai_kill_m": 321,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 19454,
@@ -6743,7 +6770,7 @@
         "CR-527": 25,
         "FX-45": 1,
         "M16-A2": 3,
-        "M70 Tundra": 23,
+        "M70 Tundra": 24,
         "Pioneer": 14,
         "SCR 16": 12,
         "SK 59/66": 4
@@ -7810,7 +7837,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 6,
       "deaths": 1,
       "favorite_weapon": "BK-133",
       "favorite_weapon_kills": 3,
@@ -7818,7 +7845,7 @@
       "ids": [
         "sTOhBKpboD32I_YdtczPHTCCZeGcbsNbvnYYSYVNrDQ="
       ],
-      "last_seen": "2026-11-18T12:30:55.015",
+      "last_seen": "2026-11-18T12:32:48.043",
       "longest_ai_kill_m": 138,
       "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
@@ -7831,7 +7858,7 @@
       "weapons": {
         "BK-133": 3,
         "Crossbow": 1,
-        "SK 59/66": 1
+        "SK 59/66": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -8920,6 +8947,33 @@
       "weapons": {
         "BK-43": 1,
         "Sporter 22": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 1,
+      "deaths": 3,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-11-18T07:13:33.456",
+      "ids": [
+        "bvPSP7NqJ7NHusqLi6Zd_Chqn-lCc4buGoJ4Di_0zAQ="
+      ],
+      "last_seen": "2026-11-18T12:35:07.717",
+      "longest_ai_kill_m": 14,
+      "longest_ai_kill_weapon": "IJ-70",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "BOT",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "IJ-70": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -10107,6 +10161,33 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 1,
+      "deaths": 3,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-11-18T07:13:33.456",
+      "ids": [
+        "bvPSP7NqJ7NHusqLi6Zd_Chqn-lCc4buGoJ4Di_0zAQ="
+      ],
+      "last_seen": "2026-11-18T12:35:07.717",
+      "longest_ai_kill_m": 14,
+      "longest_ai_kill_weapon": "IJ-70",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "BOT",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "IJ-70": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 245,
       "deaths": 3,
       "favorite_weapon": "M70 Tundra",
@@ -10774,31 +10855,6 @@
       "deaths": 2,
       "favorite_weapon": "",
       "favorite_weapon_kills": 0,
-      "first_seen": "2026-11-18T07:13:33.456",
-      "ids": [
-        "bvPSP7NqJ7NHusqLi6Zd_Chqn-lCc4buGoJ4Di_0zAQ="
-      ],
-      "last_seen": "2026-11-18T11:32:33.823",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "BOT",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 0,
-      "deaths": 2,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
       "first_seen": "2026-11-13T19:48:20.465",
       "ids": [
         "9EsNP2lemlx4diqDPcpqk-7D2aWcLl7a3bZEobuSYYU="
@@ -10854,7 +10910,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 259,
+      "ai_kills": 261,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 126,
@@ -10862,7 +10918,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-18T11:57:56.912",
+      "last_seen": "2026-11-18T12:37:09.282",
       "longest_ai_kill_m": 698,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1497774,
@@ -10879,7 +10935,7 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
-        "HK G28": 11,
+        "HK G28": 13,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
@@ -11431,7 +11487,7 @@
       }
     },
     {
-      "ai_kills": 105,
+      "ai_kills": 108,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -11439,7 +11495,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T11:15:26.257",
+      "last_seen": "2026-11-18T12:59:43.468",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 577642,
@@ -11452,10 +11508,10 @@
       "weapons": {
         "AAC Honey Badger": 11,
         "AKML": 11,
-        "B&T APC223 PRO": 1,
+        "B&T APC223 PRO": 2,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 18,
+        "CR-550 Savanna": 20,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -13397,7 +13453,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 6,
       "deaths": 1,
       "favorite_weapon": "BK-133",
       "favorite_weapon_kills": 3,
@@ -13405,7 +13461,7 @@
       "ids": [
         "sTOhBKpboD32I_YdtczPHTCCZeGcbsNbvnYYSYVNrDQ="
       ],
-      "last_seen": "2026-11-18T12:30:55.015",
+      "last_seen": "2026-11-18T12:32:48.043",
       "longest_ai_kill_m": 138,
       "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
@@ -13418,7 +13474,7 @@
       "weapons": {
         "BK-133": 3,
         "Crossbow": 1,
-        "SK 59/66": 1
+        "SK 59/66": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -14582,7 +14638,7 @@
       }
     },
     {
-      "ai_kills": 259,
+      "ai_kills": 261,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 126,
@@ -14590,7 +14646,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-18T11:57:56.912",
+      "last_seen": "2026-11-18T12:37:09.282",
       "longest_ai_kill_m": 698,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1497774,
@@ -14607,7 +14663,7 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
-        "HK G28": 11,
+        "HK G28": 13,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
@@ -14833,7 +14889,7 @@
       }
     },
     {
-      "ai_kills": 105,
+      "ai_kills": 108,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -14841,7 +14897,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T11:15:26.257",
+      "last_seen": "2026-11-18T12:59:43.468",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 577642,
@@ -14854,10 +14910,10 @@
       "weapons": {
         "AAC Honey Badger": 11,
         "AKML": 11,
-        "B&T APC223 PRO": 1,
+        "B&T APC223 PRO": 2,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 18,
+        "CR-550 Savanna": 20,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -16272,7 +16328,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 82,
+      "ai_kills": 83,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 25,
@@ -16280,7 +16336,7 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-18T12:30:01.882",
+      "last_seen": "2026-11-18T12:31:58.637",
       "longest_ai_kill_m": 321,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 19454,
@@ -16294,7 +16350,7 @@
         "CR-527": 25,
         "FX-45": 1,
         "M16-A2": 3,
-        "M70 Tundra": 23,
+        "M70 Tundra": 24,
         "Pioneer": 14,
         "SCR 16": 12,
         "SK 59/66": 4
@@ -16521,6 +16577,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 33,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 23,
+      "first_seen": "2026-11-04T18:26:15.716",
+      "ids": [
+        "m0xRSax5Fqsy_roQJivZoKDko2MWms7UUEe_lzJxzds="
+      ],
+      "last_seen": "2026-11-18T12:57:04.524",
+      "longest_ai_kill_m": 410,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 8944,
+      "market_sales": 8,
+      "name": "stado_cz",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "AK-12": 2,
+        "BK-18": 1,
+        "CR-527": 23,
+        "IJ-70": 3,
+        "SG5-K": 4
+      },
+      "weapon_master_kills": 23,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 18,
       "deaths": 5,
       "favorite_weapon": "CR-527",
@@ -16609,37 +16696,6 @@
         "Mosin 91/30": 1
       },
       "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 33,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 23,
-      "first_seen": "2026-11-04T18:26:15.716",
-      "ids": [
-        "m0xRSax5Fqsy_roQJivZoKDko2MWms7UUEe_lzJxzds="
-      ],
-      "last_seen": "2026-11-17T21:04:01.609",
-      "longest_ai_kill_m": 410,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 4766,
-      "market_sales": 2,
-      "name": "stado_cz",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "AK-12": 2,
-        "BK-18": 1,
-        "CR-527": 23,
-        "IJ-70": 3,
-        "SG5-K": 4
-      },
-      "weapon_master_kills": 23,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -17219,7 +17275,7 @@
       }
     },
     {
-      "ai_kills": 259,
+      "ai_kills": 261,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 126,
@@ -17227,7 +17283,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-18T11:57:56.912",
+      "last_seen": "2026-11-18T12:37:09.282",
       "longest_ai_kill_m": 698,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1497774,
@@ -17244,7 +17300,7 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
-        "HK G28": 11,
+        "HK G28": 13,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
@@ -17468,7 +17524,7 @@
       }
     },
     {
-      "ai_kills": 105,
+      "ai_kills": 108,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -17476,7 +17532,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T11:15:26.257",
+      "last_seen": "2026-11-18T12:59:43.468",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 577642,
@@ -17489,10 +17545,10 @@
       "weapons": {
         "AAC Honey Badger": 11,
         "AKML": 11,
-        "B&T APC223 PRO": 1,
+        "B&T APC223 PRO": 2,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 18,
+        "CR-550 Savanna": 20,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -17862,7 +17918,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 6,
       "deaths": 1,
       "favorite_weapon": "BK-133",
       "favorite_weapon_kills": 3,
@@ -17870,7 +17926,7 @@
       "ids": [
         "sTOhBKpboD32I_YdtczPHTCCZeGcbsNbvnYYSYVNrDQ="
       ],
-      "last_seen": "2026-11-18T12:30:55.015",
+      "last_seen": "2026-11-18T12:32:48.043",
       "longest_ai_kill_m": 138,
       "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
@@ -17883,7 +17939,7 @@
       "weapons": {
         "BK-133": 3,
         "Crossbow": 1,
-        "SK 59/66": 1
+        "SK 59/66": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -18867,7 +18923,7 @@
       }
     },
     {
-      "ai_kills": 259,
+      "ai_kills": 261,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 126,
@@ -18875,7 +18931,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-18T11:57:56.912",
+      "last_seen": "2026-11-18T12:37:09.282",
       "longest_ai_kill_m": 698,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1497774,
@@ -18892,7 +18948,7 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
-        "HK G28": 11,
+        "HK G28": 13,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
@@ -19199,7 +19255,7 @@
       }
     },
     {
-      "ai_kills": 105,
+      "ai_kills": 108,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -19207,7 +19263,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T11:15:26.257",
+      "last_seen": "2026-11-18T12:59:43.468",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 577642,
@@ -19220,10 +19276,10 @@
       "weapons": {
         "AAC Honey Badger": 11,
         "AKML": 11,
-        "B&T APC223 PRO": 1,
+        "B&T APC223 PRO": 2,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 18,
+        "CR-550 Savanna": 20,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -19914,7 +19970,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 82,
+      "ai_kills": 83,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 25,
@@ -19922,7 +19978,7 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-18T12:30:01.882",
+      "last_seen": "2026-11-18T12:31:58.637",
       "longest_ai_kill_m": 321,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 19454,
@@ -19936,7 +19992,7 @@
         "CR-527": 25,
         "FX-45": 1,
         "M16-A2": 3,
-        "M70 Tundra": 23,
+        "M70 Tundra": 24,
         "Pioneer": 14,
         "SCR 16": 12,
         "SK 59/66": 4
@@ -19955,11 +20011,11 @@
       "ids": [
         "m0xRSax5Fqsy_roQJivZoKDko2MWms7UUEe_lzJxzds="
       ],
-      "last_seen": "2026-11-17T21:04:01.609",
+      "last_seen": "2026-11-18T12:57:04.524",
       "longest_ai_kill_m": 410,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 4766,
-      "market_sales": 2,
+      "market_income": 8944,
+      "market_sales": 8,
       "name": "stado_cz",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -22387,7 +22443,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 5,
+      "ai_kills": 6,
       "deaths": 1,
       "favorite_weapon": "BK-133",
       "favorite_weapon_kills": 3,
@@ -22395,7 +22451,7 @@
       "ids": [
         "sTOhBKpboD32I_YdtczPHTCCZeGcbsNbvnYYSYVNrDQ="
       ],
-      "last_seen": "2026-11-18T12:30:55.015",
+      "last_seen": "2026-11-18T12:32:48.043",
       "longest_ai_kill_m": 138,
       "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
@@ -22408,7 +22464,7 @@
       "weapons": {
         "BK-133": 3,
         "Crossbow": 1,
-        "SK 59/66": 1
+        "SK 59/66": 2
       },
       "weapon_master_kills": 3,
       "is_admin": false,
@@ -22853,6 +22909,33 @@
     },
     {
       "ai_kills": 1,
+      "deaths": 3,
+      "favorite_weapon": "IJ-70",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-11-18T07:13:33.456",
+      "ids": [
+        "bvPSP7NqJ7NHusqLi6Zd_Chqn-lCc4buGoJ4Di_0zAQ="
+      ],
+      "last_seen": "2026-11-18T12:35:07.717",
+      "longest_ai_kill_m": 14,
+      "longest_ai_kill_weapon": "IJ-70",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "BOT",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "IJ-70": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 1,
       "deaths": 1,
       "favorite_weapon": "AKS-74UN",
       "favorite_weapon_kills": 1,
@@ -23206,7 +23289,7 @@
   ],
   "salesman": [
     {
-      "ai_kills": 259,
+      "ai_kills": 261,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 126,
@@ -23214,7 +23297,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-18T11:57:56.912",
+      "last_seen": "2026-11-18T12:37:09.282",
       "longest_ai_kill_m": 698,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1497774,
@@ -23231,7 +23314,7 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
-        "HK G28": 11,
+        "HK G28": 13,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
@@ -23704,7 +23787,7 @@
       }
     },
     {
-      "ai_kills": 105,
+      "ai_kills": 108,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -23712,7 +23795,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T11:15:26.257",
+      "last_seen": "2026-11-18T12:59:43.468",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 577642,
@@ -23725,10 +23808,10 @@
       "weapons": {
         "AAC Honey Badger": 11,
         "AKML": 11,
-        "B&T APC223 PRO": 1,
+        "B&T APC223 PRO": 2,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 18,
+        "CR-550 Savanna": 20,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -25404,7 +25487,38 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 82,
+      "ai_kills": 33,
+      "deaths": 0,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 23,
+      "first_seen": "2026-11-04T18:26:15.716",
+      "ids": [
+        "m0xRSax5Fqsy_roQJivZoKDko2MWms7UUEe_lzJxzds="
+      ],
+      "last_seen": "2026-11-18T12:57:04.524",
+      "longest_ai_kill_m": 410,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 8944,
+      "market_sales": 8,
+      "name": "stado_cz",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "AK-12": 2,
+        "BK-18": 1,
+        "CR-527": 23,
+        "IJ-70": 3,
+        "SG5-K": 4
+      },
+      "weapon_master_kills": 23,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 83,
       "deaths": 0,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 25,
@@ -25412,7 +25526,7 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-18T12:30:01.882",
+      "last_seen": "2026-11-18T12:31:58.637",
       "longest_ai_kill_m": 321,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 19454,
@@ -25426,7 +25540,7 @@
         "CR-527": 25,
         "FX-45": 1,
         "M16-A2": 3,
-        "M70 Tundra": 23,
+        "M70 Tundra": 24,
         "Pioneer": 14,
         "SCR 16": 12,
         "SK 59/66": 4
@@ -25628,37 +25742,6 @@
       "vehicle_trips": 0,
       "weapons": {},
       "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 33,
-      "deaths": 0,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 23,
-      "first_seen": "2026-11-04T18:26:15.716",
-      "ids": [
-        "m0xRSax5Fqsy_roQJivZoKDko2MWms7UUEe_lzJxzds="
-      ],
-      "last_seen": "2026-11-17T21:04:01.609",
-      "longest_ai_kill_m": 410,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 4766,
-      "market_sales": 2,
-      "name": "stado_cz",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "AK-12": 2,
-        "BK-18": 1,
-        "CR-527": 23,
-        "IJ-70": 3,
-        "SG5-K": 4
-      },
-      "weapon_master_kills": 23,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -25929,7 +26012,7 @@
       }
     },
     {
-      "ai_kills": 259,
+      "ai_kills": 261,
       "deaths": 2,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 126,
@@ -25937,7 +26020,7 @@
       "ids": [
         "0Hwv5oekDBq-mLlAGOWEnH8iHTewu1ArbTgCsBe4ZGs="
       ],
-      "last_seen": "2026-11-18T11:57:56.912",
+      "last_seen": "2026-11-18T12:37:09.282",
       "longest_ai_kill_m": 698,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1497774,
@@ -25954,7 +26037,7 @@
         "CR-527": 11,
         "DMR": 126,
         "Desert Tech MDRX": 2,
-        "HK G28": 11,
+        "HK G28": 13,
         "KA-M": 14,
         "M110 SASS": 19,
         "Mosin 91/30": 1,
@@ -26389,7 +26472,7 @@
       }
     },
     {
-      "ai_kills": 105,
+      "ai_kills": 108,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -26397,7 +26480,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T11:15:26.257",
+      "last_seen": "2026-11-18T12:59:43.468",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 577642,
@@ -26410,10 +26493,10 @@
       "weapons": {
         "AAC Honey Badger": 11,
         "AKML": 11,
-        "B&T APC223 PRO": 1,
+        "B&T APC223 PRO": 2,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 18,
+        "CR-550 Savanna": 20,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
