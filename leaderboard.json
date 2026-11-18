@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 246,
   "staff_count": 6,
-  "updated_at_local": "18.11.2026 02:01",
+  "updated_at_local": "18.11.2026 02:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -179,15 +179,15 @@
   ],
   "ai_hunter": [
     {
-      "ai_kills": 366,
+      "ai_kills": 374,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 171,
+      "favorite_weapon_kills": 179,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-18T01:37:09.355",
+      "last_seen": "2026-11-18T02:27:58.178",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 1544581,
@@ -203,7 +203,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 171,
+        "DMR": 179,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 7,
@@ -211,7 +211,7 @@
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 171,
+      "weapon_master_kills": 179,
       "is_admin": false,
       "aris_score": 320,
       "aris_score_breakdown": {
@@ -1169,6 +1169,38 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 66,
+      "deaths": 1,
+      "favorite_weapon": "VS-89",
+      "favorite_weapon_kills": 44,
+      "first_seen": "2026-11-06T00:47:10.061",
+      "ids": [
+        "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
+      ],
+      "last_seen": "2026-11-18T02:16:23.132",
+      "longest_ai_kill_m": 664,
+      "longest_ai_kill_weapon": "VS-89",
+      "market_income": 455668,
+      "market_sales": 392,
+      "name": "Fenix-CZ",
+      "vehicle_driver_entries": 19,
+      "vehicle_passenger_entries": 28,
+      "vehicle_trip_straightline_m": 462.6,
+      "vehicle_trips": 19,
+      "weapons": {
+        "BRN-180": 3,
+        "CR-527": 10,
+        "FN SCAR-H MK17 MOD O": 5,
+        "IJ-70": 1,
+        "SG5-K": 3,
+        "VS-89": 44
+      },
+      "weapon_master_kills": 44,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 65,
       "deaths": 0,
       "favorite_weapon": "MK 14 Enhanced Battle Rifle",
@@ -1195,38 +1227,6 @@
         "Sawed-off Mosin 91/30": 8
       },
       "weapon_master_kills": 35,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 63,
-      "deaths": 1,
-      "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 41,
-      "first_seen": "2026-11-06T00:47:10.061",
-      "ids": [
-        "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
-      ],
-      "last_seen": "2026-11-16T18:06:06.981",
-      "longest_ai_kill_m": 664,
-      "longest_ai_kill_weapon": "VS-89",
-      "market_income": 450993,
-      "market_sales": 388,
-      "name": "Fenix-CZ",
-      "vehicle_driver_entries": 19,
-      "vehicle_passenger_entries": 28,
-      "vehicle_trip_straightline_m": 462.6,
-      "vehicle_trips": 19,
-      "weapons": {
-        "BRN-180": 3,
-        "CR-527": 10,
-        "FN SCAR-H MK17 MOD O": 5,
-        "IJ-70": 1,
-        "SG5-K": 3,
-        "VS-89": 41
-      },
-      "weapon_master_kills": 41,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -5113,19 +5113,19 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 63,
+      "ai_kills": 66,
       "deaths": 1,
       "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 41,
+      "favorite_weapon_kills": 44,
       "first_seen": "2026-11-06T00:47:10.061",
       "ids": [
         "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
       ],
-      "last_seen": "2026-11-16T18:06:06.981",
+      "last_seen": "2026-11-18T02:16:23.132",
       "longest_ai_kill_m": 664,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 450993,
-      "market_sales": 388,
+      "market_income": 455668,
+      "market_sales": 392,
       "name": "Fenix-CZ",
       "vehicle_driver_entries": 19,
       "vehicle_passenger_entries": 28,
@@ -5137,9 +5137,9 @@
         "FN SCAR-H MK17 MOD O": 5,
         "IJ-70": 1,
         "SG5-K": 3,
-        "VS-89": 41
+        "VS-89": 44
       },
-      "weapon_master_kills": 41,
+      "weapon_master_kills": 44,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -5298,15 +5298,15 @@
       }
     },
     {
-      "ai_kills": 366,
+      "ai_kills": 374,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 171,
+      "favorite_weapon_kills": 179,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-18T01:37:09.355",
+      "last_seen": "2026-11-18T02:27:58.178",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 1544581,
@@ -5322,7 +5322,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 171,
+        "DMR": 179,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 7,
@@ -5330,7 +5330,7 @@
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 171,
+      "weapon_master_kills": 179,
       "is_admin": false,
       "aris_score": 320,
       "aris_score_breakdown": {
@@ -9019,15 +9019,15 @@
   ],
   "most_deaths": [
     {
-      "ai_kills": 366,
+      "ai_kills": 374,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 171,
+      "favorite_weapon_kills": 179,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-18T01:37:09.355",
+      "last_seen": "2026-11-18T02:27:58.178",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 1544581,
@@ -9043,7 +9043,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 171,
+        "DMR": 179,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 7,
@@ -9051,7 +9051,7 @@
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 171,
+      "weapon_master_kills": 179,
       "is_admin": false,
       "aris_score": 320,
       "aris_score_breakdown": {
@@ -12480,19 +12480,19 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 63,
+      "ai_kills": 66,
       "deaths": 1,
       "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 41,
+      "favorite_weapon_kills": 44,
       "first_seen": "2026-11-06T00:47:10.061",
       "ids": [
         "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
       ],
-      "last_seen": "2026-11-16T18:06:06.981",
+      "last_seen": "2026-11-18T02:16:23.132",
       "longest_ai_kill_m": 664,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 450993,
-      "market_sales": 388,
+      "market_income": 455668,
+      "market_sales": 392,
       "name": "Fenix-CZ",
       "vehicle_driver_entries": 19,
       "vehicle_passenger_entries": 28,
@@ -12504,9 +12504,9 @@
         "FN SCAR-H MK17 MOD O": 5,
         "IJ-70": 1,
         "SG5-K": 3,
-        "VS-89": 41
+        "VS-89": 44
       },
-      "weapon_master_kills": 41,
+      "weapon_master_kills": 44,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -14464,15 +14464,15 @@
       }
     },
     {
-      "ai_kills": 366,
+      "ai_kills": 374,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 171,
+      "favorite_weapon_kills": 179,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-18T01:37:09.355",
+      "last_seen": "2026-11-18T02:27:58.178",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 1544581,
@@ -14488,7 +14488,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 171,
+        "DMR": 179,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 7,
@@ -14496,7 +14496,7 @@
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 171,
+      "weapon_master_kills": 179,
       "is_admin": false,
       "aris_score": 320,
       "aris_score_breakdown": {
@@ -14931,19 +14931,19 @@
       }
     },
     {
-      "ai_kills": 63,
+      "ai_kills": 66,
       "deaths": 1,
       "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 41,
+      "favorite_weapon_kills": 44,
       "first_seen": "2026-11-06T00:47:10.061",
       "ids": [
         "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
       ],
-      "last_seen": "2026-11-16T18:06:06.981",
+      "last_seen": "2026-11-18T02:16:23.132",
       "longest_ai_kill_m": 664,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 450993,
-      "market_sales": 388,
+      "market_income": 455668,
+      "market_sales": 392,
       "name": "Fenix-CZ",
       "vehicle_driver_entries": 19,
       "vehicle_passenger_entries": 28,
@@ -14955,9 +14955,9 @@
         "FN SCAR-H MK17 MOD O": 5,
         "IJ-70": 1,
         "SG5-K": 3,
-        "VS-89": 41
+        "VS-89": 44
       },
-      "weapon_master_kills": 41,
+      "weapon_master_kills": 44,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -17425,15 +17425,15 @@
       }
     },
     {
-      "ai_kills": 366,
+      "ai_kills": 374,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 171,
+      "favorite_weapon_kills": 179,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-18T01:37:09.355",
+      "last_seen": "2026-11-18T02:27:58.178",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 1544581,
@@ -17449,7 +17449,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 171,
+        "DMR": 179,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 7,
@@ -17457,7 +17457,7 @@
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 171,
+      "weapon_master_kills": 179,
       "is_admin": false,
       "aris_score": 320,
       "aris_score_breakdown": {
@@ -18390,19 +18390,19 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 63,
+      "ai_kills": 66,
       "deaths": 1,
       "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 41,
+      "favorite_weapon_kills": 44,
       "first_seen": "2026-11-06T00:47:10.061",
       "ids": [
         "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
       ],
-      "last_seen": "2026-11-16T18:06:06.981",
+      "last_seen": "2026-11-18T02:16:23.132",
       "longest_ai_kill_m": 664,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 450993,
-      "market_sales": 388,
+      "market_income": 455668,
+      "market_sales": 392,
       "name": "Fenix-CZ",
       "vehicle_driver_entries": 19,
       "vehicle_passenger_entries": 28,
@@ -18414,9 +18414,9 @@
         "FN SCAR-H MK17 MOD O": 5,
         "IJ-70": 1,
         "SG5-K": 3,
-        "VS-89": 41
+        "VS-89": 44
       },
-      "weapon_master_kills": 41,
+      "weapon_master_kills": 44,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -18692,15 +18692,15 @@
   ],
   "weapon_master": [
     {
-      "ai_kills": 366,
+      "ai_kills": 374,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 171,
+      "favorite_weapon_kills": 179,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-18T01:37:09.355",
+      "last_seen": "2026-11-18T02:27:58.178",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 1544581,
@@ -18716,7 +18716,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 171,
+        "DMR": 179,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 7,
@@ -18724,7 +18724,7 @@
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 171,
+      "weapon_master_kills": 179,
       "is_admin": false,
       "aris_score": 320,
       "aris_score_breakdown": {
@@ -19313,6 +19313,38 @@
       }
     },
     {
+      "ai_kills": 66,
+      "deaths": 1,
+      "favorite_weapon": "VS-89",
+      "favorite_weapon_kills": 44,
+      "first_seen": "2026-11-06T00:47:10.061",
+      "ids": [
+        "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
+      ],
+      "last_seen": "2026-11-18T02:16:23.132",
+      "longest_ai_kill_m": 664,
+      "longest_ai_kill_weapon": "VS-89",
+      "market_income": 455668,
+      "market_sales": 392,
+      "name": "Fenix-CZ",
+      "vehicle_driver_entries": 19,
+      "vehicle_passenger_entries": 28,
+      "vehicle_trip_straightline_m": 462.6,
+      "vehicle_trips": 19,
+      "weapons": {
+        "BRN-180": 3,
+        "CR-527": 10,
+        "FN SCAR-H MK17 MOD O": 5,
+        "IJ-70": 1,
+        "SG5-K": 3,
+        "VS-89": 44
+      },
+      "weapon_master_kills": 44,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 55,
       "deaths": 4,
       "favorite_weapon": "CR-527",
@@ -19337,38 +19369,6 @@
         "CR-527": 41,
         "KAS-74U": 3,
         "SK 59/66": 2
-      },
-      "weapon_master_kills": 41,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 63,
-      "deaths": 1,
-      "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 41,
-      "first_seen": "2026-11-06T00:47:10.061",
-      "ids": [
-        "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
-      ],
-      "last_seen": "2026-11-16T18:06:06.981",
-      "longest_ai_kill_m": 664,
-      "longest_ai_kill_weapon": "VS-89",
-      "market_income": 450993,
-      "market_sales": 388,
-      "name": "Fenix-CZ",
-      "vehicle_driver_entries": 19,
-      "vehicle_passenger_entries": 28,
-      "vehicle_trip_straightline_m": 462.6,
-      "vehicle_trips": 19,
-      "weapons": {
-        "BRN-180": 3,
-        "CR-527": 10,
-        "FN SCAR-H MK17 MOD O": 5,
-        "IJ-70": 1,
-        "SG5-K": 3,
-        "VS-89": 41
       },
       "weapon_master_kills": 41,
       "is_admin": false,
@@ -23332,15 +23332,15 @@
       }
     },
     {
-      "ai_kills": 366,
+      "ai_kills": 374,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 171,
+      "favorite_weapon_kills": 179,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-18T01:37:09.355",
+      "last_seen": "2026-11-18T02:27:58.178",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 1544581,
@@ -23356,7 +23356,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 171,
+        "DMR": 179,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 7,
@@ -23364,7 +23364,7 @@
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 171,
+      "weapon_master_kills": 179,
       "is_admin": false,
       "aris_score": 320,
       "aris_score_breakdown": {
@@ -23723,19 +23723,19 @@
       }
     },
     {
-      "ai_kills": 63,
+      "ai_kills": 66,
       "deaths": 1,
       "favorite_weapon": "VS-89",
-      "favorite_weapon_kills": 41,
+      "favorite_weapon_kills": 44,
       "first_seen": "2026-11-06T00:47:10.061",
       "ids": [
         "kpVbWJ7aOC79T2LyB9mRdKxlLGmL2-faEj0gMoNiT8I="
       ],
-      "last_seen": "2026-11-16T18:06:06.981",
+      "last_seen": "2026-11-18T02:16:23.132",
       "longest_ai_kill_m": 664,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 450993,
-      "market_sales": 388,
+      "market_income": 455668,
+      "market_sales": 392,
       "name": "Fenix-CZ",
       "vehicle_driver_entries": 19,
       "vehicle_passenger_entries": 28,
@@ -23747,9 +23747,9 @@
         "FN SCAR-H MK17 MOD O": 5,
         "IJ-70": 1,
         "SG5-K": 3,
-        "VS-89": 41
+        "VS-89": 44
       },
-      "weapon_master_kills": 41,
+      "weapon_master_kills": 44,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -25918,15 +25918,15 @@
       }
     },
     {
-      "ai_kills": 366,
+      "ai_kills": 374,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 171,
+      "favorite_weapon_kills": 179,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-18T01:37:09.355",
+      "last_seen": "2026-11-18T02:27:58.178",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 1544581,
@@ -25942,7 +25942,7 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 171,
+        "DMR": 179,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
         "L15 Defense": 7,
@@ -25950,7 +25950,7 @@
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 171,
+      "weapon_master_kills": 179,
       "is_admin": false,
       "aris_score": 320,
       "aris_score_breakdown": {
