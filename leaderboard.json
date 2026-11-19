@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 254,
   "staff_count": 6,
-  "updated_at_local": "20.11.2026 00:02",
+  "updated_at_local": "20.11.2026 00:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -659,16 +659,16 @@
       }
     },
     {
-      "ai_kills": 141,
+      "ai_kills": 144,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 92,
+      "favorite_weapon_kills": 95,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-19T11:58:48.567",
-      "longest_ai_kill_m": 561,
+      "last_seen": "2026-11-20T00:25:09.871",
+      "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
       "market_sales": 672,
@@ -679,10 +679,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 92,
+        "M110 SASS": 95,
         "M16A4E": 14
       },
-      "weapon_master_kills": 92,
+      "weapon_master_kills": 95,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
@@ -1423,6 +1423,40 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 59,
+      "deaths": 1,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 34,
+      "first_seen": "2026-11-03T19:00:06.856",
+      "ids": [
+        "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
+      ],
+      "last_seen": "2026-11-20T00:16:34.329",
+      "longest_ai_kill_m": 513,
+      "longest_ai_kill_weapon": "HK G28",
+      "market_income": 384044,
+      "market_sales": 329,
+      "name": "REALPABLO",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 4,
+        "Blaze": 1,
+        "CR-527": 34,
+        "HK G28": 8,
+        "Mosin 91/30": 1,
+        "Revolver": 8,
+        "SG5-K": 1,
+        "SK 59/66": 2
+      },
+      "weapon_master_kills": 34,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 57,
       "deaths": 0,
       "favorite_weapon": "Blaze",
@@ -1454,40 +1488,6 @@
         "USG-45": 1
       },
       "weapon_master_kills": 17,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 56,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 31,
-      "first_seen": "2026-11-03T19:00:06.856",
-      "ids": [
-        "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
-      ],
-      "last_seen": "2026-11-19T12:08:51.890",
-      "longest_ai_kill_m": 513,
-      "longest_ai_kill_weapon": "HK G28",
-      "market_income": 384044,
-      "market_sales": 329,
-      "name": "REALPABLO",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-133": 4,
-        "Blaze": 1,
-        "CR-527": 31,
-        "HK G28": 8,
-        "Mosin 91/30": 1,
-        "Revolver": 8,
-        "SG5-K": 1,
-        "SK 59/66": 2
-      },
-      "weapon_master_kills": 31,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -3878,6 +3878,34 @@
     },
     {
       "ai_kills": 5,
+      "deaths": 5,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-11-17T13:55:07.488",
+      "ids": [
+        "x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM=",
+        "2) (x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM="
+      ],
+      "last_seen": "2026-11-20T00:25:35.460",
+      "longest_ai_kill_m": 144,
+      "longest_ai_kill_weapon": "SSG 82",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "George.83",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "SSG 82": 5
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 5,
       "deaths": 1,
       "favorite_weapon": "Pioneer",
       "favorite_weapon_kills": 3,
@@ -3981,34 +4009,6 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-18": 4
-      },
-      "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 4,
-      "deaths": 5,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-11-17T13:55:07.488",
-      "ids": [
-        "x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM=",
-        "2) (x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM="
-      ],
-      "last_seen": "2026-11-19T23:57:57.332",
-      "longest_ai_kill_m": 102,
-      "longest_ai_kill_weapon": "SSG 82",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "George.83",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "SSG 82": 4
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -5449,6 +5449,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 144,
+      "deaths": 0,
+      "favorite_weapon": "M110 SASS",
+      "favorite_weapon_kills": 95,
+      "first_seen": "2026-11-03T20:27:56.434",
+      "ids": [
+        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
+      ],
+      "last_seen": "2026-11-20T00:25:09.871",
+      "longest_ai_kill_m": 637,
+      "longest_ai_kill_weapon": "M110 SASS",
+      "market_income": 465438,
+      "market_sales": 672,
+      "name": "RaptorSVK",
+      "vehicle_driver_entries": 52,
+      "vehicle_passenger_entries": 12,
+      "vehicle_trip_straightline_m": 85968.0,
+      "vehicle_trips": 52,
+      "weapons": {
+        "CR-527": 35,
+        "M110 SASS": 95,
+        "M16A4E": 14
+      },
+      "weapon_master_kills": 95,
+      "is_admin": false,
+      "aris_score": 50,
+      "aris_score_breakdown": {
+        "weapon_master": 50
+      }
+    },
+    {
       "ai_kills": 110,
       "deaths": 8,
       "favorite_weapon": "Blaze",
@@ -5720,37 +5751,6 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 141,
-      "deaths": 0,
-      "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 92,
-      "first_seen": "2026-11-03T20:27:56.434",
-      "ids": [
-        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
-      ],
-      "last_seen": "2026-11-19T11:58:48.567",
-      "longest_ai_kill_m": 561,
-      "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 465438,
-      "market_sales": 672,
-      "name": "RaptorSVK",
-      "vehicle_driver_entries": 52,
-      "vehicle_passenger_entries": 12,
-      "vehicle_trip_straightline_m": 85968.0,
-      "vehicle_trips": 52,
-      "weapons": {
-        "CR-527": 35,
-        "M110 SASS": 92,
-        "M16A4E": 14
-      },
-      "weapon_master_kills": 92,
-      "is_admin": false,
-      "aris_score": 50,
-      "aris_score_breakdown": {
-        "weapon_master": 50
-      }
-    },
-    {
       "ai_kills": 205,
       "deaths": 3,
       "favorite_weapon": "LMT M900 DMR",
@@ -5949,15 +5949,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 59,
       "deaths": 1,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 31,
+      "favorite_weapon_kills": 34,
       "first_seen": "2026-11-03T19:00:06.856",
       "ids": [
         "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
       ],
-      "last_seen": "2026-11-19T12:08:51.890",
+      "last_seen": "2026-11-20T00:16:34.329",
       "longest_ai_kill_m": 513,
       "longest_ai_kill_weapon": "HK G28",
       "market_income": 384044,
@@ -5970,14 +5970,14 @@
       "weapons": {
         "BK-133": 4,
         "Blaze": 1,
-        "CR-527": 31,
+        "CR-527": 34,
         "HK G28": 8,
         "Mosin 91/30": 1,
         "Revolver": 8,
         "SG5-K": 1,
         "SK 59/66": 2
       },
-      "weapon_master_kills": 31,
+      "weapon_master_kills": 34,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -8195,6 +8195,34 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 5,
+      "deaths": 5,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-11-17T13:55:07.488",
+      "ids": [
+        "x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM=",
+        "2) (x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM="
+      ],
+      "last_seen": "2026-11-20T00:25:35.460",
+      "longest_ai_kill_m": 144,
+      "longest_ai_kill_weapon": "SSG 82",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "George.83",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "SSG 82": 5
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 8,
       "deaths": 2,
       "favorite_weapon": "SK 59/66",
@@ -8390,34 +8418,6 @@
         "SK 59/66": 9
       },
       "weapon_master_kills": 9,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 4,
-      "deaths": 5,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-11-17T13:55:07.488",
-      "ids": [
-        "x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM=",
-        "2) (x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM="
-      ],
-      "last_seen": "2026-11-19T23:57:57.332",
-      "longest_ai_kill_m": 102,
-      "longest_ai_kill_weapon": "SSG 82",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "George.83",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "SSG 82": 4
-      },
-      "weapon_master_kills": 4,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -10253,17 +10253,17 @@
       }
     },
     {
-      "ai_kills": 4,
+      "ai_kills": 5,
       "deaths": 5,
       "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 4,
+      "favorite_weapon_kills": 5,
       "first_seen": "2026-11-17T13:55:07.488",
       "ids": [
         "x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM=",
         "2) (x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM="
       ],
-      "last_seen": "2026-11-19T23:57:57.332",
-      "longest_ai_kill_m": 102,
+      "last_seen": "2026-11-20T00:25:35.460",
+      "longest_ai_kill_m": 144,
       "longest_ai_kill_weapon": "SSG 82",
       "market_income": 0,
       "market_sales": 0,
@@ -10273,9 +10273,9 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "SSG 82": 4
+        "SSG 82": 5
       },
-      "weapon_master_kills": 4,
+      "weapon_master_kills": 5,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -14367,15 +14367,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 59,
       "deaths": 1,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 31,
+      "favorite_weapon_kills": 34,
       "first_seen": "2026-11-03T19:00:06.856",
       "ids": [
         "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
       ],
-      "last_seen": "2026-11-19T12:08:51.890",
+      "last_seen": "2026-11-20T00:16:34.329",
       "longest_ai_kill_m": 513,
       "longest_ai_kill_weapon": "HK G28",
       "market_income": 384044,
@@ -14388,14 +14388,14 @@
       "weapons": {
         "BK-133": 4,
         "Blaze": 1,
-        "CR-527": 31,
+        "CR-527": 34,
         "HK G28": 8,
         "Mosin 91/30": 1,
         "Revolver": 8,
         "SG5-K": 1,
         "SK 59/66": 2
       },
-      "weapon_master_kills": 31,
+      "weapon_master_kills": 34,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -15810,16 +15810,16 @@
       }
     },
     {
-      "ai_kills": 141,
+      "ai_kills": 144,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 92,
+      "favorite_weapon_kills": 95,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-19T11:58:48.567",
-      "longest_ai_kill_m": 561,
+      "last_seen": "2026-11-20T00:25:09.871",
+      "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
       "market_sales": 672,
@@ -15830,10 +15830,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 92,
+        "M110 SASS": 95,
         "M16A4E": 14
       },
-      "weapon_master_kills": 92,
+      "weapon_master_kills": 95,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
@@ -15841,15 +15841,15 @@
       }
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 59,
       "deaths": 1,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 31,
+      "favorite_weapon_kills": 34,
       "first_seen": "2026-11-03T19:00:06.856",
       "ids": [
         "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
       ],
-      "last_seen": "2026-11-19T12:08:51.890",
+      "last_seen": "2026-11-20T00:16:34.329",
       "longest_ai_kill_m": 513,
       "longest_ai_kill_weapon": "HK G28",
       "market_income": 384044,
@@ -15862,14 +15862,14 @@
       "weapons": {
         "BK-133": 4,
         "Blaze": 1,
-        "CR-527": 31,
+        "CR-527": 34,
         "HK G28": 8,
         "Mosin 91/30": 1,
         "Revolver": 8,
         "SG5-K": 1,
         "SK 59/66": 2
       },
-      "weapon_master_kills": 31,
+      "weapon_master_kills": 34,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -18463,16 +18463,16 @@
       }
     },
     {
-      "ai_kills": 141,
+      "ai_kills": 144,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 92,
+      "favorite_weapon_kills": 95,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-19T11:58:48.567",
-      "longest_ai_kill_m": 561,
+      "last_seen": "2026-11-20T00:25:09.871",
+      "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
       "market_sales": 672,
@@ -18483,10 +18483,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 92,
+        "M110 SASS": 95,
         "M16A4E": 14
       },
-      "weapon_master_kills": 92,
+      "weapon_master_kills": 95,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
@@ -19921,16 +19921,16 @@
       }
     },
     {
-      "ai_kills": 141,
+      "ai_kills": 144,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 92,
+      "favorite_weapon_kills": 95,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-19T11:58:48.567",
-      "longest_ai_kill_m": 561,
+      "last_seen": "2026-11-20T00:25:09.871",
+      "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
       "market_sales": 672,
@@ -19941,10 +19941,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 92,
+        "M110 SASS": 95,
         "M16A4E": 14
       },
-      "weapon_master_kills": 92,
+      "weapon_master_kills": 95,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
@@ -20571,6 +20571,40 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 59,
+      "deaths": 1,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 34,
+      "first_seen": "2026-11-03T19:00:06.856",
+      "ids": [
+        "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
+      ],
+      "last_seen": "2026-11-20T00:16:34.329",
+      "longest_ai_kill_m": 513,
+      "longest_ai_kill_weapon": "HK G28",
+      "market_income": 384044,
+      "market_sales": 329,
+      "name": "REALPABLO",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 4,
+        "Blaze": 1,
+        "CR-527": 34,
+        "HK G28": 8,
+        "Mosin 91/30": 1,
+        "Revolver": 8,
+        "SG5-K": 1,
+        "SK 59/66": 2
+      },
+      "weapon_master_kills": 34,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 86,
       "deaths": 1,
       "favorite_weapon": "Blaze",
@@ -20685,40 +20719,6 @@
         "VSD": 6
       },
       "weapon_master_kills": 32,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 56,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 31,
-      "first_seen": "2026-11-03T19:00:06.856",
-      "ids": [
-        "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
-      ],
-      "last_seen": "2026-11-19T12:08:51.890",
-      "longest_ai_kill_m": 513,
-      "longest_ai_kill_weapon": "HK G28",
-      "market_income": 384044,
-      "market_sales": 329,
-      "name": "REALPABLO",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-133": 4,
-        "Blaze": 1,
-        "CR-527": 31,
-        "HK G28": 8,
-        "Mosin 91/30": 1,
-        "Revolver": 8,
-        "SG5-K": 1,
-        "SK 59/66": 2
-      },
-      "weapon_master_kills": 31,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -23011,6 +23011,34 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 5,
+      "deaths": 5,
+      "favorite_weapon": "SSG 82",
+      "favorite_weapon_kills": 5,
+      "first_seen": "2026-11-17T13:55:07.488",
+      "ids": [
+        "x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM=",
+        "2) (x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM="
+      ],
+      "last_seen": "2026-11-20T00:25:35.460",
+      "longest_ai_kill_m": 144,
+      "longest_ai_kill_weapon": "SSG 82",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "George.83",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "SSG 82": 5
+      },
+      "weapon_master_kills": 5,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 16,
       "deaths": 6,
       "favorite_weapon": "IJ-70",
@@ -23150,34 +23178,6 @@
       "vehicle_trips": 0,
       "weapons": {
         "BK-18": 4
-      },
-      "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 4,
-      "deaths": 5,
-      "favorite_weapon": "SSG 82",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-11-17T13:55:07.488",
-      "ids": [
-        "x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM=",
-        "2) (x9KgxGmnpiARwW0gHTaaCgf2IGUa2CblEH3Q7DkCYqM="
-      ],
-      "last_seen": "2026-11-19T23:57:57.332",
-      "longest_ai_kill_m": 102,
-      "longest_ai_kill_weapon": "SSG 82",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "George.83",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "SSG 82": 4
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -24818,16 +24818,16 @@
       }
     },
     {
-      "ai_kills": 141,
+      "ai_kills": 144,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 92,
+      "favorite_weapon_kills": 95,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-19T11:58:48.567",
-      "longest_ai_kill_m": 561,
+      "last_seen": "2026-11-20T00:25:09.871",
+      "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
       "market_sales": 672,
@@ -24838,10 +24838,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 92,
+        "M110 SASS": 95,
         "M16A4E": 14
       },
-      "weapon_master_kills": 92,
+      "weapon_master_kills": 95,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
@@ -25211,15 +25211,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 56,
+      "ai_kills": 59,
       "deaths": 1,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 31,
+      "favorite_weapon_kills": 34,
       "first_seen": "2026-11-03T19:00:06.856",
       "ids": [
         "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
       ],
-      "last_seen": "2026-11-19T12:08:51.890",
+      "last_seen": "2026-11-20T00:16:34.329",
       "longest_ai_kill_m": 513,
       "longest_ai_kill_weapon": "HK G28",
       "market_income": 384044,
@@ -25232,14 +25232,14 @@
       "weapons": {
         "BK-133": 4,
         "Blaze": 1,
-        "CR-527": 31,
+        "CR-527": 34,
         "HK G28": 8,
         "Mosin 91/30": 1,
         "Revolver": 8,
         "SG5-K": 1,
         "SK 59/66": 2
       },
-      "weapon_master_kills": 31,
+      "weapon_master_kills": 34,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -27873,16 +27873,16 @@
       }
     },
     {
-      "ai_kills": 141,
+      "ai_kills": 144,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 92,
+      "favorite_weapon_kills": 95,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-19T11:58:48.567",
-      "longest_ai_kill_m": 561,
+      "last_seen": "2026-11-20T00:25:09.871",
+      "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
       "market_sales": 672,
@@ -27893,10 +27893,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 92,
+        "M110 SASS": 95,
         "M16A4E": 14
       },
-      "weapon_master_kills": 92,
+      "weapon_master_kills": 95,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
