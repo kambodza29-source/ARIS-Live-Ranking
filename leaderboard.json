@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 249,
   "staff_count": 6,
-  "updated_at_local": "19.11.2026 07:32",
+  "updated_at_local": "19.11.2026 08:01",
   "staff": [
     {
       "ai_kills": 0,
@@ -571,7 +571,7 @@
       }
     },
     {
-      "ai_kills": 161,
+      "ai_kills": 162,
       "deaths": 3,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 64,
@@ -579,7 +579,7 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-19T07:29:37.475",
+      "last_seen": "2026-11-19T07:50:33.823",
       "longest_ai_kill_m": 536,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 305765,
@@ -596,7 +596,7 @@
         "CR-550 Savanna": 64,
         "Desert Tech MDRX": 2,
         "FX-45": 1,
-        "HK G28": 9,
+        "HK G28": 10,
         "KAS-74U": 1,
         "LE-MAS": 1,
         "M70 Tundra": 32,
@@ -761,7 +761,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 115,
+      "ai_kills": 117,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -769,7 +769,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T20:52:01.841",
+      "last_seen": "2026-11-19T07:39:07.194",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 658529,
@@ -785,7 +785,7 @@
         "B&T APC223 PRO": 9,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 20,
+        "CR-550 Savanna": 22,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -1516,6 +1516,46 @@
       }
     },
     {
+      "ai_kills": 53,
+      "deaths": 8,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 12,
+      "first_seen": "2026-11-06T21:39:15.848",
+      "ids": [
+        "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
+      ],
+      "last_seen": "2026-11-19T07:55:06.563",
+      "longest_ai_kill_m": 732,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 221421,
+      "market_sales": 240,
+      "name": "JackieMustangCZ",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Blaze": 2,
+        "CR-527": 12,
+        "Crossbow": 2,
+        "Deagle": 3,
+        "FX-45": 1,
+        "KAS-74U": 1,
+        "Lee Enfield": 9,
+        "M70 Tundra": 8,
+        "Mosin 91/30": 1,
+        "R12": 1,
+        "Revolver": 1,
+        "SK 59/66": 12
+      },
+      "weapon_master_kills": 12,
+      "is_admin": false,
+      "aris_score": 30,
+      "aris_score_breakdown": {
+        "longest_shot": 30
+      }
+    },
+    {
       "ai_kills": 52,
       "deaths": 3,
       "favorite_weapon": "CR-550 Savanna",
@@ -1580,46 +1620,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 51,
-      "deaths": 8,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 12,
-      "first_seen": "2026-11-06T21:39:15.848",
-      "ids": [
-        "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
-      ],
-      "last_seen": "2026-11-19T07:03:20.930",
-      "longest_ai_kill_m": 732,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 221421,
-      "market_sales": 240,
-      "name": "JackieMustangCZ",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Blaze": 2,
-        "CR-527": 12,
-        "Crossbow": 2,
-        "Deagle": 3,
-        "FX-45": 1,
-        "KAS-74U": 1,
-        "Lee Enfield": 9,
-        "M70 Tundra": 6,
-        "Mosin 91/30": 1,
-        "R12": 1,
-        "Revolver": 1,
-        "SK 59/66": 12
-      },
-      "weapon_master_kills": 12,
-      "is_admin": false,
-      "aris_score": 30,
-      "aris_score_breakdown": {
-        "longest_shot": 30
-      }
     },
     {
       "ai_kills": 46,
@@ -2283,11 +2283,11 @@
       "ids": [
         "wjs8Ocd19Go2vd8H4FUy_5I4rF-m0T16SGFqjmhMJZE="
       ],
-      "last_seen": "2026-11-19T07:32:01.886",
+      "last_seen": "2026-11-19T07:32:19.312",
       "longest_ai_kill_m": 374,
       "longest_ai_kill_weapon": "CR-550 Savanna",
-      "market_income": 47870,
-      "market_sales": 130,
+      "market_income": 53708,
+      "market_sales": 141,
       "name": "Mike3918",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -4799,7 +4799,7 @@
       }
     },
     {
-      "ai_kills": 115,
+      "ai_kills": 117,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -4807,7 +4807,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T20:52:01.841",
+      "last_seen": "2026-11-19T07:39:07.194",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 658529,
@@ -4823,7 +4823,7 @@
         "B&T APC223 PRO": 9,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 20,
+        "CR-550 Savanna": 22,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -4955,7 +4955,7 @@
       }
     },
     {
-      "ai_kills": 51,
+      "ai_kills": 53,
       "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 12,
@@ -4963,7 +4963,7 @@
       "ids": [
         "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
       ],
-      "last_seen": "2026-11-19T07:03:20.930",
+      "last_seen": "2026-11-19T07:55:06.563",
       "longest_ai_kill_m": 732,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 221421,
@@ -4981,7 +4981,7 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "Lee Enfield": 9,
-        "M70 Tundra": 6,
+        "M70 Tundra": 8,
         "Mosin 91/30": 1,
         "R12": 1,
         "Revolver": 1,
@@ -5572,7 +5572,7 @@
       }
     },
     {
-      "ai_kills": 161,
+      "ai_kills": 162,
       "deaths": 3,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 64,
@@ -5580,7 +5580,7 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-19T07:29:37.475",
+      "last_seen": "2026-11-19T07:50:33.823",
       "longest_ai_kill_m": 536,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 305765,
@@ -5597,7 +5597,7 @@
         "CR-550 Savanna": 64,
         "Desert Tech MDRX": 2,
         "FX-45": 1,
-        "HK G28": 9,
+        "HK G28": 10,
         "KAS-74U": 1,
         "LE-MAS": 1,
         "M70 Tundra": 32,
@@ -6508,11 +6508,11 @@
       "ids": [
         "wjs8Ocd19Go2vd8H4FUy_5I4rF-m0T16SGFqjmhMJZE="
       ],
-      "last_seen": "2026-11-19T07:32:01.886",
+      "last_seen": "2026-11-19T07:32:19.312",
       "longest_ai_kill_m": 374,
       "longest_ai_kill_weapon": "CR-550 Savanna",
-      "market_income": 47870,
-      "market_sales": 130,
+      "market_income": 53708,
+      "market_sales": 141,
       "name": "Mike3918",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -9429,7 +9429,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 51,
+      "ai_kills": 53,
       "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 12,
@@ -9437,7 +9437,7 @@
       "ids": [
         "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
       ],
-      "last_seen": "2026-11-19T07:03:20.930",
+      "last_seen": "2026-11-19T07:55:06.563",
       "longest_ai_kill_m": 732,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 221421,
@@ -9455,7 +9455,7 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "Lee Enfield": 9,
-        "M70 Tundra": 6,
+        "M70 Tundra": 8,
         "Mosin 91/30": 1,
         "R12": 1,
         "Revolver": 1,
@@ -10144,11 +10144,11 @@
       "ids": [
         "wjs8Ocd19Go2vd8H4FUy_5I4rF-m0T16SGFqjmhMJZE="
       ],
-      "last_seen": "2026-11-19T07:32:01.886",
+      "last_seen": "2026-11-19T07:32:19.312",
       "longest_ai_kill_m": 374,
       "longest_ai_kill_weapon": "CR-550 Savanna",
-      "market_income": 47870,
-      "market_sales": 130,
+      "market_income": 53708,
+      "market_sales": 141,
       "name": "Mike3918",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -10738,7 +10738,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 161,
+      "ai_kills": 162,
       "deaths": 3,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 64,
@@ -10746,7 +10746,7 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-19T07:29:37.475",
+      "last_seen": "2026-11-19T07:50:33.823",
       "longest_ai_kill_m": 536,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 305765,
@@ -10763,7 +10763,7 @@
         "CR-550 Savanna": 64,
         "Desert Tech MDRX": 2,
         "FX-45": 1,
-        "HK G28": 9,
+        "HK G28": 10,
         "KAS-74U": 1,
         "LE-MAS": 1,
         "M70 Tundra": 32,
@@ -11641,7 +11641,7 @@
       }
     },
     {
-      "ai_kills": 115,
+      "ai_kills": 117,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -11649,7 +11649,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T20:52:01.841",
+      "last_seen": "2026-11-19T07:39:07.194",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 658529,
@@ -11665,7 +11665,7 @@
         "B&T APC223 PRO": 9,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 20,
+        "CR-550 Savanna": 22,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -15072,7 +15072,7 @@
       }
     },
     {
-      "ai_kills": 115,
+      "ai_kills": 117,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -15080,7 +15080,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T20:52:01.841",
+      "last_seen": "2026-11-19T07:39:07.194",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 658529,
@@ -15096,7 +15096,7 @@
         "B&T APC223 PRO": 9,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 20,
+        "CR-550 Savanna": 22,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -15444,7 +15444,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 161,
+      "ai_kills": 162,
       "deaths": 3,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 64,
@@ -15452,7 +15452,7 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-19T07:29:37.475",
+      "last_seen": "2026-11-19T07:50:33.823",
       "longest_ai_kill_m": 536,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 305765,
@@ -15469,7 +15469,7 @@
         "CR-550 Savanna": 64,
         "Desert Tech MDRX": 2,
         "FX-45": 1,
-        "HK G28": 9,
+        "HK G28": 10,
         "KAS-74U": 1,
         "LE-MAS": 1,
         "M70 Tundra": 32,
@@ -15639,7 +15639,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 51,
+      "ai_kills": 53,
       "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 12,
@@ -15647,7 +15647,7 @@
       "ids": [
         "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
       ],
-      "last_seen": "2026-11-19T07:03:20.930",
+      "last_seen": "2026-11-19T07:55:06.563",
       "longest_ai_kill_m": 732,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 221421,
@@ -15665,7 +15665,7 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "Lee Enfield": 9,
-        "M70 Tundra": 6,
+        "M70 Tundra": 8,
         "Mosin 91/30": 1,
         "R12": 1,
         "Revolver": 1,
@@ -16221,11 +16221,11 @@
       "ids": [
         "wjs8Ocd19Go2vd8H4FUy_5I4rF-m0T16SGFqjmhMJZE="
       ],
-      "last_seen": "2026-11-19T07:32:01.886",
+      "last_seen": "2026-11-19T07:32:19.312",
       "longest_ai_kill_m": 374,
       "longest_ai_kill_weapon": "CR-550 Savanna",
-      "market_income": 47870,
-      "market_sales": 130,
+      "market_income": 53708,
+      "market_sales": 141,
       "name": "Mike3918",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -17652,7 +17652,7 @@
       }
     },
     {
-      "ai_kills": 161,
+      "ai_kills": 162,
       "deaths": 3,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 64,
@@ -17660,7 +17660,7 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-19T07:29:37.475",
+      "last_seen": "2026-11-19T07:50:33.823",
       "longest_ai_kill_m": 536,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 305765,
@@ -17677,7 +17677,7 @@
         "CR-550 Savanna": 64,
         "Desert Tech MDRX": 2,
         "FX-45": 1,
-        "HK G28": 9,
+        "HK G28": 10,
         "KAS-74U": 1,
         "LE-MAS": 1,
         "M70 Tundra": 32,
@@ -17773,7 +17773,7 @@
       }
     },
     {
-      "ai_kills": 115,
+      "ai_kills": 117,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -17781,7 +17781,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T20:52:01.841",
+      "last_seen": "2026-11-19T07:39:07.194",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 658529,
@@ -17797,7 +17797,7 @@
         "B&T APC223 PRO": 9,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 20,
+        "CR-550 Savanna": 22,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -19424,7 +19424,7 @@
       }
     },
     {
-      "ai_kills": 161,
+      "ai_kills": 162,
       "deaths": 3,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 64,
@@ -19432,7 +19432,7 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-19T07:29:37.475",
+      "last_seen": "2026-11-19T07:50:33.823",
       "longest_ai_kill_m": 536,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 305765,
@@ -19449,7 +19449,7 @@
         "CR-550 Savanna": 64,
         "Desert Tech MDRX": 2,
         "FX-45": 1,
-        "HK G28": 9,
+        "HK G28": 10,
         "KAS-74U": 1,
         "LE-MAS": 1,
         "M70 Tundra": 32,
@@ -19587,7 +19587,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 115,
+      "ai_kills": 117,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -19595,7 +19595,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T20:52:01.841",
+      "last_seen": "2026-11-19T07:39:07.194",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 658529,
@@ -19611,7 +19611,7 @@
         "B&T APC223 PRO": 9,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 20,
+        "CR-550 Savanna": 22,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -21340,7 +21340,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 51,
+      "ai_kills": 53,
       "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 12,
@@ -21348,7 +21348,7 @@
       "ids": [
         "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
       ],
-      "last_seen": "2026-11-19T07:03:20.930",
+      "last_seen": "2026-11-19T07:55:06.563",
       "longest_ai_kill_m": 732,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 221421,
@@ -21366,7 +21366,7 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "Lee Enfield": 9,
-        "M70 Tundra": 6,
+        "M70 Tundra": 8,
         "Mosin 91/30": 1,
         "R12": 1,
         "Revolver": 1,
@@ -21819,11 +21819,11 @@
       "ids": [
         "wjs8Ocd19Go2vd8H4FUy_5I4rF-m0T16SGFqjmhMJZE="
       ],
-      "last_seen": "2026-11-19T07:32:01.886",
+      "last_seen": "2026-11-19T07:32:19.312",
       "longest_ai_kill_m": 374,
       "longest_ai_kill_weapon": "CR-550 Savanna",
-      "market_income": 47870,
-      "market_sales": 130,
+      "market_income": 53708,
+      "market_sales": 141,
       "name": "Mike3918",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -24123,7 +24123,7 @@
       }
     },
     {
-      "ai_kills": 115,
+      "ai_kills": 117,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -24131,7 +24131,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T20:52:01.841",
+      "last_seen": "2026-11-19T07:39:07.194",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 658529,
@@ -24147,7 +24147,7 @@
         "B&T APC223 PRO": 9,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 20,
+        "CR-550 Savanna": 22,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -24195,7 +24195,7 @@
       }
     },
     {
-      "ai_kills": 161,
+      "ai_kills": 162,
       "deaths": 3,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 64,
@@ -24203,7 +24203,7 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-19T07:29:37.475",
+      "last_seen": "2026-11-19T07:50:33.823",
       "longest_ai_kill_m": 536,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 305765,
@@ -24220,7 +24220,7 @@
         "CR-550 Savanna": 64,
         "Desert Tech MDRX": 2,
         "FX-45": 1,
-        "HK G28": 9,
+        "HK G28": 10,
         "KAS-74U": 1,
         "LE-MAS": 1,
         "M70 Tundra": 32,
@@ -24472,7 +24472,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 51,
+      "ai_kills": 53,
       "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 12,
@@ -24480,7 +24480,7 @@
       "ids": [
         "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
       ],
-      "last_seen": "2026-11-19T07:03:20.930",
+      "last_seen": "2026-11-19T07:55:06.563",
       "longest_ai_kill_m": 732,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 221421,
@@ -24498,7 +24498,7 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "Lee Enfield": 9,
-        "M70 Tundra": 6,
+        "M70 Tundra": 8,
         "Mosin 91/30": 1,
         "R12": 1,
         "Revolver": 1,
@@ -24827,6 +24827,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 29,
+      "deaths": 4,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 10,
+      "first_seen": "2026-11-06T22:52:29.335",
+      "ids": [
+        "wjs8Ocd19Go2vd8H4FUy_5I4rF-m0T16SGFqjmhMJZE="
+      ],
+      "last_seen": "2026-11-19T07:32:19.312",
+      "longest_ai_kill_m": 374,
+      "longest_ai_kill_weapon": "CR-550 Savanna",
+      "market_income": 53708,
+      "market_sales": 141,
+      "name": "Mike3918",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "Bizon": 4,
+        "CR-527": 10,
+        "CR-550 Savanna": 10,
+        "CR-75": 1,
+        "SK 59/66": 4
+      },
+      "weapon_master_kills": 10,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 56,
       "deaths": 2,
       "favorite_weapon": "Black Rain Ordnance Commando",
@@ -24855,37 +24886,6 @@
         "SG5-K": 6
       },
       "weapon_master_kills": 16,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 29,
-      "deaths": 4,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 10,
-      "first_seen": "2026-11-06T22:52:29.335",
-      "ids": [
-        "wjs8Ocd19Go2vd8H4FUy_5I4rF-m0T16SGFqjmhMJZE="
-      ],
-      "last_seen": "2026-11-19T07:32:01.886",
-      "longest_ai_kill_m": 374,
-      "longest_ai_kill_weapon": "CR-550 Savanna",
-      "market_income": 47870,
-      "market_sales": 130,
-      "name": "Mike3918",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "Bizon": 4,
-        "CR-527": 10,
-        "CR-550 Savanna": 10,
-        "CR-75": 1,
-        "SK 59/66": 4
-      },
-      "weapon_master_kills": 10,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -26873,7 +26873,7 @@
       }
     },
     {
-      "ai_kills": 115,
+      "ai_kills": 117,
       "deaths": 2,
       "favorite_weapon": "M70 Tundra",
       "favorite_weapon_kills": 55,
@@ -26881,7 +26881,7 @@
       "ids": [
         "dJrv-XnS4JVrk_gXnWHTpKd25VQHHdmnKtkeiDb4U74="
       ],
-      "last_seen": "2026-11-18T20:52:01.841",
+      "last_seen": "2026-11-19T07:39:07.194",
       "longest_ai_kill_m": 902,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 658529,
@@ -26897,7 +26897,7 @@
         "B&T APC223 PRO": 9,
         "Blaze": 2,
         "CR-527": 4,
-        "CR-550 Savanna": 20,
+        "CR-550 Savanna": 22,
         "HK416": 1,
         "L15 Defense TAN": 1,
         "M70 Tundra": 55,
@@ -26912,7 +26912,7 @@
       }
     },
     {
-      "ai_kills": 161,
+      "ai_kills": 162,
       "deaths": 3,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 64,
@@ -26920,7 +26920,7 @@
       "ids": [
         "MhKXaUXAYeMUc40z2SLqPw-rabe_Exa_nCbpeb4FuU8="
       ],
-      "last_seen": "2026-11-19T07:29:37.475",
+      "last_seen": "2026-11-19T07:50:33.823",
       "longest_ai_kill_m": 536,
       "longest_ai_kill_weapon": "CR-550 Savanna",
       "market_income": 305765,
@@ -26937,7 +26937,7 @@
         "CR-550 Savanna": 64,
         "Desert Tech MDRX": 2,
         "FX-45": 1,
-        "HK G28": 9,
+        "HK G28": 10,
         "KAS-74U": 1,
         "LE-MAS": 1,
         "M70 Tundra": 32,
@@ -27057,7 +27057,7 @@
       }
     },
     {
-      "ai_kills": 51,
+      "ai_kills": 53,
       "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 12,
@@ -27065,7 +27065,7 @@
       "ids": [
         "vlfsXslZHVsne6KDBXus_QHOzfAtfnQ4HRfWiG8z8Hs="
       ],
-      "last_seen": "2026-11-19T07:03:20.930",
+      "last_seen": "2026-11-19T07:55:06.563",
       "longest_ai_kill_m": 732,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 221421,
@@ -27083,7 +27083,7 @@
         "FX-45": 1,
         "KAS-74U": 1,
         "Lee Enfield": 9,
-        "M70 Tundra": 6,
+        "M70 Tundra": 8,
         "Mosin 91/30": 1,
         "R12": 1,
         "Revolver": 1,
