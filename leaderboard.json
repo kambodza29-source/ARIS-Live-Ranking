@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 254,
   "staff_count": 6,
-  "updated_at_local": "20.11.2026 00:31",
+  "updated_at_local": "20.11.2026 01:01",
   "staff": [
     {
       "ai_kills": 0,
@@ -179,15 +179,15 @@
   ],
   "ai_hunter": [
     {
-      "ai_kills": 438,
+      "ai_kills": 444,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 230,
+      "favorite_weapon_kills": 235,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-19T22:33:52.370",
+      "last_seen": "2026-11-20T00:56:28.108",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 2035799,
@@ -203,16 +203,16 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 230,
+        "DMR": 235,
         "DVL-10 M2 Urbana": 10,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
-        "L15 Defense": 10,
+        "L15 Defense": 11,
         "M4-A1": 2,
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 230,
+      "weapon_master_kills": 235,
       "is_admin": false,
       "aris_score": 340,
       "aris_score_breakdown": {
@@ -618,6 +618,37 @@
       }
     },
     {
+      "ai_kills": 147,
+      "deaths": 0,
+      "favorite_weapon": "M110 SASS",
+      "favorite_weapon_kills": 98,
+      "first_seen": "2026-11-03T20:27:56.434",
+      "ids": [
+        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
+      ],
+      "last_seen": "2026-11-20T00:55:13.077",
+      "longest_ai_kill_m": 637,
+      "longest_ai_kill_weapon": "M110 SASS",
+      "market_income": 465438,
+      "market_sales": 672,
+      "name": "RaptorSVK",
+      "vehicle_driver_entries": 52,
+      "vehicle_passenger_entries": 12,
+      "vehicle_trip_straightline_m": 85968.0,
+      "vehicle_trips": 52,
+      "weapons": {
+        "CR-527": 35,
+        "M110 SASS": 98,
+        "M16A4E": 14
+      },
+      "weapon_master_kills": 98,
+      "is_admin": false,
+      "aris_score": 50,
+      "aris_score_breakdown": {
+        "weapon_master": 50
+      }
+    },
+    {
       "ai_kills": 146,
       "deaths": 2,
       "favorite_weapon": "Desert Tech MDRX",
@@ -656,37 +687,6 @@
       "aris_score_breakdown": {
         "longest_shot": 50,
         "weapon_master": 30
-      }
-    },
-    {
-      "ai_kills": 144,
-      "deaths": 0,
-      "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 95,
-      "first_seen": "2026-11-03T20:27:56.434",
-      "ids": [
-        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
-      ],
-      "last_seen": "2026-11-20T00:25:09.871",
-      "longest_ai_kill_m": 637,
-      "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 465438,
-      "market_sales": 672,
-      "name": "RaptorSVK",
-      "vehicle_driver_entries": 52,
-      "vehicle_passenger_entries": 12,
-      "vehicle_trip_straightline_m": 85968.0,
-      "vehicle_trips": 52,
-      "weapons": {
-        "CR-527": 35,
-        "M110 SASS": 95,
-        "M16A4E": 14
-      },
-      "weapon_master_kills": 95,
-      "is_admin": false,
-      "aris_score": 50,
-      "aris_score_breakdown": {
-        "weapon_master": 50
       }
     },
     {
@@ -1431,11 +1431,11 @@
       "ids": [
         "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
       ],
-      "last_seen": "2026-11-20T00:16:34.329",
+      "last_seen": "2026-11-20T00:48:12.266",
       "longest_ai_kill_m": 513,
       "longest_ai_kill_weapon": "HK G28",
-      "market_income": 384044,
-      "market_sales": 329,
+      "market_income": 465644,
+      "market_sales": 404,
       "name": "REALPABLO",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -2325,14 +2325,14 @@
     },
     {
       "ai_kills": 30,
-      "deaths": 0,
+      "deaths": 1,
       "favorite_weapon": "SK 59/66",
       "favorite_weapon_kills": 12,
       "first_seen": "2026-11-04T02:31:58.474",
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-11-19T23:23:22.908",
+      "last_seen": "2026-11-20T00:39:41.115",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 130556,
@@ -5449,15 +5449,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 144,
+      "ai_kills": 147,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 95,
+      "favorite_weapon_kills": 98,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-20T00:25:09.871",
+      "last_seen": "2026-11-20T00:55:13.077",
       "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
@@ -5469,10 +5469,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 95,
+        "M110 SASS": 98,
         "M16A4E": 14
       },
-      "weapon_master_kills": 95,
+      "weapon_master_kills": 98,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
@@ -5671,15 +5671,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 438,
+      "ai_kills": 444,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 230,
+      "favorite_weapon_kills": 235,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-19T22:33:52.370",
+      "last_seen": "2026-11-20T00:56:28.108",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 2035799,
@@ -5695,16 +5695,16 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 230,
+        "DMR": 235,
         "DVL-10 M2 Urbana": 10,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
-        "L15 Defense": 10,
+        "L15 Defense": 11,
         "M4-A1": 2,
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 230,
+      "weapon_master_kills": 235,
       "is_admin": false,
       "aris_score": 340,
       "aris_score_breakdown": {
@@ -5957,11 +5957,11 @@
       "ids": [
         "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
       ],
-      "last_seen": "2026-11-20T00:16:34.329",
+      "last_seen": "2026-11-20T00:48:12.266",
       "longest_ai_kill_m": 513,
       "longest_ai_kill_weapon": "HK G28",
-      "market_income": 384044,
-      "market_sales": 329,
+      "market_income": 465644,
+      "market_sales": 404,
       "name": "REALPABLO",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -6497,14 +6497,14 @@
     },
     {
       "ai_kills": 30,
-      "deaths": 0,
+      "deaths": 1,
       "favorite_weapon": "SK 59/66",
       "favorite_weapon_kills": 12,
       "first_seen": "2026-11-04T02:31:58.474",
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-11-19T23:23:22.908",
+      "last_seen": "2026-11-20T00:39:41.115",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 130556,
@@ -9549,15 +9549,15 @@
   ],
   "most_deaths": [
     {
-      "ai_kills": 438,
+      "ai_kills": 444,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 230,
+      "favorite_weapon_kills": 235,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-19T22:33:52.370",
+      "last_seen": "2026-11-20T00:56:28.108",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 2035799,
@@ -9573,16 +9573,16 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 230,
+        "DMR": 235,
         "DVL-10 M2 Urbana": 10,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
-        "L15 Defense": 10,
+        "L15 Defense": 11,
         "M4-A1": 2,
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 230,
+      "weapon_master_kills": 235,
       "is_admin": false,
       "aris_score": 340,
       "aris_score_breakdown": {
@@ -13315,6 +13315,38 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 30,
+      "deaths": 1,
+      "favorite_weapon": "SK 59/66",
+      "favorite_weapon_kills": 12,
+      "first_seen": "2026-11-04T02:31:58.474",
+      "ids": [
+        "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
+      ],
+      "last_seen": "2026-11-20T00:39:41.115",
+      "longest_ai_kill_m": 415,
+      "longest_ai_kill_weapon": "Blaze",
+      "market_income": 130556,
+      "market_sales": 106,
+      "name": "Festr",
+      "vehicle_driver_entries": 36,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 21251.3,
+      "vehicle_trips": 36,
+      "weapons": {
+        "AKMS": 4,
+        "Blaze": 1,
+        "CR-527": 5,
+        "LMT M900 DMR": 2,
+        "SK 59/66": 12,
+        "VSD": 6
+      },
+      "weapon_master_kills": 12,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 0,
       "deaths": 1,
       "favorite_weapon": "",
@@ -14375,11 +14407,11 @@
       "ids": [
         "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
       ],
-      "last_seen": "2026-11-20T00:16:34.329",
+      "last_seen": "2026-11-20T00:48:12.266",
       "longest_ai_kill_m": 513,
       "longest_ai_kill_weapon": "HK G28",
-      "market_income": 384044,
-      "market_sales": 329,
+      "market_income": 465644,
+      "market_sales": 404,
       "name": "REALPABLO",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -15302,15 +15334,15 @@
       }
     },
     {
-      "ai_kills": 438,
+      "ai_kills": 444,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 230,
+      "favorite_weapon_kills": 235,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-19T22:33:52.370",
+      "last_seen": "2026-11-20T00:56:28.108",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 2035799,
@@ -15326,16 +15358,16 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 230,
+        "DMR": 235,
         "DVL-10 M2 Urbana": 10,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
-        "L15 Defense": 10,
+        "L15 Defense": 11,
         "M4-A1": 2,
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 230,
+      "weapon_master_kills": 235,
       "is_admin": false,
       "aris_score": 340,
       "aris_score_breakdown": {
@@ -15810,37 +15842,6 @@
       }
     },
     {
-      "ai_kills": 144,
-      "deaths": 0,
-      "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 95,
-      "first_seen": "2026-11-03T20:27:56.434",
-      "ids": [
-        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
-      ],
-      "last_seen": "2026-11-20T00:25:09.871",
-      "longest_ai_kill_m": 637,
-      "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 465438,
-      "market_sales": 672,
-      "name": "RaptorSVK",
-      "vehicle_driver_entries": 52,
-      "vehicle_passenger_entries": 12,
-      "vehicle_trip_straightline_m": 85968.0,
-      "vehicle_trips": 52,
-      "weapons": {
-        "CR-527": 35,
-        "M110 SASS": 95,
-        "M16A4E": 14
-      },
-      "weapon_master_kills": 95,
-      "is_admin": false,
-      "aris_score": 50,
-      "aris_score_breakdown": {
-        "weapon_master": 50
-      }
-    },
-    {
       "ai_kills": 59,
       "deaths": 1,
       "favorite_weapon": "CR-527",
@@ -15849,11 +15850,11 @@
       "ids": [
         "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
       ],
-      "last_seen": "2026-11-20T00:16:34.329",
+      "last_seen": "2026-11-20T00:48:12.266",
       "longest_ai_kill_m": 513,
       "longest_ai_kill_weapon": "HK G28",
-      "market_income": 384044,
-      "market_sales": 329,
+      "market_income": 465644,
+      "market_sales": 404,
       "name": "REALPABLO",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -15873,6 +15874,37 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 147,
+      "deaths": 0,
+      "favorite_weapon": "M110 SASS",
+      "favorite_weapon_kills": 98,
+      "first_seen": "2026-11-03T20:27:56.434",
+      "ids": [
+        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
+      ],
+      "last_seen": "2026-11-20T00:55:13.077",
+      "longest_ai_kill_m": 637,
+      "longest_ai_kill_weapon": "M110 SASS",
+      "market_income": 465438,
+      "market_sales": 672,
+      "name": "RaptorSVK",
+      "vehicle_driver_entries": 52,
+      "vehicle_passenger_entries": 12,
+      "vehicle_trip_straightline_m": 85968.0,
+      "vehicle_trips": 52,
+      "weapons": {
+        "CR-527": 35,
+        "M110 SASS": 98,
+        "M16A4E": 14
+      },
+      "weapon_master_kills": 98,
+      "is_admin": false,
+      "aris_score": 50,
+      "aris_score_breakdown": {
+        "weapon_master": 50
+      }
     },
     {
       "ai_kills": 92,
@@ -16461,14 +16493,14 @@
     },
     {
       "ai_kills": 30,
-      "deaths": 0,
+      "deaths": 1,
       "favorite_weapon": "SK 59/66",
       "favorite_weapon_kills": 12,
       "first_seen": "2026-11-04T02:31:58.474",
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-11-19T23:23:22.908",
+      "last_seen": "2026-11-20T00:39:41.115",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 130556,
@@ -18419,15 +18451,15 @@
       }
     },
     {
-      "ai_kills": 438,
+      "ai_kills": 444,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 230,
+      "favorite_weapon_kills": 235,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-19T22:33:52.370",
+      "last_seen": "2026-11-20T00:56:28.108",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 2035799,
@@ -18443,16 +18475,16 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 230,
+        "DMR": 235,
         "DVL-10 M2 Urbana": 10,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
-        "L15 Defense": 10,
+        "L15 Defense": 11,
         "M4-A1": 2,
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 230,
+      "weapon_master_kills": 235,
       "is_admin": false,
       "aris_score": 340,
       "aris_score_breakdown": {
@@ -18463,15 +18495,15 @@
       }
     },
     {
-      "ai_kills": 144,
+      "ai_kills": 147,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 95,
+      "favorite_weapon_kills": 98,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-20T00:25:09.871",
+      "last_seen": "2026-11-20T00:55:13.077",
       "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
@@ -18483,10 +18515,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 95,
+        "M110 SASS": 98,
         "M16A4E": 14
       },
-      "weapon_master_kills": 95,
+      "weapon_master_kills": 98,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
@@ -18836,14 +18868,14 @@
     },
     {
       "ai_kills": 30,
-      "deaths": 0,
+      "deaths": 1,
       "favorite_weapon": "SK 59/66",
       "favorite_weapon_kills": 12,
       "first_seen": "2026-11-04T02:31:58.474",
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-11-19T23:23:22.908",
+      "last_seen": "2026-11-20T00:39:41.115",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 130556,
@@ -19702,15 +19734,15 @@
   ],
   "weapon_master": [
     {
-      "ai_kills": 438,
+      "ai_kills": 444,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 230,
+      "favorite_weapon_kills": 235,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-19T22:33:52.370",
+      "last_seen": "2026-11-20T00:56:28.108",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 2035799,
@@ -19726,16 +19758,16 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 230,
+        "DMR": 235,
         "DVL-10 M2 Urbana": 10,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
-        "L15 Defense": 10,
+        "L15 Defense": 11,
         "M4-A1": 2,
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 230,
+      "weapon_master_kills": 235,
       "is_admin": false,
       "aris_score": 340,
       "aris_score_breakdown": {
@@ -19921,15 +19953,15 @@
       }
     },
     {
-      "ai_kills": 144,
+      "ai_kills": 147,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 95,
+      "favorite_weapon_kills": 98,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-20T00:25:09.871",
+      "last_seen": "2026-11-20T00:55:13.077",
       "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
@@ -19941,10 +19973,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 95,
+        "M110 SASS": 98,
         "M16A4E": 14
       },
-      "weapon_master_kills": 95,
+      "weapon_master_kills": 98,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
@@ -20579,11 +20611,11 @@
       "ids": [
         "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
       ],
-      "last_seen": "2026-11-20T00:16:34.329",
+      "last_seen": "2026-11-20T00:48:12.266",
       "longest_ai_kill_m": 513,
       "longest_ai_kill_weapon": "HK G28",
-      "market_income": 384044,
-      "market_sales": 329,
+      "market_income": 465644,
+      "market_sales": 404,
       "name": "REALPABLO",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -22041,14 +22073,14 @@
     },
     {
       "ai_kills": 30,
-      "deaths": 0,
+      "deaths": 1,
       "favorite_weapon": "SK 59/66",
       "favorite_weapon_kills": 12,
       "first_seen": "2026-11-04T02:31:58.474",
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-11-19T23:23:22.908",
+      "last_seen": "2026-11-20T00:39:41.115",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 130556,
@@ -24522,15 +24554,15 @@
       }
     },
     {
-      "ai_kills": 438,
+      "ai_kills": 444,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 230,
+      "favorite_weapon_kills": 235,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-19T22:33:52.370",
+      "last_seen": "2026-11-20T00:56:28.108",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 2035799,
@@ -24546,16 +24578,16 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 230,
+        "DMR": 235,
         "DVL-10 M2 Urbana": 10,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
-        "L15 Defense": 10,
+        "L15 Defense": 11,
         "M4-A1": 2,
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 230,
+      "weapon_master_kills": 235,
       "is_admin": false,
       "aris_score": 340,
       "aris_score_breakdown": {
@@ -24818,15 +24850,15 @@
       }
     },
     {
-      "ai_kills": 144,
+      "ai_kills": 147,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 95,
+      "favorite_weapon_kills": 98,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-20T00:25:09.871",
+      "last_seen": "2026-11-20T00:55:13.077",
       "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
@@ -24838,10 +24870,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 95,
+        "M110 SASS": 98,
         "M16A4E": 14
       },
-      "weapon_master_kills": 95,
+      "weapon_master_kills": 98,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
@@ -25041,6 +25073,40 @@
       }
     },
     {
+      "ai_kills": 59,
+      "deaths": 1,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 34,
+      "first_seen": "2026-11-03T19:00:06.856",
+      "ids": [
+        "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
+      ],
+      "last_seen": "2026-11-20T00:48:12.266",
+      "longest_ai_kill_m": 513,
+      "longest_ai_kill_weapon": "HK G28",
+      "market_income": 465644,
+      "market_sales": 404,
+      "name": "REALPABLO",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 4,
+        "Blaze": 1,
+        "CR-527": 34,
+        "HK G28": 8,
+        "Mosin 91/30": 1,
+        "Revolver": 8,
+        "SG5-K": 1,
+        "SK 59/66": 2
+      },
+      "weapon_master_kills": 34,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 77,
       "deaths": 2,
       "favorite_weapon": "VS-89",
@@ -25206,40 +25272,6 @@
         "SG5-K": 4
       },
       "weapon_master_kills": 30,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 59,
-      "deaths": 1,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 34,
-      "first_seen": "2026-11-03T19:00:06.856",
-      "ids": [
-        "4B3SmpZEzKDbW_5tECCbm1EGqMiIHhnKoV5DQ9yDJgQ="
-      ],
-      "last_seen": "2026-11-20T00:16:34.329",
-      "longest_ai_kill_m": 513,
-      "longest_ai_kill_weapon": "HK G28",
-      "market_income": 384044,
-      "market_sales": 329,
-      "name": "REALPABLO",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-133": 4,
-        "Blaze": 1,
-        "CR-527": 34,
-        "HK G28": 8,
-        "Mosin 91/30": 1,
-        "Revolver": 8,
-        "SG5-K": 1,
-        "SK 59/66": 2
-      },
-      "weapon_master_kills": 34,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -25879,14 +25911,14 @@
     },
     {
       "ai_kills": 30,
-      "deaths": 0,
+      "deaths": 1,
       "favorite_weapon": "SK 59/66",
       "favorite_weapon_kills": 12,
       "first_seen": "2026-11-04T02:31:58.474",
       "ids": [
         "FFfE2W3EHAdMww7Tu0xny3PQovWAZ9L7DUYQrx-XgkQ="
       ],
-      "last_seen": "2026-11-19T23:23:22.908",
+      "last_seen": "2026-11-20T00:39:41.115",
       "longest_ai_kill_m": 415,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 130556,
@@ -27300,15 +27332,15 @@
       }
     },
     {
-      "ai_kills": 438,
+      "ai_kills": 444,
       "deaths": 21,
       "favorite_weapon": "DMR",
-      "favorite_weapon_kills": 230,
+      "favorite_weapon_kills": 235,
       "first_seen": "2026-11-03T17:40:23.596",
       "ids": [
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-19T22:33:52.370",
+      "last_seen": "2026-11-20T00:56:28.108",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 2035799,
@@ -27324,16 +27356,16 @@
         "Blaze": 78,
         "CR-527": 58,
         "Crossbow": 3,
-        "DMR": 230,
+        "DMR": 235,
         "DVL-10 M2 Urbana": 10,
         "Daniel Defense MK18 CQBR": 9,
         "IJ-70": 1,
-        "L15 Defense": 10,
+        "L15 Defense": 11,
         "M4-A1": 2,
         "M70 Tundra": 27,
         "Repeater Carbine": 3
       },
-      "weapon_master_kills": 230,
+      "weapon_master_kills": 235,
       "is_admin": false,
       "aris_score": 340,
       "aris_score_breakdown": {
@@ -27873,15 +27905,15 @@
       }
     },
     {
-      "ai_kills": 144,
+      "ai_kills": 147,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 95,
+      "favorite_weapon_kills": 98,
       "first_seen": "2026-11-03T20:27:56.434",
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-20T00:25:09.871",
+      "last_seen": "2026-11-20T00:55:13.077",
       "longest_ai_kill_m": 637,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 465438,
@@ -27893,10 +27925,10 @@
       "vehicle_trips": 52,
       "weapons": {
         "CR-527": 35,
-        "M110 SASS": 95,
+        "M110 SASS": 98,
         "M16A4E": 14
       },
-      "weapon_master_kills": 95,
+      "weapon_master_kills": 98,
       "is_admin": false,
       "aris_score": 50,
       "aris_score_breakdown": {
