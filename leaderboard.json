@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 287,
   "staff_count": 6,
-  "updated_at_local": "23.11.2026 00:01",
+  "updated_at_local": "23.11.2026 00:29",
   "staff": [
     {
       "ai_kills": 0,
@@ -179,7 +179,7 @@
   ],
   "ai_hunter": [
     {
-      "ai_kills": 565,
+      "ai_kills": 570,
       "deaths": 24,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -188,7 +188,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-22T23:54:17.392",
+      "last_seen": "2026-11-23T00:24:57.990",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 3193240,
@@ -211,7 +211,7 @@
         "L15 Defense": 14,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 90,
+        "MDT TAC21": 95,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -449,7 +449,7 @@
       }
     },
     {
-      "ai_kills": 241,
+      "ai_kills": 244,
       "deaths": 1,
       "favorite_weapon": "HK G28",
       "favorite_weapon_kills": 123,
@@ -457,7 +457,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-22T23:48:08.662",
+      "last_seen": "2026-11-23T00:29:10.801",
       "longest_ai_kill_m": 808,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1216835,
@@ -468,7 +468,7 @@
       "vehicle_trip_straightline_m": 251811.4,
       "vehicle_trips": 140,
       "weapons": {
-        "B&T APR338": 32,
+        "B&T APR338": 35,
         "CR-527": 1,
         "Cobalt Kinetics 27 Expert": 17,
         "Daniel Defense MK18 CQBR": 3,
@@ -1380,11 +1380,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-22T23:33:39.435",
+      "last_seen": "2026-11-23T00:27:14.750",
       "longest_ai_kill_m": 731,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 671514,
-      "market_sales": 662,
+      "market_income": 698777,
+      "market_sales": 677,
       "name": "Proxymo",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 0,
@@ -2760,6 +2760,40 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 24,
+      "deaths": 6,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-21T06:50:48.067",
+      "ids": [
+        "PWuhBDf3e8dlLsz-pKlZuYQbwaLQoJaVftk7DxxCzE0="
+      ],
+      "last_seen": "2026-11-23T00:08:39.453",
+      "longest_ai_kill_m": 101,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "OstyCZ",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 5,
+        "BK-43": 1,
+        "CR-527": 9,
+        "CR-75": 1,
+        "IJ-70": 3,
+        "Mosin 91/30": 1,
+        "Sawed-off BK-12": 3,
+        "Sporter 22": 1
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 23,
       "deaths": 2,
       "favorite_weapon": "CR-527",
@@ -2910,40 +2944,6 @@
         "VSD": 16
       },
       "weapon_master_kills": 16,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 21,
-      "deaths": 6,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 6,
-      "first_seen": "2026-11-21T06:50:48.067",
-      "ids": [
-        "PWuhBDf3e8dlLsz-pKlZuYQbwaLQoJaVftk7DxxCzE0="
-      ],
-      "last_seen": "2026-11-22T23:30:01.808",
-      "longest_ai_kill_m": 101,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "OstyCZ",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-18": 5,
-        "BK-43": 1,
-        "CR-527": 6,
-        "CR-75": 1,
-        "IJ-70": 3,
-        "Mosin 91/30": 1,
-        "Sawed-off BK-12": 3,
-        "Sporter 22": 1
-      },
-      "weapon_master_kills": 6,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -3139,11 +3139,11 @@
       "ids": [
         "aJrVC7SIZ7eT2K2fWy0wi3aT0xZ0QaszgsOGCeIOQ-Q="
       ],
-      "last_seen": "2026-11-22T23:51:49.105",
+      "last_seen": "2026-11-23T00:27:52.023",
       "longest_ai_kill_m": 383,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 76898,
-      "market_sales": 70,
+      "market_income": 79334,
+      "market_sales": 75,
       "name": "Chosse_CZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -3551,11 +3551,11 @@
         "IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y=",
         "2) (IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y="
       ],
-      "last_seen": "2026-11-22T23:58:22.705",
+      "last_seen": "2026-11-23T00:25:13.629",
       "longest_ai_kill_m": 103,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8234,
-      "market_sales": 8,
+      "market_income": 17674,
+      "market_sales": 12,
       "name": "Vladomir Velik",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -5694,7 +5694,7 @@
       }
     },
     {
-      "ai_kills": 241,
+      "ai_kills": 244,
       "deaths": 1,
       "favorite_weapon": "HK G28",
       "favorite_weapon_kills": 123,
@@ -5702,7 +5702,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-22T23:48:08.662",
+      "last_seen": "2026-11-23T00:29:10.801",
       "longest_ai_kill_m": 808,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1216835,
@@ -5713,7 +5713,7 @@
       "vehicle_trip_straightline_m": 251811.4,
       "vehicle_trips": 140,
       "weapons": {
-        "B&T APR338": 32,
+        "B&T APR338": 35,
         "CR-527": 1,
         "Cobalt Kinetics 27 Expert": 17,
         "Daniel Defense MK18 CQBR": 3,
@@ -5865,11 +5865,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-22T23:33:39.435",
+      "last_seen": "2026-11-23T00:27:14.750",
       "longest_ai_kill_m": 731,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 671514,
-      "market_sales": 662,
+      "market_income": 698777,
+      "market_sales": 677,
       "name": "Proxymo",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 0,
@@ -6497,7 +6497,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 565,
+      "ai_kills": 570,
       "deaths": 24,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -6506,7 +6506,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-22T23:54:17.392",
+      "last_seen": "2026-11-23T00:24:57.990",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 3193240,
@@ -6529,7 +6529,7 @@
         "L15 Defense": 14,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 90,
+        "MDT TAC21": 95,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -7498,11 +7498,11 @@
       "ids": [
         "aJrVC7SIZ7eT2K2fWy0wi3aT0xZ0QaszgsOGCeIOQ-Q="
       ],
-      "last_seen": "2026-11-22T23:51:49.105",
+      "last_seen": "2026-11-23T00:27:52.023",
       "longest_ai_kill_m": 383,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 76898,
-      "market_sales": 70,
+      "market_income": 79334,
+      "market_sales": 75,
       "name": "Chosse_CZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -9370,11 +9370,11 @@
         "IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y=",
         "2) (IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y="
       ],
-      "last_seen": "2026-11-22T23:58:22.705",
+      "last_seen": "2026-11-23T00:25:13.629",
       "longest_ai_kill_m": 103,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8234,
-      "market_sales": 8,
+      "market_income": 17674,
+      "market_sales": 12,
       "name": "Vladomir Velik",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -9422,15 +9422,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 21,
+      "ai_kills": 24,
       "deaths": 6,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 6,
+      "favorite_weapon_kills": 9,
       "first_seen": "2026-11-21T06:50:48.067",
       "ids": [
         "PWuhBDf3e8dlLsz-pKlZuYQbwaLQoJaVftk7DxxCzE0="
       ],
-      "last_seen": "2026-11-22T23:30:01.808",
+      "last_seen": "2026-11-23T00:08:39.453",
       "longest_ai_kill_m": 101,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -9443,14 +9443,14 @@
       "weapons": {
         "BK-18": 5,
         "BK-43": 1,
-        "CR-527": 6,
+        "CR-527": 9,
         "CR-75": 1,
         "IJ-70": 3,
         "Mosin 91/30": 1,
         "Sawed-off BK-12": 3,
         "Sporter 22": 1
       },
-      "weapon_master_kills": 6,
+      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -10725,7 +10725,7 @@
   ],
   "most_deaths": [
     {
-      "ai_kills": 565,
+      "ai_kills": 570,
       "deaths": 24,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -10734,7 +10734,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-22T23:54:17.392",
+      "last_seen": "2026-11-23T00:24:57.990",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 3193240,
@@ -10757,7 +10757,7 @@
         "L15 Defense": 14,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 90,
+        "MDT TAC21": 95,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -11164,11 +11164,11 @@
         "IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y=",
         "2) (IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y="
       ],
-      "last_seen": "2026-11-22T23:58:22.705",
+      "last_seen": "2026-11-23T00:25:13.629",
       "longest_ai_kill_m": 103,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8234,
-      "market_sales": 8,
+      "market_income": 17674,
+      "market_sales": 12,
       "name": "Vladomir Velik",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -11530,15 +11530,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 21,
+      "ai_kills": 24,
       "deaths": 6,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 6,
+      "favorite_weapon_kills": 9,
       "first_seen": "2026-11-21T06:50:48.067",
       "ids": [
         "PWuhBDf3e8dlLsz-pKlZuYQbwaLQoJaVftk7DxxCzE0="
       ],
-      "last_seen": "2026-11-22T23:30:01.808",
+      "last_seen": "2026-11-23T00:08:39.453",
       "longest_ai_kill_m": 101,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 0,
@@ -11551,14 +11551,14 @@
       "weapons": {
         "BK-18": 5,
         "BK-43": 1,
-        "CR-527": 6,
+        "CR-527": 9,
         "CR-75": 1,
         "IJ-70": 3,
         "Mosin 91/30": 1,
         "Sawed-off BK-12": 3,
         "Sporter 22": 1
       },
-      "weapon_master_kills": 6,
+      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -12052,11 +12052,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-22T23:33:39.435",
+      "last_seen": "2026-11-23T00:27:14.750",
       "longest_ai_kill_m": 731,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 671514,
-      "market_sales": 662,
+      "market_income": 698777,
+      "market_sales": 677,
       "name": "Proxymo",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 0,
@@ -16505,7 +16505,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 241,
+      "ai_kills": 244,
       "deaths": 1,
       "favorite_weapon": "HK G28",
       "favorite_weapon_kills": 123,
@@ -16513,7 +16513,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-22T23:48:08.662",
+      "last_seen": "2026-11-23T00:29:10.801",
       "longest_ai_kill_m": 808,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1216835,
@@ -16524,7 +16524,7 @@
       "vehicle_trip_straightline_m": 251811.4,
       "vehicle_trips": 140,
       "weapons": {
-        "B&T APR338": 32,
+        "B&T APR338": 35,
         "CR-527": 1,
         "Cobalt Kinetics 27 Expert": 17,
         "Daniel Defense MK18 CQBR": 3,
@@ -17425,7 +17425,7 @@
       }
     },
     {
-      "ai_kills": 565,
+      "ai_kills": 570,
       "deaths": 24,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -17434,7 +17434,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-22T23:54:17.392",
+      "last_seen": "2026-11-23T00:24:57.990",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 3193240,
@@ -17457,7 +17457,7 @@
         "L15 Defense": 14,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 90,
+        "MDT TAC21": 95,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -17603,7 +17603,7 @@
       }
     },
     {
-      "ai_kills": 241,
+      "ai_kills": 244,
       "deaths": 1,
       "favorite_weapon": "HK G28",
       "favorite_weapon_kills": 123,
@@ -17611,7 +17611,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-22T23:48:08.662",
+      "last_seen": "2026-11-23T00:29:10.801",
       "longest_ai_kill_m": 808,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1216835,
@@ -17622,7 +17622,7 @@
       "vehicle_trip_straightline_m": 251811.4,
       "vehicle_trips": 140,
       "weapons": {
-        "B&T APR338": 32,
+        "B&T APR338": 35,
         "CR-527": 1,
         "Cobalt Kinetics 27 Expert": 17,
         "Daniel Defense MK18 CQBR": 3,
@@ -17843,6 +17843,43 @@
       }
     },
     {
+      "ai_kills": 71,
+      "deaths": 4,
+      "favorite_weapon": "CR-550 Savanna",
+      "favorite_weapon_kills": 18,
+      "first_seen": "2026-11-03T17:35:10.205",
+      "ids": [
+        "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
+      ],
+      "last_seen": "2026-11-23T00:27:14.750",
+      "longest_ai_kill_m": 731,
+      "longest_ai_kill_weapon": "VS-89",
+      "market_income": 698777,
+      "market_sales": 677,
+      "name": "Proxymo",
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 2394.6,
+      "vehicle_trips": 4,
+      "weapons": {
+        "CR-527": 6,
+        "CR-550 Savanna": 18,
+        "Desert Tech MDRX": 2,
+        "HK416": 2,
+        "M70 Tundra": 15,
+        "Mossberg 590M": 1,
+        "SK 59/66": 4,
+        "Sa vz. 58": 6,
+        "USG-45": 1,
+        "VS-89": 9,
+        "VSD": 7
+      },
+      "weapon_master_kills": 18,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 195,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
@@ -17900,43 +17937,6 @@
         "Sawed-off BK-43": 1
       },
       "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 71,
-      "deaths": 4,
-      "favorite_weapon": "CR-550 Savanna",
-      "favorite_weapon_kills": 18,
-      "first_seen": "2026-11-03T17:35:10.205",
-      "ids": [
-        "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
-      ],
-      "last_seen": "2026-11-22T23:33:39.435",
-      "longest_ai_kill_m": 731,
-      "longest_ai_kill_weapon": "VS-89",
-      "market_income": 671514,
-      "market_sales": 662,
-      "name": "Proxymo",
-      "vehicle_driver_entries": 4,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 2394.6,
-      "vehicle_trips": 4,
-      "weapons": {
-        "CR-527": 6,
-        "CR-550 Savanna": 18,
-        "Desert Tech MDRX": 2,
-        "HK416": 2,
-        "M70 Tundra": 15,
-        "Mossberg 590M": 1,
-        "SK 59/66": 4,
-        "Sa vz. 58": 6,
-        "USG-45": 1,
-        "VS-89": 9,
-        "VSD": 7
-      },
-      "weapon_master_kills": 18,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -18982,11 +18982,11 @@
       "ids": [
         "aJrVC7SIZ7eT2K2fWy0wi3aT0xZ0QaszgsOGCeIOQ-Q="
       ],
-      "last_seen": "2026-11-22T23:51:49.105",
+      "last_seen": "2026-11-23T00:27:52.023",
       "longest_ai_kill_m": 383,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 76898,
-      "market_sales": 70,
+      "market_income": 79334,
+      "market_sales": 75,
       "name": "Chosse_CZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -19762,6 +19762,39 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 14,
+      "deaths": 8,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 4,
+      "first_seen": "2026-11-19T21:31:49.516",
+      "ids": [
+        "IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y=",
+        "2) (IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y="
+      ],
+      "last_seen": "2026-11-23T00:25:13.629",
+      "longest_ai_kill_m": 103,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 17674,
+      "market_sales": 12,
+      "name": "Vladomir Velik",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 2,
+        "BK-18": 2,
+        "CR-527": 4,
+        "HOWA TYPE 20": 1,
+        "IJ-70": 1,
+        "Repeater Carbine": 4
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 53,
       "deaths": 2,
       "favorite_weapon": "VSD",
@@ -19983,39 +20016,6 @@
         "Blaze": 2,
         "IJ-70": 1,
         "Mosin 91/30": 1
-      },
-      "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 14,
-      "deaths": 8,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-11-19T21:31:49.516",
-      "ids": [
-        "IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y=",
-        "2) (IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y="
-      ],
-      "last_seen": "2026-11-22T23:58:22.705",
-      "longest_ai_kill_m": 103,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8234,
-      "market_sales": 8,
-      "name": "Vladomir Velik",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-133": 2,
-        "BK-18": 2,
-        "CR-527": 4,
-        "HOWA TYPE 20": 1,
-        "IJ-70": 1,
-        "Repeater Carbine": 4
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -20574,7 +20574,7 @@
       }
     },
     {
-      "ai_kills": 241,
+      "ai_kills": 244,
       "deaths": 1,
       "favorite_weapon": "HK G28",
       "favorite_weapon_kills": 123,
@@ -20582,7 +20582,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-22T23:48:08.662",
+      "last_seen": "2026-11-23T00:29:10.801",
       "longest_ai_kill_m": 808,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1216835,
@@ -20593,7 +20593,7 @@
       "vehicle_trip_straightline_m": 251811.4,
       "vehicle_trips": 140,
       "weapons": {
-        "B&T APR338": 32,
+        "B&T APR338": 35,
         "CR-527": 1,
         "Cobalt Kinetics 27 Expert": 17,
         "Daniel Defense MK18 CQBR": 3,
@@ -20821,7 +20821,7 @@
       }
     },
     {
-      "ai_kills": 565,
+      "ai_kills": 570,
       "deaths": 24,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -20830,7 +20830,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-22T23:54:17.392",
+      "last_seen": "2026-11-23T00:24:57.990",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 3193240,
@@ -20853,7 +20853,7 @@
         "L15 Defense": 14,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 90,
+        "MDT TAC21": 95,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -21800,11 +21800,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-22T23:33:39.435",
+      "last_seen": "2026-11-23T00:27:14.750",
       "longest_ai_kill_m": 731,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 671514,
-      "market_sales": 662,
+      "market_income": 698777,
+      "market_sales": 677,
       "name": "Proxymo",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 0,
@@ -22275,7 +22275,7 @@
   ],
   "weapon_master": [
     {
-      "ai_kills": 565,
+      "ai_kills": 570,
       "deaths": 24,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -22284,7 +22284,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-22T23:54:17.392",
+      "last_seen": "2026-11-23T00:24:57.990",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 3193240,
@@ -22307,7 +22307,7 @@
         "L15 Defense": 14,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 90,
+        "MDT TAC21": 95,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -22528,7 +22528,7 @@
       }
     },
     {
-      "ai_kills": 241,
+      "ai_kills": 244,
       "deaths": 1,
       "favorite_weapon": "HK G28",
       "favorite_weapon_kills": 123,
@@ -22536,7 +22536,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-22T23:48:08.662",
+      "last_seen": "2026-11-23T00:29:10.801",
       "longest_ai_kill_m": 808,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1216835,
@@ -22547,7 +22547,7 @@
       "vehicle_trip_straightline_m": 251811.4,
       "vehicle_trips": 140,
       "weapons": {
-        "B&T APR338": 32,
+        "B&T APR338": 35,
         "CR-527": 1,
         "Cobalt Kinetics 27 Expert": 17,
         "Daniel Defense MK18 CQBR": 3,
@@ -24137,11 +24137,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-22T23:33:39.435",
+      "last_seen": "2026-11-23T00:27:14.750",
       "longest_ai_kill_m": 731,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 671514,
-      "market_sales": 662,
+      "market_income": 698777,
+      "market_sales": 677,
       "name": "Proxymo",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 0,
@@ -25259,11 +25259,11 @@
       "ids": [
         "aJrVC7SIZ7eT2K2fWy0wi3aT0xZ0QaszgsOGCeIOQ-Q="
       ],
-      "last_seen": "2026-11-22T23:51:49.105",
+      "last_seen": "2026-11-23T00:27:52.023",
       "longest_ai_kill_m": 383,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 76898,
-      "market_sales": 70,
+      "market_income": 79334,
+      "market_sales": 75,
       "name": "Chosse_CZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -25491,6 +25491,40 @@
       "weapons": {
         "CR-527": 9,
         "SK 59/66": 3
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 24,
+      "deaths": 6,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-21T06:50:48.067",
+      "ids": [
+        "PWuhBDf3e8dlLsz-pKlZuYQbwaLQoJaVftk7DxxCzE0="
+      ],
+      "last_seen": "2026-11-23T00:08:39.453",
+      "longest_ai_kill_m": 101,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "OstyCZ",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 5,
+        "BK-43": 1,
+        "CR-527": 9,
+        "CR-75": 1,
+        "IJ-70": 3,
+        "Mosin 91/30": 1,
+        "Sawed-off BK-12": 3,
+        "Sporter 22": 1
       },
       "weapon_master_kills": 9,
       "is_admin": false,
@@ -25908,40 +25942,6 @@
         "BK-18": 2,
         "BK-43": 1,
         "Bizon": 6,
-        "Sporter 22": 1
-      },
-      "weapon_master_kills": 6,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 21,
-      "deaths": 6,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 6,
-      "first_seen": "2026-11-21T06:50:48.067",
-      "ids": [
-        "PWuhBDf3e8dlLsz-pKlZuYQbwaLQoJaVftk7DxxCzE0="
-      ],
-      "last_seen": "2026-11-22T23:30:01.808",
-      "longest_ai_kill_m": 101,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "OstyCZ",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-18": 5,
-        "BK-43": 1,
-        "CR-527": 6,
-        "CR-75": 1,
-        "IJ-70": 3,
-        "Mosin 91/30": 1,
-        "Sawed-off BK-12": 3,
         "Sporter 22": 1
       },
       "weapon_master_kills": 6,
@@ -26417,11 +26417,11 @@
         "IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y=",
         "2) (IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y="
       ],
-      "last_seen": "2026-11-22T23:58:22.705",
+      "last_seen": "2026-11-23T00:25:13.629",
       "longest_ai_kill_m": 103,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8234,
-      "market_sales": 8,
+      "market_income": 17674,
+      "market_sales": 12,
       "name": "Vladomir Velik",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -27685,7 +27685,7 @@
       }
     },
     {
-      "ai_kills": 241,
+      "ai_kills": 244,
       "deaths": 1,
       "favorite_weapon": "HK G28",
       "favorite_weapon_kills": 123,
@@ -27693,7 +27693,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-22T23:48:08.662",
+      "last_seen": "2026-11-23T00:29:10.801",
       "longest_ai_kill_m": 808,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1216835,
@@ -27704,7 +27704,7 @@
       "vehicle_trip_straightline_m": 251811.4,
       "vehicle_trips": 140,
       "weapons": {
-        "B&T APR338": 32,
+        "B&T APR338": 35,
         "CR-527": 1,
         "Cobalt Kinetics 27 Expert": 17,
         "Daniel Defense MK18 CQBR": 3,
@@ -27729,7 +27729,7 @@
       }
     },
     {
-      "ai_kills": 565,
+      "ai_kills": 570,
       "deaths": 24,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -27738,7 +27738,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-22T23:54:17.392",
+      "last_seen": "2026-11-23T00:24:57.990",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 3193240,
@@ -27761,7 +27761,7 @@
         "L15 Defense": 14,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 90,
+        "MDT TAC21": 95,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -28063,11 +28063,11 @@
       "ids": [
         "VTYcThcgh7kXnluJ8aSeetaHqtY08X_2z1d5rMKGTgY="
       ],
-      "last_seen": "2026-11-22T23:33:39.435",
+      "last_seen": "2026-11-23T00:27:14.750",
       "longest_ai_kill_m": 731,
       "longest_ai_kill_weapon": "VS-89",
-      "market_income": 671514,
-      "market_sales": 662,
+      "market_income": 698777,
+      "market_sales": 677,
       "name": "Proxymo",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 0,
@@ -29301,11 +29301,11 @@
       "ids": [
         "aJrVC7SIZ7eT2K2fWy0wi3aT0xZ0QaszgsOGCeIOQ-Q="
       ],
-      "last_seen": "2026-11-22T23:51:49.105",
+      "last_seen": "2026-11-23T00:27:52.023",
       "longest_ai_kill_m": 383,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 76898,
-      "market_sales": 70,
+      "market_income": 79334,
+      "market_sales": 75,
       "name": "Chosse_CZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -30244,6 +30244,39 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 14,
+      "deaths": 8,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 4,
+      "first_seen": "2026-11-19T21:31:49.516",
+      "ids": [
+        "IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y=",
+        "2) (IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y="
+      ],
+      "last_seen": "2026-11-23T00:25:13.629",
+      "longest_ai_kill_m": 103,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 17674,
+      "market_sales": 12,
+      "name": "Vladomir Velik",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-133": 2,
+        "BK-18": 2,
+        "CR-527": 4,
+        "HOWA TYPE 20": 1,
+        "IJ-70": 1,
+        "Repeater Carbine": 4
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 0,
       "deaths": 0,
       "favorite_weapon": "",
@@ -30327,39 +30360,6 @@
         "Sa vz. 58 SF": 4
       },
       "weapon_master_kills": 13,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 14,
-      "deaths": 8,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-11-19T21:31:49.516",
-      "ids": [
-        "IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y=",
-        "2) (IFYKBgCxZJQ3hprTFzogUNIDUC6nkjgzny-7DtCxK2Y="
-      ],
-      "last_seen": "2026-11-22T23:58:22.705",
-      "longest_ai_kill_m": 103,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 8234,
-      "market_sales": 8,
-      "name": "Vladomir Velik",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-133": 2,
-        "BK-18": 2,
-        "CR-527": 4,
-        "HOWA TYPE 20": 1,
-        "IJ-70": 1,
-        "Repeater Carbine": 4
-      },
-      "weapon_master_kills": 4,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -30695,7 +30695,7 @@
       }
     },
     {
-      "ai_kills": 565,
+      "ai_kills": 570,
       "deaths": 24,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -30704,7 +30704,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-22T23:54:17.392",
+      "last_seen": "2026-11-23T00:24:57.990",
       "longest_ai_kill_m": 568,
       "longest_ai_kill_weapon": "DMR",
       "market_income": 3193240,
@@ -30727,7 +30727,7 @@
         "L15 Defense": 14,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 90,
+        "MDT TAC21": 95,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -30876,7 +30876,7 @@
       }
     },
     {
-      "ai_kills": 241,
+      "ai_kills": 244,
       "deaths": 1,
       "favorite_weapon": "HK G28",
       "favorite_weapon_kills": 123,
@@ -30884,7 +30884,7 @@
       "ids": [
         "D30THmNziltET7_qC95mkj5NyKYPGjASw4l8d1ClbN8="
       ],
-      "last_seen": "2026-11-22T23:48:08.662",
+      "last_seen": "2026-11-23T00:29:10.801",
       "longest_ai_kill_m": 808,
       "longest_ai_kill_weapon": "B&T APR338",
       "market_income": 1216835,
@@ -30895,7 +30895,7 @@
       "vehicle_trip_straightline_m": 251811.4,
       "vehicle_trips": 140,
       "weapons": {
-        "B&T APR338": 32,
+        "B&T APR338": 35,
         "CR-527": 1,
         "Cobalt Kinetics 27 Expert": 17,
         "Daniel Defense MK18 CQBR": 3,
