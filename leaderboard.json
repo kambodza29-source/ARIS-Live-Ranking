@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 288,
   "staff_count": 6,
-  "updated_at_local": "23.11.2026 16:31",
+  "updated_at_local": "23.11.2026 17:02",
   "staff": [
     {
       "ai_kills": 0,
@@ -225,7 +225,7 @@
       }
     },
     {
-      "ai_kills": 389,
+      "ai_kills": 392,
       "deaths": 5,
       "favorite_weapon": "Barrett Model 98B",
       "favorite_weapon_kills": 81,
@@ -233,7 +233,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-23T15:34:13.626",
+      "last_seen": "2026-11-23T16:42:24.856",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 6342584,
@@ -252,12 +252,12 @@
         "DMR": 41,
         "FN Five-seveN": 5,
         "FN SCAR SC": 1,
-        "HK G28": 33,
+        "HK G28": 34,
         "Kimber 8400 Advanced Tactical SOC II": 60,
         "L15 Defense": 1,
         "M70 Tundra": 25,
         "MDT TAC21": 27,
-        "Noreen ULR": 6
+        "Noreen ULR": 8
       },
       "weapon_master_kills": 81,
       "is_admin": false,
@@ -583,7 +583,7 @@
       }
     },
     {
-      "ai_kills": 216,
+      "ai_kills": 218,
       "deaths": 0,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 121,
@@ -591,7 +591,7 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-23T16:19:49.663",
+      "last_seen": "2026-11-23T16:43:11.620",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 832889,
@@ -608,7 +608,7 @@
         "KAS-74U": 5,
         "L15 Defense TAN": 2,
         "LE-MAS": 1,
-        "M110 SASS": 53,
+        "M110 SASS": 55,
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
@@ -820,6 +820,44 @@
     },
     {
       "ai_kills": 152,
+      "deaths": 8,
+      "favorite_weapon": "M110 SASS TAN",
+      "favorite_weapon_kills": 36,
+      "first_seen": "2026-11-03T21:53:53.157",
+      "ids": [
+        "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
+      ],
+      "last_seen": "2026-11-23T17:02:03.412",
+      "longest_ai_kill_m": 635,
+      "longest_ai_kill_weapon": "Blaze",
+      "market_income": 458435,
+      "market_sales": 405,
+      "name": "AkameLilith",
+      "vehicle_driver_entries": 67,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 75554.1,
+      "vehicle_trips": 66,
+      "weapons": {
+        "AKS-74UN": 6,
+        "Blaze": 30,
+        "CR-527": 7,
+        "FN SCAR-H MK17 MOD O TAN": 9,
+        "Kimber 8400 Advanced Tactical SOC II": 22,
+        "L15 Defense TAN": 11,
+        "M110 SASS TAN": 36,
+        "Mosin 91/30": 9,
+        "Pioneer": 3,
+        "R12": 13,
+        "RPK-74M": 2,
+        "SG5-K": 4
+      },
+      "weapon_master_kills": 36,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 152,
       "deaths": 6,
       "favorite_weapon": "COLT M4A1 CUSTOM",
       "favorite_weapon_kills": 92,
@@ -861,44 +899,6 @@
       "aris_score_breakdown": {
         "weapon_master": 20
       }
-    },
-    {
-      "ai_kills": 151,
-      "deaths": 8,
-      "favorite_weapon": "M110 SASS TAN",
-      "favorite_weapon_kills": 35,
-      "first_seen": "2026-11-03T21:53:53.157",
-      "ids": [
-        "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
-      ],
-      "last_seen": "2026-11-22T22:01:06.789",
-      "longest_ai_kill_m": 635,
-      "longest_ai_kill_weapon": "Blaze",
-      "market_income": 458435,
-      "market_sales": 405,
-      "name": "AkameLilith",
-      "vehicle_driver_entries": 67,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 75554.1,
-      "vehicle_trips": 66,
-      "weapons": {
-        "AKS-74UN": 6,
-        "Blaze": 30,
-        "CR-527": 7,
-        "FN SCAR-H MK17 MOD O TAN": 9,
-        "Kimber 8400 Advanced Tactical SOC II": 22,
-        "L15 Defense TAN": 11,
-        "M110 SASS TAN": 35,
-        "Mosin 91/30": 9,
-        "Pioneer": 3,
-        "R12": 13,
-        "RPK-74M": 2,
-        "SG5-K": 4
-      },
-      "weapon_master_kills": 35,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 148,
@@ -1094,15 +1094,15 @@
       }
     },
     {
-      "ai_kills": 106,
+      "ai_kills": 109,
       "deaths": 0,
       "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 57,
+      "favorite_weapon_kills": 60,
       "first_seen": "2026-11-05T12:36:19.011",
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-23T15:18:00.095",
+      "last_seen": "2026-11-23T16:38:53.614",
       "longest_ai_kill_m": 475,
       "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
       "market_income": 529990,
@@ -1116,11 +1116,11 @@
         "CR-527": 14,
         "KAS-74U": 3,
         "L15 Defense TAN": 19,
-        "MK 14 Enhanced Battle Rifle": 57,
+        "MK 14 Enhanced Battle Rifle": 60,
         "Pioneer": 5,
         "Sawed-off Mosin 91/30": 8
       },
-      "weapon_master_kills": 57,
+      "weapon_master_kills": 60,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -2799,6 +2799,39 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 24,
+      "deaths": 2,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-03T19:41:49.922",
+      "ids": [
+        "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
+      ],
+      "last_seen": "2026-11-23T16:56:31.614",
+      "longest_ai_kill_m": 254,
+      "longest_ai_kill_weapon": "Blaze",
+      "market_income": 72140,
+      "market_sales": 62,
+      "name": "Marianovito",
+      "vehicle_driver_entries": 1,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 10.7,
+      "vehicle_trips": 1,
+      "weapons": {
+        "BK-18": 2,
+        "Blaze": 4,
+        "CR-527": 9,
+        "KAS-74U": 1,
+        "Pioneer": 1,
+        "SK 59/66": 6,
+        "USG-45": 1
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 23,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -2826,39 +2859,6 @@
         "SK 59/66": 1
       },
       "weapon_master_kills": 10,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 23,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 9,
-      "first_seen": "2026-11-03T19:41:49.922",
-      "ids": [
-        "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
-      ],
-      "last_seen": "2026-11-23T15:36:57.743",
-      "longest_ai_kill_m": 254,
-      "longest_ai_kill_weapon": "Blaze",
-      "market_income": 72140,
-      "market_sales": 62,
-      "name": "Marianovito",
-      "vehicle_driver_entries": 1,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 10.7,
-      "vehicle_trips": 1,
-      "weapons": {
-        "BK-18": 2,
-        "Blaze": 4,
-        "CR-527": 9,
-        "KAS-74U": 1,
-        "Pioneer": 1,
-        "SK 59/66": 5,
-        "USG-45": 1
-      },
-      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -3526,11 +3526,11 @@
       "ids": [
         "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
       ],
-      "last_seen": "2026-11-23T16:26:08.100",
+      "last_seen": "2026-11-23T16:50:49.766",
       "longest_ai_kill_m": 329,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 123432,
-      "market_sales": 102,
+      "market_income": 128011,
+      "market_sales": 105,
       "name": "WoCasCZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -4555,6 +4555,36 @@
     },
     {
       "ai_kills": 4,
+      "deaths": 3,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-11-10T17:25:02.757",
+      "ids": [
+        "jRIws0PII0sb310wf1thIVyCjQecr4I1KK6KLJBIsQU="
+      ],
+      "last_seen": "2026-11-23T17:01:59.693",
+      "longest_ai_kill_m": 111,
+      "longest_ai_kill_weapon": "SK 59/66",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "johndega",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 1,
+        "Mlock-91": 1,
+        "Pioneer": 1,
+        "SK 59/66": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 4,
       "deaths": 0,
       "favorite_weapon": "CR-61 Skorpion",
       "favorite_weapon_kills": 2,
@@ -4685,35 +4715,6 @@
         "Mlock-91": 1,
         "Repeater Carbine": 1,
         "SK 59/66": 1
-      },
-      "weapon_master_kills": 1,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 3,
-      "favorite_weapon": "BK-18",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-11-10T17:25:02.757",
-      "ids": [
-        "jRIws0PII0sb310wf1thIVyCjQecr4I1KK6KLJBIsQU="
-      ],
-      "last_seen": "2026-11-22T11:06:26.926",
-      "longest_ai_kill_m": 43,
-      "longest_ai_kill_weapon": "Pioneer",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "johndega",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-18": 1,
-        "Mlock-91": 1,
-        "Pioneer": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -6146,7 +6147,7 @@
       }
     },
     {
-      "ai_kills": 389,
+      "ai_kills": 392,
       "deaths": 5,
       "favorite_weapon": "Barrett Model 98B",
       "favorite_weapon_kills": 81,
@@ -6154,7 +6155,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-23T15:34:13.626",
+      "last_seen": "2026-11-23T16:42:24.856",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 6342584,
@@ -6173,12 +6174,12 @@
         "DMR": 41,
         "FN Five-seveN": 5,
         "FN SCAR SC": 1,
-        "HK G28": 33,
+        "HK G28": 34,
         "Kimber 8400 Advanced Tactical SOC II": 60,
         "L15 Defense": 1,
         "M70 Tundra": 25,
         "MDT TAC21": 27,
-        "Noreen ULR": 6
+        "Noreen ULR": 8
       },
       "weapon_master_kills": 81,
       "is_admin": false,
@@ -6402,15 +6403,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 151,
+      "ai_kills": 152,
       "deaths": 8,
       "favorite_weapon": "M110 SASS TAN",
-      "favorite_weapon_kills": 35,
+      "favorite_weapon_kills": 36,
       "first_seen": "2026-11-03T21:53:53.157",
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-22T22:01:06.789",
+      "last_seen": "2026-11-23T17:02:03.412",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 458435,
@@ -6427,20 +6428,20 @@
         "FN SCAR-H MK17 MOD O TAN": 9,
         "Kimber 8400 Advanced Tactical SOC II": 22,
         "L15 Defense TAN": 11,
-        "M110 SASS TAN": 35,
+        "M110 SASS TAN": 36,
         "Mosin 91/30": 9,
         "Pioneer": 3,
         "R12": 13,
         "RPK-74M": 2,
         "SG5-K": 4
       },
-      "weapon_master_kills": 35,
+      "weapon_master_kills": 36,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 216,
+      "ai_kills": 218,
       "deaths": 0,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 121,
@@ -6448,7 +6449,7 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-23T16:19:49.663",
+      "last_seen": "2026-11-23T16:43:11.620",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 832889,
@@ -6465,7 +6466,7 @@
         "KAS-74U": 5,
         "L15 Defense TAN": 2,
         "LE-MAS": 1,
-        "M110 SASS": 53,
+        "M110 SASS": 55,
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
@@ -7028,15 +7029,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 106,
+      "ai_kills": 109,
       "deaths": 0,
       "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 57,
+      "favorite_weapon_kills": 60,
       "first_seen": "2026-11-05T12:36:19.011",
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-23T15:18:00.095",
+      "last_seen": "2026-11-23T16:38:53.614",
       "longest_ai_kill_m": 475,
       "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
       "market_income": 529990,
@@ -7050,11 +7051,11 @@
         "CR-527": 14,
         "KAS-74U": 3,
         "L15 Defense TAN": 19,
-        "MK 14 Enhanced Battle Rifle": 57,
+        "MK 14 Enhanced Battle Rifle": 60,
         "Pioneer": 5,
         "Sawed-off Mosin 91/30": 8
       },
-      "weapon_master_kills": 57,
+      "weapon_master_kills": 60,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -7887,11 +7888,11 @@
       "ids": [
         "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
       ],
-      "last_seen": "2026-11-23T16:26:08.100",
+      "last_seen": "2026-11-23T16:50:49.766",
       "longest_ai_kill_m": 329,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 123432,
-      "market_sales": 102,
+      "market_income": 128011,
+      "market_sales": 105,
       "name": "WoCasCZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -8330,7 +8331,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 23,
+      "ai_kills": 24,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 9,
@@ -8338,7 +8339,7 @@
       "ids": [
         "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
       ],
-      "last_seen": "2026-11-23T15:36:57.743",
+      "last_seen": "2026-11-23T16:56:31.614",
       "longest_ai_kill_m": 254,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 72140,
@@ -8354,7 +8355,7 @@
         "CR-527": 9,
         "KAS-74U": 1,
         "Pioneer": 1,
-        "SK 59/66": 5,
+        "SK 59/66": 6,
         "USG-45": 1
       },
       "weapon_master_kills": 9,
@@ -9445,6 +9446,36 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 4,
+      "deaths": 3,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 1,
+      "first_seen": "2026-11-10T17:25:02.757",
+      "ids": [
+        "jRIws0PII0sb310wf1thIVyCjQecr4I1KK6KLJBIsQU="
+      ],
+      "last_seen": "2026-11-23T17:01:59.693",
+      "longest_ai_kill_m": 111,
+      "longest_ai_kill_weapon": "SK 59/66",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "johndega",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 1,
+        "Mlock-91": 1,
+        "Pioneer": 1,
+        "SK 59/66": 1
+      },
+      "weapon_master_kills": 1,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 1,
       "deaths": 1,
       "favorite_weapon": "Revolver",
@@ -10142,35 +10173,6 @@
         "Pioneer": 3
       },
       "weapon_master_kills": 3,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 3,
-      "deaths": 3,
-      "favorite_weapon": "BK-18",
-      "favorite_weapon_kills": 1,
-      "first_seen": "2026-11-10T17:25:02.757",
-      "ids": [
-        "jRIws0PII0sb310wf1thIVyCjQecr4I1KK6KLJBIsQU="
-      ],
-      "last_seen": "2026-11-22T11:06:26.926",
-      "longest_ai_kill_m": 43,
-      "longest_ai_kill_weapon": "Pioneer",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "johndega",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-18": 1,
-        "Mlock-91": 1,
-        "Pioneer": 1
-      },
-      "weapon_master_kills": 1,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -11057,15 +11059,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 151,
+      "ai_kills": 152,
       "deaths": 8,
       "favorite_weapon": "M110 SASS TAN",
-      "favorite_weapon_kills": 35,
+      "favorite_weapon_kills": 36,
       "first_seen": "2026-11-03T21:53:53.157",
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-22T22:01:06.789",
+      "last_seen": "2026-11-23T17:02:03.412",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 458435,
@@ -11082,14 +11084,14 @@
         "FN SCAR-H MK17 MOD O TAN": 9,
         "Kimber 8400 Advanced Tactical SOC II": 22,
         "L15 Defense TAN": 11,
-        "M110 SASS TAN": 35,
+        "M110 SASS TAN": 36,
         "Mosin 91/30": 9,
         "Pioneer": 3,
         "R12": 13,
         "RPK-74M": 2,
         "SG5-K": 4
       },
-      "weapon_master_kills": 35,
+      "weapon_master_kills": 36,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -11715,7 +11717,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 389,
+      "ai_kills": 392,
       "deaths": 5,
       "favorite_weapon": "Barrett Model 98B",
       "favorite_weapon_kills": 81,
@@ -11723,7 +11725,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-23T15:34:13.626",
+      "last_seen": "2026-11-23T16:42:24.856",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 6342584,
@@ -11742,12 +11744,12 @@
         "DMR": 41,
         "FN Five-seveN": 5,
         "FN SCAR SC": 1,
-        "HK G28": 33,
+        "HK G28": 34,
         "Kimber 8400 Advanced Tactical SOC II": 60,
         "L15 Defense": 1,
         "M70 Tundra": 25,
         "MDT TAC21": 27,
-        "Noreen ULR": 6
+        "Noreen ULR": 8
       },
       "weapon_master_kills": 81,
       "is_admin": false,
@@ -12719,7 +12721,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 4,
       "deaths": 3,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 1,
@@ -12727,9 +12729,9 @@
       "ids": [
         "jRIws0PII0sb310wf1thIVyCjQecr4I1KK6KLJBIsQU="
       ],
-      "last_seen": "2026-11-22T11:06:26.926",
-      "longest_ai_kill_m": 43,
-      "longest_ai_kill_weapon": "Pioneer",
+      "last_seen": "2026-11-23T17:01:59.693",
+      "longest_ai_kill_m": 111,
+      "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
       "market_sales": 0,
       "name": "johndega",
@@ -12740,7 +12742,8 @@
       "weapons": {
         "BK-18": 1,
         "Mlock-91": 1,
-        "Pioneer": 1
+        "Pioneer": 1,
+        "SK 59/66": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -13991,7 +13994,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 23,
+      "ai_kills": 24,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 9,
@@ -13999,7 +14002,7 @@
       "ids": [
         "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
       ],
-      "last_seen": "2026-11-23T15:36:57.743",
+      "last_seen": "2026-11-23T16:56:31.614",
       "longest_ai_kill_m": 254,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 72140,
@@ -14015,7 +14018,7 @@
         "CR-527": 9,
         "KAS-74U": 1,
         "Pioneer": 1,
-        "SK 59/66": 5,
+        "SK 59/66": 6,
         "USG-45": 1
       },
       "weapon_master_kills": 9,
@@ -14665,11 +14668,11 @@
       "ids": [
         "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
       ],
-      "last_seen": "2026-11-23T16:26:08.100",
+      "last_seen": "2026-11-23T16:50:49.766",
       "longest_ai_kill_m": 329,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 123432,
-      "market_sales": 102,
+      "market_income": 128011,
+      "market_sales": 105,
       "name": "WoCasCZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -17443,7 +17446,7 @@
       }
     },
     {
-      "ai_kills": 389,
+      "ai_kills": 392,
       "deaths": 5,
       "favorite_weapon": "Barrett Model 98B",
       "favorite_weapon_kills": 81,
@@ -17451,7 +17454,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-23T15:34:13.626",
+      "last_seen": "2026-11-23T16:42:24.856",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 6342584,
@@ -17470,12 +17473,12 @@
         "DMR": 41,
         "FN Five-seveN": 5,
         "FN SCAR SC": 1,
-        "HK G28": 33,
+        "HK G28": 34,
         "Kimber 8400 Advanced Tactical SOC II": 60,
         "L15 Defense": 1,
         "M70 Tundra": 25,
         "MDT TAC21": 27,
-        "Noreen ULR": 6
+        "Noreen ULR": 8
       },
       "weapon_master_kills": 81,
       "is_admin": false,
@@ -17839,7 +17842,7 @@
       }
     },
     {
-      "ai_kills": 216,
+      "ai_kills": 218,
       "deaths": 0,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 121,
@@ -17847,7 +17850,7 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-23T16:19:49.663",
+      "last_seen": "2026-11-23T16:43:11.620",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 832889,
@@ -17864,7 +17867,7 @@
         "KAS-74U": 5,
         "L15 Defense TAN": 2,
         "LE-MAS": 1,
-        "M110 SASS": 53,
+        "M110 SASS": 55,
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
@@ -18198,15 +18201,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 106,
+      "ai_kills": 109,
       "deaths": 0,
       "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 57,
+      "favorite_weapon_kills": 60,
       "first_seen": "2026-11-05T12:36:19.011",
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-23T15:18:00.095",
+      "last_seen": "2026-11-23T16:38:53.614",
       "longest_ai_kill_m": 475,
       "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
       "market_income": 529990,
@@ -18220,11 +18223,11 @@
         "CR-527": 14,
         "KAS-74U": 3,
         "L15 Defense TAN": 19,
-        "MK 14 Enhanced Battle Rifle": 57,
+        "MK 14 Enhanced Battle Rifle": 60,
         "Pioneer": 5,
         "Sawed-off Mosin 91/30": 8
       },
-      "weapon_master_kills": 57,
+      "weapon_master_kills": 60,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -18274,15 +18277,15 @@
       }
     },
     {
-      "ai_kills": 151,
+      "ai_kills": 152,
       "deaths": 8,
       "favorite_weapon": "M110 SASS TAN",
-      "favorite_weapon_kills": 35,
+      "favorite_weapon_kills": 36,
       "first_seen": "2026-11-03T21:53:53.157",
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-22T22:01:06.789",
+      "last_seen": "2026-11-23T17:02:03.412",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 458435,
@@ -18299,14 +18302,14 @@
         "FN SCAR-H MK17 MOD O TAN": 9,
         "Kimber 8400 Advanced Tactical SOC II": 22,
         "L15 Defense TAN": 11,
-        "M110 SASS TAN": 35,
+        "M110 SASS TAN": 36,
         "Mosin 91/30": 9,
         "Pioneer": 3,
         "R12": 13,
         "RPK-74M": 2,
         "SG5-K": 4
       },
-      "weapon_master_kills": 35,
+      "weapon_master_kills": 36,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -18937,11 +18940,11 @@
       "ids": [
         "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
       ],
-      "last_seen": "2026-11-23T16:26:08.100",
+      "last_seen": "2026-11-23T16:50:49.766",
       "longest_ai_kill_m": 329,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 123432,
-      "market_sales": 102,
+      "market_income": 128011,
+      "market_sales": 105,
       "name": "WoCasCZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -19218,7 +19221,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 23,
+      "ai_kills": 24,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 9,
@@ -19226,7 +19229,7 @@
       "ids": [
         "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
       ],
-      "last_seen": "2026-11-23T15:36:57.743",
+      "last_seen": "2026-11-23T16:56:31.614",
       "longest_ai_kill_m": 254,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 72140,
@@ -19242,7 +19245,7 @@
         "CR-527": 9,
         "KAS-74U": 1,
         "Pioneer": 1,
-        "SK 59/66": 5,
+        "SK 59/66": 6,
         "USG-45": 1
       },
       "weapon_master_kills": 9,
@@ -20664,7 +20667,7 @@
       }
     },
     {
-      "ai_kills": 389,
+      "ai_kills": 392,
       "deaths": 5,
       "favorite_weapon": "Barrett Model 98B",
       "favorite_weapon_kills": 81,
@@ -20672,7 +20675,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-23T15:34:13.626",
+      "last_seen": "2026-11-23T16:42:24.856",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 6342584,
@@ -20691,12 +20694,12 @@
         "DMR": 41,
         "FN Five-seveN": 5,
         "FN SCAR SC": 1,
-        "HK G28": 33,
+        "HK G28": 34,
         "Kimber 8400 Advanced Tactical SOC II": 60,
         "L15 Defense": 1,
         "M70 Tundra": 25,
         "MDT TAC21": 27,
-        "Noreen ULR": 6
+        "Noreen ULR": 8
       },
       "weapon_master_kills": 81,
       "is_admin": false,
@@ -20797,7 +20800,7 @@
       }
     },
     {
-      "ai_kills": 216,
+      "ai_kills": 218,
       "deaths": 0,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 121,
@@ -20805,7 +20808,7 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-23T16:19:49.663",
+      "last_seen": "2026-11-23T16:43:11.620",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 832889,
@@ -20822,7 +20825,7 @@
         "KAS-74U": 5,
         "L15 Defense TAN": 2,
         "LE-MAS": 1,
-        "M110 SASS": 53,
+        "M110 SASS": 55,
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
@@ -21078,15 +21081,15 @@
       }
     },
     {
-      "ai_kills": 151,
+      "ai_kills": 152,
       "deaths": 8,
       "favorite_weapon": "M110 SASS TAN",
-      "favorite_weapon_kills": 35,
+      "favorite_weapon_kills": 36,
       "first_seen": "2026-11-03T21:53:53.157",
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-22T22:01:06.789",
+      "last_seen": "2026-11-23T17:02:03.412",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 458435,
@@ -21103,14 +21106,14 @@
         "FN SCAR-H MK17 MOD O TAN": 9,
         "Kimber 8400 Advanced Tactical SOC II": 22,
         "L15 Defense TAN": 11,
-        "M110 SASS TAN": 35,
+        "M110 SASS TAN": 36,
         "Mosin 91/30": 9,
         "Pioneer": 3,
         "R12": 13,
         "RPK-74M": 2,
         "SG5-K": 4
       },
-      "weapon_master_kills": 35,
+      "weapon_master_kills": 36,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -22304,15 +22307,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 106,
+      "ai_kills": 109,
       "deaths": 0,
       "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 57,
+      "favorite_weapon_kills": 60,
       "first_seen": "2026-11-05T12:36:19.011",
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-23T15:18:00.095",
+      "last_seen": "2026-11-23T16:38:53.614",
       "longest_ai_kill_m": 475,
       "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
       "market_income": 529990,
@@ -22326,17 +22329,17 @@
         "CR-527": 14,
         "KAS-74U": 3,
         "L15 Defense TAN": 19,
-        "MK 14 Enhanced Battle Rifle": 57,
+        "MK 14 Enhanced Battle Rifle": 60,
         "Pioneer": 5,
         "Sawed-off Mosin 91/30": 8
       },
-      "weapon_master_kills": 57,
+      "weapon_master_kills": 60,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 23,
+      "ai_kills": 24,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 9,
@@ -22344,7 +22347,7 @@
       "ids": [
         "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
       ],
-      "last_seen": "2026-11-23T15:36:57.743",
+      "last_seen": "2026-11-23T16:56:31.614",
       "longest_ai_kill_m": 254,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 72140,
@@ -22360,7 +22363,7 @@
         "CR-527": 9,
         "KAS-74U": 1,
         "Pioneer": 1,
-        "SK 59/66": 5,
+        "SK 59/66": 6,
         "USG-45": 1
       },
       "weapon_master_kills": 9,
@@ -22755,7 +22758,7 @@
       }
     },
     {
-      "ai_kills": 216,
+      "ai_kills": 218,
       "deaths": 0,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 121,
@@ -22763,7 +22766,7 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-23T16:19:49.663",
+      "last_seen": "2026-11-23T16:43:11.620",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 832889,
@@ -22780,7 +22783,7 @@
         "KAS-74U": 5,
         "L15 Defense TAN": 2,
         "LE-MAS": 1,
-        "M110 SASS": 53,
+        "M110 SASS": 55,
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
@@ -22917,7 +22920,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 389,
+      "ai_kills": 392,
       "deaths": 5,
       "favorite_weapon": "Barrett Model 98B",
       "favorite_weapon_kills": 81,
@@ -22925,7 +22928,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-23T15:34:13.626",
+      "last_seen": "2026-11-23T16:42:24.856",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 6342584,
@@ -22944,12 +22947,12 @@
         "DMR": 41,
         "FN Five-seveN": 5,
         "FN SCAR SC": 1,
-        "HK G28": 33,
+        "HK G28": 34,
         "Kimber 8400 Advanced Tactical SOC II": 60,
         "L15 Defense": 1,
         "M70 Tundra": 25,
         "MDT TAC21": 27,
-        "Noreen ULR": 6
+        "Noreen ULR": 8
       },
       "weapon_master_kills": 81,
       "is_admin": false,
@@ -23135,6 +23138,38 @@
       }
     },
     {
+      "ai_kills": 109,
+      "deaths": 0,
+      "favorite_weapon": "MK 14 Enhanced Battle Rifle",
+      "favorite_weapon_kills": 60,
+      "first_seen": "2026-11-05T12:36:19.011",
+      "ids": [
+        "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
+      ],
+      "last_seen": "2026-11-23T16:38:53.614",
+      "longest_ai_kill_m": 475,
+      "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
+      "market_income": 529990,
+      "market_sales": 464,
+      "name": "Limio",
+      "vehicle_driver_entries": 3,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 12.7,
+      "vehicle_trips": 2,
+      "weapons": {
+        "CR-527": 14,
+        "KAS-74U": 3,
+        "L15 Defense TAN": 19,
+        "MK 14 Enhanced Battle Rifle": 60,
+        "Pioneer": 5,
+        "Sawed-off Mosin 91/30": 8
+      },
+      "weapon_master_kills": 60,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 120,
       "deaths": 3,
       "favorite_weapon": "VS-89",
@@ -23203,38 +23238,6 @@
         "SG5-K": 1,
         "SIG SAUER MCX RAPTOR": 57,
         "Sig Sauer P229": 1
-      },
-      "weapon_master_kills": 57,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 106,
-      "deaths": 0,
-      "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 57,
-      "first_seen": "2026-11-05T12:36:19.011",
-      "ids": [
-        "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
-      ],
-      "last_seen": "2026-11-23T15:18:00.095",
-      "longest_ai_kill_m": 475,
-      "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
-      "market_income": 529990,
-      "market_sales": 464,
-      "name": "Limio",
-      "vehicle_driver_entries": 3,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 12.7,
-      "vehicle_trips": 2,
-      "weapons": {
-        "CR-527": 14,
-        "KAS-74U": 3,
-        "L15 Defense TAN": 19,
-        "MK 14 Enhanced Battle Rifle": 57,
-        "Pioneer": 5,
-        "Sawed-off Mosin 91/30": 8
       },
       "weapon_master_kills": 57,
       "is_admin": false,
@@ -23468,15 +23471,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 151,
+      "ai_kills": 152,
       "deaths": 8,
       "favorite_weapon": "M110 SASS TAN",
-      "favorite_weapon_kills": 35,
+      "favorite_weapon_kills": 36,
       "first_seen": "2026-11-03T21:53:53.157",
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-22T22:01:06.789",
+      "last_seen": "2026-11-23T17:02:03.412",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 458435,
@@ -23493,14 +23496,14 @@
         "FN SCAR-H MK17 MOD O TAN": 9,
         "Kimber 8400 Advanced Tactical SOC II": 22,
         "L15 Defense TAN": 11,
-        "M110 SASS TAN": 35,
+        "M110 SASS TAN": 36,
         "Mosin 91/30": 9,
         "Pioneer": 3,
         "R12": 13,
         "RPK-74M": 2,
         "SG5-K": 4
       },
-      "weapon_master_kills": 35,
+      "weapon_master_kills": 36,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -25133,11 +25136,11 @@
       "ids": [
         "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
       ],
-      "last_seen": "2026-11-23T16:26:08.100",
+      "last_seen": "2026-11-23T16:50:49.766",
       "longest_ai_kill_m": 329,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 123432,
-      "market_sales": 102,
+      "market_income": 128011,
+      "market_sales": 105,
       "name": "WoCasCZ",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -25718,7 +25721,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 23,
+      "ai_kills": 24,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 9,
@@ -25726,7 +25729,7 @@
       "ids": [
         "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
       ],
-      "last_seen": "2026-11-23T15:36:57.743",
+      "last_seen": "2026-11-23T16:56:31.614",
       "longest_ai_kill_m": 254,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 72140,
@@ -25742,7 +25745,7 @@
         "CR-527": 9,
         "KAS-74U": 1,
         "Pioneer": 1,
-        "SK 59/66": 5,
+        "SK 59/66": 6,
         "USG-45": 1
       },
       "weapon_master_kills": 9,
@@ -27465,7 +27468,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 3,
+      "ai_kills": 4,
       "deaths": 3,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 1,
@@ -27473,9 +27476,9 @@
       "ids": [
         "jRIws0PII0sb310wf1thIVyCjQecr4I1KK6KLJBIsQU="
       ],
-      "last_seen": "2026-11-22T11:06:26.926",
-      "longest_ai_kill_m": 43,
-      "longest_ai_kill_weapon": "Pioneer",
+      "last_seen": "2026-11-23T17:01:59.693",
+      "longest_ai_kill_m": 111,
+      "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
       "market_sales": 0,
       "name": "johndega",
@@ -27486,7 +27489,8 @@
       "weapons": {
         "BK-18": 1,
         "Mlock-91": 1,
-        "Pioneer": 1
+        "Pioneer": 1,
+        "SK 59/66": 1
       },
       "weapon_master_kills": 1,
       "is_admin": false,
@@ -27997,7 +28001,7 @@
       }
     },
     {
-      "ai_kills": 389,
+      "ai_kills": 392,
       "deaths": 5,
       "favorite_weapon": "Barrett Model 98B",
       "favorite_weapon_kills": 81,
@@ -28005,7 +28009,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-23T15:34:13.626",
+      "last_seen": "2026-11-23T16:42:24.856",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 6342584,
@@ -28024,12 +28028,12 @@
         "DMR": 41,
         "FN Five-seveN": 5,
         "FN SCAR SC": 1,
-        "HK G28": 33,
+        "HK G28": 34,
         "Kimber 8400 Advanced Tactical SOC II": 60,
         "L15 Defense": 1,
         "M70 Tundra": 25,
         "MDT TAC21": 27,
-        "Noreen ULR": 6
+        "Noreen ULR": 8
       },
       "weapon_master_kills": 81,
       "is_admin": false,
@@ -28120,7 +28124,7 @@
       }
     },
     {
-      "ai_kills": 216,
+      "ai_kills": 218,
       "deaths": 0,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 121,
@@ -28128,7 +28132,7 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-23T16:19:49.663",
+      "last_seen": "2026-11-23T16:43:11.620",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 832889,
@@ -28145,7 +28149,7 @@
         "KAS-74U": 5,
         "L15 Defense TAN": 2,
         "LE-MAS": 1,
-        "M110 SASS": 53,
+        "M110 SASS": 55,
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
@@ -28604,15 +28608,15 @@
       }
     },
     {
-      "ai_kills": 106,
+      "ai_kills": 109,
       "deaths": 0,
       "favorite_weapon": "MK 14 Enhanced Battle Rifle",
-      "favorite_weapon_kills": 57,
+      "favorite_weapon_kills": 60,
       "first_seen": "2026-11-05T12:36:19.011",
       "ids": [
         "Pq70Nb8qEG5-N8_wY8SGV8ebe6t6HA2-mgz4ZDaQwRM="
       ],
-      "last_seen": "2026-11-23T15:18:00.095",
+      "last_seen": "2026-11-23T16:38:53.614",
       "longest_ai_kill_m": 475,
       "longest_ai_kill_weapon": "MK 14 Enhanced Battle Rifle",
       "market_income": 529990,
@@ -28626,11 +28630,11 @@
         "CR-527": 14,
         "KAS-74U": 3,
         "L15 Defense TAN": 19,
-        "MK 14 Enhanced Battle Rifle": 57,
+        "MK 14 Enhanced Battle Rifle": 60,
         "Pioneer": 5,
         "Sawed-off Mosin 91/30": 8
       },
-      "weapon_master_kills": 57,
+      "weapon_master_kills": 60,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -28669,15 +28673,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 151,
+      "ai_kills": 152,
       "deaths": 8,
       "favorite_weapon": "M110 SASS TAN",
-      "favorite_weapon_kills": 35,
+      "favorite_weapon_kills": 36,
       "first_seen": "2026-11-03T21:53:53.157",
       "ids": [
         "f6CYcjodtKJa7DIYJPnETnECgQY-ap2h46tZH1TX_K8="
       ],
-      "last_seen": "2026-11-22T22:01:06.789",
+      "last_seen": "2026-11-23T17:02:03.412",
       "longest_ai_kill_m": 635,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 458435,
@@ -28694,14 +28698,14 @@
         "FN SCAR-H MK17 MOD O TAN": 9,
         "Kimber 8400 Advanced Tactical SOC II": 22,
         "L15 Defense TAN": 11,
-        "M110 SASS TAN": 35,
+        "M110 SASS TAN": 36,
         "Mosin 91/30": 9,
         "Pioneer": 3,
         "R12": 13,
         "RPK-74M": 2,
         "SG5-K": 4
       },
-      "weapon_master_kills": 35,
+      "weapon_master_kills": 36,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -29420,6 +29424,35 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 16,
+      "deaths": 2,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 13,
+      "first_seen": "2026-11-06T17:51:26.726",
+      "ids": [
+        "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
+      ],
+      "last_seen": "2026-11-23T16:50:49.766",
+      "longest_ai_kill_m": 329,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 128011,
+      "market_sales": 105,
+      "name": "WoCasCZ",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 13,
+        "IJ-70": 1,
+        "Pioneer": 2
+      },
+      "weapon_master_kills": 13,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 56,
       "deaths": 1,
       "favorite_weapon": "CR-527",
@@ -29452,35 +29485,6 @@
         "SK 59/66": 6
       },
       "weapon_master_kills": 14,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 16,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 13,
-      "first_seen": "2026-11-06T17:51:26.726",
-      "ids": [
-        "15wEMAm1pqCt_0woYmECLM_KC1i1R5bd0kw_aNSfSLU="
-      ],
-      "last_seen": "2026-11-23T16:26:08.100",
-      "longest_ai_kill_m": 329,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 123432,
-      "market_sales": 102,
-      "name": "WoCasCZ",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 13,
-        "IJ-70": 1,
-        "Pioneer": 2
-      },
-      "weapon_master_kills": 13,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -29710,7 +29714,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 23,
+      "ai_kills": 24,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 9,
@@ -29718,7 +29722,7 @@
       "ids": [
         "hpDv7VrMR_gMwJnFup_btXn_8B9hYPiYflry9PuCbtM="
       ],
-      "last_seen": "2026-11-23T15:36:57.743",
+      "last_seen": "2026-11-23T16:56:31.614",
       "longest_ai_kill_m": 254,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 72140,
@@ -29734,7 +29738,7 @@
         "CR-527": 9,
         "KAS-74U": 1,
         "Pioneer": 1,
-        "SK 59/66": 5,
+        "SK 59/66": 6,
         "USG-45": 1
       },
       "weapon_master_kills": 9,
@@ -31028,7 +31032,7 @@
       }
     },
     {
-      "ai_kills": 389,
+      "ai_kills": 392,
       "deaths": 5,
       "favorite_weapon": "Barrett Model 98B",
       "favorite_weapon_kills": 81,
@@ -31036,7 +31040,7 @@
       "ids": [
         "npbLotwW9qBLh6IsP8u-1Qqgjw-_RPiOMi48RstNpEw="
       ],
-      "last_seen": "2026-11-23T15:34:13.626",
+      "last_seen": "2026-11-23T16:42:24.856",
       "longest_ai_kill_m": 692,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 6342584,
@@ -31055,12 +31059,12 @@
         "DMR": 41,
         "FN Five-seveN": 5,
         "FN SCAR SC": 1,
-        "HK G28": 33,
+        "HK G28": 34,
         "Kimber 8400 Advanced Tactical SOC II": 60,
         "L15 Defense": 1,
         "M70 Tundra": 25,
         "MDT TAC21": 27,
-        "Noreen ULR": 6
+        "Noreen ULR": 8
       },
       "weapon_master_kills": 81,
       "is_admin": false,
@@ -31336,7 +31340,7 @@
       }
     },
     {
-      "ai_kills": 216,
+      "ai_kills": 218,
       "deaths": 0,
       "favorite_weapon": "Blaze",
       "favorite_weapon_kills": 121,
@@ -31344,7 +31348,7 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-23T16:19:49.663",
+      "last_seen": "2026-11-23T16:43:11.620",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
       "market_income": 832889,
@@ -31361,7 +31365,7 @@
         "KAS-74U": 5,
         "L15 Defense TAN": 2,
         "LE-MAS": 1,
-        "M110 SASS": 53,
+        "M110 SASS": 55,
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
