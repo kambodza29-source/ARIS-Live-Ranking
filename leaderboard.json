@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 301,
   "staff_count": 6,
-  "updated_at_local": "25.11.2026 12:01",
+  "updated_at_local": "25.11.2026 12:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -586,6 +586,41 @@
       }
     },
     {
+      "ai_kills": 226,
+      "deaths": 0,
+      "favorite_weapon": "M110 SASS",
+      "favorite_weapon_kills": 166,
+      "first_seen": "2026-11-03T20:27:56.434",
+      "ids": [
+        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
+      ],
+      "last_seen": "2026-11-25T12:23:09.061",
+      "longest_ai_kill_m": 714,
+      "longest_ai_kill_weapon": "M110 SASS",
+      "market_income": 844983,
+      "market_sales": 1019,
+      "name": "RaptorSVK",
+      "vehicle_driver_entries": 57,
+      "vehicle_passenger_entries": 19,
+      "vehicle_trip_straightline_m": 92319.8,
+      "vehicle_trips": 57,
+      "weapons": {
+        "CR-527": 35,
+        "M110 SASS": 166,
+        "M110 SASS TAN": 6,
+        "M16A4E": 18,
+        "M4A1 CARBINE CQR": 1
+      },
+      "weapon_master_kills": 166,
+      "is_admin": false,
+      "aris_score": 90,
+      "aris_score_breakdown": {
+        "ai_hunter": 10,
+        "weapon_master": 70,
+        "salesman": 10
+      }
+    },
+    {
       "ai_kills": 225,
       "deaths": 0,
       "favorite_weapon": "Blaze",
@@ -619,46 +654,11 @@
       },
       "weapon_master_kills": 121,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 100,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 50,
         "weapon_master": 30,
         "salesman": 20
-      }
-    },
-    {
-      "ai_kills": 222,
-      "deaths": 0,
-      "favorite_weapon": "M110 SASS",
-      "favorite_weapon_kills": 166,
-      "first_seen": "2026-11-03T20:27:56.434",
-      "ids": [
-        "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
-      ],
-      "last_seen": "2026-11-25T03:12:34.114",
-      "longest_ai_kill_m": 714,
-      "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 844983,
-      "market_sales": 1019,
-      "name": "RaptorSVK",
-      "vehicle_driver_entries": 57,
-      "vehicle_passenger_entries": 19,
-      "vehicle_trip_straightline_m": 92319.8,
-      "vehicle_trips": 57,
-      "weapons": {
-        "CR-527": 35,
-        "M110 SASS": 166,
-        "M110 SASS TAN": 2,
-        "M16A4E": 18,
-        "M4A1 CARBINE CQR": 1
-      },
-      "weapon_master_kills": 166,
-      "is_admin": false,
-      "aris_score": 80,
-      "aris_score_breakdown": {
-        "weapon_master": 70,
-        "salesman": 10
       }
     },
     {
@@ -737,9 +737,9 @@
       },
       "weapon_master_kills": 104,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "weapon_master": 20
+        "weapon_master": 10
       }
     },
     {
@@ -780,15 +780,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 167,
+      "ai_kills": 173,
       "deaths": 6,
       "favorite_weapon": "COLT M4A1 CUSTOM",
-      "favorite_weapon_kills": 103,
+      "favorite_weapon_kills": 107,
       "first_seen": "2026-11-04T17:12:09.919",
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-25T11:46:48.523",
+      "last_seen": "2026-11-25T12:27:09.173",
       "longest_ai_kill_m": 916,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 525074,
@@ -801,7 +801,7 @@
       "weapons": {
         "AKS-74UN": 9,
         "Accuracy International AWM": 5,
-        "COLT M4A1 CUSTOM": 103,
+        "COLT M4A1 CUSTOM": 107,
         "CR-527": 11,
         "DVL-10 M1 Saboteur": 1,
         "IJ-70": 1,
@@ -815,14 +815,15 @@
         "Revolver": 2,
         "SG5-K": 2,
         "Sa vz. 58 SF": 1,
-        "VSD": 12
+        "VSD": 12,
+        "Barrett Model 98B": 2
       },
-      "weapon_master_kills": 103,
+      "weapon_master_kills": 107,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 80,
       "aris_score_breakdown": {
         "longest_shot": 60,
-        "weapon_master": 10
+        "weapon_master": 20
       }
     },
     {
@@ -1215,11 +1216,11 @@
       "ids": [
         "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
       ],
-      "last_seen": "2026-11-25T11:43:39.425",
+      "last_seen": "2026-11-25T12:28:38.120",
       "longest_ai_kill_m": 549,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 76335,
-      "market_sales": 95,
+      "market_income": 90499,
+      "market_sales": 105,
       "name": "Delord",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -2095,7 +2096,7 @@
       "ids": [
         "A4_mfBpFq0TpTMS3NtdsXbwi9Z1T1vIRvfGqBPka-yg="
       ],
-      "last_seen": "2026-11-25T11:12:26.234",
+      "last_seen": "2026-11-25T12:15:55.631",
       "longest_ai_kill_m": 394,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 159865,
@@ -3604,6 +3605,37 @@
     },
     {
       "ai_kills": 16,
+      "deaths": 2,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-21T17:15:40.884",
+      "ids": [
+        "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
+      ],
+      "last_seen": "2026-11-25T12:20:10.359",
+      "longest_ai_kill_m": 145,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 23784,
+      "market_sales": 21,
+      "name": "Osman (Ozzi)",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 9,
+        "Revolver": 2,
+        "SG5-K": 1,
+        "SSG 82": 2,
+        "Sawed-off BK-43": 2
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 16,
       "deaths": 8,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 8,
@@ -3686,37 +3718,6 @@
         "Mlock-91": 1
       },
       "weapon_master_kills": 11,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 15,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
-      "first_seen": "2026-11-21T17:15:40.884",
-      "ids": [
-        "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
-      ],
-      "last_seen": "2026-11-25T11:51:08.917",
-      "longest_ai_kill_m": 145,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 23784,
-      "market_sales": 21,
-      "name": "Osman (Ozzi)",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 8,
-        "Revolver": 2,
-        "SG5-K": 1,
-        "SSG 82": 2,
-        "Sawed-off BK-43": 2
-      },
-      "weapon_master_kills": 8,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -5785,15 +5786,15 @@
       }
     },
     {
-      "ai_kills": 167,
+      "ai_kills": 173,
       "deaths": 6,
       "favorite_weapon": "COLT M4A1 CUSTOM",
-      "favorite_weapon_kills": 103,
+      "favorite_weapon_kills": 107,
       "first_seen": "2026-11-04T17:12:09.919",
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-25T11:46:48.523",
+      "last_seen": "2026-11-25T12:27:09.173",
       "longest_ai_kill_m": 916,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 525074,
@@ -5806,7 +5807,7 @@
       "weapons": {
         "AKS-74UN": 9,
         "Accuracy International AWM": 5,
-        "COLT M4A1 CUSTOM": 103,
+        "COLT M4A1 CUSTOM": 107,
         "CR-527": 11,
         "DVL-10 M1 Saboteur": 1,
         "IJ-70": 1,
@@ -5820,14 +5821,15 @@
         "Revolver": 2,
         "SG5-K": 2,
         "Sa vz. 58 SF": 1,
-        "VSD": 12
+        "VSD": 12,
+        "Barrett Model 98B": 2
       },
-      "weapon_master_kills": 103,
+      "weapon_master_kills": 107,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 80,
       "aris_score_breakdown": {
         "longest_shot": 60,
-        "weapon_master": 10
+        "weapon_master": 20
       }
     },
     {
@@ -6164,7 +6166,7 @@
       }
     },
     {
-      "ai_kills": 222,
+      "ai_kills": 226,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -6172,7 +6174,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-25T03:12:34.114",
+      "last_seen": "2026-11-25T12:23:09.061",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 844983,
@@ -6185,14 +6187,15 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 2,
+        "M110 SASS TAN": 6,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 1
       },
       "weapon_master_kills": 166,
       "is_admin": false,
-      "aris_score": 80,
+      "aris_score": 90,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "weapon_master": 70,
         "salesman": 10
       }
@@ -6582,9 +6585,9 @@
       },
       "weapon_master_kills": 104,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "weapon_master": 20
+        "weapon_master": 10
       }
     },
     {
@@ -6699,9 +6702,8 @@
       },
       "weapon_master_kills": 121,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 100,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 50,
         "weapon_master": 30,
         "salesman": 20
@@ -6924,11 +6926,11 @@
       "ids": [
         "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
       ],
-      "last_seen": "2026-11-25T11:43:39.425",
+      "last_seen": "2026-11-25T12:28:38.120",
       "longest_ai_kill_m": 549,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 76335,
-      "market_sales": 95,
+      "market_income": 90499,
+      "market_sales": 105,
       "name": "Delord",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -7691,7 +7693,7 @@
       "ids": [
         "A4_mfBpFq0TpTMS3NtdsXbwi9Z1T1vIRvfGqBPka-yg="
       ],
-      "last_seen": "2026-11-25T11:12:26.234",
+      "last_seen": "2026-11-25T12:15:55.631",
       "longest_ai_kill_m": 394,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 159865,
@@ -9494,15 +9496,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 15,
+      "ai_kills": 16,
       "deaths": 2,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
+      "favorite_weapon_kills": 9,
       "first_seen": "2026-11-21T17:15:40.884",
       "ids": [
         "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
       ],
-      "last_seen": "2026-11-25T11:51:08.917",
+      "last_seen": "2026-11-25T12:20:10.359",
       "longest_ai_kill_m": 145,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 23784,
@@ -9513,13 +9515,13 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "CR-527": 8,
+        "CR-527": 9,
         "Revolver": 2,
         "SG5-K": 1,
         "SSG 82": 2,
         "Sawed-off BK-43": 2
       },
-      "weapon_master_kills": 8,
+      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -11786,15 +11788,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 167,
+      "ai_kills": 173,
       "deaths": 6,
       "favorite_weapon": "COLT M4A1 CUSTOM",
-      "favorite_weapon_kills": 103,
+      "favorite_weapon_kills": 107,
       "first_seen": "2026-11-04T17:12:09.919",
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-25T11:46:48.523",
+      "last_seen": "2026-11-25T12:27:09.173",
       "longest_ai_kill_m": 916,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 525074,
@@ -11807,7 +11809,7 @@
       "weapons": {
         "AKS-74UN": 9,
         "Accuracy International AWM": 5,
-        "COLT M4A1 CUSTOM": 103,
+        "COLT M4A1 CUSTOM": 107,
         "CR-527": 11,
         "DVL-10 M1 Saboteur": 1,
         "IJ-70": 1,
@@ -11821,14 +11823,15 @@
         "Revolver": 2,
         "SG5-K": 2,
         "Sa vz. 58 SF": 1,
-        "VSD": 12
+        "VSD": 12,
+        "Barrett Model 98B": 2
       },
-      "weapon_master_kills": 103,
+      "weapon_master_kills": 107,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 80,
       "aris_score_breakdown": {
         "longest_shot": 60,
-        "weapon_master": 10
+        "weapon_master": 20
       }
     },
     {
@@ -12251,11 +12254,11 @@
       "ids": [
         "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
       ],
-      "last_seen": "2026-11-25T11:43:39.425",
+      "last_seen": "2026-11-25T12:28:38.120",
       "longest_ai_kill_m": 549,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 76335,
-      "market_sales": 95,
+      "market_income": 90499,
+      "market_sales": 105,
       "name": "Delord",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -12336,7 +12339,7 @@
       "ids": [
         "A4_mfBpFq0TpTMS3NtdsXbwi9Z1T1vIRvfGqBPka-yg="
       ],
-      "last_seen": "2026-11-25T11:12:26.234",
+      "last_seen": "2026-11-25T12:15:55.631",
       "longest_ai_kill_m": 394,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 159865,
@@ -14468,15 +14471,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 15,
+      "ai_kills": 16,
       "deaths": 2,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
+      "favorite_weapon_kills": 9,
       "first_seen": "2026-11-21T17:15:40.884",
       "ids": [
         "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
       ],
-      "last_seen": "2026-11-25T11:51:08.917",
+      "last_seen": "2026-11-25T12:20:10.359",
       "longest_ai_kill_m": 145,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 23784,
@@ -14487,13 +14490,13 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "CR-527": 8,
+        "CR-527": 9,
         "Revolver": 2,
         "SG5-K": 1,
         "SSG 82": 2,
         "Sawed-off BK-43": 2
       },
-      "weapon_master_kills": 8,
+      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -15994,24 +15997,24 @@
       "aris_score_breakdown": {}
     },
     {
-      "name": "Icekap",
+      "ai_kills": 0,
+      "deaths": 1,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-11-25T11:53:01.010",
       "ids": [
         "Fh6VrUm8Lw1Br9YpfSvEsnLJAu7nRNUpGYFRmbI089k="
       ],
-      "first_seen": "2026-11-25T11:53:01.010",
       "last_seen": "2026-11-25T11:53:12.996",
-      "ai_kills": 0,
-      "deaths": 1,
       "longest_ai_kill_m": 0,
       "longest_ai_kill_weapon": "",
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
       "market_income": 0,
       "market_sales": 0,
+      "name": "Icekap",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
-      "vehicle_trips": 0,
       "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
       "weapons": {},
       "weapon_master_kills": 0,
       "is_admin": false,
@@ -18406,9 +18409,8 @@
       },
       "weapon_master_kills": 121,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 100,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 50,
         "weapon_master": 30,
         "salesman": 20
@@ -18456,7 +18458,7 @@
       }
     },
     {
-      "ai_kills": 222,
+      "ai_kills": 226,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -18464,7 +18466,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-25T03:12:34.114",
+      "last_seen": "2026-11-25T12:23:09.061",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 844983,
@@ -18477,14 +18479,15 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 2,
+        "M110 SASS TAN": 6,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 1
       },
       "weapon_master_kills": 166,
       "is_admin": false,
-      "aris_score": 80,
+      "aris_score": 90,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "weapon_master": 70,
         "salesman": 10
       }
@@ -18769,15 +18772,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 167,
+      "ai_kills": 173,
       "deaths": 6,
       "favorite_weapon": "COLT M4A1 CUSTOM",
-      "favorite_weapon_kills": 103,
+      "favorite_weapon_kills": 107,
       "first_seen": "2026-11-04T17:12:09.919",
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-25T11:46:48.523",
+      "last_seen": "2026-11-25T12:27:09.173",
       "longest_ai_kill_m": 916,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 525074,
@@ -18790,7 +18793,7 @@
       "weapons": {
         "AKS-74UN": 9,
         "Accuracy International AWM": 5,
-        "COLT M4A1 CUSTOM": 103,
+        "COLT M4A1 CUSTOM": 107,
         "CR-527": 11,
         "DVL-10 M1 Saboteur": 1,
         "IJ-70": 1,
@@ -18804,14 +18807,15 @@
         "Revolver": 2,
         "SG5-K": 2,
         "Sa vz. 58 SF": 1,
-        "VSD": 12
+        "VSD": 12,
+        "Barrett Model 98B": 2
       },
-      "weapon_master_kills": 103,
+      "weapon_master_kills": 107,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 80,
       "aris_score_breakdown": {
         "longest_shot": 60,
-        "weapon_master": 10
+        "weapon_master": 20
       }
     },
     {
@@ -19007,9 +19011,9 @@
       },
       "weapon_master_kills": 104,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "weapon_master": 20
+        "weapon_master": 10
       }
     },
     {
@@ -19376,7 +19380,7 @@
       "ids": [
         "A4_mfBpFq0TpTMS3NtdsXbwi9Z1T1vIRvfGqBPka-yg="
       ],
-      "last_seen": "2026-11-25T11:12:26.234",
+      "last_seen": "2026-11-25T12:15:55.631",
       "longest_ai_kill_m": 394,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 159865,
@@ -19798,6 +19802,41 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 112,
+      "deaths": 4,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 47,
+      "first_seen": "2026-11-04T11:04:15.989",
+      "ids": [
+        "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
+      ],
+      "last_seen": "2026-11-25T12:28:38.120",
+      "longest_ai_kill_m": 549,
+      "longest_ai_kill_weapon": "Blaze",
+      "market_income": 90499,
+      "market_sales": 105,
+      "name": "Delord",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "AAC Honey Badger": 10,
+        "BK-18": 7,
+        "BK-43": 2,
+        "Blaze": 29,
+        "CR-527": 47,
+        "KAS-74U": 11,
+        "Mlock-91": 1,
+        "Revolver": 1,
+        "SK 59/66": 4
+      },
+      "weapon_master_kills": 47,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 34,
       "deaths": 6,
       "favorite_weapon": "CR-527",
@@ -19927,41 +19966,6 @@
         "Repeater Carbine": 4
       },
       "weapon_master_kills": 33,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 112,
-      "deaths": 4,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 47,
-      "first_seen": "2026-11-04T11:04:15.989",
-      "ids": [
-        "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
-      ],
-      "last_seen": "2026-11-25T11:43:39.425",
-      "longest_ai_kill_m": 549,
-      "longest_ai_kill_weapon": "Blaze",
-      "market_income": 76335,
-      "market_sales": 95,
-      "name": "Delord",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "AAC Honey Badger": 10,
-        "BK-18": 7,
-        "BK-43": 2,
-        "Blaze": 29,
-        "CR-527": 47,
-        "KAS-74U": 11,
-        "Mlock-91": 1,
-        "Revolver": 1,
-        "SK 59/66": 4
-      },
-      "weapon_master_kills": 47,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -20542,15 +20546,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 15,
+      "ai_kills": 16,
       "deaths": 2,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
+      "favorite_weapon_kills": 9,
       "first_seen": "2026-11-21T17:15:40.884",
       "ids": [
         "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
       ],
-      "last_seen": "2026-11-25T11:51:08.917",
+      "last_seen": "2026-11-25T12:20:10.359",
       "longest_ai_kill_m": 145,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 23784,
@@ -20561,13 +20565,13 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "CR-527": 8,
+        "CR-527": 9,
         "Revolver": 2,
         "SG5-K": 1,
         "SSG 82": 2,
         "Sawed-off BK-43": 2
       },
-      "weapon_master_kills": 8,
+      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -21559,9 +21563,8 @@
       },
       "weapon_master_kills": 121,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 100,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 50,
         "weapon_master": 30,
         "salesman": 20
@@ -21775,7 +21778,7 @@
       }
     },
     {
-      "ai_kills": 222,
+      "ai_kills": 226,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -21783,7 +21786,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-25T03:12:34.114",
+      "last_seen": "2026-11-25T12:23:09.061",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 844983,
@@ -21796,14 +21799,15 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 2,
+        "M110 SASS TAN": 6,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 1
       },
       "weapon_master_kills": 166,
       "is_admin": false,
-      "aris_score": 80,
+      "aris_score": 90,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "weapon_master": 70,
         "salesman": 10
       }
@@ -22095,9 +22099,9 @@
       },
       "weapon_master_kills": 104,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "weapon_master": 20
+        "weapon_master": 10
       }
     },
     {
@@ -22334,15 +22338,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 167,
+      "ai_kills": 173,
       "deaths": 6,
       "favorite_weapon": "COLT M4A1 CUSTOM",
-      "favorite_weapon_kills": 103,
+      "favorite_weapon_kills": 107,
       "first_seen": "2026-11-04T17:12:09.919",
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-25T11:46:48.523",
+      "last_seen": "2026-11-25T12:27:09.173",
       "longest_ai_kill_m": 916,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 525074,
@@ -22355,7 +22359,7 @@
       "weapons": {
         "AKS-74UN": 9,
         "Accuracy International AWM": 5,
-        "COLT M4A1 CUSTOM": 103,
+        "COLT M4A1 CUSTOM": 107,
         "CR-527": 11,
         "DVL-10 M1 Saboteur": 1,
         "IJ-70": 1,
@@ -22369,14 +22373,15 @@
         "Revolver": 2,
         "SG5-K": 2,
         "Sa vz. 58 SF": 1,
-        "VSD": 12
+        "VSD": 12,
+        "Barrett Model 98B": 2
       },
-      "weapon_master_kills": 103,
+      "weapon_master_kills": 107,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 80,
       "aris_score_breakdown": {
         "longest_shot": 60,
-        "weapon_master": 10
+        "weapon_master": 20
       }
     },
     {
@@ -23366,7 +23371,7 @@
       }
     },
     {
-      "ai_kills": 222,
+      "ai_kills": 226,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -23374,7 +23379,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-25T03:12:34.114",
+      "last_seen": "2026-11-25T12:23:09.061",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 844983,
@@ -23387,14 +23392,15 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 2,
+        "M110 SASS TAN": 6,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 1
       },
       "weapon_master_kills": 166,
       "is_admin": false,
-      "aris_score": 80,
+      "aris_score": 90,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "weapon_master": 70,
         "salesman": 10
       }
@@ -23564,12 +23570,58 @@
       },
       "weapon_master_kills": 121,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 100,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 50,
         "weapon_master": 30,
         "salesman": 20
+      }
+    },
+    {
+      "ai_kills": 173,
+      "deaths": 6,
+      "favorite_weapon": "COLT M4A1 CUSTOM",
+      "favorite_weapon_kills": 107,
+      "first_seen": "2026-11-04T17:12:09.919",
+      "ids": [
+        "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
+      ],
+      "last_seen": "2026-11-25T12:27:09.173",
+      "longest_ai_kill_m": 916,
+      "longest_ai_kill_weapon": "Accuracy International AWM",
+      "market_income": 525074,
+      "market_sales": 378,
+      "name": "Glocktopus",
+      "vehicle_driver_entries": 8,
+      "vehicle_passenger_entries": 3,
+      "vehicle_trip_straightline_m": 11846.4,
+      "vehicle_trips": 8,
+      "weapons": {
+        "AKS-74UN": 9,
+        "Accuracy International AWM": 5,
+        "COLT M4A1 CUSTOM": 107,
+        "CR-527": 11,
+        "DVL-10 M1 Saboteur": 1,
+        "IJ-70": 1,
+        "LMT M900 DMR": 1,
+        "M4-A1": 3,
+        "M70 Tundra": 2,
+        "MK 14 Enhanced Battle Rifle": 3,
+        "MP-18": 4,
+        "Mlock-91": 4,
+        "Mosin 91/30": 3,
+        "Revolver": 2,
+        "SG5-K": 2,
+        "Sa vz. 58 SF": 1,
+        "VSD": 12,
+        "Barrett Model 98B": 2
+      },
+      "weapon_master_kills": 107,
+      "is_admin": false,
+      "aris_score": 80,
+      "aris_score_breakdown": {
+        "longest_shot": 60,
+        "weapon_master": 20
       }
     },
     {
@@ -23606,54 +23658,8 @@
       },
       "weapon_master_kills": 104,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "weapon_master": 20
-      }
-    },
-    {
-      "ai_kills": 167,
-      "deaths": 6,
-      "favorite_weapon": "COLT M4A1 CUSTOM",
-      "favorite_weapon_kills": 103,
-      "first_seen": "2026-11-04T17:12:09.919",
-      "ids": [
-        "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
-      ],
-      "last_seen": "2026-11-25T11:46:48.523",
-      "longest_ai_kill_m": 916,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
-      "market_income": 525074,
-      "market_sales": 378,
-      "name": "Glocktopus",
-      "vehicle_driver_entries": 8,
-      "vehicle_passenger_entries": 3,
-      "vehicle_trip_straightline_m": 11846.4,
-      "vehicle_trips": 8,
-      "weapons": {
-        "AKS-74UN": 9,
-        "Accuracy International AWM": 5,
-        "COLT M4A1 CUSTOM": 103,
-        "CR-527": 11,
-        "DVL-10 M1 Saboteur": 1,
-        "IJ-70": 1,
-        "LMT M900 DMR": 1,
-        "M4-A1": 3,
-        "M70 Tundra": 2,
-        "MK 14 Enhanced Battle Rifle": 3,
-        "MP-18": 4,
-        "Mlock-91": 4,
-        "Mosin 91/30": 3,
-        "Revolver": 2,
-        "SG5-K": 2,
-        "Sa vz. 58 SF": 1,
-        "VSD": 12
-      },
-      "weapon_master_kills": 103,
-      "is_admin": false,
-      "aris_score": 70,
-      "aris_score_breakdown": {
-        "longest_shot": 60,
         "weapon_master": 10
       }
     },
@@ -24263,11 +24269,11 @@
       "ids": [
         "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
       ],
-      "last_seen": "2026-11-25T11:43:39.425",
+      "last_seen": "2026-11-25T12:28:38.120",
       "longest_ai_kill_m": 549,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 76335,
-      "market_sales": 95,
+      "market_income": 90499,
+      "market_sales": 105,
       "name": "Delord",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -24644,7 +24650,7 @@
       "ids": [
         "A4_mfBpFq0TpTMS3NtdsXbwi9Z1T1vIRvfGqBPka-yg="
       ],
-      "last_seen": "2026-11-25T11:12:26.234",
+      "last_seen": "2026-11-25T12:15:55.631",
       "longest_ai_kill_m": 394,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 159865,
@@ -26605,6 +26611,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 16,
+      "deaths": 2,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-21T17:15:40.884",
+      "ids": [
+        "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
+      ],
+      "last_seen": "2026-11-25T12:20:10.359",
+      "longest_ai_kill_m": 145,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 23784,
+      "market_sales": 21,
+      "name": "Osman (Ozzi)",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 9,
+        "Revolver": 2,
+        "SG5-K": 1,
+        "SSG 82": 2,
+        "Sawed-off BK-43": 2
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 20,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -26664,37 +26701,6 @@
         "Repeater Carbine": 4
       },
       "weapon_master_kills": 9,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 15,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
-      "first_seen": "2026-11-21T17:15:40.884",
-      "ids": [
-        "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
-      ],
-      "last_seen": "2026-11-25T11:51:08.917",
-      "longest_ai_kill_m": 145,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 23784,
-      "market_sales": 21,
-      "name": "Osman (Ozzi)",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 8,
-        "Revolver": 2,
-        "SG5-K": 1,
-        "SSG 82": 2,
-        "Sawed-off BK-43": 2
-      },
-      "weapon_master_kills": 8,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -29064,16 +29070,15 @@
       },
       "weapon_master_kills": 121,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 100,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 50,
         "weapon_master": 30,
         "salesman": 20
       }
     },
     {
-      "ai_kills": 222,
+      "ai_kills": 226,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -29081,7 +29086,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-25T03:12:34.114",
+      "last_seen": "2026-11-25T12:23:09.061",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 844983,
@@ -29094,14 +29099,15 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 2,
+        "M110 SASS TAN": 6,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 1
       },
       "weapon_master_kills": 166,
       "is_admin": false,
-      "aris_score": 80,
+      "aris_score": 90,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "weapon_master": 70,
         "salesman": 10
       }
@@ -29658,15 +29664,15 @@
       }
     },
     {
-      "ai_kills": 167,
+      "ai_kills": 173,
       "deaths": 6,
       "favorite_weapon": "COLT M4A1 CUSTOM",
-      "favorite_weapon_kills": 103,
+      "favorite_weapon_kills": 107,
       "first_seen": "2026-11-04T17:12:09.919",
       "ids": [
         "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
       ],
-      "last_seen": "2026-11-25T11:46:48.523",
+      "last_seen": "2026-11-25T12:27:09.173",
       "longest_ai_kill_m": 916,
       "longest_ai_kill_weapon": "Accuracy International AWM",
       "market_income": 525074,
@@ -29679,7 +29685,7 @@
       "weapons": {
         "AKS-74UN": 9,
         "Accuracy International AWM": 5,
-        "COLT M4A1 CUSTOM": 103,
+        "COLT M4A1 CUSTOM": 107,
         "CR-527": 11,
         "DVL-10 M1 Saboteur": 1,
         "IJ-70": 1,
@@ -29693,14 +29699,15 @@
         "Revolver": 2,
         "SG5-K": 2,
         "Sa vz. 58 SF": 1,
-        "VSD": 12
+        "VSD": 12,
+        "Barrett Model 98B": 2
       },
-      "weapon_master_kills": 103,
+      "weapon_master_kills": 107,
       "is_admin": false,
-      "aris_score": 70,
+      "aris_score": 80,
       "aris_score_breakdown": {
         "longest_shot": 60,
-        "weapon_master": 10
+        "weapon_master": 20
       }
     },
     {
@@ -29777,9 +29784,9 @@
       },
       "weapon_master_kills": 104,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "weapon_master": 20
+        "weapon_master": 10
       }
     },
     {
@@ -30163,7 +30170,7 @@
       "ids": [
         "A4_mfBpFq0TpTMS3NtdsXbwi9Z1T1vIRvfGqBPka-yg="
       ],
-      "last_seen": "2026-11-25T11:12:26.234",
+      "last_seen": "2026-11-25T12:15:55.631",
       "longest_ai_kill_m": 394,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 159865,
@@ -30398,6 +30405,41 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 112,
+      "deaths": 4,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 47,
+      "first_seen": "2026-11-04T11:04:15.989",
+      "ids": [
+        "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
+      ],
+      "last_seen": "2026-11-25T12:28:38.120",
+      "longest_ai_kill_m": 549,
+      "longest_ai_kill_weapon": "Blaze",
+      "market_income": 90499,
+      "market_sales": 105,
+      "name": "Delord",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "AAC Honey Badger": 10,
+        "BK-18": 7,
+        "BK-43": 2,
+        "Blaze": 29,
+        "CR-527": 47,
+        "KAS-74U": 11,
+        "Mlock-91": 1,
+        "Revolver": 1,
+        "SK 59/66": 4
+      },
+      "weapon_master_kills": 47,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 56,
       "deaths": 1,
       "favorite_weapon": "CR-527",
@@ -30430,41 +30472,6 @@
         "SK 59/66": 6
       },
       "weapon_master_kills": 14,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 112,
-      "deaths": 4,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 47,
-      "first_seen": "2026-11-04T11:04:15.989",
-      "ids": [
-        "-akaY9fRztZ0h1Jwa5HlD6tSFJsZnWKb3UJ7h1pt9ek="
-      ],
-      "last_seen": "2026-11-25T11:43:39.425",
-      "longest_ai_kill_m": 549,
-      "longest_ai_kill_weapon": "Blaze",
-      "market_income": 76335,
-      "market_sales": 95,
-      "name": "Delord",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "AAC Honey Badger": 10,
-        "BK-18": 7,
-        "BK-43": 2,
-        "Blaze": 29,
-        "CR-527": 47,
-        "KAS-74U": 11,
-        "Mlock-91": 1,
-        "Revolver": 1,
-        "SK 59/66": 4
-      },
-      "weapon_master_kills": 47,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -31347,15 +31354,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 15,
+      "ai_kills": 16,
       "deaths": 2,
       "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 8,
+      "favorite_weapon_kills": 9,
       "first_seen": "2026-11-21T17:15:40.884",
       "ids": [
         "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
       ],
-      "last_seen": "2026-11-25T11:51:08.917",
+      "last_seen": "2026-11-25T12:20:10.359",
       "longest_ai_kill_m": 145,
       "longest_ai_kill_weapon": "CR-527",
       "market_income": 23784,
@@ -31366,13 +31373,13 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
-        "CR-527": 8,
+        "CR-527": 9,
         "Revolver": 2,
         "SG5-K": 1,
         "SSG 82": 2,
         "Sawed-off BK-43": 2
       },
-      "weapon_master_kills": 8,
+      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -32513,9 +32520,8 @@
       },
       "weapon_master_kills": 121,
       "is_admin": false,
-      "aris_score": 110,
+      "aris_score": 100,
       "aris_score_breakdown": {
-        "ai_hunter": 10,
         "road_warrior": 50,
         "weapon_master": 30,
         "salesman": 20
@@ -32564,7 +32570,7 @@
       }
     },
     {
-      "ai_kills": 222,
+      "ai_kills": 226,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -32572,7 +32578,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-25T03:12:34.114",
+      "last_seen": "2026-11-25T12:23:09.061",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 844983,
@@ -32585,16 +32591,64 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 2,
+        "M110 SASS TAN": 6,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 1
       },
       "weapon_master_kills": 166,
       "is_admin": false,
-      "aris_score": 80,
+      "aris_score": 90,
       "aris_score_breakdown": {
+        "ai_hunter": 10,
         "weapon_master": 70,
         "salesman": 10
+      }
+    },
+    {
+      "ai_kills": 173,
+      "deaths": 6,
+      "favorite_weapon": "COLT M4A1 CUSTOM",
+      "favorite_weapon_kills": 107,
+      "first_seen": "2026-11-04T17:12:09.919",
+      "ids": [
+        "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
+      ],
+      "last_seen": "2026-11-25T12:27:09.173",
+      "longest_ai_kill_m": 916,
+      "longest_ai_kill_weapon": "Accuracy International AWM",
+      "market_income": 525074,
+      "market_sales": 378,
+      "name": "Glocktopus",
+      "vehicle_driver_entries": 8,
+      "vehicle_passenger_entries": 3,
+      "vehicle_trip_straightline_m": 11846.4,
+      "vehicle_trips": 8,
+      "weapons": {
+        "AKS-74UN": 9,
+        "Accuracy International AWM": 5,
+        "COLT M4A1 CUSTOM": 107,
+        "CR-527": 11,
+        "DVL-10 M1 Saboteur": 1,
+        "IJ-70": 1,
+        "LMT M900 DMR": 1,
+        "M4-A1": 3,
+        "M70 Tundra": 2,
+        "MK 14 Enhanced Battle Rifle": 3,
+        "MP-18": 4,
+        "Mlock-91": 4,
+        "Mosin 91/30": 3,
+        "Revolver": 2,
+        "SG5-K": 2,
+        "Sa vz. 58 SF": 1,
+        "VSD": 12,
+        "Barrett Model 98B": 2
+      },
+      "weapon_master_kills": 107,
+      "is_admin": false,
+      "aris_score": 80,
+      "aris_score_breakdown": {
+        "longest_shot": 60,
+        "weapon_master": 20
       }
     },
     {
@@ -32630,52 +32684,6 @@
       "aris_score": 80,
       "aris_score_breakdown": {
         "longest_shot": 80
-      }
-    },
-    {
-      "ai_kills": 167,
-      "deaths": 6,
-      "favorite_weapon": "COLT M4A1 CUSTOM",
-      "favorite_weapon_kills": 103,
-      "first_seen": "2026-11-04T17:12:09.919",
-      "ids": [
-        "EZHOCt4lRkT5K6d-xbZR5kB0GdXk-LW8tHfGzbKqgZU="
-      ],
-      "last_seen": "2026-11-25T11:46:48.523",
-      "longest_ai_kill_m": 916,
-      "longest_ai_kill_weapon": "Accuracy International AWM",
-      "market_income": 525074,
-      "market_sales": 378,
-      "name": "Glocktopus",
-      "vehicle_driver_entries": 8,
-      "vehicle_passenger_entries": 3,
-      "vehicle_trip_straightline_m": 11846.4,
-      "vehicle_trips": 8,
-      "weapons": {
-        "AKS-74UN": 9,
-        "Accuracy International AWM": 5,
-        "COLT M4A1 CUSTOM": 103,
-        "CR-527": 11,
-        "DVL-10 M1 Saboteur": 1,
-        "IJ-70": 1,
-        "LMT M900 DMR": 1,
-        "M4-A1": 3,
-        "M70 Tundra": 2,
-        "MK 14 Enhanced Battle Rifle": 3,
-        "MP-18": 4,
-        "Mlock-91": 4,
-        "Mosin 91/30": 3,
-        "Revolver": 2,
-        "SG5-K": 2,
-        "Sa vz. 58 SF": 1,
-        "VSD": 12
-      },
-      "weapon_master_kills": 103,
-      "is_admin": false,
-      "aris_score": 70,
-      "aris_score_breakdown": {
-        "longest_shot": 60,
-        "weapon_master": 10
       }
     },
     {
@@ -32939,9 +32947,9 @@
       },
       "weapon_master_kills": 104,
       "is_admin": false,
-      "aris_score": 20,
+      "aris_score": 10,
       "aris_score_breakdown": {
-        "weapon_master": 20
+        "weapon_master": 10
       }
     }
   ]
