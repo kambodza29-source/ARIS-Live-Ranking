@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 305,
   "staff_count": 6,
-  "updated_at_local": "25.11.2026 19:31",
+  "updated_at_local": "25.11.2026 20:01",
   "staff": [
     {
       "ai_kills": 0,
@@ -518,6 +518,7 @@
       "vehicle_trips": 112,
       "weapons": {
         "B&T APC223 PRO": 1,
+        "Barrett Model 98B": 1,
         "Black Rain Ordnance Commando": 10,
         "CR-527": 22,
         "CR-550 Savanna": 64,
@@ -531,8 +532,7 @@
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 7,
-        "STEYR AUG A3": 9,
-        "Barrett Model 98B": 1
+        "STEYR AUG A3": 9
       },
       "weapon_master_kills": 107,
       "is_admin": false,
@@ -664,7 +664,7 @@
       }
     },
     {
-      "ai_kills": 217,
+      "ai_kills": 219,
       "deaths": 2,
       "favorite_weapon": "Desert Tech MDRX",
       "favorite_weapon_kills": 147,
@@ -672,7 +672,7 @@
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-25T19:26:11.790",
+      "last_seen": "2026-11-25T19:42:18.392",
       "longest_ai_kill_m": 824,
       "longest_ai_kill_weapon": "Desert Tech MDRX",
       "market_income": 723774,
@@ -691,12 +691,13 @@
         "Blaze": 2,
         "CR-527": 16,
         "Desert Tech MDRX": 147,
-        "HK G28 TAN": 5,
+        "HK G28 TAN": 6,
         "SG5-K": 1,
         "SK 59/66": 3,
         "Sa vz. 58 SF": 1,
         "VS-89": 4,
-        "VSD": 3
+        "VSD": 3,
+        "R12": 1
       },
       "weapon_master_kills": 147,
       "is_admin": false,
@@ -744,15 +745,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 193,
+      "ai_kills": 194,
       "deaths": 7,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 101,
+      "favorite_weapon_kills": 102,
       "first_seen": "2026-11-03T20:18:56.451",
       "ids": [
         "U_ygQ_7hKs1GpDhTerStQAaU4vkTyt1XMyTL24g-G2k="
       ],
-      "last_seen": "2026-11-25T19:28:09.050",
+      "last_seen": "2026-11-25T19:48:08.128",
       "longest_ai_kill_m": 372,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 63696,
@@ -763,20 +764,20 @@
       "vehicle_trip_straightline_m": 12852.7,
       "vehicle_trips": 14,
       "weapons": {
+        "AK-105": 1,
         "BK-18": 3,
         "Blaze": 40,
         "CR-527": 19,
         "KAS-74U": 1,
         "L15 Defense TAN": 8,
         "LE-MAS": 2,
-        "LMT M900 DMR": 101,
+        "LMT M900 DMR": 102,
         "Lee Enfield": 3,
         "M4-A1": 12,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "AK-105": 1
+        "SK 59/66": 2
       },
-      "weapon_master_kills": 101,
+      "weapon_master_kills": 102,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -829,15 +830,15 @@
       }
     },
     {
-      "ai_kills": 166,
+      "ai_kills": 168,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER MCX RAPTOR",
-      "favorite_weapon_kills": 75,
+      "favorite_weapon_kills": 77,
       "first_seen": "2026-11-04T19:31:07.704",
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-25T19:26:24.061",
+      "last_seen": "2026-11-25T19:54:57.915",
       "longest_ai_kill_m": 645,
       "longest_ai_kill_weapon": "SIG SAUER MCX RAPTOR",
       "market_income": 483626,
@@ -860,10 +861,10 @@
         "Mossberg 590M": 3,
         "SCR 16": 4,
         "SG5-K": 1,
-        "SIG SAUER MCX RAPTOR": 75,
+        "SIG SAUER MCX RAPTOR": 77,
         "Sig Sauer P229": 1
       },
-      "weapon_master_kills": 75,
+      "weapon_master_kills": 77,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -1090,9 +1091,9 @@
         "CR-527": 22,
         "CR-550 Savanna": 1,
         "M70 Tundra": 51,
+        "NEMO ARMS OMEN": 2,
         "THALES EF88 AUSTEYR": 9,
-        "VSD": 28,
-        "NEMO ARMS OMEN": 2
+        "VSD": 28
       },
       "weapon_master_kills": 51,
       "is_admin": false,
@@ -1991,6 +1992,40 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 51,
+      "deaths": 4,
+      "favorite_weapon": "CR-550 Savanna",
+      "favorite_weapon_kills": 12,
+      "first_seen": "2026-11-03T22:06:41.880",
+      "ids": [
+        "XHlRCDWGmzVXDmDWGPLzTo1Eo26IB8cxFjz_U5yhXuU="
+      ],
+      "last_seen": "2026-11-25T20:00:01.497",
+      "longest_ai_kill_m": 353,
+      "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
+      "market_income": 40671,
+      "market_sales": 42,
+      "name": "Matrix7",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 3,
+        "Blaze": 10,
+        "CR-527": 4,
+        "CR-550 Savanna": 12,
+        "Kimber 8400 Advanced Tactical SOC II": 8,
+        "M4-A1": 2,
+        "SCR 16": 4,
+        "SK 59/66": 8
+      },
+      "weapon_master_kills": 12,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 50,
       "deaths": 5,
       "favorite_weapon": "CR-550 Savanna",
@@ -2161,35 +2196,36 @@
       }
     },
     {
-      "ai_kills": 48,
-      "deaths": 4,
-      "favorite_weapon": "CR-550 Savanna",
-      "favorite_weapon_kills": 12,
-      "first_seen": "2026-11-03T22:06:41.880",
+      "ai_kills": 47,
+      "deaths": 2,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 29,
+      "first_seen": "2026-11-04T20:50:30.601",
       "ids": [
-        "XHlRCDWGmzVXDmDWGPLzTo1Eo26IB8cxFjz_U5yhXuU="
+        "OrbCAAp_8J-wVYq1zeqTO41ywhxlVXas_-_cd8mnZ2o="
       ],
-      "last_seen": "2026-11-24T17:25:16.684",
-      "longest_ai_kill_m": 353,
-      "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
-      "market_income": 40671,
-      "market_sales": 42,
-      "name": "Matrix7",
-      "vehicle_driver_entries": 0,
+      "last_seen": "2026-11-25T19:47:13.752",
+      "longest_ai_kill_m": 497,
+      "longest_ai_kill_weapon": "VS-89",
+      "market_income": 5001,
+      "market_sales": 2,
+      "name": "cerveny_klokan",
+      "vehicle_driver_entries": 1,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 0,
       "weapons": {
         "BK-18": 3,
-        "Blaze": 10,
-        "CR-527": 4,
-        "CR-550 Savanna": 12,
-        "Kimber 8400 Advanced Tactical SOC II": 8,
-        "M4-A1": 2,
-        "SCR 16": 1,
-        "SK 59/66": 8
+        "BK-43": 2,
+        "Blaze": 1,
+        "CR-527": 29,
+        "CR-61 Skorpion": 1,
+        "Derringer": 1,
+        "HK433 TAN": 2,
+        "SG5-K": 2,
+        "VS-89": 6
       },
-      "weapon_master_kills": 12,
+      "weapon_master_kills": 29,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -2263,41 +2299,6 @@
         "VSD": 3
       },
       "weapon_master_kills": 13,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 46,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 29,
-      "first_seen": "2026-11-04T20:50:30.601",
-      "ids": [
-        "OrbCAAp_8J-wVYq1zeqTO41ywhxlVXas_-_cd8mnZ2o="
-      ],
-      "last_seen": "2026-11-23T20:45:36.978",
-      "longest_ai_kill_m": 497,
-      "longest_ai_kill_weapon": "VS-89",
-      "market_income": 5001,
-      "market_sales": 2,
-      "name": "cerveny_klokan",
-      "vehicle_driver_entries": 1,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-18": 3,
-        "BK-43": 2,
-        "Blaze": 1,
-        "CR-527": 29,
-        "CR-61 Skorpion": 1,
-        "Derringer": 1,
-        "HK433 TAN": 2,
-        "SG5-K": 2,
-        "VS-89": 5
-      },
-      "weapon_master_kills": 29,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -3153,11 +3154,11 @@
       "ids": [
         "F1Q9bZBNn92wRbhi6hbNi0iOkrcZKrXGny7JrX0_pTQ="
       ],
-      "last_seen": "2026-11-25T19:23:25.353",
+      "last_seen": "2026-11-25T19:44:34.943",
       "longest_ai_kill_m": 93,
       "longest_ai_kill_weapon": "VSD",
-      "market_income": 67084,
-      "market_sales": 112,
+      "market_income": 68372,
+      "market_sales": 114,
       "name": "Falcon1976_Cz",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 1,
@@ -3619,11 +3620,11 @@
       "ids": [
         "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
       ],
-      "last_seen": "2026-11-25T15:32:36.127",
+      "last_seen": "2026-11-25T19:48:53.476",
       "longest_ai_kill_m": 145,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 28738,
-      "market_sales": 26,
+      "market_income": 48625,
+      "market_sales": 45,
       "name": "Osman (Ozzi)",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -4352,7 +4353,7 @@
       "ids": [
         "gozYNGoPicLmn3-TQwhDk_U0D9e2u3gV33zNVRPc9fA="
       ],
-      "last_seen": "2026-11-25T15:55:27.114",
+      "last_seen": "2026-11-25T19:36:34.012",
       "longest_ai_kill_m": 129,
       "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
@@ -5912,7 +5913,7 @@
       }
     },
     {
-      "ai_kills": 217,
+      "ai_kills": 219,
       "deaths": 2,
       "favorite_weapon": "Desert Tech MDRX",
       "favorite_weapon_kills": 147,
@@ -5920,7 +5921,7 @@
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-25T19:26:11.790",
+      "last_seen": "2026-11-25T19:42:18.392",
       "longest_ai_kill_m": 824,
       "longest_ai_kill_weapon": "Desert Tech MDRX",
       "market_income": 723774,
@@ -5939,12 +5940,13 @@
         "Blaze": 2,
         "CR-527": 16,
         "Desert Tech MDRX": 147,
-        "HK G28 TAN": 5,
+        "HK G28 TAN": 6,
         "SG5-K": 1,
         "SK 59/66": 3,
         "Sa vz. 58 SF": 1,
         "VS-89": 4,
-        "VSD": 3
+        "VSD": 3,
+        "R12": 1
       },
       "weapon_master_kills": 147,
       "is_admin": false,
@@ -6306,6 +6308,7 @@
       "vehicle_trips": 112,
       "weapons": {
         "B&T APC223 PRO": 1,
+        "Barrett Model 98B": 1,
         "Black Rain Ordnance Commando": 10,
         "CR-527": 22,
         "CR-550 Savanna": 64,
@@ -6319,8 +6322,7 @@
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 7,
-        "STEYR AUG A3": 9,
-        "Barrett Model 98B": 1
+        "STEYR AUG A3": 9
       },
       "weapon_master_kills": 107,
       "is_admin": false,
@@ -6445,9 +6447,9 @@
         "CR-527": 22,
         "CR-550 Savanna": 1,
         "M70 Tundra": 51,
+        "NEMO ARMS OMEN": 2,
         "THALES EF88 AUSTEYR": 9,
-        "VSD": 28,
-        "NEMO ARMS OMEN": 2
+        "VSD": 28
       },
       "weapon_master_kills": 51,
       "is_admin": false,
@@ -6631,15 +6633,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 166,
+      "ai_kills": 168,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER MCX RAPTOR",
-      "favorite_weapon_kills": 75,
+      "favorite_weapon_kills": 77,
       "first_seen": "2026-11-04T19:31:07.704",
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-25T19:26:24.061",
+      "last_seen": "2026-11-25T19:54:57.915",
       "longest_ai_kill_m": 645,
       "longest_ai_kill_weapon": "SIG SAUER MCX RAPTOR",
       "market_income": 483626,
@@ -6662,10 +6664,10 @@
         "Mossberg 590M": 3,
         "SCR 16": 4,
         "SG5-K": 1,
-        "SIG SAUER MCX RAPTOR": 75,
+        "SIG SAUER MCX RAPTOR": 77,
         "Sig Sauer P229": 1
       },
-      "weapon_master_kills": 75,
+      "weapon_master_kills": 77,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -7136,7 +7138,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 46,
+      "ai_kills": 47,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 29,
@@ -7144,7 +7146,7 @@
       "ids": [
         "OrbCAAp_8J-wVYq1zeqTO41ywhxlVXas_-_cd8mnZ2o="
       ],
-      "last_seen": "2026-11-23T20:45:36.978",
+      "last_seen": "2026-11-25T19:47:13.752",
       "longest_ai_kill_m": 497,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 5001,
@@ -7163,7 +7165,7 @@
         "Derringer": 1,
         "HK433 TAN": 2,
         "SG5-K": 2,
-        "VS-89": 5
+        "VS-89": 6
       },
       "weapon_master_kills": 29,
       "is_admin": false,
@@ -7884,15 +7886,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 193,
+      "ai_kills": 194,
       "deaths": 7,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 101,
+      "favorite_weapon_kills": 102,
       "first_seen": "2026-11-03T20:18:56.451",
       "ids": [
         "U_ygQ_7hKs1GpDhTerStQAaU4vkTyt1XMyTL24g-G2k="
       ],
-      "last_seen": "2026-11-25T19:28:09.050",
+      "last_seen": "2026-11-25T19:48:08.128",
       "longest_ai_kill_m": 372,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 63696,
@@ -7903,20 +7905,20 @@
       "vehicle_trip_straightline_m": 12852.7,
       "vehicle_trips": 14,
       "weapons": {
+        "AK-105": 1,
         "BK-18": 3,
         "Blaze": 40,
         "CR-527": 19,
         "KAS-74U": 1,
         "L15 Defense TAN": 8,
         "LE-MAS": 2,
-        "LMT M900 DMR": 101,
+        "LMT M900 DMR": 102,
         "Lee Enfield": 3,
         "M4-A1": 12,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "AK-105": 1
+        "SK 59/66": 2
       },
-      "weapon_master_kills": 101,
+      "weapon_master_kills": 102,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -8005,7 +8007,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 48,
+      "ai_kills": 51,
       "deaths": 4,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 12,
@@ -8013,7 +8015,7 @@
       "ids": [
         "XHlRCDWGmzVXDmDWGPLzTo1Eo26IB8cxFjz_U5yhXuU="
       ],
-      "last_seen": "2026-11-24T17:25:16.684",
+      "last_seen": "2026-11-25T20:00:01.497",
       "longest_ai_kill_m": 353,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 40671,
@@ -8030,7 +8032,7 @@
         "CR-550 Savanna": 12,
         "Kimber 8400 Advanced Tactical SOC II": 8,
         "M4-A1": 2,
-        "SCR 16": 1,
+        "SCR 16": 4,
         "SK 59/66": 8
       },
       "weapon_master_kills": 12,
@@ -9666,11 +9668,11 @@
       "ids": [
         "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
       ],
-      "last_seen": "2026-11-25T15:32:36.127",
+      "last_seen": "2026-11-25T19:48:53.476",
       "longest_ai_kill_m": 145,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 28738,
-      "market_sales": 26,
+      "market_income": 48625,
+      "market_sales": 45,
       "name": "Osman (Ozzi)",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -9786,7 +9788,7 @@
       "ids": [
         "gozYNGoPicLmn3-TQwhDk_U0D9e2u3gV33zNVRPc9fA="
       ],
-      "last_seen": "2026-11-25T15:55:27.114",
+      "last_seen": "2026-11-25T19:36:34.012",
       "longest_ai_kill_m": 129,
       "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
@@ -10062,11 +10064,11 @@
       "ids": [
         "F1Q9bZBNn92wRbhi6hbNi0iOkrcZKrXGny7JrX0_pTQ="
       ],
-      "last_seen": "2026-11-25T19:23:25.353",
+      "last_seen": "2026-11-25T19:44:34.943",
       "longest_ai_kill_m": 93,
       "longest_ai_kill_weapon": "VSD",
-      "market_income": 67084,
-      "market_sales": 112,
+      "market_income": 68372,
+      "market_sales": 114,
       "name": "Falcon1976_Cz",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 1,
@@ -11385,7 +11387,7 @@
       "ids": [
         "gozYNGoPicLmn3-TQwhDk_U0D9e2u3gV33zNVRPc9fA="
       ],
-      "last_seen": "2026-11-25T15:55:27.114",
+      "last_seen": "2026-11-25T19:36:34.012",
       "longest_ai_kill_m": 129,
       "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
@@ -11643,15 +11645,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 193,
+      "ai_kills": 194,
       "deaths": 7,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 101,
+      "favorite_weapon_kills": 102,
       "first_seen": "2026-11-03T20:18:56.451",
       "ids": [
         "U_ygQ_7hKs1GpDhTerStQAaU4vkTyt1XMyTL24g-G2k="
       ],
-      "last_seen": "2026-11-25T19:28:09.050",
+      "last_seen": "2026-11-25T19:48:08.128",
       "longest_ai_kill_m": 372,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 63696,
@@ -11662,20 +11664,20 @@
       "vehicle_trip_straightline_m": 12852.7,
       "vehicle_trips": 14,
       "weapons": {
+        "AK-105": 1,
         "BK-18": 3,
         "Blaze": 40,
         "CR-527": 19,
         "KAS-74U": 1,
         "L15 Defense TAN": 8,
         "LE-MAS": 2,
-        "LMT M900 DMR": 101,
+        "LMT M900 DMR": 102,
         "Lee Enfield": 3,
         "M4-A1": 12,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "AK-105": 1
+        "SK 59/66": 2
       },
-      "weapon_master_kills": 101,
+      "weapon_master_kills": 102,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -12545,7 +12547,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 48,
+      "ai_kills": 51,
       "deaths": 4,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 12,
@@ -12553,7 +12555,7 @@
       "ids": [
         "XHlRCDWGmzVXDmDWGPLzTo1Eo26IB8cxFjz_U5yhXuU="
       ],
-      "last_seen": "2026-11-24T17:25:16.684",
+      "last_seen": "2026-11-25T20:00:01.497",
       "longest_ai_kill_m": 353,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 40671,
@@ -12570,7 +12572,7 @@
         "CR-550 Savanna": 12,
         "Kimber 8400 Advanced Tactical SOC II": 8,
         "M4-A1": 2,
-        "SCR 16": 1,
+        "SCR 16": 4,
         "SK 59/66": 8
       },
       "weapon_master_kills": 12,
@@ -13414,6 +13416,7 @@
       "vehicle_trips": 112,
       "weapons": {
         "B&T APC223 PRO": 1,
+        "Barrett Model 98B": 1,
         "Black Rain Ordnance Commando": 10,
         "CR-527": 22,
         "CR-550 Savanna": 64,
@@ -13427,8 +13430,7 @@
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 7,
-        "STEYR AUG A3": 9,
-        "Barrett Model 98B": 1
+        "STEYR AUG A3": 9
       },
       "weapon_master_kills": 107,
       "is_admin": false,
@@ -13786,7 +13788,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 46,
+      "ai_kills": 47,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 29,
@@ -13794,7 +13796,7 @@
       "ids": [
         "OrbCAAp_8J-wVYq1zeqTO41ywhxlVXas_-_cd8mnZ2o="
       ],
-      "last_seen": "2026-11-23T20:45:36.978",
+      "last_seen": "2026-11-25T19:47:13.752",
       "longest_ai_kill_m": 497,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 5001,
@@ -13813,7 +13815,7 @@
         "Derringer": 1,
         "HK433 TAN": 2,
         "SG5-K": 2,
-        "VS-89": 5
+        "VS-89": 6
       },
       "weapon_master_kills": 29,
       "is_admin": false,
@@ -14638,11 +14640,11 @@
       "ids": [
         "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
       ],
-      "last_seen": "2026-11-25T15:32:36.127",
+      "last_seen": "2026-11-25T19:48:53.476",
       "longest_ai_kill_m": 145,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 28738,
-      "market_sales": 26,
+      "market_income": 48625,
+      "market_sales": 45,
       "name": "Osman (Ozzi)",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -14849,7 +14851,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 217,
+      "ai_kills": 219,
       "deaths": 2,
       "favorite_weapon": "Desert Tech MDRX",
       "favorite_weapon_kills": 147,
@@ -14857,7 +14859,7 @@
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-25T19:26:11.790",
+      "last_seen": "2026-11-25T19:42:18.392",
       "longest_ai_kill_m": 824,
       "longest_ai_kill_weapon": "Desert Tech MDRX",
       "market_income": 723774,
@@ -14876,12 +14878,13 @@
         "Blaze": 2,
         "CR-527": 16,
         "Desert Tech MDRX": 147,
-        "HK G28 TAN": 5,
+        "HK G28 TAN": 6,
         "SG5-K": 1,
         "SK 59/66": 3,
         "Sa vz. 58 SF": 1,
         "VS-89": 4,
-        "VSD": 3
+        "VSD": 3,
+        "R12": 1
       },
       "weapon_master_kills": 147,
       "is_admin": false,
@@ -15407,15 +15410,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 166,
+      "ai_kills": 168,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER MCX RAPTOR",
-      "favorite_weapon_kills": 75,
+      "favorite_weapon_kills": 77,
       "first_seen": "2026-11-04T19:31:07.704",
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-25T19:26:24.061",
+      "last_seen": "2026-11-25T19:54:57.915",
       "longest_ai_kill_m": 645,
       "longest_ai_kill_weapon": "SIG SAUER MCX RAPTOR",
       "market_income": 483626,
@@ -15438,10 +15441,10 @@
         "Mossberg 590M": 3,
         "SCR 16": 4,
         "SG5-K": 1,
-        "SIG SAUER MCX RAPTOR": 75,
+        "SIG SAUER MCX RAPTOR": 77,
         "Sig Sauer P229": 1
       },
-      "weapon_master_kills": 75,
+      "weapon_master_kills": 77,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -15783,11 +15786,11 @@
       "ids": [
         "F1Q9bZBNn92wRbhi6hbNi0iOkrcZKrXGny7JrX0_pTQ="
       ],
-      "last_seen": "2026-11-25T19:23:25.353",
+      "last_seen": "2026-11-25T19:44:34.943",
       "longest_ai_kill_m": 93,
       "longest_ai_kill_weapon": "VSD",
-      "market_income": 67084,
-      "market_sales": 112,
+      "market_income": 68372,
+      "market_sales": 114,
       "name": "Falcon1976_Cz",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 1,
@@ -18488,9 +18491,9 @@
         "CR-527": 22,
         "CR-550 Savanna": 1,
         "M70 Tundra": 51,
+        "NEMO ARMS OMEN": 2,
         "THALES EF88 AUSTEYR": 9,
-        "VSD": 28,
-        "NEMO ARMS OMEN": 2
+        "VSD": 28
       },
       "weapon_master_kills": 51,
       "is_admin": false,
@@ -18719,7 +18722,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 217,
+      "ai_kills": 219,
       "deaths": 2,
       "favorite_weapon": "Desert Tech MDRX",
       "favorite_weapon_kills": 147,
@@ -18727,7 +18730,7 @@
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-25T19:26:11.790",
+      "last_seen": "2026-11-25T19:42:18.392",
       "longest_ai_kill_m": 824,
       "longest_ai_kill_weapon": "Desert Tech MDRX",
       "market_income": 723774,
@@ -18746,12 +18749,13 @@
         "Blaze": 2,
         "CR-527": 16,
         "Desert Tech MDRX": 147,
-        "HK G28 TAN": 5,
+        "HK G28 TAN": 6,
         "SG5-K": 1,
         "SK 59/66": 3,
         "Sa vz. 58 SF": 1,
         "VS-89": 4,
-        "VSD": 3
+        "VSD": 3,
+        "R12": 1
       },
       "weapon_master_kills": 147,
       "is_admin": false,
@@ -18985,15 +18989,15 @@
       }
     },
     {
-      "ai_kills": 166,
+      "ai_kills": 168,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER MCX RAPTOR",
-      "favorite_weapon_kills": 75,
+      "favorite_weapon_kills": 77,
       "first_seen": "2026-11-04T19:31:07.704",
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-25T19:26:24.061",
+      "last_seen": "2026-11-25T19:54:57.915",
       "longest_ai_kill_m": 645,
       "longest_ai_kill_weapon": "SIG SAUER MCX RAPTOR",
       "market_income": 483626,
@@ -19016,10 +19020,10 @@
         "Mossberg 590M": 3,
         "SCR 16": 4,
         "SG5-K": 1,
-        "SIG SAUER MCX RAPTOR": 75,
+        "SIG SAUER MCX RAPTOR": 77,
         "Sig Sauer P229": 1
       },
-      "weapon_master_kills": 75,
+      "weapon_master_kills": 77,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -19045,6 +19049,7 @@
       "vehicle_trips": 112,
       "weapons": {
         "B&T APC223 PRO": 1,
+        "Barrett Model 98B": 1,
         "Black Rain Ordnance Commando": 10,
         "CR-527": 22,
         "CR-550 Savanna": 64,
@@ -19058,8 +19063,7 @@
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 7,
-        "STEYR AUG A3": 9,
-        "Barrett Model 98B": 1
+        "STEYR AUG A3": 9
       },
       "weapon_master_kills": 107,
       "is_admin": false,
@@ -20172,6 +20176,34 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 21,
+      "deaths": 1,
+      "favorite_weapon": "VSD",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-07T22:01:41.910",
+      "ids": [
+        "F1Q9bZBNn92wRbhi6hbNi0iOkrcZKrXGny7JrX0_pTQ="
+      ],
+      "last_seen": "2026-11-25T19:44:34.943",
+      "longest_ai_kill_m": 93,
+      "longest_ai_kill_weapon": "VSD",
+      "market_income": 68372,
+      "market_sales": 114,
+      "name": "Falcon1976_Cz",
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 1,
+      "vehicle_trip_straightline_m": 15.6,
+      "vehicle_trips": 2,
+      "weapons": {
+        "SG5-K": 5,
+        "VSD": 16
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 60,
       "deaths": 1,
       "favorite_weapon": "CR-527",
@@ -20209,43 +20241,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 21,
-      "deaths": 1,
-      "favorite_weapon": "VSD",
-      "favorite_weapon_kills": 16,
-      "first_seen": "2026-11-07T22:01:41.910",
-      "ids": [
-        "F1Q9bZBNn92wRbhi6hbNi0iOkrcZKrXGny7JrX0_pTQ="
-      ],
-      "last_seen": "2026-11-25T19:23:25.353",
-      "longest_ai_kill_m": 93,
-      "longest_ai_kill_weapon": "VSD",
-      "market_income": 67084,
-      "market_sales": 112,
-      "name": "Falcon1976_Cz",
-      "vehicle_driver_entries": 4,
-      "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 15.6,
-      "vehicle_trips": 2,
-      "weapons": {
-        "SG5-K": 5,
-        "VSD": 16
-      },
-      "weapon_master_kills": 16,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 193,
+      "ai_kills": 194,
       "deaths": 7,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 101,
+      "favorite_weapon_kills": 102,
       "first_seen": "2026-11-03T20:18:56.451",
       "ids": [
         "U_ygQ_7hKs1GpDhTerStQAaU4vkTyt1XMyTL24g-G2k="
       ],
-      "last_seen": "2026-11-25T19:28:09.050",
+      "last_seen": "2026-11-25T19:48:08.128",
       "longest_ai_kill_m": 372,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 63696,
@@ -20256,20 +20260,20 @@
       "vehicle_trip_straightline_m": 12852.7,
       "vehicle_trips": 14,
       "weapons": {
+        "AK-105": 1,
         "BK-18": 3,
         "Blaze": 40,
         "CR-527": 19,
         "KAS-74U": 1,
         "L15 Defense TAN": 8,
         "LE-MAS": 2,
-        "LMT M900 DMR": 101,
+        "LMT M900 DMR": 102,
         "Lee Enfield": 3,
         "M4-A1": 12,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "AK-105": 1
+        "SK 59/66": 2
       },
-      "weapon_master_kills": 101,
+      "weapon_master_kills": 102,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -20393,6 +20397,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 16,
+      "deaths": 2,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-21T17:15:40.884",
+      "ids": [
+        "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
+      ],
+      "last_seen": "2026-11-25T19:48:53.476",
+      "longest_ai_kill_m": 145,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 48625,
+      "market_sales": 45,
+      "name": "Osman (Ozzi)",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 9,
+        "Revolver": 2,
+        "SG5-K": 1,
+        "SSG 82": 2,
+        "Sawed-off BK-43": 2
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 19,
       "deaths": 0,
       "favorite_weapon": "CR-527",
@@ -20422,7 +20457,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 48,
+      "ai_kills": 51,
       "deaths": 4,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 12,
@@ -20430,7 +20465,7 @@
       "ids": [
         "XHlRCDWGmzVXDmDWGPLzTo1Eo26IB8cxFjz_U5yhXuU="
       ],
-      "last_seen": "2026-11-24T17:25:16.684",
+      "last_seen": "2026-11-25T20:00:01.497",
       "longest_ai_kill_m": 353,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 40671,
@@ -20447,7 +20482,7 @@
         "CR-550 Savanna": 12,
         "Kimber 8400 Advanced Tactical SOC II": 8,
         "M4-A1": 2,
-        "SCR 16": 1,
+        "SCR 16": 4,
         "SK 59/66": 8
       },
       "weapon_master_kills": 12,
@@ -20583,37 +20618,6 @@
         "VSD": 31
       },
       "weapon_master_kills": 31,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 16,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 9,
-      "first_seen": "2026-11-21T17:15:40.884",
-      "ids": [
-        "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
-      ],
-      "last_seen": "2026-11-25T15:32:36.127",
-      "longest_ai_kill_m": 145,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 28738,
-      "market_sales": 26,
-      "name": "Osman (Ozzi)",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 9,
-        "Revolver": 2,
-        "SG5-K": 1,
-        "SSG 82": 2,
-        "Sawed-off BK-43": 2
-      },
-      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -21232,7 +21236,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 46,
+      "ai_kills": 47,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 29,
@@ -21240,7 +21244,7 @@
       "ids": [
         "OrbCAAp_8J-wVYq1zeqTO41ywhxlVXas_-_cd8mnZ2o="
       ],
-      "last_seen": "2026-11-23T20:45:36.978",
+      "last_seen": "2026-11-25T19:47:13.752",
       "longest_ai_kill_m": 497,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 5001,
@@ -21259,7 +21263,7 @@
         "Derringer": 1,
         "HK433 TAN": 2,
         "SG5-K": 2,
-        "VS-89": 5
+        "VS-89": 6
       },
       "weapon_master_kills": 29,
       "is_admin": false,
@@ -21795,6 +21799,7 @@
       "vehicle_trips": 112,
       "weapons": {
         "B&T APC223 PRO": 1,
+        "Barrett Model 98B": 1,
         "Black Rain Ordnance Commando": 10,
         "CR-527": 22,
         "CR-550 Savanna": 64,
@@ -21808,8 +21813,7 @@
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 7,
-        "STEYR AUG A3": 9,
-        "Barrett Model 98B": 1
+        "STEYR AUG A3": 9
       },
       "weapon_master_kills": 107,
       "is_admin": false,
@@ -22167,7 +22171,7 @@
       }
     },
     {
-      "ai_kills": 217,
+      "ai_kills": 219,
       "deaths": 2,
       "favorite_weapon": "Desert Tech MDRX",
       "favorite_weapon_kills": 147,
@@ -22175,7 +22179,7 @@
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-25T19:26:11.790",
+      "last_seen": "2026-11-25T19:42:18.392",
       "longest_ai_kill_m": 824,
       "longest_ai_kill_weapon": "Desert Tech MDRX",
       "market_income": 723774,
@@ -22194,12 +22198,13 @@
         "Blaze": 2,
         "CR-527": 16,
         "Desert Tech MDRX": 147,
-        "HK G28 TAN": 5,
+        "HK G28 TAN": 6,
         "SG5-K": 1,
         "SK 59/66": 3,
         "Sa vz. 58 SF": 1,
         "VS-89": 4,
-        "VSD": 3
+        "VSD": 3,
+        "R12": 1
       },
       "weapon_master_kills": 147,
       "is_admin": false,
@@ -22507,15 +22512,15 @@
       }
     },
     {
-      "ai_kills": 193,
+      "ai_kills": 194,
       "deaths": 7,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 101,
+      "favorite_weapon_kills": 102,
       "first_seen": "2026-11-03T20:18:56.451",
       "ids": [
         "U_ygQ_7hKs1GpDhTerStQAaU4vkTyt1XMyTL24g-G2k="
       ],
-      "last_seen": "2026-11-25T19:28:09.050",
+      "last_seen": "2026-11-25T19:48:08.128",
       "longest_ai_kill_m": 372,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 63696,
@@ -22526,20 +22531,20 @@
       "vehicle_trip_straightline_m": 12852.7,
       "vehicle_trips": 14,
       "weapons": {
+        "AK-105": 1,
         "BK-18": 3,
         "Blaze": 40,
         "CR-527": 19,
         "KAS-74U": 1,
         "L15 Defense TAN": 8,
         "LE-MAS": 2,
-        "LMT M900 DMR": 101,
+        "LMT M900 DMR": 102,
         "Lee Enfield": 3,
         "M4-A1": 12,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "AK-105": 1
+        "SK 59/66": 2
       },
-      "weapon_master_kills": 101,
+      "weapon_master_kills": 102,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -23270,11 +23275,11 @@
       "ids": [
         "F1Q9bZBNn92wRbhi6hbNi0iOkrcZKrXGny7JrX0_pTQ="
       ],
-      "last_seen": "2026-11-25T19:23:25.353",
+      "last_seen": "2026-11-25T19:44:34.943",
       "longest_ai_kill_m": 93,
       "longest_ai_kill_weapon": "VSD",
-      "market_income": 67084,
-      "market_sales": 112,
+      "market_income": 68372,
+      "market_sales": 114,
       "name": "Falcon1976_Cz",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 1,
@@ -23616,7 +23621,7 @@
       }
     },
     {
-      "ai_kills": 217,
+      "ai_kills": 219,
       "deaths": 2,
       "favorite_weapon": "Desert Tech MDRX",
       "favorite_weapon_kills": 147,
@@ -23624,7 +23629,7 @@
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-25T19:26:11.790",
+      "last_seen": "2026-11-25T19:42:18.392",
       "longest_ai_kill_m": 824,
       "longest_ai_kill_weapon": "Desert Tech MDRX",
       "market_income": 723774,
@@ -23643,12 +23648,13 @@
         "Blaze": 2,
         "CR-527": 16,
         "Desert Tech MDRX": 147,
-        "HK G28 TAN": 5,
+        "HK G28 TAN": 6,
         "SG5-K": 1,
         "SK 59/66": 3,
         "Sa vz. 58 SF": 1,
         "VS-89": 4,
-        "VSD": 3
+        "VSD": 3,
+        "R12": 1
       },
       "weapon_master_kills": 147,
       "is_admin": false,
@@ -23856,6 +23862,7 @@
       "vehicle_trips": 112,
       "weapons": {
         "B&T APC223 PRO": 1,
+        "Barrett Model 98B": 1,
         "Black Rain Ordnance Commando": 10,
         "CR-527": 22,
         "CR-550 Savanna": 64,
@@ -23869,8 +23876,7 @@
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 7,
-        "STEYR AUG A3": 9,
-        "Barrett Model 98B": 1
+        "STEYR AUG A3": 9
       },
       "weapon_master_kills": 107,
       "is_admin": false,
@@ -23919,6 +23925,44 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 194,
+      "deaths": 7,
+      "favorite_weapon": "LMT M900 DMR",
+      "favorite_weapon_kills": 102,
+      "first_seen": "2026-11-03T20:18:56.451",
+      "ids": [
+        "U_ygQ_7hKs1GpDhTerStQAaU4vkTyt1XMyTL24g-G2k="
+      ],
+      "last_seen": "2026-11-25T19:48:08.128",
+      "longest_ai_kill_m": 372,
+      "longest_ai_kill_weapon": "LMT M900 DMR",
+      "market_income": 63696,
+      "market_sales": 203,
+      "name": "Kytovecz",
+      "vehicle_driver_entries": 25,
+      "vehicle_passenger_entries": 1,
+      "vehicle_trip_straightline_m": 12852.7,
+      "vehicle_trips": 14,
+      "weapons": {
+        "AK-105": 1,
+        "BK-18": 3,
+        "Blaze": 40,
+        "CR-527": 19,
+        "KAS-74U": 1,
+        "L15 Defense TAN": 8,
+        "LE-MAS": 2,
+        "LMT M900 DMR": 102,
+        "Lee Enfield": 3,
+        "M4-A1": 12,
+        "Mosin 91/30": 1,
+        "SK 59/66": 2
+      },
+      "weapon_master_kills": 102,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 252,
       "deaths": 1,
       "favorite_weapon": "DMR",
@@ -23961,44 +24005,6 @@
         "longest_shot": 90,
         "trader_king": 20
       }
-    },
-    {
-      "ai_kills": 193,
-      "deaths": 7,
-      "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 101,
-      "first_seen": "2026-11-03T20:18:56.451",
-      "ids": [
-        "U_ygQ_7hKs1GpDhTerStQAaU4vkTyt1XMyTL24g-G2k="
-      ],
-      "last_seen": "2026-11-25T19:28:09.050",
-      "longest_ai_kill_m": 372,
-      "longest_ai_kill_weapon": "LMT M900 DMR",
-      "market_income": 63696,
-      "market_sales": 203,
-      "name": "Kytovecz",
-      "vehicle_driver_entries": 25,
-      "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 12852.7,
-      "vehicle_trips": 14,
-      "weapons": {
-        "BK-18": 3,
-        "Blaze": 40,
-        "CR-527": 19,
-        "KAS-74U": 1,
-        "L15 Defense TAN": 8,
-        "LE-MAS": 2,
-        "LMT M900 DMR": 101,
-        "Lee Enfield": 3,
-        "M4-A1": 12,
-        "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "AK-105": 1
-      },
-      "weapon_master_kills": 101,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
     },
     {
       "ai_kills": 123,
@@ -24087,15 +24093,15 @@
       }
     },
     {
-      "ai_kills": 166,
+      "ai_kills": 168,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER MCX RAPTOR",
-      "favorite_weapon_kills": 75,
+      "favorite_weapon_kills": 77,
       "first_seen": "2026-11-04T19:31:07.704",
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-25T19:26:24.061",
+      "last_seen": "2026-11-25T19:54:57.915",
       "longest_ai_kill_m": 645,
       "longest_ai_kill_weapon": "SIG SAUER MCX RAPTOR",
       "market_income": 483626,
@@ -24118,10 +24124,10 @@
         "Mossberg 590M": 3,
         "SCR 16": 4,
         "SG5-K": 1,
-        "SIG SAUER MCX RAPTOR": 75,
+        "SIG SAUER MCX RAPTOR": 77,
         "Sig Sauer P229": 1
       },
-      "weapon_master_kills": 75,
+      "weapon_master_kills": 77,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -24426,9 +24432,9 @@
         "CR-527": 22,
         "CR-550 Savanna": 1,
         "M70 Tundra": 51,
+        "NEMO ARMS OMEN": 2,
         "THALES EF88 AUSTEYR": 9,
-        "VSD": 28,
-        "NEMO ARMS OMEN": 2
+        "VSD": 28
       },
       "weapon_master_kills": 51,
       "is_admin": false,
@@ -24821,7 +24827,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 46,
+      "ai_kills": 47,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 29,
@@ -24829,7 +24835,7 @@
       "ids": [
         "OrbCAAp_8J-wVYq1zeqTO41ywhxlVXas_-_cd8mnZ2o="
       ],
-      "last_seen": "2026-11-23T20:45:36.978",
+      "last_seen": "2026-11-25T19:47:13.752",
       "longest_ai_kill_m": 497,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 5001,
@@ -24848,7 +24854,7 @@
         "Derringer": 1,
         "HK433 TAN": 2,
         "SG5-K": 2,
-        "VS-89": 5
+        "VS-89": 6
       },
       "weapon_master_kills": 29,
       "is_admin": false,
@@ -25644,11 +25650,11 @@
       "ids": [
         "F1Q9bZBNn92wRbhi6hbNi0iOkrcZKrXGny7JrX0_pTQ="
       ],
-      "last_seen": "2026-11-25T19:23:25.353",
+      "last_seen": "2026-11-25T19:44:34.943",
       "longest_ai_kill_m": 93,
       "longest_ai_kill_weapon": "VSD",
-      "market_income": 67084,
-      "market_sales": 112,
+      "market_income": 68372,
+      "market_sales": 114,
       "name": "Falcon1976_Cz",
       "vehicle_driver_entries": 4,
       "vehicle_passenger_entries": 1,
@@ -26276,7 +26282,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 48,
+      "ai_kills": 51,
       "deaths": 4,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 12,
@@ -26284,7 +26290,7 @@
       "ids": [
         "XHlRCDWGmzVXDmDWGPLzTo1Eo26IB8cxFjz_U5yhXuU="
       ],
-      "last_seen": "2026-11-24T17:25:16.684",
+      "last_seen": "2026-11-25T20:00:01.497",
       "longest_ai_kill_m": 353,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 40671,
@@ -26301,7 +26307,7 @@
         "CR-550 Savanna": 12,
         "Kimber 8400 Advanced Tactical SOC II": 8,
         "M4-A1": 2,
-        "SCR 16": 1,
+        "SCR 16": 4,
         "SK 59/66": 8
       },
       "weapon_master_kills": 12,
@@ -26836,11 +26842,11 @@
       "ids": [
         "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
       ],
-      "last_seen": "2026-11-25T15:32:36.127",
+      "last_seen": "2026-11-25T19:48:53.476",
       "longest_ai_kill_m": 145,
       "longest_ai_kill_weapon": "CR-527",
-      "market_income": 28738,
-      "market_sales": 26,
+      "market_income": 48625,
+      "market_sales": 45,
       "name": "Osman (Ozzi)",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
@@ -27629,7 +27635,7 @@
       "ids": [
         "gozYNGoPicLmn3-TQwhDk_U0D9e2u3gV33zNVRPc9fA="
       ],
-      "last_seen": "2026-11-25T15:55:27.114",
+      "last_seen": "2026-11-25T19:36:34.012",
       "longest_ai_kill_m": 129,
       "longest_ai_kill_weapon": "SK 59/66",
       "market_income": 0,
@@ -29231,9 +29237,9 @@
         "CR-527": 22,
         "CR-550 Savanna": 1,
         "M70 Tundra": 51,
+        "NEMO ARMS OMEN": 2,
         "THALES EF88 AUSTEYR": 9,
-        "VSD": 28,
-        "NEMO ARMS OMEN": 2
+        "VSD": 28
       },
       "weapon_master_kills": 51,
       "is_admin": false,
@@ -29362,7 +29368,7 @@
       }
     },
     {
-      "ai_kills": 217,
+      "ai_kills": 219,
       "deaths": 2,
       "favorite_weapon": "Desert Tech MDRX",
       "favorite_weapon_kills": 147,
@@ -29370,7 +29376,7 @@
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-25T19:26:11.790",
+      "last_seen": "2026-11-25T19:42:18.392",
       "longest_ai_kill_m": 824,
       "longest_ai_kill_weapon": "Desert Tech MDRX",
       "market_income": 723774,
@@ -29389,12 +29395,13 @@
         "Blaze": 2,
         "CR-527": 16,
         "Desert Tech MDRX": 147,
-        "HK G28 TAN": 5,
+        "HK G28 TAN": 6,
         "SG5-K": 1,
         "SK 59/66": 3,
         "Sa vz. 58 SF": 1,
         "VS-89": 4,
-        "VSD": 3
+        "VSD": 3,
+        "R12": 1
       },
       "weapon_master_kills": 147,
       "is_admin": false,
@@ -29657,15 +29664,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 166,
+      "ai_kills": 168,
       "deaths": 1,
       "favorite_weapon": "SIG SAUER MCX RAPTOR",
-      "favorite_weapon_kills": 75,
+      "favorite_weapon_kills": 77,
       "first_seen": "2026-11-04T19:31:07.704",
       "ids": [
         "QrArXlcvsrzQrjdZd-5J5tb3NsoQi6A5tdB42AyI7x0="
       ],
-      "last_seen": "2026-11-25T19:26:24.061",
+      "last_seen": "2026-11-25T19:54:57.915",
       "longest_ai_kill_m": 645,
       "longest_ai_kill_weapon": "SIG SAUER MCX RAPTOR",
       "market_income": 483626,
@@ -29688,10 +29695,10 @@
         "Mossberg 590M": 3,
         "SCR 16": 4,
         "SG5-K": 1,
-        "SIG SAUER MCX RAPTOR": 75,
+        "SIG SAUER MCX RAPTOR": 77,
         "Sig Sauer P229": 1
       },
-      "weapon_master_kills": 75,
+      "weapon_master_kills": 77,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -29717,6 +29724,7 @@
       "vehicle_trips": 112,
       "weapons": {
         "B&T APC223 PRO": 1,
+        "Barrett Model 98B": 1,
         "Black Rain Ordnance Commando": 10,
         "CR-527": 22,
         "CR-550 Savanna": 64,
@@ -29730,8 +29738,7 @@
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 7,
-        "STEYR AUG A3": 9,
-        "Barrett Model 98B": 1
+        "STEYR AUG A3": 9
       },
       "weapon_master_kills": 107,
       "is_admin": false,
@@ -30379,15 +30386,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 193,
+      "ai_kills": 194,
       "deaths": 7,
       "favorite_weapon": "LMT M900 DMR",
-      "favorite_weapon_kills": 101,
+      "favorite_weapon_kills": 102,
       "first_seen": "2026-11-03T20:18:56.451",
       "ids": [
         "U_ygQ_7hKs1GpDhTerStQAaU4vkTyt1XMyTL24g-G2k="
       ],
-      "last_seen": "2026-11-25T19:28:09.050",
+      "last_seen": "2026-11-25T19:48:08.128",
       "longest_ai_kill_m": 372,
       "longest_ai_kill_weapon": "LMT M900 DMR",
       "market_income": 63696,
@@ -30398,20 +30405,20 @@
       "vehicle_trip_straightline_m": 12852.7,
       "vehicle_trips": 14,
       "weapons": {
+        "AK-105": 1,
         "BK-18": 3,
         "Blaze": 40,
         "CR-527": 19,
         "KAS-74U": 1,
         "L15 Defense TAN": 8,
         "LE-MAS": 2,
-        "LMT M900 DMR": 101,
+        "LMT M900 DMR": 102,
         "Lee Enfield": 3,
         "M4-A1": 12,
         "Mosin 91/30": 1,
-        "SK 59/66": 2,
-        "AK-105": 1
+        "SK 59/66": 2
       },
-      "weapon_master_kills": 101,
+      "weapon_master_kills": 102,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -30595,6 +30602,34 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 21,
+      "deaths": 1,
+      "favorite_weapon": "VSD",
+      "favorite_weapon_kills": 16,
+      "first_seen": "2026-11-07T22:01:41.910",
+      "ids": [
+        "F1Q9bZBNn92wRbhi6hbNi0iOkrcZKrXGny7JrX0_pTQ="
+      ],
+      "last_seen": "2026-11-25T19:44:34.943",
+      "longest_ai_kill_m": 93,
+      "longest_ai_kill_weapon": "VSD",
+      "market_income": 68372,
+      "market_sales": 114,
+      "name": "Falcon1976_Cz",
+      "vehicle_driver_entries": 4,
+      "vehicle_passenger_entries": 1,
+      "vehicle_trip_straightline_m": 15.6,
+      "vehicle_trips": 2,
+      "weapons": {
+        "SG5-K": 5,
+        "VSD": 16
+      },
+      "weapon_master_kills": 16,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 71,
       "deaths": 2,
       "favorite_weapon": "CR-550 Savanna",
@@ -30657,34 +30692,6 @@
         "Pioneer": 2
       },
       "weapon_master_kills": 13,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 21,
-      "deaths": 1,
-      "favorite_weapon": "VSD",
-      "favorite_weapon_kills": 16,
-      "first_seen": "2026-11-07T22:01:41.910",
-      "ids": [
-        "F1Q9bZBNn92wRbhi6hbNi0iOkrcZKrXGny7JrX0_pTQ="
-      ],
-      "last_seen": "2026-11-25T19:23:25.353",
-      "longest_ai_kill_m": 93,
-      "longest_ai_kill_weapon": "VSD",
-      "market_income": 67084,
-      "market_sales": 112,
-      "name": "Falcon1976_Cz",
-      "vehicle_driver_entries": 4,
-      "vehicle_passenger_entries": 1,
-      "vehicle_trip_straightline_m": 15.6,
-      "vehicle_trips": 2,
-      "weapons": {
-        "SG5-K": 5,
-        "VSD": 16
-      },
-      "weapon_master_kills": 16,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -31291,7 +31298,38 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 48,
+      "ai_kills": 16,
+      "deaths": 2,
+      "favorite_weapon": "CR-527",
+      "favorite_weapon_kills": 9,
+      "first_seen": "2026-11-21T17:15:40.884",
+      "ids": [
+        "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
+      ],
+      "last_seen": "2026-11-25T19:48:53.476",
+      "longest_ai_kill_m": 145,
+      "longest_ai_kill_weapon": "CR-527",
+      "market_income": 48625,
+      "market_sales": 45,
+      "name": "Osman (Ozzi)",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "CR-527": 9,
+        "Revolver": 2,
+        "SG5-K": 1,
+        "SSG 82": 2,
+        "Sawed-off BK-43": 2
+      },
+      "weapon_master_kills": 9,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 51,
       "deaths": 4,
       "favorite_weapon": "CR-550 Savanna",
       "favorite_weapon_kills": 12,
@@ -31299,7 +31337,7 @@
       "ids": [
         "XHlRCDWGmzVXDmDWGPLzTo1Eo26IB8cxFjz_U5yhXuU="
       ],
-      "last_seen": "2026-11-24T17:25:16.684",
+      "last_seen": "2026-11-25T20:00:01.497",
       "longest_ai_kill_m": 353,
       "longest_ai_kill_weapon": "Kimber 8400 Advanced Tactical SOC II",
       "market_income": 40671,
@@ -31316,7 +31354,7 @@
         "CR-550 Savanna": 12,
         "Kimber 8400 Advanced Tactical SOC II": 8,
         "M4-A1": 2,
-        "SCR 16": 1,
+        "SCR 16": 4,
         "SK 59/66": 8
       },
       "weapon_master_kills": 12,
@@ -31551,37 +31589,6 @@
         "VSD": 10
       },
       "weapon_master_kills": 21,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 16,
-      "deaths": 2,
-      "favorite_weapon": "CR-527",
-      "favorite_weapon_kills": 9,
-      "first_seen": "2026-11-21T17:15:40.884",
-      "ids": [
-        "VEIQs00w4gObJUr8ne-Yfrt9USO_Sde83RcKM2CjqEo="
-      ],
-      "last_seen": "2026-11-25T15:32:36.127",
-      "longest_ai_kill_m": 145,
-      "longest_ai_kill_weapon": "CR-527",
-      "market_income": 28738,
-      "market_sales": 26,
-      "name": "Osman (Ozzi)",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "CR-527": 9,
-        "Revolver": 2,
-        "SG5-K": 1,
-        "SSG 82": 2,
-        "Sawed-off BK-43": 2
-      },
-      "weapon_master_kills": 9,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -32131,7 +32138,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 46,
+      "ai_kills": 47,
       "deaths": 2,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 29,
@@ -32139,7 +32146,7 @@
       "ids": [
         "OrbCAAp_8J-wVYq1zeqTO41ywhxlVXas_-_cd8mnZ2o="
       ],
-      "last_seen": "2026-11-23T20:45:36.978",
+      "last_seen": "2026-11-25T19:47:13.752",
       "longest_ai_kill_m": 497,
       "longest_ai_kill_weapon": "VS-89",
       "market_income": 5001,
@@ -32158,7 +32165,7 @@
         "Derringer": 1,
         "HK433 TAN": 2,
         "SG5-K": 2,
-        "VS-89": 5
+        "VS-89": 6
       },
       "weapon_master_kills": 29,
       "is_admin": false,
@@ -32818,7 +32825,7 @@
       }
     },
     {
-      "ai_kills": 217,
+      "ai_kills": 219,
       "deaths": 2,
       "favorite_weapon": "Desert Tech MDRX",
       "favorite_weapon_kills": 147,
@@ -32826,7 +32833,7 @@
       "ids": [
         "XwdQh5-9WB_43tFJt4eTku07s2ogtouYCU1FecZjjqQ="
       ],
-      "last_seen": "2026-11-25T19:26:11.790",
+      "last_seen": "2026-11-25T19:42:18.392",
       "longest_ai_kill_m": 824,
       "longest_ai_kill_weapon": "Desert Tech MDRX",
       "market_income": 723774,
@@ -32845,12 +32852,13 @@
         "Blaze": 2,
         "CR-527": 16,
         "Desert Tech MDRX": 147,
-        "HK G28 TAN": 5,
+        "HK G28 TAN": 6,
         "SG5-K": 1,
         "SK 59/66": 3,
         "Sa vz. 58 SF": 1,
         "VS-89": 4,
-        "VSD": 3
+        "VSD": 3,
+        "R12": 1
       },
       "weapon_master_kills": 147,
       "is_admin": false,
@@ -32963,6 +32971,7 @@
       "vehicle_trips": 112,
       "weapons": {
         "B&T APC223 PRO": 1,
+        "Barrett Model 98B": 1,
         "Black Rain Ordnance Commando": 10,
         "CR-527": 22,
         "CR-550 Savanna": 64,
@@ -32976,8 +32985,7 @@
         "Mlock-91": 1,
         "SG5-K": 3,
         "SK 59/66": 7,
-        "STEYR AUG A3": 9,
-        "Barrett Model 98B": 1
+        "STEYR AUG A3": 9
       },
       "weapon_master_kills": 107,
       "is_admin": false,
@@ -33124,9 +33132,9 @@
         "CR-527": 22,
         "CR-550 Savanna": 1,
         "M70 Tundra": 51,
+        "NEMO ARMS OMEN": 2,
         "THALES EF88 AUSTEYR": 9,
-        "VSD": 28,
-        "NEMO ARMS OMEN": 2
+        "VSD": 28
       },
       "weapon_master_kills": 51,
       "is_admin": false,
