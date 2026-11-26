@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 307,
   "staff_count": 6,
-  "updated_at_local": "26.11.2026 14:31",
+  "updated_at_local": "26.11.2026 15:01",
   "staff": [
     {
       "ai_kills": 0,
@@ -388,6 +388,7 @@
       "vehicle_trip_straightline_m": 17863.9,
       "vehicle_trips": 16,
       "weapons": {
+        "AK-105": 2,
         "AKMN": 8,
         "B&T APC223 PRO": 1,
         "Beretta ARX160": 5,
@@ -399,8 +400,7 @@
         "LMT M900 DMR": 234,
         "M70 Tundra": 8,
         "MDT TAC21": 2,
-        "RK 62 M2 (Multikaliberní)": 16,
-        "AK-105": 2
+        "RK 62 M2 (Multikaliberní)": 16
       },
       "weapon_master_kills": 234,
       "is_admin": false,
@@ -634,7 +634,7 @@
       }
     },
     {
-      "ai_kills": 244,
+      "ai_kills": 247,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -642,7 +642,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-26T13:54:34.083",
+      "last_seen": "2026-11-26T14:37:32.544",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 895240,
@@ -655,7 +655,7 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 22,
+        "M110 SASS TAN": 25,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -1401,11 +1401,11 @@
       "ids": [
         "ANEwJ5ZmW1hMrJh6f_mGM-UhDAjaCXCi9kGxKLmhzP4="
       ],
-      "last_seen": "2026-11-26T14:16:00.231",
+      "last_seen": "2026-11-26T14:53:26.728",
       "longest_ai_kill_m": 613,
       "longest_ai_kill_weapon": "DMR",
-      "market_income": 196229,
-      "market_sales": 356,
+      "market_income": 197934,
+      "market_sales": 359,
       "name": "Dead3y3_CZE",
       "vehicle_driver_entries": 32,
       "vehicle_passenger_entries": 0,
@@ -2867,6 +2867,36 @@
     },
     {
       "ai_kills": 25,
+      "deaths": 1,
+      "favorite_weapon": "AKS-74UN",
+      "favorite_weapon_kills": 11,
+      "first_seen": "2026-11-16T13:24:19.666",
+      "ids": [
+        "al8sG6U51bzSWPoVHH4qE10r4yogFnInUrTRPldmpmg="
+      ],
+      "last_seen": "2026-11-26T14:40:49.479",
+      "longest_ai_kill_m": 316,
+      "longest_ai_kill_weapon": "AKS-74UN",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Driller",
+      "vehicle_driver_entries": 2,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 2,
+      "weapons": {
+        "AKS-74UN": 11,
+        "FX-45": 2,
+        "M70 Tundra": 9,
+        "SG5-K": 3
+      },
+      "weapon_master_kills": 11,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 25,
       "deaths": 4,
       "favorite_weapon": "CR-527",
       "favorite_weapon_kills": 15,
@@ -3024,36 +3054,6 @@
         "DMR": 4,
         "KAS-74U": 2,
         "SK 59/66": 1
-      },
-      "weapon_master_kills": 10,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 23,
-      "deaths": 1,
-      "favorite_weapon": "AKS-74UN",
-      "favorite_weapon_kills": 10,
-      "first_seen": "2026-11-16T13:24:19.666",
-      "ids": [
-        "al8sG6U51bzSWPoVHH4qE10r4yogFnInUrTRPldmpmg="
-      ],
-      "last_seen": "2026-11-26T14:18:07.616",
-      "longest_ai_kill_m": 316,
-      "longest_ai_kill_weapon": "AKS-74UN",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Driller",
-      "vehicle_driver_entries": 2,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 2,
-      "weapons": {
-        "AKS-74UN": 10,
-        "FX-45": 2,
-        "M70 Tundra": 8,
-        "SG5-K": 3
       },
       "weapon_master_kills": 10,
       "is_admin": false,
@@ -6220,7 +6220,7 @@
       }
     },
     {
-      "ai_kills": 244,
+      "ai_kills": 247,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -6228,7 +6228,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-26T13:54:34.083",
+      "last_seen": "2026-11-26T14:37:32.544",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 895240,
@@ -6241,7 +6241,7 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 22,
+        "M110 SASS TAN": 25,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -6845,6 +6845,7 @@
       "vehicle_trip_straightline_m": 17863.9,
       "vehicle_trips": 16,
       "weapons": {
+        "AK-105": 2,
         "AKMN": 8,
         "B&T APC223 PRO": 1,
         "Beretta ARX160": 5,
@@ -6856,8 +6857,7 @@
         "LMT M900 DMR": 234,
         "M70 Tundra": 8,
         "MDT TAC21": 2,
-        "RK 62 M2 (Multikaliberní)": 16,
-        "AK-105": 2
+        "RK 62 M2 (Multikaliberní)": 16
       },
       "weapon_master_kills": 234,
       "is_admin": false,
@@ -6878,11 +6878,11 @@
       "ids": [
         "ANEwJ5ZmW1hMrJh6f_mGM-UhDAjaCXCi9kGxKLmhzP4="
       ],
-      "last_seen": "2026-11-26T14:16:00.231",
+      "last_seen": "2026-11-26T14:53:26.728",
       "longest_ai_kill_m": 613,
       "longest_ai_kill_weapon": "DMR",
-      "market_income": 196229,
-      "market_sales": 356,
+      "market_income": 197934,
+      "market_sales": 359,
       "name": "Dead3y3_CZE",
       "vehicle_driver_entries": 32,
       "vehicle_passenger_entries": 0,
@@ -8282,15 +8282,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 23,
+      "ai_kills": 25,
       "deaths": 1,
       "favorite_weapon": "AKS-74UN",
-      "favorite_weapon_kills": 10,
+      "favorite_weapon_kills": 11,
       "first_seen": "2026-11-16T13:24:19.666",
       "ids": [
         "al8sG6U51bzSWPoVHH4qE10r4yogFnInUrTRPldmpmg="
       ],
-      "last_seen": "2026-11-26T14:18:07.616",
+      "last_seen": "2026-11-26T14:40:49.479",
       "longest_ai_kill_m": 316,
       "longest_ai_kill_weapon": "AKS-74UN",
       "market_income": 0,
@@ -8301,12 +8301,12 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 2,
       "weapons": {
-        "AKS-74UN": 10,
+        "AKS-74UN": 11,
         "FX-45": 2,
-        "M70 Tundra": 8,
+        "M70 Tundra": 9,
         "SG5-K": 3
       },
-      "weapon_master_kills": 10,
+      "weapon_master_kills": 11,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -12822,6 +12822,7 @@
       "vehicle_trip_straightline_m": 17863.9,
       "vehicle_trips": 16,
       "weapons": {
+        "AK-105": 2,
         "AKMN": 8,
         "B&T APC223 PRO": 1,
         "Beretta ARX160": 5,
@@ -12833,8 +12834,7 @@
         "LMT M900 DMR": 234,
         "M70 Tundra": 8,
         "MDT TAC21": 2,
-        "RK 62 M2 (Multikaliberní)": 16,
-        "AK-105": 2
+        "RK 62 M2 (Multikaliberní)": 16
       },
       "weapon_master_kills": 234,
       "is_admin": false,
@@ -12976,11 +12976,11 @@
       "ids": [
         "ANEwJ5ZmW1hMrJh6f_mGM-UhDAjaCXCi9kGxKLmhzP4="
       ],
-      "last_seen": "2026-11-26T14:16:00.231",
+      "last_seen": "2026-11-26T14:53:26.728",
       "longest_ai_kill_m": 613,
       "longest_ai_kill_weapon": "DMR",
-      "market_income": 196229,
-      "market_sales": 356,
+      "market_income": 197934,
+      "market_sales": 359,
       "name": "Dead3y3_CZE",
       "vehicle_driver_entries": 32,
       "vehicle_passenger_entries": 0,
@@ -13377,6 +13377,31 @@
       "market_income": 0,
       "market_sales": 0,
       "name": "K4tsuk1",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 0,
+      "deaths": 3,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
+      "first_seen": "2026-11-24T22:22:10.777",
+      "ids": [
+        "JEQL4y5i3F8FmZkX5Ek40SoYV3a0EG4HPh2I4fl0fu0="
+      ],
+      "last_seen": "2026-11-26T14:32:32.380",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "MalTryX",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
@@ -14512,31 +14537,6 @@
       "market_income": 0,
       "market_sales": 0,
       "name": "macan",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 0,
-      "deaths": 2,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
-      "first_seen": "2026-11-24T22:22:10.777",
-      "ids": [
-        "JEQL4y5i3F8FmZkX5Ek40SoYV3a0EG4HPh2I4fl0fu0="
-      ],
-      "last_seen": "2026-11-25T14:13:19.518",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "MalTryX",
       "vehicle_driver_entries": 0,
       "vehicle_passenger_entries": 0,
       "vehicle_trip_straightline_m": 0.0,
@@ -15731,15 +15731,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 23,
+      "ai_kills": 25,
       "deaths": 1,
       "favorite_weapon": "AKS-74UN",
-      "favorite_weapon_kills": 10,
+      "favorite_weapon_kills": 11,
       "first_seen": "2026-11-16T13:24:19.666",
       "ids": [
         "al8sG6U51bzSWPoVHH4qE10r4yogFnInUrTRPldmpmg="
       ],
-      "last_seen": "2026-11-26T14:18:07.616",
+      "last_seen": "2026-11-26T14:40:49.479",
       "longest_ai_kill_m": 316,
       "longest_ai_kill_weapon": "AKS-74UN",
       "market_income": 0,
@@ -15750,12 +15750,12 @@
       "vehicle_trip_straightline_m": 0.0,
       "vehicle_trips": 2,
       "weapons": {
-        "AKS-74UN": 10,
+        "AKS-74UN": 11,
         "FX-45": 2,
-        "M70 Tundra": 8,
+        "M70 Tundra": 9,
         "SG5-K": 3
       },
-      "weapon_master_kills": 10,
+      "weapon_master_kills": 11,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -18440,6 +18440,7 @@
       "vehicle_trip_straightline_m": 17863.9,
       "vehicle_trips": 16,
       "weapons": {
+        "AK-105": 2,
         "AKMN": 8,
         "B&T APC223 PRO": 1,
         "Beretta ARX160": 5,
@@ -18451,8 +18452,7 @@
         "LMT M900 DMR": 234,
         "M70 Tundra": 8,
         "MDT TAC21": 2,
-        "RK 62 M2 (Multikaliberní)": 16,
-        "AK-105": 2
+        "RK 62 M2 (Multikaliberní)": 16
       },
       "weapon_master_kills": 234,
       "is_admin": false,
@@ -18629,7 +18629,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 244,
+      "ai_kills": 247,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -18637,7 +18637,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-26T13:54:34.083",
+      "last_seen": "2026-11-26T14:37:32.544",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 895240,
@@ -18650,7 +18650,7 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 22,
+        "M110 SASS TAN": 25,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -19628,11 +19628,11 @@
       "ids": [
         "ANEwJ5ZmW1hMrJh6f_mGM-UhDAjaCXCi9kGxKLmhzP4="
       ],
-      "last_seen": "2026-11-26T14:16:00.231",
+      "last_seen": "2026-11-26T14:53:26.728",
       "longest_ai_kill_m": 613,
       "longest_ai_kill_weapon": "DMR",
-      "market_income": 196229,
-      "market_sales": 356,
+      "market_income": 197934,
+      "market_sales": 359,
       "name": "Dead3y3_CZE",
       "vehicle_driver_entries": 32,
       "vehicle_passenger_entries": 0,
@@ -22143,7 +22143,7 @@
       }
     },
     {
-      "ai_kills": 244,
+      "ai_kills": 247,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -22151,7 +22151,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-26T13:54:34.083",
+      "last_seen": "2026-11-26T14:37:32.544",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 895240,
@@ -22164,7 +22164,7 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 22,
+        "M110 SASS TAN": 25,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -22643,6 +22643,7 @@
       "vehicle_trip_straightline_m": 17863.9,
       "vehicle_trips": 16,
       "weapons": {
+        "AK-105": 2,
         "AKMN": 8,
         "B&T APC223 PRO": 1,
         "Beretta ARX160": 5,
@@ -22654,8 +22655,7 @@
         "LMT M900 DMR": 234,
         "M70 Tundra": 8,
         "MDT TAC21": 2,
-        "RK 62 M2 (Multikaliberní)": 16,
-        "AK-105": 2
+        "RK 62 M2 (Multikaliberní)": 16
       },
       "weapon_master_kills": 234,
       "is_admin": false,
@@ -22873,11 +22873,11 @@
       "ids": [
         "ANEwJ5ZmW1hMrJh6f_mGM-UhDAjaCXCi9kGxKLmhzP4="
       ],
-      "last_seen": "2026-11-26T14:16:00.231",
+      "last_seen": "2026-11-26T14:53:26.728",
       "longest_ai_kill_m": 613,
       "longest_ai_kill_weapon": "DMR",
-      "market_income": 196229,
-      "market_sales": 356,
+      "market_income": 197934,
+      "market_sales": 359,
       "name": "Dead3y3_CZE",
       "vehicle_driver_entries": 32,
       "vehicle_passenger_entries": 0,
@@ -23722,6 +23722,7 @@
       "vehicle_trip_straightline_m": 17863.9,
       "vehicle_trips": 16,
       "weapons": {
+        "AK-105": 2,
         "AKMN": 8,
         "B&T APC223 PRO": 1,
         "Beretta ARX160": 5,
@@ -23733,8 +23734,7 @@
         "LMT M900 DMR": 234,
         "M70 Tundra": 8,
         "MDT TAC21": 2,
-        "RK 62 M2 (Multikaliberní)": 16,
-        "AK-105": 2
+        "RK 62 M2 (Multikaliberní)": 16
       },
       "weapon_master_kills": 234,
       "is_admin": false,
@@ -23747,7 +23747,7 @@
       }
     },
     {
-      "ai_kills": 244,
+      "ai_kills": 247,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -23755,7 +23755,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-26T13:54:34.083",
+      "last_seen": "2026-11-26T14:37:32.544",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 895240,
@@ -23768,7 +23768,7 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 22,
+        "M110 SASS TAN": 25,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -24717,11 +24717,11 @@
       "ids": [
         "ANEwJ5ZmW1hMrJh6f_mGM-UhDAjaCXCi9kGxKLmhzP4="
       ],
-      "last_seen": "2026-11-26T14:16:00.231",
+      "last_seen": "2026-11-26T14:53:26.728",
       "longest_ai_kill_m": 613,
       "longest_ai_kill_weapon": "DMR",
-      "market_income": 196229,
-      "market_sales": 356,
+      "market_income": 197934,
+      "market_sales": 359,
       "name": "Dead3y3_CZE",
       "vehicle_driver_entries": 32,
       "vehicle_passenger_entries": 0,
@@ -26633,6 +26633,36 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 25,
+      "deaths": 1,
+      "favorite_weapon": "AKS-74UN",
+      "favorite_weapon_kills": 11,
+      "first_seen": "2026-11-16T13:24:19.666",
+      "ids": [
+        "al8sG6U51bzSWPoVHH4qE10r4yogFnInUrTRPldmpmg="
+      ],
+      "last_seen": "2026-11-26T14:40:49.479",
+      "longest_ai_kill_m": 316,
+      "longest_ai_kill_weapon": "AKS-74UN",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Driller",
+      "vehicle_driver_entries": 2,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 2,
+      "weapons": {
+        "AKS-74UN": 11,
+        "FX-45": 2,
+        "M70 Tundra": 9,
+        "SG5-K": 3
+      },
+      "weapon_master_kills": 11,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 22,
       "deaths": 2,
       "favorite_weapon": "CR-527",
@@ -26835,36 +26865,6 @@
         "Deagle": 4,
         "HK G36": 7,
         "K14": 2
-      },
-      "weapon_master_kills": 10,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 23,
-      "deaths": 1,
-      "favorite_weapon": "AKS-74UN",
-      "favorite_weapon_kills": 10,
-      "first_seen": "2026-11-16T13:24:19.666",
-      "ids": [
-        "al8sG6U51bzSWPoVHH4qE10r4yogFnInUrTRPldmpmg="
-      ],
-      "last_seen": "2026-11-26T14:18:07.616",
-      "longest_ai_kill_m": 316,
-      "longest_ai_kill_weapon": "AKS-74UN",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Driller",
-      "vehicle_driver_entries": 2,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 2,
-      "weapons": {
-        "AKS-74UN": 10,
-        "FX-45": 2,
-        "M70 Tundra": 8,
-        "SG5-K": 3
       },
       "weapon_master_kills": 10,
       "is_admin": false,
@@ -29311,6 +29311,7 @@
       "vehicle_trip_straightline_m": 17863.9,
       "vehicle_trips": 16,
       "weapons": {
+        "AK-105": 2,
         "AKMN": 8,
         "B&T APC223 PRO": 1,
         "Beretta ARX160": 5,
@@ -29322,8 +29323,7 @@
         "LMT M900 DMR": 234,
         "M70 Tundra": 8,
         "MDT TAC21": 2,
-        "RK 62 M2 (Multikaliberní)": 16,
-        "AK-105": 2
+        "RK 62 M2 (Multikaliberní)": 16
       },
       "weapon_master_kills": 234,
       "is_admin": false,
@@ -29506,7 +29506,7 @@
       }
     },
     {
-      "ai_kills": 244,
+      "ai_kills": 247,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -29514,7 +29514,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-26T13:54:34.083",
+      "last_seen": "2026-11-26T14:37:32.544",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 895240,
@@ -29527,7 +29527,7 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 22,
+        "M110 SASS TAN": 25,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -30263,11 +30263,11 @@
       "ids": [
         "ANEwJ5ZmW1hMrJh6f_mGM-UhDAjaCXCi9kGxKLmhzP4="
       ],
-      "last_seen": "2026-11-26T14:16:00.231",
+      "last_seen": "2026-11-26T14:53:26.728",
       "longest_ai_kill_m": 613,
       "longest_ai_kill_weapon": "DMR",
-      "market_income": 196229,
-      "market_sales": 356,
+      "market_income": 197934,
+      "market_sales": 359,
       "name": "Dead3y3_CZE",
       "vehicle_driver_entries": 32,
       "vehicle_passenger_entries": 0,
@@ -32915,6 +32915,7 @@
       "vehicle_trip_straightline_m": 17863.9,
       "vehicle_trips": 16,
       "weapons": {
+        "AK-105": 2,
         "AKMN": 8,
         "B&T APC223 PRO": 1,
         "Beretta ARX160": 5,
@@ -32926,8 +32927,7 @@
         "LMT M900 DMR": 234,
         "M70 Tundra": 8,
         "MDT TAC21": 2,
-        "RK 62 M2 (Multikaliberní)": 16,
-        "AK-105": 2
+        "RK 62 M2 (Multikaliberní)": 16
       },
       "weapon_master_kills": 234,
       "is_admin": false,
@@ -33157,7 +33157,7 @@
       }
     },
     {
-      "ai_kills": 244,
+      "ai_kills": 247,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -33165,7 +33165,7 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-26T13:54:34.083",
+      "last_seen": "2026-11-26T14:37:32.544",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
       "market_income": 895240,
@@ -33178,7 +33178,7 @@
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 22,
+        "M110 SASS TAN": 25,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
