@@ -2,7 +2,7 @@
   "season_start": "2026-11-03",
   "player_count": 310,
   "staff_count": 6,
-  "updated_at_local": "27.11.2026 01:01",
+  "updated_at_local": "27.11.2026 01:31",
   "staff": [
     {
       "ai_kills": 0,
@@ -179,7 +179,7 @@
   ],
   "ai_hunter": [
     {
-      "ai_kills": 728,
+      "ai_kills": 732,
       "deaths": 25,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -188,7 +188,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-26T23:51:19.785",
+      "last_seen": "2026-11-27T01:30:47.805",
       "longest_ai_kill_m": 709,
       "longest_ai_kill_weapon": "MDT TAC21",
       "market_income": 3392609,
@@ -211,7 +211,7 @@
         "L15 Defense": 17,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 250,
+        "MDT TAC21": 254,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -557,11 +557,11 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-27T01:01:38.204",
+      "last_seen": "2026-11-27T01:02:55.759",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 1010369,
-      "market_sales": 1215,
+      "market_income": 1018492,
+      "market_sales": 1225,
       "name": "Matesin",
       "vehicle_driver_entries": 163,
       "vehicle_passenger_entries": 44,
@@ -570,6 +570,7 @@
       "weapons": {
         "AUR AX": 2,
         "Blaze": 121,
+        "COLT M4A1 CUSTOM TAN": 2,
         "CR-527": 11,
         "KAS-74U": 5,
         "L15 Defense TAN": 5,
@@ -578,8 +579,7 @@
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
-        "VS-89": 8,
-        "COLT M4A1 CUSTOM TAN": 2
+        "VS-89": 8
       },
       "weapon_master_kills": 121,
       "is_admin": false,
@@ -637,7 +637,7 @@
       }
     },
     {
-      "ai_kills": 252,
+      "ai_kills": 254,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -645,20 +645,20 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-27T00:52:36.461",
+      "last_seen": "2026-11-27T01:30:33.102",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 954915,
-      "market_sales": 1095,
+      "market_income": 975378,
+      "market_sales": 1131,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 57,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 92319.8,
-      "vehicle_trips": 57,
+      "vehicle_trips": 58,
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 30,
+        "M110 SASS TAN": 32,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -1012,11 +1012,11 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-26T23:14:44.816",
+      "last_seen": "2026-11-27T01:31:06.367",
       "longest_ai_kill_m": 797,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 251568,
-      "market_sales": 31,
+      "market_income": 256153,
+      "market_sales": 36,
       "name": "Apum",
       "vehicle_driver_entries": 2,
       "vehicle_passenger_entries": 0,
@@ -1590,7 +1590,7 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-26T22:42:38.798",
+      "last_seen": "2026-11-27T01:06:38.684",
       "longest_ai_kill_m": 379,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 266458,
@@ -4143,6 +4143,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 10,
+      "deaths": 9,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 4,
+      "first_seen": "2026-11-03T19:54:50.309",
+      "ids": [
+        "8CcYiA313Kak7WeOJUImQgfi9dD83BVriZf9cWgXwMM="
+      ],
+      "last_seen": "2026-11-27T01:23:01.596",
+      "longest_ai_kill_m": 45,
+      "longest_ai_kill_weapon": "BK-18",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Speasis",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 4,
+        "CR-527": 1,
+        "FX-45": 2,
+        "IJ-70": 2,
+        "Sawed-off BK-43": 1
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 9,
       "deaths": 1,
       "favorite_weapon": "CR-527",
@@ -4279,36 +4310,6 @@
         "HK G28 TAN": 1,
         "RPK-74M": 2,
         "SCR 16": 4
-      },
-      "weapon_master_kills": 4,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 9,
-      "deaths": 8,
-      "favorite_weapon": "BK-18",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-11-03T19:54:50.309",
-      "ids": [
-        "8CcYiA313Kak7WeOJUImQgfi9dD83BVriZf9cWgXwMM="
-      ],
-      "last_seen": "2026-11-27T00:59:48.724",
-      "longest_ai_kill_m": 45,
-      "longest_ai_kill_weapon": "BK-18",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Speasis",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-18": 4,
-        "CR-527": 1,
-        "FX-45": 2,
-        "IJ-70": 2
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -6071,11 +6072,11 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-26T23:14:44.816",
+      "last_seen": "2026-11-27T01:31:06.367",
       "longest_ai_kill_m": 797,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 251568,
-      "market_sales": 31,
+      "market_income": 256153,
+      "market_sales": 36,
       "name": "Apum",
       "vehicle_driver_entries": 2,
       "vehicle_passenger_entries": 0,
@@ -6271,7 +6272,7 @@
       }
     },
     {
-      "ai_kills": 252,
+      "ai_kills": 254,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -6279,20 +6280,20 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-27T00:52:36.461",
+      "last_seen": "2026-11-27T01:30:33.102",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 954915,
-      "market_sales": 1095,
+      "market_income": 975378,
+      "market_sales": 1131,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 57,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 92319.8,
-      "vehicle_trips": 57,
+      "vehicle_trips": 58,
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 30,
+        "M110 SASS TAN": 32,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -6305,7 +6306,7 @@
       }
     },
     {
-      "ai_kills": 728,
+      "ai_kills": 732,
       "deaths": 25,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -6314,7 +6315,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-26T23:51:19.785",
+      "last_seen": "2026-11-27T01:30:47.805",
       "longest_ai_kill_m": 709,
       "longest_ai_kill_weapon": "MDT TAC21",
       "market_income": 3392609,
@@ -6337,7 +6338,7 @@
         "L15 Defense": 17,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 250,
+        "MDT TAC21": 254,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -6782,11 +6783,11 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-27T01:01:38.204",
+      "last_seen": "2026-11-27T01:02:55.759",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 1010369,
-      "market_sales": 1215,
+      "market_income": 1018492,
+      "market_sales": 1225,
       "name": "Matesin",
       "vehicle_driver_entries": 163,
       "vehicle_passenger_entries": 44,
@@ -6795,6 +6796,7 @@
       "weapons": {
         "AUR AX": 2,
         "Blaze": 121,
+        "COLT M4A1 CUSTOM TAN": 2,
         "CR-527": 11,
         "KAS-74U": 5,
         "L15 Defense TAN": 5,
@@ -6803,8 +6805,7 @@
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
-        "VS-89": 8,
-        "COLT M4A1 CUSTOM TAN": 2
+        "VS-89": 8
       },
       "weapon_master_kills": 121,
       "is_admin": false,
@@ -7948,7 +7949,7 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-26T22:42:38.798",
+      "last_seen": "2026-11-27T01:06:38.684",
       "longest_ai_kill_m": 379,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 266458,
@@ -10613,15 +10614,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 9,
-      "deaths": 8,
+      "ai_kills": 10,
+      "deaths": 9,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 4,
       "first_seen": "2026-11-03T19:54:50.309",
       "ids": [
         "8CcYiA313Kak7WeOJUImQgfi9dD83BVriZf9cWgXwMM="
       ],
-      "last_seen": "2026-11-27T00:59:48.724",
+      "last_seen": "2026-11-27T01:23:01.596",
       "longest_ai_kill_m": 45,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 0,
@@ -10635,7 +10636,8 @@
         "BK-18": 4,
         "CR-527": 1,
         "FX-45": 2,
-        "IJ-70": 2
+        "IJ-70": 2,
+        "Sawed-off BK-43": 1
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -11265,7 +11267,7 @@
   ],
   "most_deaths": [
     {
-      "ai_kills": 728,
+      "ai_kills": 732,
       "deaths": 25,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -11274,7 +11276,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-26T23:51:19.785",
+      "last_seen": "2026-11-27T01:30:47.805",
       "longest_ai_kill_m": 709,
       "longest_ai_kill_weapon": "MDT TAC21",
       "market_income": 3392609,
@@ -11297,7 +11299,7 @@
         "L15 Defense": 17,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 250,
+        "MDT TAC21": 254,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -11559,6 +11561,37 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 10,
+      "deaths": 9,
+      "favorite_weapon": "BK-18",
+      "favorite_weapon_kills": 4,
+      "first_seen": "2026-11-03T19:54:50.309",
+      "ids": [
+        "8CcYiA313Kak7WeOJUImQgfi9dD83BVriZf9cWgXwMM="
+      ],
+      "last_seen": "2026-11-27T01:23:01.596",
+      "longest_ai_kill_m": 45,
+      "longest_ai_kill_weapon": "BK-18",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "Speasis",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {
+        "BK-18": 4,
+        "CR-527": 1,
+        "FX-45": 2,
+        "IJ-70": 2,
+        "Sawed-off BK-43": 1
+      },
+      "weapon_master_kills": 4,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
       "ai_kills": 31,
       "deaths": 9,
       "favorite_weapon": "CR-527",
@@ -11700,36 +11733,6 @@
         "VSD": 3
       },
       "weapon_master_kills": 13,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 9,
-      "deaths": 8,
-      "favorite_weapon": "BK-18",
-      "favorite_weapon_kills": 4,
-      "first_seen": "2026-11-03T19:54:50.309",
-      "ids": [
-        "8CcYiA313Kak7WeOJUImQgfi9dD83BVriZf9cWgXwMM="
-      ],
-      "last_seen": "2026-11-27T00:59:48.724",
-      "longest_ai_kill_m": 45,
-      "longest_ai_kill_weapon": "BK-18",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "Speasis",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {
-        "BK-18": 4,
-        "CR-527": 1,
-        "FX-45": 2,
-        "IJ-70": 2
-      },
-      "weapon_master_kills": 4,
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
@@ -13748,6 +13751,29 @@
       "deaths": 3,
       "favorite_weapon": "",
       "favorite_weapon_kills": 0,
+      "first_seen": "2026-11-07T13:26:47.864",
+      "ids": [],
+      "last_seen": "2026-11-27T01:23:30.655",
+      "longest_ai_kill_m": 0,
+      "longest_ai_kill_weapon": "",
+      "market_income": 0,
+      "market_sales": 0,
+      "name": "SurvivorM_Denis",
+      "vehicle_driver_entries": 0,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 0.0,
+      "vehicle_trips": 0,
+      "weapons": {},
+      "weapon_master_kills": 0,
+      "is_admin": false,
+      "aris_score": 0,
+      "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 0,
+      "deaths": 3,
+      "favorite_weapon": "",
+      "favorite_weapon_kills": 0,
       "first_seen": "2026-11-10T11:44:26.089",
       "ids": [],
       "last_seen": "2026-11-24T13:19:50.566",
@@ -15179,29 +15205,6 @@
       "deaths": 2,
       "favorite_weapon": "",
       "favorite_weapon_kills": 0,
-      "first_seen": "2026-11-07T13:26:47.864",
-      "ids": [],
-      "last_seen": "2026-11-09T21:56:07.143",
-      "longest_ai_kill_m": 0,
-      "longest_ai_kill_weapon": "",
-      "market_income": 0,
-      "market_sales": 0,
-      "name": "SurvivorM_Denis",
-      "vehicle_driver_entries": 0,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 0.0,
-      "vehicle_trips": 0,
-      "weapons": {},
-      "weapon_master_kills": 0,
-      "is_admin": false,
-      "aris_score": 0,
-      "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 0,
-      "deaths": 2,
-      "favorite_weapon": "",
-      "favorite_weapon_kills": 0,
       "first_seen": "2026-11-09T10:14:16.048",
       "ids": [],
       "last_seen": "2026-11-16T07:46:55.802",
@@ -15304,7 +15307,7 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-26T22:42:38.798",
+      "last_seen": "2026-11-27T01:06:38.684",
       "longest_ai_kill_m": 379,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 266458,
@@ -18499,7 +18502,7 @@
       }
     },
     {
-      "ai_kills": 728,
+      "ai_kills": 732,
       "deaths": 25,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -18508,7 +18511,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-26T23:51:19.785",
+      "last_seen": "2026-11-27T01:30:47.805",
       "longest_ai_kill_m": 709,
       "longest_ai_kill_weapon": "MDT TAC21",
       "market_income": 3392609,
@@ -18531,7 +18534,7 @@
         "L15 Defense": 17,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 250,
+        "MDT TAC21": 254,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -18898,11 +18901,11 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-27T01:01:38.204",
+      "last_seen": "2026-11-27T01:02:55.759",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 1010369,
-      "market_sales": 1215,
+      "market_income": 1018492,
+      "market_sales": 1225,
       "name": "Matesin",
       "vehicle_driver_entries": 163,
       "vehicle_passenger_entries": 44,
@@ -18911,6 +18914,7 @@
       "weapons": {
         "AUR AX": 2,
         "Blaze": 121,
+        "COLT M4A1 CUSTOM TAN": 2,
         "CR-527": 11,
         "KAS-74U": 5,
         "L15 Defense TAN": 5,
@@ -18919,8 +18923,7 @@
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
-        "VS-89": 8,
-        "COLT M4A1 CUSTOM TAN": 2
+        "VS-89": 8
       },
       "weapon_master_kills": 121,
       "is_admin": false,
@@ -18966,7 +18969,7 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 252,
+      "ai_kills": 254,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -18974,20 +18977,20 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-27T00:52:36.461",
+      "last_seen": "2026-11-27T01:30:33.102",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 954915,
-      "market_sales": 1095,
+      "market_income": 975378,
+      "market_sales": 1131,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 57,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 92319.8,
-      "vehicle_trips": 57,
+      "vehicle_trips": 58,
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 30,
+        "M110 SASS TAN": 32,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -19716,7 +19719,7 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-26T22:42:38.798",
+      "last_seen": "2026-11-27T01:06:38.684",
       "longest_ai_kill_m": 379,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 266458,
@@ -19740,6 +19743,43 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
+    },
+    {
+      "ai_kills": 158,
+      "deaths": 0,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 74,
+      "first_seen": "2026-11-03T20:49:33.157",
+      "ids": [
+        "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
+      ],
+      "last_seen": "2026-11-27T01:31:06.367",
+      "longest_ai_kill_m": 797,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 256153,
+      "market_sales": 36,
+      "name": "Apum",
+      "vehicle_driver_entries": 2,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 20.5,
+      "vehicle_trips": 2,
+      "weapons": {
+        "CR-527": 25,
+        "FX-45": 1,
+        "L15 Defense TAN": 22,
+        "M110 SASS TAN": 2,
+        "M16-A2": 3,
+        "M70 Tundra": 74,
+        "Pioneer": 14,
+        "SCR 16": 12,
+        "SK 59/66": 5
+      },
+      "weapon_master_kills": 74,
+      "is_admin": false,
+      "aris_score": 20,
+      "aris_score_breakdown": {
+        "longest_shot": 20
+      }
     },
     {
       "ai_kills": 48,
@@ -19773,43 +19813,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 158,
-      "deaths": 0,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 74,
-      "first_seen": "2026-11-03T20:49:33.157",
-      "ids": [
-        "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
-      ],
-      "last_seen": "2026-11-26T23:14:44.816",
-      "longest_ai_kill_m": 797,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 251568,
-      "market_sales": 31,
-      "name": "Apum",
-      "vehicle_driver_entries": 2,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 20.5,
-      "vehicle_trips": 2,
-      "weapons": {
-        "CR-527": 25,
-        "FX-45": 1,
-        "L15 Defense TAN": 22,
-        "M110 SASS TAN": 2,
-        "M16-A2": 3,
-        "M70 Tundra": 74,
-        "Pioneer": 14,
-        "SCR 16": 12,
-        "SK 59/66": 5
-      },
-      "weapon_master_kills": 74,
-      "is_admin": false,
-      "aris_score": 20,
-      "aris_score_breakdown": {
-        "longest_shot": 20
-      }
     },
     {
       "ai_kills": 69,
@@ -22161,11 +22164,11 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-27T01:01:38.204",
+      "last_seen": "2026-11-27T01:02:55.759",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 1010369,
-      "market_sales": 1215,
+      "market_income": 1018492,
+      "market_sales": 1225,
       "name": "Matesin",
       "vehicle_driver_entries": 163,
       "vehicle_passenger_entries": 44,
@@ -22174,6 +22177,7 @@
       "weapons": {
         "AUR AX": 2,
         "Blaze": 121,
+        "COLT M4A1 CUSTOM TAN": 2,
         "CR-527": 11,
         "KAS-74U": 5,
         "L15 Defense TAN": 5,
@@ -22182,8 +22186,7 @@
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
-        "VS-89": 8,
-        "COLT M4A1 CUSTOM TAN": 2
+        "VS-89": 8
       },
       "weapon_master_kills": 121,
       "is_admin": false,
@@ -22359,7 +22362,7 @@
       }
     },
     {
-      "ai_kills": 728,
+      "ai_kills": 732,
       "deaths": 25,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -22368,7 +22371,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-26T23:51:19.785",
+      "last_seen": "2026-11-27T01:30:47.805",
       "longest_ai_kill_m": 709,
       "longest_ai_kill_weapon": "MDT TAC21",
       "market_income": 3392609,
@@ -22391,7 +22394,7 @@
         "L15 Defense": 17,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 250,
+        "MDT TAC21": 254,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -22405,7 +22408,7 @@
       }
     },
     {
-      "ai_kills": 252,
+      "ai_kills": 254,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -22413,20 +22416,20 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-27T00:52:36.461",
+      "last_seen": "2026-11-27T01:30:33.102",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 954915,
-      "market_sales": 1095,
+      "market_income": 975378,
+      "market_sales": 1131,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 57,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 92319.8,
-      "vehicle_trips": 57,
+      "vehicle_trips": 58,
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 30,
+        "M110 SASS TAN": 32,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -23661,11 +23664,11 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-26T23:14:44.816",
+      "last_seen": "2026-11-27T01:31:06.367",
       "longest_ai_kill_m": 797,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 251568,
-      "market_sales": 31,
+      "market_income": 256153,
+      "market_sales": 36,
       "name": "Apum",
       "vehicle_driver_entries": 2,
       "vehicle_passenger_entries": 0,
@@ -23924,7 +23927,7 @@
       }
     },
     {
-      "ai_kills": 728,
+      "ai_kills": 732,
       "deaths": 25,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -23933,7 +23936,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-26T23:51:19.785",
+      "last_seen": "2026-11-27T01:30:47.805",
       "longest_ai_kill_m": 709,
       "longest_ai_kill_weapon": "MDT TAC21",
       "market_income": 3392609,
@@ -23956,7 +23959,7 @@
         "L15 Defense": 17,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 250,
+        "MDT TAC21": 254,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -24015,7 +24018,7 @@
       }
     },
     {
-      "ai_kills": 252,
+      "ai_kills": 254,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -24023,20 +24026,20 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-27T00:52:36.461",
+      "last_seen": "2026-11-27T01:30:33.102",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 954915,
-      "market_sales": 1095,
+      "market_income": 975378,
+      "market_sales": 1131,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 57,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 92319.8,
-      "vehicle_trips": 57,
+      "vehicle_trips": 58,
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 30,
+        "M110 SASS TAN": 32,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -24236,11 +24239,11 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-27T01:01:38.204",
+      "last_seen": "2026-11-27T01:02:55.759",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 1010369,
-      "market_sales": 1215,
+      "market_income": 1018492,
+      "market_sales": 1225,
       "name": "Matesin",
       "vehicle_driver_entries": 163,
       "vehicle_passenger_entries": 44,
@@ -24249,6 +24252,7 @@
       "weapons": {
         "AUR AX": 2,
         "Blaze": 121,
+        "COLT M4A1 CUSTOM TAN": 2,
         "CR-527": 11,
         "KAS-74U": 5,
         "L15 Defense TAN": 5,
@@ -24257,8 +24261,7 @@
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
-        "VS-89": 8,
-        "COLT M4A1 CUSTOM TAN": 2
+        "VS-89": 8
       },
       "weapon_master_kills": 121,
       "is_admin": false,
@@ -24622,11 +24625,11 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-26T23:14:44.816",
+      "last_seen": "2026-11-27T01:31:06.367",
       "longest_ai_kill_m": 797,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 251568,
-      "market_sales": 31,
+      "market_income": 256153,
+      "market_sales": 36,
       "name": "Apum",
       "vehicle_driver_entries": 2,
       "vehicle_passenger_entries": 0,
@@ -25370,7 +25373,7 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-26T22:42:38.798",
+      "last_seen": "2026-11-27T01:06:38.684",
       "longest_ai_kill_m": 379,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 266458,
@@ -28308,15 +28311,15 @@
       "aris_score_breakdown": {}
     },
     {
-      "ai_kills": 9,
-      "deaths": 8,
+      "ai_kills": 10,
+      "deaths": 9,
       "favorite_weapon": "BK-18",
       "favorite_weapon_kills": 4,
       "first_seen": "2026-11-03T19:54:50.309",
       "ids": [
         "8CcYiA313Kak7WeOJUImQgfi9dD83BVriZf9cWgXwMM="
       ],
-      "last_seen": "2026-11-27T00:59:48.724",
+      "last_seen": "2026-11-27T01:23:01.596",
       "longest_ai_kill_m": 45,
       "longest_ai_kill_weapon": "BK-18",
       "market_income": 0,
@@ -28330,7 +28333,8 @@
         "BK-18": 4,
         "CR-527": 1,
         "FX-45": 2,
-        "IJ-70": 2
+        "IJ-70": 2,
+        "Sawed-off BK-43": 1
       },
       "weapon_master_kills": 4,
       "is_admin": false,
@@ -29651,7 +29655,7 @@
       }
     },
     {
-      "ai_kills": 728,
+      "ai_kills": 732,
       "deaths": 25,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -29660,7 +29664,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-26T23:51:19.785",
+      "last_seen": "2026-11-27T01:30:47.805",
       "longest_ai_kill_m": 709,
       "longest_ai_kill_weapon": "MDT TAC21",
       "market_income": 3392609,
@@ -29683,7 +29687,7 @@
         "L15 Defense": 17,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 250,
+        "MDT TAC21": 254,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -29786,11 +29790,11 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-27T01:01:38.204",
+      "last_seen": "2026-11-27T01:02:55.759",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 1010369,
-      "market_sales": 1215,
+      "market_income": 1018492,
+      "market_sales": 1225,
       "name": "Matesin",
       "vehicle_driver_entries": 163,
       "vehicle_passenger_entries": 44,
@@ -29799,6 +29803,7 @@
       "weapons": {
         "AUR AX": 2,
         "Blaze": 121,
+        "COLT M4A1 CUSTOM TAN": 2,
         "CR-527": 11,
         "KAS-74U": 5,
         "L15 Defense TAN": 5,
@@ -29807,8 +29812,7 @@
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
-        "VS-89": 8,
-        "COLT M4A1 CUSTOM TAN": 2
+        "VS-89": 8
       },
       "weapon_master_kills": 121,
       "is_admin": false,
@@ -29821,7 +29825,7 @@
       }
     },
     {
-      "ai_kills": 252,
+      "ai_kills": 254,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -29829,20 +29833,20 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-27T00:52:36.461",
+      "last_seen": "2026-11-27T01:30:33.102",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 954915,
-      "market_sales": 1095,
+      "market_income": 975378,
+      "market_sales": 1131,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 57,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 92319.8,
-      "vehicle_trips": 57,
+      "vehicle_trips": 58,
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 30,
+        "M110 SASS TAN": 32,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -30819,7 +30823,7 @@
       "ids": [
         "PLQgaCGEN-m_BCRbqMTO4IfvyOcLQ1BC7cYWluBlTZY="
       ],
-      "last_seen": "2026-11-26T22:42:38.798",
+      "last_seen": "2026-11-27T01:06:38.684",
       "longest_ai_kill_m": 379,
       "longest_ai_kill_weapon": "M70 Tundra",
       "market_income": 266458,
@@ -31986,6 +31990,43 @@
       "aris_score_breakdown": {}
     },
     {
+      "ai_kills": 158,
+      "deaths": 0,
+      "favorite_weapon": "M70 Tundra",
+      "favorite_weapon_kills": 74,
+      "first_seen": "2026-11-03T20:49:33.157",
+      "ids": [
+        "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
+      ],
+      "last_seen": "2026-11-27T01:31:06.367",
+      "longest_ai_kill_m": 797,
+      "longest_ai_kill_weapon": "M70 Tundra",
+      "market_income": 256153,
+      "market_sales": 36,
+      "name": "Apum",
+      "vehicle_driver_entries": 2,
+      "vehicle_passenger_entries": 0,
+      "vehicle_trip_straightline_m": 20.5,
+      "vehicle_trips": 2,
+      "weapons": {
+        "CR-527": 25,
+        "FX-45": 1,
+        "L15 Defense TAN": 22,
+        "M110 SASS TAN": 2,
+        "M16-A2": 3,
+        "M70 Tundra": 74,
+        "Pioneer": 14,
+        "SCR 16": 12,
+        "SK 59/66": 5
+      },
+      "weapon_master_kills": 74,
+      "is_admin": false,
+      "aris_score": 20,
+      "aris_score_breakdown": {
+        "longest_shot": 20
+      }
+    },
+    {
       "ai_kills": 86,
       "deaths": 3,
       "favorite_weapon": "CR-527",
@@ -32086,43 +32127,6 @@
       "is_admin": false,
       "aris_score": 0,
       "aris_score_breakdown": {}
-    },
-    {
-      "ai_kills": 158,
-      "deaths": 0,
-      "favorite_weapon": "M70 Tundra",
-      "favorite_weapon_kills": 74,
-      "first_seen": "2026-11-03T20:49:33.157",
-      "ids": [
-        "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
-      ],
-      "last_seen": "2026-11-26T23:14:44.816",
-      "longest_ai_kill_m": 797,
-      "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 251568,
-      "market_sales": 31,
-      "name": "Apum",
-      "vehicle_driver_entries": 2,
-      "vehicle_passenger_entries": 0,
-      "vehicle_trip_straightline_m": 20.5,
-      "vehicle_trips": 2,
-      "weapons": {
-        "CR-527": 25,
-        "FX-45": 1,
-        "L15 Defense TAN": 22,
-        "M110 SASS TAN": 2,
-        "M16-A2": 3,
-        "M70 Tundra": 74,
-        "Pioneer": 14,
-        "SCR 16": 12,
-        "SK 59/66": 5
-      },
-      "weapon_master_kills": 74,
-      "is_admin": false,
-      "aris_score": 20,
-      "aris_score_breakdown": {
-        "longest_shot": 20
-      }
     },
     {
       "ai_kills": 8,
@@ -33023,7 +33027,7 @@
       }
     },
     {
-      "ai_kills": 728,
+      "ai_kills": 732,
       "deaths": 25,
       "favorite_weapon": "DMR",
       "favorite_weapon_kills": 263,
@@ -33032,7 +33036,7 @@
         "0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY=",
         "2) (0UcWRagDcO3W3O3xstGjKbQkgdMnVpZAyNv8iHjVjEY="
       ],
-      "last_seen": "2026-11-26T23:51:19.785",
+      "last_seen": "2026-11-27T01:30:47.805",
       "longest_ai_kill_m": 709,
       "longest_ai_kill_weapon": "MDT TAC21",
       "market_income": 3392609,
@@ -33055,7 +33059,7 @@
         "L15 Defense": 17,
         "M4-A1": 2,
         "M70 Tundra": 27,
-        "MDT TAC21": 250,
+        "MDT TAC21": 254,
         "Repeater Carbine": 3
       },
       "weapon_master_kills": 263,
@@ -33393,11 +33397,11 @@
       "ids": [
         "rabH55P_CnvuTxv5s2iZh9maoaWVnxC1aGAYpg3hFV0="
       ],
-      "last_seen": "2026-11-27T01:01:38.204",
+      "last_seen": "2026-11-27T01:02:55.759",
       "longest_ai_kill_m": 633,
       "longest_ai_kill_weapon": "Blaze",
-      "market_income": 1010369,
-      "market_sales": 1215,
+      "market_income": 1018492,
+      "market_sales": 1225,
       "name": "Matesin",
       "vehicle_driver_entries": 163,
       "vehicle_passenger_entries": 44,
@@ -33406,6 +33410,7 @@
       "weapons": {
         "AUR AX": 2,
         "Blaze": 121,
+        "COLT M4A1 CUSTOM TAN": 2,
         "CR-527": 11,
         "KAS-74U": 5,
         "L15 Defense TAN": 5,
@@ -33414,8 +33419,7 @@
         "McMillan CS5": 7,
         "SCR 16": 4,
         "SG5-K": 2,
-        "VS-89": 8,
-        "COLT M4A1 CUSTOM TAN": 2
+        "VS-89": 8
       },
       "weapon_master_kills": 121,
       "is_admin": false,
@@ -33517,7 +33521,7 @@
       }
     },
     {
-      "ai_kills": 252,
+      "ai_kills": 254,
       "deaths": 0,
       "favorite_weapon": "M110 SASS",
       "favorite_weapon_kills": 166,
@@ -33525,20 +33529,20 @@
       "ids": [
         "AncMzyqBEEvCJcUJe8THR623D51eyYuMtPLd8bn3FPA="
       ],
-      "last_seen": "2026-11-27T00:52:36.461",
+      "last_seen": "2026-11-27T01:30:33.102",
       "longest_ai_kill_m": 714,
       "longest_ai_kill_weapon": "M110 SASS",
-      "market_income": 954915,
-      "market_sales": 1095,
+      "market_income": 975378,
+      "market_sales": 1131,
       "name": "RaptorSVK",
-      "vehicle_driver_entries": 57,
+      "vehicle_driver_entries": 58,
       "vehicle_passenger_entries": 19,
       "vehicle_trip_straightline_m": 92319.8,
-      "vehicle_trips": 57,
+      "vehicle_trips": 58,
       "weapons": {
         "CR-527": 35,
         "M110 SASS": 166,
-        "M110 SASS TAN": 30,
+        "M110 SASS TAN": 32,
         "M16A4E": 18,
         "M4A1 CARBINE CQR": 3
       },
@@ -33830,11 +33834,11 @@
       "ids": [
         "PNXges7QkFiX-x7zvnYTTiWEFpRftwx1t-yCu_fCtfg="
       ],
-      "last_seen": "2026-11-26T23:14:44.816",
+      "last_seen": "2026-11-27T01:31:06.367",
       "longest_ai_kill_m": 797,
       "longest_ai_kill_weapon": "M70 Tundra",
-      "market_income": 251568,
-      "market_sales": 31,
+      "market_income": 256153,
+      "market_sales": 36,
       "name": "Apum",
       "vehicle_driver_entries": 2,
       "vehicle_passenger_entries": 0,
